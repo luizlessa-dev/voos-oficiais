@@ -27,9 +27,11 @@ from datetime import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SNAPSHOTS = ROOT / "dados" / "snapshots"
-ANALISES = ROOT / "dados" / "analises"
+SNAPSHOTS  = ROOT / "dados" / "snapshots"
+ANALISES   = ROOT / "dados" / "analises"
+NEWSLETTER = ROOT / "dados" / "newsletter"
 ANALISES.mkdir(parents=True, exist_ok=True)
+NEWSLETTER.mkdir(parents=True, exist_ok=True)
 
 DIAS_PT = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"]
 DIA_CURTO = ["seg", "ter", "qua", "qui", "sex", "SÁB", "DOM"]
@@ -235,6 +237,112 @@ def secao_concentracao(voos: list[dict]) -> list[str]:
     return lines + [""]
 
 
+MESES_NOME = ["", "Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho",
+              "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"]
+
+
+def gerar_newsletter(voos: list[dict], ano: int, mes: int) -> Path:
+    """Rascunho editorial pronto para colar no Beehiiv. Uso interno — não publicado."""
+    fds  = [v for v in voos if v["decolagem"].weekday() >= 5]
+    notu = [v for v in voos if v["decolagem"].hour >= 22 or v["decolagem"].hour < 5]
+
+    bucket: dict[tuple, list] = defaultdict(list)
+    for v in voos:
+        bucket[(v["autoridade"], v["decolagem"].strftime("%Y-%m-%d"))].append(v)
+    seqs = [(k, vs) for k, vs in bucket.items() if len(vs) >= 3]
+
+    top3 = Counter(v["autoridade"] for v in voos).most_common(3)
+
+    mes_ext = MESES_NOME[mes]
+    titulo  = f"Radar FAB — {mes_ext} {ano}"
+
+    lines = [
+        f"# {titulo}",
+        "",
+        f"> **Edição {mes_ext} {ano}** · {len(voos)} voos registrados · "
+        f"Fonte: GABAER/COMAER · Decreto 10.267/2020",
+        "",
+        "---",
+        "",
+        "## ✏️ Lead (preencher manualmente)",
+        "",
+        "_[2–3 frases contextualizando o mês: algum evento político relevante, "
+        "agenda presidencial, crise ministerial? Cole aqui antes de enviar.]_",
+        "",
+        "---",
+        "",
+        "## Os números do mês",
+        "",
+        f"- **{len(voos)} voos** de autoridades em aeronaves da FAB",
+        f"- **{len(fds)} voos em fim de semana** ({len(fds)/len(voos)*100:.0f}% do total)",
+        f"- **{len(notu)} voos noturnos** (decolagem entre 22h e 5h)",
+        f"- **{len(seqs)} sequências** de 3+ pernas no mesmo dia",
+        "",
+        "### Quem mais voou",
+        "",
+    ]
+
+    for i, (aut, n) in enumerate(top3, 1):
+        lines.append(f"{i}. **{aut}** — {n} voos")
+    lines.append("")
+
+    # Destaque editorial: fim de semana
+    if fds:
+        lines += [
+            "---",
+            "",
+            "## Destaque: voos de fim de semana",
+            "",
+            "_Os voos abaixo ocorreram em sábados ou domingos. "
+            "Verifique se coincidem com eventos políticos ou agendas públicas declaradas._",
+            "",
+            "| Data | Autoridade | Rota | Motivo |",
+            "|---|---|---|---|",
+        ]
+        for v in sorted(fds, key=lambda v: v["decolagem"])[:10]:
+            dia = DIA_CURTO[v["decolagem"].weekday()]
+            lines.append(
+                f"| {dia} {fmt_dt(v['decolagem'])} | {v['autoridade']} "
+                f"| {v['origem']} → {v['destino']} | {v['motivo']} |"
+            )
+        if len(fds) > 10:
+            lines.append(f"_... e mais {len(fds) - 10} voos. Ver análise completa._")
+        lines.append("")
+
+    # Destaque editorial: sequências
+    if seqs:
+        seqs.sort(key=lambda kv: (-len(kv[1]), kv[0]))
+        lines += [
+            "---",
+            "",
+            f"## Destaque: tours em um dia ({len(seqs)} ocorrências)",
+            "",
+            "_Sequências de 3+ pernas no mesmo dia podem indicar "
+            "campanha política disfarçada de agenda oficial._",
+            "",
+        ]
+        for (autor, dia), vs in seqs[:3]:
+            vs = sorted(vs, key=lambda v: v["decolagem"])
+            lines.append(f"**{autor} — {dia}**")
+            for v in vs:
+                lines.append(
+                    f"- {fmt_dt(v['decolagem'])}  {v['origem']} → {v['destino']}"
+                )
+            lines.append("")
+
+    lines += [
+        "---",
+        "",
+        f"_Radar FAB · radar.transparenciafederal.com · "
+        f"Dados: GABAER/COMAER · gerado em {datetime.now().strftime('%Y-%m-%d')}_",
+    ]
+
+    out = NEWSLETTER / f"{ano:04d}-{mes:02d}.md"
+    out.write_text("\n".join(lines), encoding="utf-8")
+    print(f"  → {out.relative_to(ROOT)} (newsletter)", file=sys.stderr)
+    return out
+
+
 def gerar_analise(csv_path: Path) -> Path:
     nome = csv_path.stem  # voos_2026_04
     _, ano_s, mes_s = nome.split("_")
@@ -268,6 +376,7 @@ def gerar_analise(csv_path: Path) -> Path:
 
     out.write_text("\n".join(lines), encoding="utf-8")
     print(f"  → {out.relative_to(ROOT)}", file=sys.stderr)
+    gerar_newsletter(voos, ano, mes)
     return out
 
 
