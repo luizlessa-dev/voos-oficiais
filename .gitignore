@@ -1,0 +1,19 @@
+# venv
+.venv/
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+
+# Exploratórios descartados (Cloudflare Turnstile)
+explorar_fab.py
+explorar_fab_stealth.py
+
+# Cache/temporários do exploratório
+dados/fab_voos*
+dados/fab_requests.json
+resultados/
+
+# Outputs locais de debug
+*.log

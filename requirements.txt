@@ -1,0 +1,2 @@
+# PoC usa apenas stdlib (urllib, json, datetime).
+# Não há dependências externas — Python 3.8+ basta.

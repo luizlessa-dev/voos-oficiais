@@ -1,0 +1,117 @@
+name: gabaer-watch
+
+# Verifica diariamente se há CSV novo no repo FABdadosabertos/GABAER.
+# Se houver, baixa, gera análise mensal e abre uma issue com sumário.
+# Tudo commitado automaticamente para deixar trilha de versão.
+
+on:
+  schedule:
+    # 09:00 UTC = 06:00 BRT — antes do horário comercial brasileiro
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+    inputs:
+      forcar:
+        description: "Re-baixar todos os CSVs (--force)"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write   # pra commitar análise nova
+  issues: write     # pra abrir issue de alerta
+
+concurrency:
+  group: gabaer-watch
+  cancel-in-progress: false
+
+jobs:
+  check-and-analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Sem dependências externas — só stdlib.
+      # Exit 10 = sucesso com novos, 0 = sucesso sem novos, 1 = erro.
+      # Desabilita set -e neste step pra não abortar no exit 10.
+      - name: Ingestão GABAER
+        id: ingestao
+        shell: bash {0}
+        run: |
+          if [ "${{ github.event.inputs.forcar }}" = "true" ]; then
+            python ingestao/ingestao_gabaer.py --force > /tmp/ingestao.json
+          else
+            python ingestao/ingestao_gabaer.py > /tmp/ingestao.json
+          fi
+          INGEST_EXIT=$?
+          echo "exit_ingest=$INGEST_EXIT" >> $GITHUB_OUTPUT
+          cat /tmp/ingestao.json
+          if [ "$INGEST_EXIT" != "0" ] && [ "$INGEST_EXIT" != "10" ]; then
+            echo "::error::ingestao falhou (exit $INGEST_EXIT)"
+            exit "$INGEST_EXIT"
+          fi
+          # Extrai lista de arquivos novos
+          python - <<'PY' >> $GITHUB_OUTPUT
+          import json, pathlib
+          d = json.loads(pathlib.Path('/tmp/ingestao.json').read_text())
+          novos = d.get('novos', [])
+          arquivos = [n['arquivo'] for n in novos]
+          print(f"tem_novos={'true' if novos else 'false'}")
+          print(f"qtd_novos={len(novos)}")
+          print(f"arquivos_lista={','.join(arquivos)}")
+          PY
+
+      - name: Gerar análise dos CSVs novos
+        if: steps.ingestao.outputs.tem_novos == 'true'
+        run: |
+          IFS=',' read -ra ARQS <<< "${{ steps.ingestao.outputs.arquivos_lista }}"
+          for a in "${ARQS[@]}"; do
+            echo "Analisando $a..."
+            python analise/analisar_mes.py "dados/snapshots/$a"
+          done
+
+      - name: Commitar mudanças
+        if: steps.ingestao.outputs.tem_novos == 'true'
+        run: |
+          git config user.name  "gabaer-watch[bot]"
+          git config user.email "gabaer-watch@users.noreply.github.com"
+          git add dados/snapshots dados/analises
+          if git diff --cached --quiet; then
+            echo "Nada pra commitar (estado idêntico)."
+          else
+            data=$(date -u +"%Y-%m-%d")
+            git commit -m "gabaer: ingestão automática ${data} (${{ steps.ingestao.outputs.qtd_novos }} CSV novos/atualizados)"
+            git push
+          fi
+
+      - name: Abrir issue com sumário
+        if: steps.ingestao.outputs.tem_novos == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Constrói corpo da issue listando o que mudou + link pras análises
+          IFS=',' read -ra ARQS <<< "${{ steps.ingestao.outputs.arquivos_lista }}"
+          {
+            echo "## Novo dado GABAER disponível"
+            echo ""
+            echo "Data da checagem: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            echo ""
+            echo "### Arquivos novos/atualizados:"
+            for a in "${ARQS[@]}"; do
+              base="${a%.csv}"           # voos_2026_05
+              mes_ano="${base#voos_}"    # 2026_05
+              ano="${mes_ano%_*}"
+              mes="${mes_ano#*_}"
+              echo "- \`$a\` → análise em \`dados/analises/${ano}-${mes}.md\`"
+            done
+            echo ""
+            echo "### Próximo passo manual"
+            echo "Abrir as análises, identificar pautas, redigir edição da newsletter."
+          } > /tmp/issue_body.md
+          gh issue create \
+            --title "GABAER — ${{ steps.ingestao.outputs.qtd_novos }} novo(s) CSV em $(date -u +'%Y-%m-%d')" \
+            --body-file /tmp/issue_body.md
