@@ -19,6 +19,9 @@ permissions:
   contents: write   # pra commitar análise nova
   issues: write     # pra abrir issue de alerta
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # silencia aviso de deprecação Node 20
+
 concurrency:
   group: gabaer-watch
   cancel-in-progress: false
