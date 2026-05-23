@@ -1,0 +1,164 @@
+{
+  "_meta": {
+    "descricao": "Mapeamento de cargo (conforme aparece nos CSVs GABAER) para nome real e período de exercício.",
+    "cobertura": "jan/2020–mai/2026",
+    "atualizado": "2026-05-23",
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Lista_de_membros_do_gabinete_de_Lula_(2023%E2%80%93presente)",
+      "https://pt.wikipedia.org/wiki/Lista_de_membros_do_gabinete_de_Jair_Bolsonaro",
+      "https://agenciabrasil.ebc.com.br/",
+      "https://www.stf.jus.br/"
+    ]
+  },
+
+  "Presidente da República": [
+    {"nome": "Jair Messias Bolsonaro", "inicio": "2019-01-01", "fim": "2022-12-31", "partido": "PL"},
+    {"nome": "Luiz Inácio Lula da Silva", "inicio": "2023-01-01", "fim": "atual", "partido": "PT"}
+  ],
+
+  "Presidente da Câmara dos Deputados": [
+    {"nome": "Rodrigo Maia", "inicio": "2016-07-14", "fim": "2021-01-31", "partido": "DEM"},
+    {"nome": "Arthur Lira", "inicio": "2021-02-01", "fim": "2025-01-31", "partido": "PP"},
+    {"nome": "Hugo Motta", "inicio": "2025-02-01", "fim": "atual", "partido": "Republicanos"}
+  ],
+
+  "Presidente do Congresso Nacional": [
+    {"nome": "Davi Alcolumbre", "inicio": "2019-02-02", "fim": "2021-01-31", "partido": "DEM", "nota": "= Presidente do Senado Federal"},
+    {"nome": "Rodrigo Pacheco", "inicio": "2021-02-01", "fim": "2025-01-31", "partido": "PSD"},
+    {"nome": "Davi Alcolumbre", "inicio": "2025-02-01", "fim": "atual", "partido": "União Brasil"}
+  ],
+
+  "Presidente do Supremo Tribunal Federal": [
+    {"nome": "Dias Toffoli", "inicio": "2018-09-06", "fim": "2020-09-09"},
+    {"nome": "Luiz Fux", "inicio": "2020-09-10", "fim": "2022-09-11"},
+    {"nome": "Rosa Weber", "inicio": "2022-09-12", "fim": "2023-09-27", "nota": "aposentou-se compulsoriamente em out/2023"},
+    {"nome": "Luís Roberto Barroso", "inicio": "2023-09-28", "fim": "2025-09-28"},
+    {"nome": "Edson Fachin", "inicio": "2025-09-29", "fim": "atual"}
+  ],
+
+  "Ministro da Saúde": [
+    {"nome": "Luiz Henrique Mandetta", "inicio": "2019-01-01", "fim": "2020-04-16"},
+    {"nome": "Nelson Teich", "inicio": "2020-04-17", "fim": "2020-05-15"},
+    {"nome": "Eduardo Pazuello", "inicio": "2020-05-16", "fim": "2021-03-22", "nota": "interino de mai-set/2020, efetivado set/2020"},
+    {"nome": "Marcelo Queiroga", "inicio": "2021-03-23", "fim": "2022-12-31"},
+    {"nome": "Nísia Trindade Lima", "inicio": "2023-01-01", "fim": "2025-03-09"},
+    {"nome": "Alexandre Padilha", "inicio": "2025-03-10", "fim": "atual"}
+  ],
+
+  "Ministro da Educação": [
+    {"nome": "Ricardo Vélez Rodríguez", "inicio": "2019-01-01", "fim": "2019-04-07"},
+    {"nome": "Abraham Weintraub", "inicio": "2019-04-08", "fim": "2020-06-19"},
+    {"nome": "Milton Ribeiro", "inicio": "2020-07-16", "fim": "2022-03-28"},
+    {"nome": "Victor Godoy Veiga", "inicio": "2022-03-29", "fim": "2022-12-31", "nota": "interino até abr, efetivado depois"},
+    {"nome": "Camilo Santana", "inicio": "2023-01-02", "fim": "2026-03-31"},
+    {"nome": "Leonardo Barchini", "inicio": "2026-04-02", "fim": "atual"}
+  ],
+
+  "Ministro da Defesa": [
+    {"nome": "Fernando Azevedo e Silva", "inicio": "2019-01-01", "fim": "2021-03-29"},
+    {"nome": "Walter Braga Netto", "inicio": "2021-03-30", "fim": "2022-03-31"},
+    {"nome": "Paulo Sérgio Nogueira de Oliveira", "inicio": "2022-04-01", "fim": "2022-12-31"},
+    {"nome": "José Múcio Monteiro", "inicio": "2023-01-01", "fim": "atual"}
+  ],
+
+  "Ministro da Fazenda": [
+    {"nome": "Paulo Guedes", "inicio": "2019-01-01", "fim": "2022-12-31", "nota": "cargo chamado 'Ministro da Economia' em 2019-2022"},
+    {"nome": "Fernando Haddad", "inicio": "2023-01-01", "fim": "2026-03-18"},
+    {"nome": "Dario Durigan", "inicio": "2026-03-19", "fim": "atual", "nota": "interino"}
+  ],
+
+  "Ministro da Economia": [
+    {"nome": "Paulo Guedes", "inicio": "2019-01-01", "fim": "2022-12-31", "nota": "pasta fundiu Fazenda + Planejamento + Indústria; rebatizada em 2023"}
+  ],
+
+  "Ministro dos Transportes": [
+    {"nome": "Tarcísio Gomes de Freitas", "inicio": "2019-01-01", "fim": "2022-03-31", "nota": "pasta chamada 'Infraestrutura' em 2019-2022"},
+    {"nome": "Marcelo Sampaio", "inicio": "2022-04-01", "fim": "2022-12-31", "nota": "interino/titular após saída de Tarcísio para candidatura em SP"},
+    {"nome": "Renan Filho", "inicio": "2023-01-01", "fim": "2026-03-31"},
+    {"nome": "George Santoro", "inicio": "2026-04-01", "fim": "atual"}
+  ],
+
+  "Ministro da Infraestrutura": [
+    {"nome": "Tarcísio Gomes de Freitas", "inicio": "2019-01-01", "fim": "2022-03-31"},
+    {"nome": "Marcelo Sampaio", "inicio": "2022-04-01", "fim": "2022-12-31"}
+  ],
+
+  "Ministro de Portos e Aeroportos": [
+    {"nome": "Márcio França", "inicio": "2023-01-01", "fim": "2023-09-12", "nota": "pasta recriada por Lula em jan/2023"},
+    {"nome": "Silvio Costa Filho", "inicio": "2023-09-13", "fim": "2026-03-31", "nota": "saiu para candidatura ao Senado por PE"},
+    {"nome": "Tomé Barros Monteiro da Franca", "inicio": "2026-04-01", "fim": "atual"}
+  ],
+
+  "Ministro da Justiça e Segurança Pública": [
+    {"nome": "Sérgio Moro", "inicio": "2019-01-01", "fim": "2020-04-24"},
+    {"nome": "André Mendonça", "inicio": "2020-04-27", "fim": "2021-06-28", "nota": "interino/efetivado"},
+    {"nome": "Anderson Torres", "inicio": "2021-06-29", "fim": "2022-12-31"},
+    {"nome": "Flávio Dino", "inicio": "2023-01-01", "fim": "2024-01-31", "nota": "saiu para o STF"},
+    {"nome": "Ricardo Lewandowski", "inicio": "2024-02-01", "fim": "2026-01-12"},
+    {"nome": "Wellington César Lima e Silva", "inicio": "2026-01-13", "fim": "atual"}
+  ],
+
+  "Ministro das Relações Exteriores": [
+    {"nome": "Ernesto Araújo", "inicio": "2019-01-01", "fim": "2021-03-29"},
+    {"nome": "Carlos França", "inicio": "2021-03-30", "fim": "2022-12-31"},
+    {"nome": "Mauro Vieira", "inicio": "2023-01-01", "fim": "atual"}
+  ],
+
+  "Ministro Integração do Desenvolvimento Regional": [
+    {"nome": "Rogério Marinho", "inicio": "2019-01-01", "fim": "2022-12-31", "nota": "pasta chamada 'Desenvolvimento Regional' em 2019-2022"},
+    {"nome": "Waldez Góes", "inicio": "2023-01-01", "fim": "atual"}
+  ],
+
+  "Ministro do Desenvolvimento Regional": [
+    {"nome": "Gustavo Canuto", "inicio": "2019-01-01", "fim": "2020-02-06"},
+    {"nome": "Rogério Marinho", "inicio": "2020-02-07", "fim": "2022-12-31"}
+  ],
+
+  "Ministro das Comunicações": [
+    {"nome": "Fábio Faria", "inicio": "2020-06-17", "fim": "2022-12-31", "nota": "pasta recriada em jun/2020 (antes era MCTIC)"},
+    {"nome": "Juscelino Kubitschek Filho", "inicio": "2023-01-01", "fim": "2025-04-09"},
+    {"nome": "Frederico Siqueira", "inicio": "2025-04-24", "fim": "atual"}
+  ],
+
+  "Secretário da Comunicação Social da Presidência da República": [
+    {"nome": "Fábio Wajngarten", "inicio": "2019-04-01", "fim": "2021-03-11"},
+    {"nome": "André Costa", "inicio": "2021-04-16", "fim": "2022-12-31"},
+    {"nome": "Paulo Pimenta", "inicio": "2023-01-01", "fim": "2025-01-08"},
+    {"nome": "Sidônio Palmeira", "inicio": "2025-01-07", "fim": "atual"}
+  ],
+
+  "Ministro das Cidades": [
+    {"nome": "(pasta extinta 2019–2022)", "inicio": "2019-01-01", "fim": "2022-12-31", "nota": "atribuições no Ministério do Desenvolvimento Regional"},
+    {"nome": "Jader Barbalho Filho", "inicio": "2023-01-01", "fim": "2026-04-01"},
+    {"nome": "Vladimir Lima", "inicio": "2026-04-02", "fim": "atual"}
+  ],
+
+  "Ministro do Trabalho e Emprego": [
+    {"nome": "(pasta extinta 2019–2022)", "inicio": "2019-01-01", "fim": "2022-12-31", "nota": "atribuições distribuídas entre Economia, Justiça e Cidadania"},
+    {"nome": "Luiz Marinho", "inicio": "2023-01-01", "fim": "atual"}
+  ],
+
+  "Ministro do Turismo": [
+    {"nome": "Marcelo Álvaro Antônio", "inicio": "2019-01-01", "fim": "2021-04-08"},
+    {"nome": "Gilson Machado", "inicio": "2021-04-09", "fim": "2022-12-31"},
+    {"nome": "Celso Sabino", "inicio": "2023-01-01", "fim": "atual"}
+  ],
+
+  "Comandante do Exército": [
+    {"nome": "Edson Leal Pujol", "inicio": "2019-01-03", "fim": "2021-03-29"},
+    {"nome": "Paulo Sérgio Nogueira de Oliveira", "inicio": "2021-03-30", "fim": "2022-12-31"},
+    {"nome": "Tomás Paiva", "inicio": "2023-01-01", "fim": "atual"}
+  ],
+
+  "Comandante da Marinha": [
+    {"nome": "Ilques Barbosa Junior", "inicio": "2019-01-03", "fim": "2022-03-31"},
+    {"nome": "Almir Garnier Santos", "inicio": "2022-04-01", "fim": "2022-12-31"},
+    {"nome": "Marcos Sampaio Olsen", "inicio": "2023-01-01", "fim": "atual"}
+  ],
+
+  "Comandante da Aeronáutica": [
+    {"nome": "Antonio Carlos Moretti Bermudez", "inicio": "2019-01-03", "fim": "2021-03-29"},
+    {"nome": "Carlos de Almeida Baptista Junior", "inicio": "2021-03-30", "fim": "2022-12-31"},
+    {"nome": "Marcelo Kanitz Damasceno", "inicio": "2023-01-01", "fim": "atual"}
+  ]
+}

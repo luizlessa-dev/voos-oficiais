@@ -1,0 +1,117 @@
+{
+  "_meta": {
+    "descricao": "Custo estimado por hora de voo das aeronaves da frota VIP/transporte de autoridades da FAB.",
+    "atualizado": "2026-05-23",
+    "aviso": "A FAB não divulga custo operacional por modelo de aeronave. Os valores abaixo são estimativas de mercado, salvo onde indicado 'dado oficial'. Para uso jornalístico, citar sempre o acórdão TCU TC 008.687/2024-2 como referência base.",
+    "referencia_tcu": {
+      "processo": "TC 008.687/2024-2",
+      "orgao": "Tribunal de Contas da União — Plenário",
+      "publicacao": "2026-04-15",
+      "custo_total_R$": 285200000,
+      "total_missoes": 7491,
+      "periodo_auditado": "2020-03 a 2024-07",
+      "custo_medio_por_missao_R$": 38100,
+      "voos_1_passageiro": 111,
+      "custo_extra_1_passageiro_R$": 81600000,
+      "custo_por_passageiro_vs_comercial": "6.4x maior",
+      "url": "https://pesquisa.apps.tcu.gov.br/pesquisa/acordao-completo",
+      "nota": "Custo médio calculado sobre todos os modelos sem abertura por tipo de aeronave."
+    }
+  },
+
+  "aeronaves": [
+    {
+      "designacao_fab": "VC-1",
+      "modelo": "Airbus ACJ319 (A319CJ)",
+      "matriculas": ["FAB2101"],
+      "uso": "Presidência da República — aeronave presidencial",
+      "custo_hora_R$": {
+        "estimativa_min": 35000,
+        "estimativa_max": 50000,
+        "ano_referencia": 2024,
+        "confianca": "baixa",
+        "metodo": "USD 7.000–13.000/h (Aircraft Cost Calculator, Conklin & de Decker 2022-23) × R$ 5,50",
+        "fonte": "https://www.aircraftcostcalculator.com/AircraftOperatingCosts/698/Airbus+ACJ319neo"
+      }
+    },
+    {
+      "designacao_fab": "VC-2",
+      "modelo": "Embraer ERJ-190",
+      "matriculas": ["FAB2590", "FAB2591"],
+      "uso": "VIP secundário — ministros e presidentes de poder",
+      "custo_hora_R$": {
+        "estimativa_min": 16000,
+        "estimativa_max": 27000,
+        "ano_referencia": 2023,
+        "confianca": "média",
+        "metodo": "Custo operacional de propriedade USD 3.000–5.000/h × R$ 5,00–5,50",
+        "fonte": "Paramount Business Jets, Aircraft Cost Calculator"
+      }
+    },
+    {
+      "designacao_fab": "VC-99C",
+      "modelo": "Embraer Legacy 600",
+      "matriculas": ["FAB2580", "FAB2581", "FAB2582", "FAB2583", "FAB2584", "FAB2585"],
+      "uso": "Jato executivo — ministros, presidentes de tribunal, congressistas",
+      "custo_hora_R$": {
+        "estimativa_min": 25000,
+        "estimativa_max": 43000,
+        "ano_referencia": 2024,
+        "confianca": "média",
+        "metodo": "USD 5.000–5.643/h operacional (Aircraft Cost Calculator) × R$ 5,00–5,50; referência indireta TCU: R$ 320k num voo VC-99C (~10h implícito)",
+        "fonte": "https://www.aircraftcostcalculator.com/AircraftOperatingCosts/180/Embraer+Legacy+600"
+      }
+    },
+    {
+      "designacao_fab": "KC-30",
+      "modelo": "Airbus A330-200",
+      "matriculas": ["FAB2902", "FAB2903"],
+      "uso": "Reabastecimento aéreo e transporte estratégico; usado em viagens presidenciais longas",
+      "custo_hora_R$": {
+        "estimativa_min": 20000,
+        "estimativa_max": 23000,
+        "ano_referencia": 2019,
+        "confianca": "alta",
+        "metodo": "Dado publicado (Aeroin.net, 2019) — único modelo com referência próxima a dado oficial FAB",
+        "nota": "Valor de 2019; corrigido pela inflação (IPCA acumulado ~65%) estaria em ~R$ 33–38k/h em 2024",
+        "fonte": "https://aeroin.net/novo-airbus-a330-da-fab-sera-o-kc-30-e-hora-de-voo-custara-ate-r23-mil/"
+      }
+    },
+    {
+      "designacao_fab": "U-100",
+      "modelo": "Embraer Phenom 100EV",
+      "matriculas": [],
+      "uso": "Treinamento e ligação; uso ocasional em transporte de autoridades",
+      "custo_hora_R$": {
+        "estimativa_min": 8000,
+        "estimativa_max": 12000,
+        "ano_referencia": 2023,
+        "confianca": "baixa",
+        "metodo": "USD 1.000–1.300/h operacional civil × R$ 5,50; charter leve BR: R$ 8–20k/h",
+        "fonte": "CNN Brasil / Embarque Oficial"
+      }
+    },
+    {
+      "designacao_fab": "VH-36",
+      "modelo": "Airbus Helicopters EC725 Caracal (H225M)",
+      "matriculas": [],
+      "uso": "Transporte presidencial em curta distância (Palácio → aeroporto etc.)",
+      "custo_hora_R$": {
+        "estimativa_min": 15000,
+        "estimativa_max": 25000,
+        "ano_referencia": 2023,
+        "confianca": "baixa",
+        "metodo": "Helicóptero executivo pesado BR: R$ 10–15k/h (Onfly); EC725 é porte superior",
+        "fonte": "https://onfly.com.br"
+      }
+    }
+  ],
+
+  "referencia_rapida": {
+    "nota": "Para cálculo de custo de voo específico quando o modelo é desconhecido, usar o custo médio TCU por missão.",
+    "custo_medio_missao_R$": 38100,
+    "custo_legacy_midpoint_R$h": 34000,
+    "custo_vc2_midpoint_R$h": 21500,
+    "como_estimar_voo": "distancia_km / velocidade_cruzeiro_kmh * custo_hora + taxi_solo_h * custo_hora"
+  }
+}

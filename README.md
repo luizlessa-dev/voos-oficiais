@@ -68,14 +68,17 @@ python analise/analisar_mes.py dados/snapshots/voos_2026_04.csv
 ```
 voos-oficiais-poc/
 ├── ingestao/
-│   └── ingestao_gabaer.py        # fetch + diff de CSV via API GitHub
+│   └── ingestao_gabaer.py        # fetch + diff (mensais e anuais) via API GitHub
 ├── analise/
-│   └── analisar_mes.py           # CSV → markdown com sinais jornalísticos
+│   ├── analisar_mes.py           # CSV mensal → markdown com sinais jornalísticos
+│   └── analisar_historico.py     # agrega 2020–hoje, comparativo por governo
 ├── lai/
 │   └── pedido_lai_comaer.md      # texto pronto pro Fala.BR (caminho C)
 ├── dados/
-│   ├── snapshots/                # CSVs originais + INDEX.json com hashes
-│   └── analises/                 # AAAA-MM.md geradas (1 por mês)
+│   ├── snapshots/                # CSVs originais (mensais + anuais) + INDEX.json
+│   ├── analises/                 # AAAA-MM.md mensais + historico.md
+│   ├── lookup_autoridades.json   # cargo → nome real → período (2020–2026)
+│   └── custo_aeronaves.json      # custo/hora estimado por modelo + referência TCU
 ├── .github/workflows/
 │   └── gabaer-watch.yml          # cron diário 09h UTC, abre issue se mudou
 ├── aeronaves.py                  # legado OpenSky — frota oficial mapeada
@@ -99,14 +102,16 @@ Pra cada CSV mensal, gera markdown com:
 
 Exemplo: [`dados/analises/2026-04.md`](dados/analises/2026-04.md).
 
-## Pendências antes de ligar o cron
+## Estado atual (mai/2026)
 
-- [ ] `gh repo create` (público, recomendado — Actions ilimitado)
-- [ ] Push inicial
-- [ ] Habilitar GitHub Actions no repo (Settings → Actions)
-- [ ] Rodar workflow manualmente (`workflow_dispatch`) pra validar
-- [ ] Enviar a LAI pelo Fala.BR (revisar CPF + nº do acórdão TCU)
-- [ ] Decidir: este projeto é repo próprio ou módulo do `transparencia-v3`?
+- [x] Repo criado: https://github.com/luizlessa-dev/voos-oficiais
+- [x] GitHub Actions configurado e validado (`workflow_dispatch` rodou com sucesso)
+- [x] Histórico 2020–abr/2026 ingerido: **10.012 voos**
+- [x] Análises mensais (jan–abr/2026) e histórica geradas
+- [x] Lookup de autoridades (cargo → nome → período)
+- [x] Referência de custo por hora + dados TCU
+- [ ] Enviar a LAI pelo Fala.BR (preencher CPF + nº acórdão TCU TC 008.687/2024-2)
+- [ ] Decidir: repo próprio ou módulo do `transparencia-v3`?
 
 ## Decisões registradas
 
