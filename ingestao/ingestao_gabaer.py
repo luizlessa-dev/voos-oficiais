@@ -44,6 +44,11 @@ PADRAO_MENSAL = re.compile(
     r"DECRETO\s*N[º°]\s*10\.267\s*-\s*([A-ZÇÃÉÊÍÓÔÚÂ]+)\s*DE\s*(\d{4})",
     re.IGNORECASE,
 )
+# CSVs anuais consolidados: "... - ANO DE 2021.csv"
+PADRAO_ANUAL = re.compile(
+    r"DECRETO\s*N[º°]\s*10\.267\s*-\s*ANO\s*DE\s*(\d{4})",
+    re.IGNORECASE,
+)
 
 ROOT = Path(__file__).resolve().parent.parent
 SNAPSHOTS = ROOT / "dados" / "snapshots"
@@ -69,6 +74,7 @@ def listar_pasta() -> list[dict]:
 
 
 def parse_mes_ano(filename: str) -> Optional[tuple[int, int]]:
+    """Retorna (ano, mes) para CSVs mensais, None caso contrário."""
     m = PADRAO_MENSAL.search(filename.upper())
     if not m:
         return None
@@ -76,6 +82,12 @@ def parse_mes_ano(filename: str) -> Optional[tuple[int, int]]:
     if not mes:
         return None
     return (int(m.group(2)), mes)
+
+
+def parse_anual(filename: str) -> Optional[int]:
+    """Retorna o ano para CSVs anuais consolidados (ANO DE XXXX)."""
+    m = PADRAO_ANUAL.search(filename.upper())
+    return int(m.group(1)) if m else None
 
 
 def carregar_index() -> dict:
@@ -122,27 +134,83 @@ def main() -> int:
         print(f"ERRO ao listar pasta: {e}", file=sys.stderr)
         return 1
 
+    # Separa mensais e anuais
     csvs_mensais = []
+    csvs_anuais = []
     for it in itens:
         if it.get("type") != "file" or not it["name"].lower().endswith(".csv"):
             continue
         ma = parse_mes_ano(it["name"])
-        if ma is None:
-            continue  # ignora anuais consolidados (ANO DE 202X)
-        csvs_mensais.append((ma, it))
+        if ma is not None:
+            csvs_mensais.append((ma, it))
+            continue
+        ano = parse_anual(it["name"])
+        if ano is not None:
+            csvs_anuais.append((ano, it))
 
     csvs_mensais.sort(key=lambda x: x[0])
-    if not csvs_mensais:
-        print("Nenhum CSV mensal encontrado.", file=sys.stderr)
+    csvs_anuais.sort(key=lambda x: x[0])
+
+    if not csvs_mensais and not csvs_anuais:
+        print("Nenhum CSV encontrado.", file=sys.stderr)
         return 1
 
     idx = carregar_index()
     novos = []
 
+    # ── anuais ────────────────────────────────────────────────
+    for ano, item in csvs_anuais:
+        nome_alvo = f"voos_{ano:04d}_anual.csv"
+        path_alvo = SNAPSHOTS / nome_alvo
+        sha_remoto = item.get("sha")
+        registrado = idx["arquivos"].get(nome_alvo, {})
+
+        precisa_baixar = (
+            args.force
+            or not path_alvo.exists()
+            or registrado.get("blob_sha") != sha_remoto
+        )
+        if not precisa_baixar:
+            continue
+        if args.dry_run:
+            novos.append({"arquivo": nome_alvo, "motivo": "mudou ou novo"})
+            continue
+
+        print(f"  baixando {nome_alvo}...", file=sys.stderr)
+        try:
+            data = baixar_csv(item)
+        except Exception as e:
+            print(f"  ERRO ao baixar {nome_alvo}: {e}", file=sys.stderr)
+            continue
+
+        sha256 = sha256_bytes(data)
+        old_sha256 = registrado.get("sha256")
+        path_alvo.write_bytes(data)
+        idx["arquivos"][nome_alvo] = {
+            "blob_sha": sha_remoto,
+            "sha256": sha256,
+            "tamanho": len(data),
+            "ano": ano,
+            "mes": None,
+            "tipo": "anual",
+            "fonte": item.get("html_url"),
+        }
+        novos.append({
+            "arquivo": nome_alvo,
+            "ano": ano,
+            "mes": None,
+            "tipo": "anual",
+            "tamanho": len(data),
+            "primeira_vez": old_sha256 is None,
+            "sha256": sha256,
+            "sha256_anterior": old_sha256,
+        })
+
+    # ── mensais ───────────────────────────────────────────────
     for (ano, mes), item in csvs_mensais:
         nome_alvo = f"voos_{ano:04d}_{mes:02d}.csv"
         path_alvo = SNAPSHOTS / nome_alvo
-        sha_remoto = item.get("sha")  # sha de blob git (não bate com sha256 do conteúdo)
+        sha_remoto = item.get("sha")
         registrado = idx["arquivos"].get(nome_alvo, {})
 
         precisa_baixar = (
@@ -174,12 +242,14 @@ def main() -> int:
             "tamanho": len(data),
             "ano": ano,
             "mes": mes,
+            "tipo": "mensal",
             "fonte": item.get("html_url"),
         }
         novos.append({
             "arquivo": nome_alvo,
             "ano": ano,
             "mes": mes,
+            "tipo": "mensal",
             "tamanho": len(data),
             "primeira_vez": old_sha256 is None,
             "sha256": sha256,
