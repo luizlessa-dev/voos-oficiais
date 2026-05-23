@@ -1,4 +1,4 @@
-name: gabaer-watch
+name: Radar FAB — gabaer-watch
 
 # Verifica diariamente se há CSV novo no repo FABdadosabertos/GABAER.
 # Se houver, baixa, gera análise mensal e abre uma issue com sumário.
@@ -116,5 +116,5 @@ jobs:
             echo "Abrir as análises, identificar pautas, redigir edição da newsletter."
           } > /tmp/issue_body.md
           gh issue create \
-            --title "GABAER — ${{ steps.ingestao.outputs.qtd_novos }} novo(s) CSV em $(date -u +'%Y-%m-%d')" \
+            --title "Radar FAB — ${{ steps.ingestao.outputs.qtd_novos }} novo(s) CSV em $(date -u +'%Y-%m-%d')" \
             --body-file /tmp/issue_body.md

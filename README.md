@@ -1,8 +1,10 @@
-# voos-oficiais-poc
+# Radar FAB
 
-Prova de conceito de produto jornalístico irmão do **Transparência Federal**: monitorar voos de autoridades em aeronaves da Força Aérea Brasileira (FAB), com publicação serial e base aberta.
+Produto jornalístico do ecossistema **Transparência Federal** — monitoramento serial de voos de autoridades em aeronaves da Força Aérea Brasileira, com base de dados aberta e publicação mensal.
 
-> **Estado em 2026-05-22:** PoC virou esqueleto operacional. Dados de jan-abr/2026 ingeridos do GABAER, análise automática rodando, workflow GitHub Actions pronto pra cron diário, pedido LAI redigido. Falta: criar repo remoto, conectar Actions, enviar a LAI, esboçar edição zero pública.
+**URL pública:** `radar.transparenciafederal.org` (em construção)
+
+> **Estado em 2026-05-23:** Esqueleto operacional completo. Dados de jan-abr/2026 + histórico 2020–2025 ingeridos, análise automática rodando, GitHub Actions validado, LAI protocolada (60141001093202654, prazo 15/06). Falta: esboçar edição zero pública + decidir repo standalone vs módulo `transparencia-v3`.
 
 ---
 
@@ -110,7 +112,7 @@ Exemplo: [`dados/analises/2026-04.md`](dados/analises/2026-04.md).
 - [x] Análises mensais (jan–abr/2026) e histórica geradas
 - [x] Lookup de autoridades (cargo → nome → período)
 - [x] Referência de custo por hora + dados TCU
-- [ ] Enviar a LAI pelo Fala.BR (preencher CPF + nº acórdão TCU TC 008.687/2024-2)
+- [x] LAI enviada pelo Fala.BR — protocolo **60141001093202654**, prazo 15/06/2026 (ver [`lai/protocolos.md`](lai/protocolos.md))
 - [ ] Decidir: repo próprio ou módulo do `transparencia-v3`?
 
 ## Decisões registradas
