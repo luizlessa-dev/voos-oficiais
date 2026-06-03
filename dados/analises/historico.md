@@ -1,6 +1,6 @@
 # Análise Histórica — Voos de Autoridades (GABAER)
 
-_Gerado em 2026-05-23 01:07 · Fonte: [FABdadosabertos/GABAER](https://github.com/FABdadosabertos/GABAER) · **10012 voos** de 2020 a 2026_
+_Gerado em 2026-06-03 02:36 · Fonte: [FABdadosabertos/GABAER](https://github.com/FABdadosabertos/GABAER) · **10012 voos** de 2020 a 2026_
 
 ## Total de voos por ano
 
@@ -57,6 +57,57 @@ _Gerado em 2026-05-23 01:07 · Fonte: [FABdadosabertos/GABAER](https://github.co
 | 18 | Ministro dos Transportes | 207 | 0 | 207 |
 | 19 | Ministro das Minas e Energia | 188 | 94 | 94 |
 | 20 | À Disposição do Ministério da Defesa | 175 | 6 | 169 |
+
+## Voos internacionais (histórico — 614 total)
+
+_Origem ou destino fora do território brasileiro._
+
+### Por ano
+
+| Ano | Voos internacionais | Governo |
+|---|---:|---|
+| 2020 | 38 | Bolsonaro |
+| 2021 | 102 | Bolsonaro |
+| 2022 | 118 | Bolsonaro |
+| 2023 | 113 | Lula 3 |
+| 2024 | 109 | Lula 3 |
+| 2025 | 103 | Lula 3 |
+| 2026 | 31 | Lula 3 |
+
+### Top 15 países visitados
+
+| País | Voos |
+|---|---:|
+| Cabo Verde | 92 |
+| Paraguai | 51 |
+| França | 42 |
+| Uruguai | 40 |
+| Argentina | 38 |
+| EUA | 37 |
+| Barbados | 31 |
+| Portugal | 28 |
+| Colômbia | 20 |
+| Costa do Marfim | 16 |
+| Guiana | 14 |
+| Suriname | 12 |
+| Chile | 12 |
+| Espanha | 10 |
+| Itália | 9 |
+
+### Top 10 autoridades com mais voos internacionais
+
+| Autoridade | Voos |
+|---|---:|
+| Ministro das Relações Exteriores | 195 |
+| Presidente da Câmara dos Deputados | 58 |
+| Ministro da Fazenda | 48 |
+| Ministro da Educação | 40 |
+| Ministro das Comunicações | 39 |
+| Comandante da Marinha | 31 |
+| Comandante da Aeronáutica | 23 |
+| Presidente do Congresso Nacional | 21 |
+| Ministro da Justiça e Segurança Pública | 18 |
+| Ministro da Saúde | 14 |
 
 ## Top 10 meses com mais voos (picos)
 

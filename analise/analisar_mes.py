@@ -21,6 +21,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import re
 import sys
 from collections import Counter, defaultdict
 from datetime import datetime
@@ -35,6 +36,25 @@ NEWSLETTER.mkdir(parents=True, exist_ok=True)
 
 DIAS_PT = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"]
 DIA_CURTO = ["seg", "ter", "qua", "qui", "sex", "SÁB", "DOM"]
+
+# Parentéticos que identificam aeroportos/aeródromos brasileiros.
+# Qualquer outro parentético em destino/origem é tratado como país = voo internacional.
+AEROPORTOS_BR_PAREN = {
+    "congonhas", "santos dumont", "pampulha", "galeão", "guarulhos",
+    "ponta pelada", "eduardo gomes", "parnamirim", "afonsos", "confins",
+    "arealva", "santa cruz",
+}
+
+_RE_PAREN = re.compile(r"\(([^)]+)\)")
+
+
+def is_internacional(local: str) -> bool:
+    """Retorna True se o destino/origem tem parentético que NÃO é aeroporto brasileiro."""
+    m = _RE_PAREN.search(local)
+    if not m:
+        return False
+    return m.group(1).strip().lower() not in AEROPORTOS_BR_PAREN
+
 
 # Conjunto considerado "capital grande" — pra destacar destinos atípicos.
 CAPITAIS_GRANDES = {
@@ -211,6 +231,48 @@ def secao_a_disposicao(voos: list[dict]) -> list[str]:
     return lines
 
 
+def secao_internacionais(voos: list[dict]) -> list[str]:
+    """Voos com origem ou destino fora do Brasil."""
+    intl = [
+        v for v in voos
+        if is_internacional(v["destino"]) or is_internacional(v["origem"])
+    ]
+    if not intl:
+        return []
+
+    # Extrai país do parentético
+    def pais(local: str) -> str:
+        m = _RE_PAREN.search(local)
+        return m.group(1).strip() if m else local
+
+    paises = Counter(
+        pais(v["destino"]) if is_internacional(v["destino"]) else pais(v["origem"])
+        for v in intl
+    )
+
+    lines = [f"## Voos internacionais ({len(intl)})", ""]
+    lines.append(
+        "_Origem ou destino fora do território brasileiro. "
+        "Custo estimado tipicamente 3–10× maior que o voo doméstico equivalente._"
+    )
+    lines.append("")
+
+    # Top países
+    lines.append("**Países visitados:** " +
+                 ", ".join(f"{p} ({n})" for p, n in paises.most_common()))
+    lines.append("")
+
+    lines.append("| Decolagem | Autoridade | Rota | Pax | Motivo |")
+    lines.append("|---|---|---|---:|---|")
+    for v in sorted(intl, key=lambda v: v["decolagem"]):
+        lines.append(
+            f"| {fmt_dt(v['decolagem'])} | {v['autoridade']} "
+            f"| {v['origem']} → {v['destino']} "
+            f"| {v['passageiros']} | {v['motivo']} |"
+        )
+    return lines + [""]
+
+
 def secao_concentracao(voos: list[dict]) -> list[str]:
     """Top 3 destinos por autoridade — revela viés geográfico."""
     por_autor: dict[str, Counter] = defaultdict(Counter)
@@ -344,8 +406,12 @@ def gerar_newsletter(voos: list[dict], ano: int, mes: int) -> Path:
 
 
 def gerar_analise(csv_path: Path) -> Path:
-    nome = csv_path.stem  # voos_2026_04
-    _, ano_s, mes_s = nome.split("_")
+    nome = csv_path.stem  # voos_2026_04 ou voos_2025_anual
+    partes = nome.split("_")
+    if len(partes) != 3 or not partes[2].isdigit():
+        print(f"  Ignorando arquivo anual em analisar_mes.py: {csv_path.name}", file=sys.stderr)
+        return None
+    _, ano_s, mes_s = partes
     ano, mes = int(ano_s), int(mes_s)
 
     voos = parse_csv(csv_path)
@@ -368,6 +434,7 @@ def gerar_analise(csv_path: Path) -> Path:
     lines += secao_sumario(voos, ano, mes)
     lines += secao_top_autoridades(voos)
     lines += secao_concentracao(voos)
+    lines += secao_internacionais(voos)
     lines += secao_fim_de_semana(voos)
     lines += secao_noturnos(voos)
     lines += secao_sequencias(voos)

@@ -24,6 +24,24 @@ from collections import Counter, defaultdict
 from datetime import datetime
 from pathlib import Path
 
+# ── detector de voos internacionais ──────────────────────────────────────────
+_AEROPORTOS_BR_PAREN = {
+    "congonhas", "santos dumont", "pampulha", "galeão", "guarulhos",
+    "ponta pelada", "eduardo gomes", "parnamirim", "afonsos", "confins",
+    "arealva", "santa cruz",
+}
+_RE_PAREN = re.compile(r"\(([^)]+)\)")
+
+def _is_intl(local: str) -> bool:
+    m = _RE_PAREN.search(local)
+    if not m:
+        return False
+    return m.group(1).strip().lower() not in _AEROPORTOS_BR_PAREN
+
+def _pais(local: str) -> str:
+    m = _RE_PAREN.search(local)
+    return m.group(1).strip() if m else local
+
 ROOT = Path(__file__).resolve().parent.parent
 SNAPSHOTS = ROOT / "dados" / "snapshots"
 ANALISES  = ROOT / "dados" / "analises"
@@ -194,6 +212,55 @@ def secao_meses_pico(por_ano: dict[int, list], top_n: int = 10) -> list[str]:
     return lines + [""]
 
 
+def secao_internacionais(por_ano: dict[int, list]) -> list[str]:
+    """Voos internacionais por ano, países e autoridades."""
+    todos = [v for voos in por_ano.values() for v in voos]
+    intl  = [v for v in todos if _is_intl(v["destino"]) or _is_intl(v["origem"])]
+    if not intl:
+        return []
+
+    def pais_voo(v: dict) -> str:
+        if _is_intl(v["destino"]):
+            return _pais(v["destino"])
+        return _pais(v["origem"])
+
+    paises    = Counter(pais_voo(v) for v in intl)
+    por_autor = Counter(v["autoridade"] for v in intl)
+    por_ano_c = Counter(v["decolagem"].year for v in intl)
+
+    lines = [f"## Voos internacionais (histórico — {len(intl)} total)", ""]
+    lines.append("_Origem ou destino fora do território brasileiro._")
+    lines.append("")
+
+    lines.append("### Por ano")
+    lines.append("")
+    lines.append("| Ano | Voos internacionais | Governo |")
+    lines.append("|---|---:|---|")
+    for ano in sorted(por_ano.keys()):
+        n = por_ano_c.get(ano, 0)
+        if n:
+            lines.append(f"| {ano} | {n} | {governo_de(ano)} |")
+    lines.append("")
+
+    lines.append("### Top 15 países visitados")
+    lines.append("")
+    lines.append("| País | Voos |")
+    lines.append("|---|---:|")
+    for p, n in paises.most_common(15):
+        lines.append(f"| {p} | {n} |")
+    lines.append("")
+
+    lines.append("### Top 10 autoridades com mais voos internacionais")
+    lines.append("")
+    lines.append("| Autoridade | Voos |")
+    lines.append("|---|---:|")
+    for a, n in por_autor.most_common(10):
+        lines.append(f"| {a} | {n} |")
+    lines.append("")
+
+    return lines
+
+
 def secao_destinos_top(por_ano: dict[int, list]) -> list[str]:
     todos = [v for voos in por_ano.values() for v in voos]
     cnt = Counter(v["destino"] for v in todos)
@@ -248,6 +315,7 @@ def main() -> int:
     linhas += secao_comparativo_governo(por_ano)
     linhas += secao_autoridade_por_ano(por_ano)
     linhas += secao_top_autoridades(por_ano)
+    linhas += secao_internacionais(por_ano)
     linhas += secao_meses_pico(por_ano)
     linhas += secao_destinos_top(por_ano)
 
