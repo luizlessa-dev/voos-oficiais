@@ -17,3 +17,4 @@ resultados/
 
 # Outputs locais de debug
 *.log
+dados/snapshots/rab_anac.csv

@@ -1,0 +1,3355 @@
+{
+  "_meta": {
+    "descricao": "Frotas de aeronaves de órgãos públicos não-FAB registradas no RAB/ANAC.",
+    "fonte": "Registro Aeronáutico Brasileiro (ANAC)",
+    "url": "https://sistemas.anac.gov.br/dadosabertos/Aeronaves/RAB/dados_aeronaves.csv",
+    "data_rab": "2026-06-03",
+    "gerado": "2026-06-03",
+    "total_aeronaves": 302,
+    "nota": "Exclui aeronaves da Aeronáutica/FAB (cobertas pelo GABAER). Inclui aeronaves ativas (sem data de cancelamento)."
+  },
+  "frotas": {
+    "Corpo de Bombeiros": {
+      "CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO GRANDE DO NORTE": [
+        {
+          "marca": "PPERN",
+          "modelo": "EMB-110P1",
+          "fabricante": "EMBRAER",
+          "tipo": "E110",
+          "icao": "E110",
+          "pax_max": "9",
+          "ano": "1981",
+          "uf": "RN"
+        },
+        {
+          "marca": "PTJLE",
+          "modelo": "E55",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE55",
+          "pax_max": "5",
+          "ano": "1973",
+          "uf": "GO"
+        }
+      ],
+      "CORPO DE BOMBEIROS MIL. DO DIST. FEDERAL": [
+        {
+          "marca": "PPNBS",
+          "modelo": "AT-802",
+          "fabricante": "AIR TRACTOR",
+          "tipo": "AT8T",
+          "icao": "AT8T",
+          "pax_max": "0",
+          "ano": "2011",
+          "uf": "DF"
+        },
+        {
+          "marca": "PPNBZ",
+          "modelo": "AT-802",
+          "fabricante": "AIR TRACTOR",
+          "tipo": "AT8T",
+          "icao": "AT8T",
+          "pax_max": "0",
+          "ano": "2011",
+          "uf": "DF"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL": [
+        {
+          "marca": "PPFFH",
+          "modelo": "PA-18-150",
+          "fabricante": "PIPER AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "PA18",
+          "pax_max": "1",
+          "ano": "1974",
+          "uf": "DF"
+        },
+        {
+          "marca": "PRMPJ",
+          "modelo": "B200",
+          "fabricante": "HAWKER BEECHCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE20",
+          "pax_max": "9",
+          "ano": "1988",
+          "uf": "PA"
+        },
+        {
+          "marca": "PSCBD",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2025",
+          "uf": "DF"
+        },
+        {
+          "marca": "PRPIU",
+          "modelo": "R44 II",
+          "fabricante": "ROBINSON HELICOPTER",
+          "tipo": "HMNC",
+          "icao": "R44",
+          "pax_max": "3",
+          "ano": "2010",
+          "uf": "ES"
+        },
+        {
+          "marca": "PRDHL",
+          "modelo": "EC 130 B4",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "EC30",
+          "pax_max": "6",
+          "ano": "2008",
+          "uf": "DF"
+        },
+        {
+          "marca": "PRMJX",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2007",
+          "uf": "DF"
+        },
+        {
+          "marca": "PSBDF",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2023",
+          "uf": "DF"
+        },
+        {
+          "marca": "PPFFL",
+          "modelo": "PA-18-150",
+          "fabricante": "PIPER AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "PA18",
+          "pax_max": "1",
+          "ano": "1974",
+          "uf": "DF"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DO ESTADO DE MATO GROSSO DO SUL": [
+        {
+          "marca": "PRFPG",
+          "modelo": "58",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "1984",
+          "uf": "SP"
+        },
+        {
+          "marca": "PPIMA",
+          "modelo": "206H",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C206",
+          "pax_max": "5",
+          "ano": "2001",
+          "uf": "MT"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS": [
+        {
+          "marca": "PPVER",
+          "modelo": "58",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "1978",
+          "uf": "MT"
+        },
+        {
+          "marca": "PTOKU",
+          "modelo": "95-B55",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE55",
+          "pax_max": "5",
+          "ano": "1980",
+          "uf": "GO"
+        }
+      ],
+      "CORPO DE BOMBEIROS MIL.DIST.FEDERAL": [
+        {
+          "marca": "PTHLZ",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1985",
+          "uf": "DF"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS": [
+        {
+          "marca": "PSEME",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2022",
+          "uf": "MG"
+        },
+        {
+          "marca": "PPSAV",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2017",
+          "uf": "MG"
+        },
+        {
+          "marca": "PSCEB",
+          "modelo": "MBB BK 117 D-3",
+          "fabricante": "AIRBUS HELICOPTERS DEUTSCHLAND",
+          "tipo": "HMLT",
+          "icao": "EC45",
+          "pax_max": "9",
+          "ano": "2024",
+          "uf": "MG"
+        },
+        {
+          "marca": "PSUTI",
+          "modelo": "MBB BK 117 D-3",
+          "fabricante": "AIRBUS HELICOPTERS DEUTSCHLAND",
+          "tipo": "HMLT",
+          "icao": "EC45",
+          "pax_max": "9",
+          "ano": "2024",
+          "uf": "MG"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SAUDE - SES - CORPO DE BOMBEIROS MILITAR DA PARAÍBA": [
+        {
+          "marca": "PTPTA",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "1999",
+          "uf": "GO"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DO ESTADO DE SANTA CATARINA": [
+        {
+          "marca": "PTRFT",
+          "modelo": "EMB-820C CARAJA",
+          "fabricante": "EMBRAER",
+          "tipo": "MLTE",
+          "icao": "PAT4",
+          "pax_max": "7",
+          "ano": "1983",
+          "uf": "SC"
+        },
+        {
+          "marca": "PTVKG",
+          "modelo": "EMB-820C CARAJA",
+          "fabricante": "EMBRAER",
+          "tipo": "MLTE",
+          "icao": "PAT4",
+          "pax_max": "7",
+          "ano": "1989",
+          "uf": "SC"
+        },
+        {
+          "marca": "PPAGP",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2011",
+          "uf": "SC"
+        }
+      ],
+      "CORPO DE BOMBEIROS MIL.DE M.GERAIS": [
+        {
+          "marca": "PRBOA",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2007",
+          "uf": "MG"
+        },
+        {
+          "marca": "PSSUS",
+          "modelo": "208B",
+          "fabricante": "TEXTRON AVIATION",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2023",
+          "uf": "MG"
+        },
+        {
+          "marca": "PPBBM",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2007",
+          "uf": "MG"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS - CBMMG": [
+        {
+          "marca": "PSSES",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2020",
+          "uf": "MG"
+        }
+      ],
+      "CORPO DE BOMBEIROS MIL. DO EST.DE GOIAS": [
+        {
+          "marca": "PTVJH",
+          "modelo": "EMB-810D",
+          "fabricante": "EMBRAER",
+          "tipo": "MLTE",
+          "icao": "PA34",
+          "pax_max": "5",
+          "ano": "1989",
+          "uf": "GO"
+        },
+        {
+          "marca": "PRTID",
+          "modelo": "58",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "1984",
+          "uf": "GO"
+        },
+        {
+          "marca": "PRMZP",
+          "modelo": "C90A",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE9L",
+          "pax_max": "7",
+          "ano": "2004",
+          "uf": "SP"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DO ESTADO DA PARAÍBA": [
+        {
+          "marca": "PRTPW",
+          "modelo": "PA-32R-301T",
+          "fabricante": "PIPER AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "PA32",
+          "pax_max": "5",
+          "ano": "1997",
+          "uf": "MT"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO GRANDE DO SUL": [
+        {
+          "marca": "PSCOA",
+          "modelo": "AW119MKII",
+          "fabricante": "AGUSTA",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2008",
+          "uf": "RS"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DE RONDONIA": [
+        {
+          "marca": "PTHMW",
+          "modelo": "HB-350B",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1984",
+          "uf": "RO"
+        },
+        {
+          "marca": "PTLMU",
+          "modelo": "58",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "1982",
+          "uf": "RO"
+        },
+        {
+          "marca": "PRPML",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2018",
+          "uf": "RO"
+        },
+        {
+          "marca": "PTDPH",
+          "modelo": "210K",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C210",
+          "pax_max": "5",
+          "ano": "1970",
+          "uf": "RO"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO": [
+        {
+          "marca": "PPOBM",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2018",
+          "uf": "RJ"
+        },
+        {
+          "marca": "PTSRJ",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2019",
+          "uf": "RJ"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR - SC": [
+        {
+          "marca": "PPADL",
+          "modelo": "35",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "BE35",
+          "pax_max": "3",
+          "ano": "1949",
+          "uf": "SC"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DO ESTADO DO ACRE": [
+        {
+          "marca": "PSBMA",
+          "modelo": "208B",
+          "fabricante": "TEXTRON AVIATION",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2025",
+          "uf": "AC"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS- BATALHÃO DE OPERAÇÕES AÉREAS": [
+        {
+          "marca": "PRFNO",
+          "modelo": "AT-502B",
+          "fabricante": "AIR TRACTOR",
+          "tipo": "MNTE",
+          "icao": "AT5T",
+          "pax_max": "0",
+          "ano": "2010",
+          "uf": "SP"
+        }
+      ],
+      "CORPO DE BOMBEIROS MIL.DO EST.M.G.DO SUL": [
+        {
+          "marca": "PTKPG",
+          "modelo": "A56TC",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE56",
+          "pax_max": "005",
+          "ano": "1970",
+          "uf": "SP"
+        }
+      ],
+      "CORPO DE BOMBEIROS MIL.DO EST.PARA": [
+        {
+          "marca": "PTYAK",
+          "modelo": "AS 350 BA",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1995",
+          "uf": "PR"
+        }
+      ],
+      "GOV.DO DISTR.FED.CORPO DE BOMBEIROS": [
+        {
+          "marca": "PRCBM",
+          "modelo": "EC 135T2",
+          "fabricante": "EUROCOPTER DEUTSCHLAND",
+          "tipo": "HMLT",
+          "icao": "EC35",
+          "pax_max": "6",
+          "ano": "2005",
+          "uf": "DF"
+        }
+      ],
+      "SEDEC-CORPO DE BOMBEIROS MIL.EST.RJ": [
+        {
+          "marca": "PREBM",
+          "modelo": "AT-802",
+          "fabricante": "AIR TRACTOR",
+          "tipo": "AT8T",
+          "icao": "AT8T",
+          "pax_max": "000",
+          "ano": "2003",
+          "uf": "RJ"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DO ESTADO DE ALAGOAS": [
+        {
+          "marca": "PRTXD",
+          "modelo": "58",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "1980",
+          "uf": "GO"
+        },
+        {
+          "marca": "PREPH",
+          "modelo": "210N",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C210",
+          "pax_max": "5",
+          "ano": "1981",
+          "uf": "DF"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DA BAHIA": [
+        {
+          "marca": "PTRAS",
+          "modelo": "EMB-820C NAVAJO",
+          "fabricante": "EMBRAER",
+          "tipo": "MLTE",
+          "icao": "PA31",
+          "pax_max": "6",
+          "ano": "1979",
+          "uf": "MG"
+        },
+        {
+          "marca": "PRHCT",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2012",
+          "uf": "SP"
+        }
+      ],
+      "FUNDO DE MELHORIA DO CORPO DE BOMBEIROS": [
+        {
+          "marca": "PRBNU",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2016",
+          "uf": "SC"
+        },
+        {
+          "marca": "PRYCB",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "6",
+          "ano": "2010",
+          "uf": "SC"
+        },
+        {
+          "marca": "PRHGR",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2003",
+          "uf": "SC"
+        }
+      ],
+      "SECRETARIA DE ESTADO DE DEFESA CIVIL - CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO": [
+        {
+          "marca": "PPUBM",
+          "modelo": "AW169",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMLT",
+          "icao": "A169",
+          "pax_max": "10",
+          "ano": "2022",
+          "uf": "RJ"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DO ESTADO DE SANTA CATARINA - BATALHÃO DE OPERAÇÕES AÉREAS": [
+        {
+          "marca": "PRCMD",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2004",
+          "uf": "SC"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS - CBMGO": [
+        {
+          "marca": "PSHCH",
+          "modelo": "AS 350 B3",
+          "fabricante": "AIRBUS HELICOPTERS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2024",
+          "uf": "Indisponível"
+        }
+      ],
+      "CORPO DE BOMBEIROS MILITAR DO ESTADO DE SANTA CATARINA -  BATALHÃO DE OPERAÇÕES AÉREAS": [
+        {
+          "marca": "PRIAL",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2008",
+          "uf": "SC"
+        }
+      ]
+    },
+    "Governo Estadual": {
+      "SECRETARIA DE ESTADO DA CASA MILITAR": [
+        {
+          "marca": "PREGM",
+          "modelo": "PA-34-220T",
+          "fabricante": "PIPER AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "PA34",
+          "pax_max": "5",
+          "ano": "2006",
+          "uf": "GO"
+        },
+        {
+          "marca": "PTGGO",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2012",
+          "uf": "GO"
+        },
+        {
+          "marca": "PRRGO",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2025",
+          "uf": "GO"
+        },
+        {
+          "marca": "PTWTW",
+          "modelo": "B300",
+          "fabricante": "RAYTHEON AIRCRAFT",
+          "tipo": "BE30",
+          "icao": "B350",
+          "pax_max": "9",
+          "ano": "1998",
+          "uf": "GO"
+        },
+        {
+          "marca": "PRGEG",
+          "modelo": "C90GT",
+          "fabricante": "RAYTHEON AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE9L",
+          "pax_max": "7",
+          "ano": "2006",
+          "uf": "GO"
+        },
+        {
+          "marca": "PTRPV",
+          "modelo": "EMB-711ST",
+          "fabricante": "NEIVA",
+          "tipo": "MNTE",
+          "icao": "P28T",
+          "pax_max": "3",
+          "ano": "1982",
+          "uf": "GO"
+        },
+        {
+          "marca": "PREGO",
+          "modelo": "PA-34-220T",
+          "fabricante": "PIPER AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "PA34",
+          "pax_max": "5",
+          "ano": "2006",
+          "uf": "GO"
+        },
+        {
+          "marca": "PRNFT",
+          "modelo": "550",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "C500",
+          "icao": "C550",
+          "pax_max": "8",
+          "ano": "1981",
+          "uf": "MG"
+        },
+        {
+          "marca": "PTSTK",
+          "modelo": "525",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "C525",
+          "icao": "C525",
+          "pax_max": "6",
+          "ano": "1999",
+          "uf": "GO"
+        }
+      ],
+      "ESTADO DO MARANHÃO - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA": [
+        {
+          "marca": "PPJJJ",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2010",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRHFI",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2012",
+          "uf": "SP"
+        }
+      ],
+      "SECRETARIA DE ESTADO DE SEGURANCA PUBLICA DE MATO GROSSO": [
+        {
+          "marca": "PSEMT",
+          "modelo": "550 BRAVO",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "C500",
+          "icao": "C550",
+          "pax_max": "8",
+          "ano": "1997",
+          "uf": "MT"
+        },
+        {
+          "marca": "PPMMT",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2006",
+          "uf": "MT"
+        },
+        {
+          "marca": "PPCMT",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2010",
+          "uf": "MT"
+        },
+        {
+          "marca": "PSGOV",
+          "modelo": "PA-31T2",
+          "fabricante": "PIPER AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "PAY2",
+          "pax_max": "6",
+          "ano": "1982",
+          "uf": "MT"
+        },
+        {
+          "marca": "PRVCJ",
+          "modelo": "58",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "1988",
+          "uf": "GO"
+        },
+        {
+          "marca": "PRMON",
+          "modelo": "525B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "C525",
+          "icao": "C25B",
+          "pax_max": "8",
+          "ano": "2009",
+          "uf": "SC"
+        },
+        {
+          "marca": "PPHAR",
+          "modelo": "210N",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C210",
+          "pax_max": "5",
+          "ano": "1978",
+          "uf": "GO"
+        },
+        {
+          "marca": "PRGMT",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2010",
+          "uf": "MT"
+        },
+        {
+          "marca": "PRLON",
+          "modelo": "58",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "1979",
+          "uf": "MT"
+        },
+        {
+          "marca": "PRCIC",
+          "modelo": "G58",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "2007",
+          "uf": "MT"
+        }
+      ],
+      "SECRETARIA DA SEGURANÇA PÚBLICA E DEFESA SOCIAL DO CEARÁ - CIOPAER/SSPDS": [
+        {
+          "marca": "PRYHB",
+          "modelo": "EC 130 B4",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "EC30",
+          "pax_max": "6",
+          "ano": "2002",
+          "uf": "SP"
+        }
+      ],
+      "GOVERNO DO ESTADO DO RIO G.DO NORTE": [
+        {
+          "marca": "PTFRG",
+          "modelo": "EMB-121A1",
+          "fabricante": "EMBRAER",
+          "tipo": "MLTE",
+          "icao": "E121",
+          "pax_max": "5",
+          "ano": "1981",
+          "uf": "Indisponível"
+        }
+      ],
+      "CASA MILITAR DO GOVERNADOR": [
+        {
+          "marca": "PPESS",
+          "modelo": "AS 355 N",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMLT",
+          "icao": "AS55",
+          "pax_max": "5",
+          "ano": "1999",
+          "uf": "BA"
+        }
+      ],
+      "GEES - SECRETARIA DA CASA MILITAR": [
+        {
+          "marca": "PPMES",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2008",
+          "uf": "ES"
+        },
+        {
+          "marca": "PPEMH",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1998",
+          "uf": "ES"
+        },
+        {
+          "marca": "PRESE",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2014",
+          "uf": "ES"
+        },
+        {
+          "marca": "PRRJG",
+          "modelo": "MBB BK 117 C-2",
+          "fabricante": "EUROCOPTER DEUTSCHLAND",
+          "tipo": "HMLT",
+          "icao": "EC45",
+          "pax_max": "9",
+          "ano": "2014",
+          "uf": "ES"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA CASA MILITAR DO ESTADO DE GOIÁS": [
+        {
+          "marca": "PTKQC",
+          "modelo": "95-B55",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE55",
+          "pax_max": "005",
+          "ano": "1975",
+          "uf": "GO"
+        }
+      ],
+      "SECRETARIA DA SEGURANCA PUBLICA E DEFESA SOCIAL": [
+        {
+          "marca": "PPEFM",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2001",
+          "uf": "CE"
+        },
+        {
+          "marca": "PPENM",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2001",
+          "uf": "CE"
+        }
+      ],
+      "GOVERNO DO ESTADO DO AMAZONAS": [
+        {
+          "marca": "PPEPD",
+          "modelo": "300",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "BE30",
+          "icao": "BE30",
+          "pax_max": "9",
+          "ano": "1986",
+          "uf": "AM"
+        }
+      ],
+      "GOVERNO DO PARANA - CASA MILITAR": [
+        {
+          "marca": "PRPRX",
+          "modelo": "B300",
+          "fabricante": "HAWKER BEECHCRAFT",
+          "tipo": "BE30",
+          "icao": "B350",
+          "pax_max": "9",
+          "ano": "2012",
+          "uf": "PR"
+        },
+        {
+          "marca": "PPHZB",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "6",
+          "ano": "2014",
+          "uf": "PR"
+        },
+        {
+          "marca": "PSHTT",
+          "modelo": "EC 130 T2",
+          "fabricante": "AIRBUS HELICOPTERS",
+          "tipo": "HMNT",
+          "icao": "EC30",
+          "pax_max": "6",
+          "ano": "2016",
+          "uf": "SP"
+        },
+        {
+          "marca": "PPMMS",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "7",
+          "ano": "2004",
+          "uf": "PR"
+        },
+        {
+          "marca": "PSBSS",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2012",
+          "uf": "SP"
+        },
+        {
+          "marca": "PSWLA",
+          "modelo": "B300",
+          "fabricante": "HAWKER BEECHCRAFT",
+          "tipo": "BE30",
+          "icao": "B350",
+          "pax_max": "9",
+          "ano": "2008",
+          "uf": "PR"
+        },
+        {
+          "marca": "PTOZL",
+          "modelo": "C90A",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE9L",
+          "pax_max": "7",
+          "ano": "1993",
+          "uf": "PR"
+        }
+      ],
+      "GOVERNO DO ESTADO DE RORAIMA": [
+        {
+          "marca": "PTDUB",
+          "modelo": "PA-23-250",
+          "fabricante": "PIPER AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "PA27",
+          "pax_max": "5",
+          "ano": "1971",
+          "uf": "SP"
+        },
+        {
+          "marca": "PTJTM",
+          "modelo": "E55",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE55",
+          "pax_max": "005",
+          "ano": "1974",
+          "uf": "MS"
+        }
+      ],
+      "GOVERNO DO ESTADO DO PARA": [
+        {
+          "marca": "PPEJP",
+          "modelo": "EMB-721C",
+          "fabricante": "NEIVA",
+          "tipo": "MNTE",
+          "icao": "P32R",
+          "pax_max": "005",
+          "ano": "1976",
+          "uf": "PA"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA": [
+        {
+          "marca": "PSBOA",
+          "modelo": "B200",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE20",
+          "pax_max": "09",
+          "ano": "1981",
+          "uf": "PR"
+        }
+      ],
+      "SECRETARIA DA SEGURANÇA E DA DEFESA SOCIAL DO ESTADO DA PARAÍBA": [
+        {
+          "marca": "PRYYY",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2011",
+          "uf": "BA"
+        },
+        {
+          "marca": "PRFPO",
+          "modelo": "EC 120 B",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "EC20",
+          "pax_max": "4",
+          "ano": "2001",
+          "uf": "DF"
+        }
+      ],
+      "GOV.DO ESTADO DO PARANA-CASA MILITAR": [
+        {
+          "marca": "PRAMG",
+          "modelo": "AMT-200S",
+          "fabricante": "AEROMOT",
+          "tipo": "PLAN",
+          "icao": "RF10",
+          "pax_max": "0",
+          "ano": "2004",
+          "uf": "PR"
+        },
+        {
+          "marca": "PRGRR",
+          "modelo": "AMT-200S",
+          "fabricante": "AEROMOT",
+          "tipo": "PLAN",
+          "icao": "RF10",
+          "pax_max": "1",
+          "ano": "2004",
+          "uf": "PR"
+        }
+      ],
+      "BAHIA SECRETARIA DA SEGURANCA PUBLICA": [
+        {
+          "marca": "PRDPM",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2006",
+          "uf": "BA"
+        },
+        {
+          "marca": "PRIPM",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2012",
+          "uf": "BA"
+        },
+        {
+          "marca": "PRKPM",
+          "modelo": "MBB BK 117 C-2",
+          "fabricante": "EUROCOPTER DEUTSCHLAND",
+          "tipo": "HMLT",
+          "icao": "EC45",
+          "pax_max": "9",
+          "ano": "2012",
+          "uf": "MG"
+        }
+      ],
+      "SECRETARIA DE SEGURANCA PUBLICA-SESP": [
+        {
+          "marca": "PRCJD",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2009",
+          "uf": "AC"
+        }
+      ],
+      "MINISTERIO DA JUSTIÇA E SEGURANÇA PUBLICA": [
+        {
+          "marca": "PRFKA",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2020",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRFKD",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2021",
+          "uf": "DF"
+        },
+        {
+          "marca": "PRFKB",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2021",
+          "uf": "DF"
+        }
+      ],
+      "ESTADO DO GOIÁS - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA - SSP/GO": [
+        {
+          "marca": "PSHBM",
+          "modelo": "AS 350 B3",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2009",
+          "uf": "SP"
+        }
+      ],
+      "SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA DE MATO GROSSO": [
+        {
+          "marca": "PSSEG",
+          "modelo": "PA-31T",
+          "fabricante": "PIPER AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "PAY2",
+          "pax_max": "6",
+          "ano": "1979",
+          "uf": "MT"
+        },
+        {
+          "marca": "PSSMT",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2021",
+          "uf": "MT"
+        },
+        {
+          "marca": "PSSSP",
+          "modelo": "B200GT",
+          "fabricante": "HAWKER BEECHCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE20",
+          "pax_max": "09",
+          "ano": "2016",
+          "uf": "MT"
+        }
+      ],
+      "CASA MILITAR DO ESTADO DE RORAIMA": [
+        {
+          "marca": "PTIMZ",
+          "modelo": "210L",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C210",
+          "pax_max": "5",
+          "ano": "1973",
+          "uf": "MS"
+        }
+      ],
+      "SECRETARIA DE ESTADO DE SEGURANCA PÚBLICA E DEFESA SOCIAL": [
+        {
+          "marca": "PPEPV",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "10",
+          "ano": "2000",
+          "uf": "PA"
+        },
+        {
+          "marca": "PPETR",
+          "modelo": "C90A",
+          "fabricante": "RAYTHEON AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE9L",
+          "pax_max": "5",
+          "ano": "1999",
+          "uf": "PA"
+        }
+      ],
+      "GOVERNO DO ESTADO DE MATO GROSSO DO SUL - SECRETARIA DE ESTADO DE GOVERNO E GESTÃO ESTRATÉGICA - SEGOV/MS": [
+        {
+          "marca": "PPEIK",
+          "modelo": "EMB-810D",
+          "fabricante": "EMBRAER",
+          "tipo": "MLTE",
+          "icao": "PA34",
+          "pax_max": "6",
+          "ano": "1984",
+          "uf": "MS"
+        },
+        {
+          "marca": "PPEUS",
+          "modelo": "EMB-810D",
+          "fabricante": "NEIVA",
+          "tipo": "MLTE",
+          "icao": "PA34",
+          "pax_max": "6",
+          "ano": "1985",
+          "uf": "MS"
+        }
+      ],
+      "GOV.DO EST.DA BAHIA CASA MILITAR": [
+        {
+          "marca": "PPEPS",
+          "modelo": "C90A",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE9L",
+          "pax_max": "7",
+          "ano": "1996",
+          "uf": "BA"
+        },
+        {
+          "marca": "PPEIN",
+          "modelo": "EMB-810D",
+          "fabricante": "NEIVA",
+          "tipo": "MLTE",
+          "icao": "PA34",
+          "pax_max": "5",
+          "ano": "1985",
+          "uf": "BA"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA ¿ SSP/MA": [
+        {
+          "marca": "PREBH",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2011",
+          "uf": "SP"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA - SSP": [
+        {
+          "marca": "PSBLO",
+          "modelo": "A119",
+          "fabricante": "AGUSTA",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2001",
+          "uf": "AL"
+        }
+      ],
+      "GOVERNO DO ESTADO DO AMAPA": [
+        {
+          "marca": "PTFCZ",
+          "modelo": "U206F",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C206",
+          "pax_max": "005",
+          "ano": "",
+          "uf": "AP"
+        },
+        {
+          "marca": "PPEIX",
+          "modelo": "EMB-110P1",
+          "fabricante": "EMBRAER",
+          "tipo": "E110",
+          "icao": "E110",
+          "pax_max": "10",
+          "ano": "1989",
+          "uf": "AP"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SEGURANCA PUBLICA": [
+        {
+          "marca": "PTYUQ",
+          "modelo": "407",
+          "fabricante": "BELL HELICOPTER",
+          "tipo": "HMNT",
+          "icao": "B407",
+          "pax_max": "6",
+          "ano": "1996",
+          "uf": "PR"
+        }
+      ],
+      "SECRETARIA DE SEGURANÇA PÚBLICA DO ESTADO DO AMAZONAS": [
+        {
+          "marca": "PTKKY",
+          "modelo": "PA-28-235",
+          "fabricante": "PIPER AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "P28B",
+          "pax_max": "3",
+          "ano": "1974",
+          "uf": "SP"
+        }
+      ],
+      "CASA MILITAR DA GOVERNADORIA DO ESTADO DE RORAIMA - CMG/RR": [
+        {
+          "marca": "PSCMR",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2016",
+          "uf": "RR"
+        }
+      ],
+      "SECRETARIA DA CASA MILITAR DO ESTADO DO ESPIRITO SANTO - NOTAER": [
+        {
+          "marca": "PSNOT",
+          "modelo": "EC 130 T2",
+          "fabricante": "AIRBUS HELICOPTERS",
+          "tipo": "HMNT",
+          "icao": "EC30",
+          "pax_max": "6",
+          "ano": "2025",
+          "uf": "ES"
+        }
+      ],
+      "PODER EXECUTIVO CASA MILITAR DO ESTADO DO PARANA": [
+        {
+          "marca": "PPEJH",
+          "modelo": "206B",
+          "fabricante": "BELL HELICOPTER",
+          "tipo": "HMNT",
+          "icao": "B06",
+          "pax_max": "4",
+          "ano": "1992",
+          "uf": "PR"
+        }
+      ],
+      "SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA - SSP/MA": [
+        {
+          "marca": "PRCLR",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2010",
+          "uf": "SP"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA DO AMAZONAS": [
+        {
+          "marca": "PREAN",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2010",
+          "uf": "AM"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA DO PARANÁ": [
+        {
+          "marca": "PRHBZ",
+          "modelo": "EC 130 B4",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "EC30",
+          "pax_max": "7",
+          "ano": "2012",
+          "uf": "PA"
+        },
+        {
+          "marca": "PSHCJ",
+          "modelo": "R66",
+          "fabricante": "ROBINSON HELICOPTER",
+          "tipo": "HMNT",
+          "icao": "R66",
+          "pax_max": "4",
+          "ano": "2023",
+          "uf": "PR"
+        },
+        {
+          "marca": "PSEPH",
+          "modelo": "R66",
+          "fabricante": "ROBINSON HELICOPTER",
+          "tipo": "HMNT",
+          "icao": "R66",
+          "pax_max": "4",
+          "ano": "2022",
+          "uf": "PR"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA - ESTADO DE ALAGOAS": [
+        {
+          "marca": "PSBLU",
+          "modelo": "A119",
+          "fabricante": "AGUSTA",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2007",
+          "uf": "AL"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA DO ESTADO DO PARANÁ": [
+        {
+          "marca": "PSHPM",
+          "modelo": "R66",
+          "fabricante": "ROBINSON HELICOPTER",
+          "tipo": "HMNT",
+          "icao": "R66",
+          "pax_max": "3",
+          "ano": "2022",
+          "uf": "SP"
+        }
+      ],
+      "ESTADO DO MARANHAO - SECRETARIA DE ESTADO DA SEGURANCA PUBLICA": [
+        {
+          "marca": "PTKJT",
+          "modelo": "310Q",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "C310",
+          "pax_max": "5",
+          "ano": "1974",
+          "uf": "GO"
+        },
+        {
+          "marca": "PRMRH",
+          "modelo": "MBB BK 117 C-2",
+          "fabricante": "EUROCOPTER DEUTSCHLAND",
+          "tipo": "HMLT",
+          "icao": "EC45",
+          "pax_max": "9",
+          "ano": "2010",
+          "uf": "MA"
+        }
+      ],
+      "SECRETARIA DE ESTADO DE SEGURANÇA PUBLICA": [
+        {
+          "marca": "PRPOL",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2012",
+          "uf": "AL"
+        }
+      ],
+      "ESTADO DO ESPÍRITO SANTO - SECRETARIA DA CASA MILITAR": [
+        {
+          "marca": "PPESN",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2018",
+          "uf": "ES"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SEGURANÇA PUBLICA": [
+        {
+          "marca": "PSHCF",
+          "modelo": "AS 350 B3",
+          "fabricante": "AIRBUS HELICOPTERS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2018",
+          "uf": "Indisponível"
+        }
+      ],
+      "CASA CIVIL DO GOVERNO DO ESTADO DO CEARÁ": [
+        {
+          "marca": "PRSZA",
+          "modelo": "45",
+          "fabricante": "LEARJET",
+          "tipo": "LR45",
+          "icao": "LJ45",
+          "pax_max": "9",
+          "ano": "1999",
+          "uf": "SP"
+        }
+      ],
+      "SECRETARIA DA SEGURANÇA PÚBLICA E DEFESA SOCIAL DO ESTADO DO CEARÁ": [
+        {
+          "marca": "PPARY",
+          "modelo": "EC135 T3",
+          "fabricante": "AIRBUS HELICOPTERS DEUTSCHLAND",
+          "tipo": "HMLT",
+          "icao": "EC35",
+          "pax_max": "6",
+          "ano": "2018",
+          "uf": "CE"
+        }
+      ],
+      "ESTADO DO ESPIRITO SANTO - GEES - SECRETARIA DA CASA MILITAR": [
+        {
+          "marca": "PRNOT",
+          "modelo": "EC 130 T2",
+          "fabricante": "AIRBUS HELICOPTERS",
+          "tipo": "HMNT",
+          "icao": "EC30",
+          "pax_max": "6",
+          "ano": "2024",
+          "uf": "ES"
+        }
+      ],
+      "SEC.CASA MILITAR DO EST.DO ESP.SANTO": [
+        {
+          "marca": "PPEIO",
+          "modelo": "AS 350 BA",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1986",
+          "uf": "ES"
+        }
+      ],
+      "GOVERNO DA BAHIA CASA MILITAR": [
+        {
+          "marca": "PTMBY",
+          "modelo": "EMB-121A1",
+          "fabricante": "EMBRAER",
+          "tipo": "MLTE",
+          "icao": "E121",
+          "pax_max": "6",
+          "ano": "1982",
+          "uf": "BA"
+        }
+      ],
+      "SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA E DEFESA SOCIAL": [
+        {
+          "marca": "PSCBM",
+          "modelo": "AS 350 B2",
+          "fabricante": "AIRBUS HELICOPTERS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2008",
+          "uf": "SP"
+        },
+        {
+          "marca": "PPBAM",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2007",
+          "uf": "SP"
+        },
+        {
+          "marca": "PSUTA",
+          "modelo": "AS 350 B2",
+          "fabricante": "AIRBUS HELICOPTERS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRAGM",
+          "modelo": "PC-12/45",
+          "fabricante": "PILATUS",
+          "tipo": "MNTE",
+          "icao": "PC12",
+          "pax_max": "9",
+          "ano": "2005",
+          "uf": "SP"
+        }
+      ],
+      "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA": [
+        {
+          "marca": "PRBSI",
+          "modelo": "B300",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "BE30",
+          "icao": "B350",
+          "pax_max": "8",
+          "ano": "2012",
+          "uf": "DF"
+        }
+      ],
+      "MINISTERIO DA JUSTIÇA E SEGURANÇA PÚBLICA": [
+        {
+          "marca": "PRFKC",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2021",
+          "uf": "DF"
+        }
+      ],
+      "SECRETARIA DE SEGURANÇA PÚBLICA DO ESTADO DO PIAUÍ": [
+        {
+          "marca": "PRFPM",
+          "modelo": "EC 120 B",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "EC20",
+          "pax_max": "4",
+          "ano": "2002",
+          "uf": "DF"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SEGURANÇA, DEFESA E CIDADANIA": [
+        {
+          "marca": "PRHNB",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "6",
+          "ano": "2014",
+          "uf": "SP"
+        }
+      ],
+      "SECRETARIA DA SEGURANCA PUBLICA": [
+        {
+          "marca": "PRSST",
+          "modelo": "AS 350 B3",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2010",
+          "uf": "TO"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA, DEFESA E CIDADANIA - SESDEC": [
+        {
+          "marca": "PRHLL",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "6",
+          "ano": "2014",
+          "uf": "SP"
+        }
+      ],
+      "SECRETARIA DE SEGURANÇA, DEFESA E CIDADANIA DE RONDÔNIA": [
+        {
+          "marca": "PRSIX",
+          "modelo": "R66",
+          "fabricante": "ROBINSON HELICOPTER",
+          "tipo": "HMNT",
+          "icao": "R66",
+          "pax_max": "4",
+          "ano": "2012",
+          "uf": "MG"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SEGURANCA PUBLICA E DA DEFESA SOCIAL": [
+        {
+          "marca": "PSGOD",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "6",
+          "ano": "2023",
+          "uf": "RN"
+        }
+      ],
+      "MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA": [
+        {
+          "marca": "PRFKE",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2022",
+          "uf": "DF"
+        }
+      ],
+      "GOVERNO DO ESTADO DE RONDONIA": [
+        {
+          "marca": "PTVAY",
+          "modelo": "EMB-810D",
+          "fabricante": "EMBRAER",
+          "tipo": "MLTE",
+          "icao": "PA34",
+          "pax_max": "006",
+          "ano": "",
+          "uf": "RO"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA DO ESTADO DO PARANÁ ¿ SSP/PR": [
+        {
+          "marca": "PSHPR",
+          "modelo": "R66",
+          "fabricante": "ROBINSON HELICOPTER",
+          "tipo": "HMNT",
+          "icao": "R66",
+          "pax_max": "3",
+          "ano": "2022",
+          "uf": "SP"
+        }
+      ],
+      "GOVERNO DO ESTADO DO PARANÁ": [
+        {
+          "marca": "PTTRC",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2011",
+          "uf": "PE"
+        },
+        {
+          "marca": "PPJAF",
+          "modelo": "R66",
+          "fabricante": "ROBINSON HELICOPTER",
+          "tipo": "HMNT",
+          "icao": "R66",
+          "pax_max": "4",
+          "ano": "2013",
+          "uf": "RJ"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SEGURANCA PUBLICA BPMOA": [
+        {
+          "marca": "PSHLT",
+          "modelo": "R66",
+          "fabricante": "ROBINSON HELICOPTER",
+          "tipo": "HMNT",
+          "icao": "R66",
+          "pax_max": "4",
+          "ano": "2024",
+          "uf": "PR"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SEGURANCA PUBLICA E ADMINISTRACAO PENITENCIARIA - SESP": [
+        {
+          "marca": "PPEJI",
+          "modelo": "206B",
+          "fabricante": "BELL HELICOPTER",
+          "tipo": "HMNT",
+          "icao": "B06",
+          "pax_max": "4",
+          "ano": "1992",
+          "uf": "PR"
+        }
+      ],
+      "SECRETARIA DE SEGURANÇA PÚBLICA DO ESTADO DE ALAGOAS": [
+        {
+          "marca": "PSPAM",
+          "modelo": "EC135 T3",
+          "fabricante": "AIRBUS HELICOPTERS DEUTSCHLAND",
+          "tipo": "HMLT",
+          "icao": "EC35",
+          "pax_max": "7",
+          "ano": "2024",
+          "uf": "AL"
+        }
+      ],
+      "SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA E DEFESA SOCIAL DO PARÁ": [
+        {
+          "marca": "PRBAC",
+          "modelo": "58",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "1983",
+          "uf": "BA"
+        }
+      ],
+      "SECRETARIA DA SEGURANÇA PÚBLICA E DA DEFESA SOCIAL DO RIO GRANDE DO NORTE": [
+        {
+          "marca": "PPFHD",
+          "modelo": "210N",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C210",
+          "pax_max": "005",
+          "ano": "1982",
+          "uf": "DF"
+        }
+      ]
+    },
+    "Polícia Federal": {
+      "DEPARTAMENTO DE POLICIA FEDERAL": [
+        {
+          "marca": "PRHFD",
+          "modelo": "AS 355 N",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMLT",
+          "icao": "AS55",
+          "pax_max": "5",
+          "ano": "2002",
+          "uf": "DF"
+        },
+        {
+          "marca": "PTHZH",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1995",
+          "uf": "DF"
+        },
+        {
+          "marca": "PSIRB",
+          "modelo": "208B",
+          "fabricante": "TEXTRON AVIATION",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2025",
+          "uf": "DF"
+        },
+        {
+          "marca": "PRHFA",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2002",
+          "uf": "DF"
+        },
+        {
+          "marca": "PRAAC",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2001",
+          "uf": "DF"
+        },
+        {
+          "marca": "PPFRS",
+          "modelo": "PA-23-250",
+          "fabricante": "PIPER AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "PA27",
+          "pax_max": "5",
+          "ano": "1973",
+          "uf": "DF"
+        },
+        {
+          "marca": "PRHFC",
+          "modelo": "AS 355 N",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMLT",
+          "icao": "AS55",
+          "pax_max": "5",
+          "ano": "2002",
+          "uf": "DF"
+        },
+        {
+          "marca": "PRHFV",
+          "modelo": "AW139",
+          "fabricante": "AGUSTA",
+          "tipo": "A139",
+          "icao": "A139",
+          "pax_max": "15",
+          "ano": "2013",
+          "uf": "DF"
+        },
+        {
+          "marca": "PRHFB",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2002",
+          "uf": "DF"
+        },
+        {
+          "marca": "PSCAV",
+          "modelo": "ERJ 170-200 STD",
+          "fabricante": "EMBRAER",
+          "tipo": "E179",
+          "icao": "E75S",
+          "pax_max": "82",
+          "ano": "2012",
+          "uf": "DF"
+        }
+      ],
+      "MJ-DEPARTAMENTO DE POLICIA FEDERAL": [
+        {
+          "marca": "PUDRF",
+          "modelo": "",
+          "fabricante": "",
+          "tipo": "UBTE",
+          "icao": "ULAC",
+          "pax_max": "000",
+          "ano": "",
+          "uf": "DF"
+        },
+        {
+          "marca": "PTHRG",
+          "modelo": "412",
+          "fabricante": "BELL HELICOPTER",
+          "tipo": "HMLT",
+          "icao": "B412",
+          "pax_max": "10",
+          "ano": "1982",
+          "uf": "DF"
+        },
+        {
+          "marca": "PTHRH",
+          "modelo": "412",
+          "fabricante": "BELL HELICOPTER",
+          "tipo": "HMLT",
+          "icao": "B412",
+          "pax_max": "11",
+          "ano": "1982",
+          "uf": "DF"
+        },
+        {
+          "marca": "PUDRG",
+          "modelo": "",
+          "fabricante": "",
+          "tipo": "UBTE",
+          "icao": "ULAC",
+          "pax_max": "000",
+          "ano": "",
+          "uf": "PE"
+        }
+      ],
+      "DEPARTAMENTO DE POLICIA FEDERAL - MINISTERIO DA JUSTICA E SEGURANCA PUBLICA": [
+        {
+          "marca": "PRYLO",
+          "modelo": "A109E",
+          "fabricante": "AGUSTA",
+          "tipo": "HMLT",
+          "icao": "A109",
+          "pax_max": "7",
+          "ano": "1999",
+          "uf": "DF"
+        }
+      ],
+      "DEPARTAMENTO POLICIA FEDERAL-MJ": [
+        {
+          "marca": "PPFPU",
+          "modelo": "PA-31",
+          "fabricante": "PIPER AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "PA31",
+          "pax_max": "006",
+          "ano": "1976",
+          "uf": "DF"
+        }
+      ],
+      "DEPARTAMENTO DE POLICIA FEDERAL - MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA": [
+        {
+          "marca": "PSDPF",
+          "modelo": "ERJ 170-200 STD",
+          "fabricante": "EMBRAER",
+          "tipo": "E179",
+          "icao": "E75S",
+          "pax_max": "82",
+          "ano": "2012",
+          "uf": "DF"
+        }
+      ],
+      "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA  - DEPARTAMENTO DE POLICIA FEDERAL": [
+        {
+          "marca": "PSPFG",
+          "modelo": "412EP",
+          "fabricante": "BELL HELICOPTER",
+          "tipo": "HMLT",
+          "icao": "B412",
+          "pax_max": "13",
+          "ano": "2007",
+          "uf": "Indisponível"
+        }
+      ],
+      "MINISTÉRIO DA JUSTIÇA E SEG PÚBLICA - DEPARTAMENTO DE POLÍCIA FEDERAL": [
+        {
+          "marca": "PRLEE",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2013",
+          "uf": "DF"
+        }
+      ],
+      "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA - DEPARTAMENTO DE POLICIA FEDERAL": [
+        {
+          "marca": "PSPFH",
+          "modelo": "412EP",
+          "fabricante": "BELL HELICOPTER",
+          "tipo": "HMLT",
+          "icao": "B412",
+          "pax_max": "13",
+          "ano": "1996",
+          "uf": "Indisponível"
+        }
+      ]
+    },
+    "Polícia Civil": {
+      "POLICIA CIVIL DO ESTADO DO RIO DE JANEIRO": [
+        {
+          "marca": "PPEVA",
+          "modelo": "AS 355 N",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMLT",
+          "icao": "AS55",
+          "pax_max": "5",
+          "ano": "1993",
+          "uf": "RJ"
+        }
+      ],
+      "DEPARTAMENTO DE REPRESSÃO À CORRUPÇÃO E AO CRIME ORGANIZADO DA POLÍCIA CIVIL DE MATO GROSSO DO SUL - DRACCO": [
+        {
+          "marca": "PSONE",
+          "modelo": "210N",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C210",
+          "pax_max": "5",
+          "ano": "1980",
+          "uf": "MS"
+        },
+        {
+          "marca": "PTBPE",
+          "modelo": "185",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C185",
+          "pax_max": "5",
+          "ano": "1961",
+          "uf": "MS"
+        },
+        {
+          "marca": "PRVVV",
+          "modelo": "58",
+          "fabricante": "RAYTHEON AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "1986",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRVIB",
+          "modelo": "58",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "1977",
+          "uf": "PR"
+        }
+      ],
+      "POLICIA CIVIL DO ESTADO DE SAO PAULO": [
+        {
+          "marca": "PPMAU",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2002",
+          "uf": "SP"
+        },
+        {
+          "marca": "PPLOC",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2010",
+          "uf": "MG"
+        },
+        {
+          "marca": "PRTCL",
+          "modelo": "PA-31T2",
+          "fabricante": "PIPER AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "PAY2",
+          "pax_max": "7",
+          "ano": "1983",
+          "uf": "SP"
+        },
+        {
+          "marca": "PTMEN",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "1994",
+          "uf": "SP"
+        }
+      ],
+      "POLICIA CIVIL DO ESTADO DE MINAS GERAIS": [
+        {
+          "marca": "PREVA",
+          "modelo": "C90A",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE9L",
+          "pax_max": "7",
+          "ano": "2001",
+          "uf": "MG"
+        },
+        {
+          "marca": "PPESP",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1993",
+          "uf": "MG"
+        },
+        {
+          "marca": "PROLO",
+          "modelo": "210L",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C210",
+          "pax_max": "5",
+          "ano": "1974",
+          "uf": "SP"
+        }
+      ],
+      "POLICIA CIVIL DO DISTRITO FEDERAL": [
+        {
+          "marca": "PTHZG",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1995",
+          "uf": "DF"
+        },
+        {
+          "marca": "PTICT",
+          "modelo": "58",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "1971",
+          "uf": "DF"
+        },
+        {
+          "marca": "PPFZA",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2000",
+          "uf": "DF"
+        },
+        {
+          "marca": "PPFZB",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2015",
+          "uf": "DF"
+        }
+      ],
+      "POLICIA CIVIL": [
+        {
+          "marca": "PPCGO",
+          "modelo": "AW119MKII",
+          "fabricante": "AGUSTA",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2010",
+          "uf": "GO"
+        },
+        {
+          "marca": "PSPCM",
+          "modelo": "PA-46-500TP",
+          "fabricante": "PIPER AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "P46T",
+          "pax_max": "5",
+          "ano": "2014",
+          "uf": "RS"
+        }
+      ],
+      "POLÍCIA CIVIL DO ESTADO DE MATO GROSSO DO SUL - DEPARTAMENTO DE REPRESSÃO A CORRUPÇÃO E AO CRIME ORGANIZADO - DRACCO": [
+        {
+          "marca": "PRHMR",
+          "modelo": "R66",
+          "fabricante": "ROBINSON HELICOPTER",
+          "tipo": "HMNT",
+          "icao": "R66",
+          "pax_max": "4",
+          "ano": "2011",
+          "uf": "PA"
+        }
+      ],
+      "POLÍCIA CIVIL DO ESTADO DE SANTA CATARINA": [
+        {
+          "marca": "PRNBJ",
+          "modelo": "R44 II",
+          "fabricante": "ROBINSON HELICOPTER",
+          "tipo": "HMNC",
+          "icao": "R44",
+          "pax_max": "3",
+          "ano": "2014",
+          "uf": "PR"
+        }
+      ],
+      "SECRETARIA DE ESTADO DE POLICIA CIVIL": [
+        {
+          "marca": "PSAPC",
+          "modelo": "AW169",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMLT",
+          "icao": "A169",
+          "pax_max": "10",
+          "ano": "2022",
+          "uf": "RJ"
+        }
+      ],
+      "POLÍCIA CIVIL DO RIO GRANDE DO SUL": [
+        {
+          "marca": "PPJGO",
+          "modelo": "58",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "1981",
+          "uf": "BA"
+        },
+        {
+          "marca": "PTLJY",
+          "modelo": "E55",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE55",
+          "pax_max": "5",
+          "ano": "1978",
+          "uf": "MT"
+        },
+        {
+          "marca": "PTEUD",
+          "modelo": "EMB-810C",
+          "fabricante": "EMBRAER",
+          "tipo": "MLTE",
+          "icao": "PA34",
+          "pax_max": "5",
+          "ano": "1978",
+          "uf": "MG"
+        },
+        {
+          "marca": "PRIPC",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2025",
+          "uf": "RS"
+        }
+      ],
+      "SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA E ADMINISTRAÇÃO PENITENCIÁRIA - POLÍCIA CIVIL DO PARANÁ.": [
+        {
+          "marca": "PRYFH",
+          "modelo": "R44 II",
+          "fabricante": "ROBINSON HELICOPTER",
+          "tipo": "HMNC",
+          "icao": "R44",
+          "pax_max": "3",
+          "ano": "2006",
+          "uf": "PR"
+        },
+        {
+          "marca": "PRCBH",
+          "modelo": "EC 130 B4",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "EC30",
+          "pax_max": "7",
+          "ano": "2009",
+          "uf": "PR"
+        },
+        {
+          "marca": "PPPRL",
+          "modelo": "R44 II",
+          "fabricante": "ROBINSON HELICOPTER",
+          "tipo": "HMNC",
+          "icao": "R44",
+          "pax_max": "3",
+          "ano": "2009",
+          "uf": "BA"
+        },
+        {
+          "marca": "PTHZF",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "6",
+          "ano": "1994",
+          "uf": "PR"
+        }
+      ],
+      "POLICIA CIVIL DO EST.DE MINAS GERAIS": [
+        {
+          "marca": "PPEVB",
+          "modelo": "EMB-721D",
+          "fabricante": "NEIVA",
+          "tipo": "MNTE",
+          "icao": "P32R",
+          "pax_max": "6",
+          "ano": "1980",
+          "uf": "MG"
+        },
+        {
+          "marca": "PPFPS",
+          "modelo": "182N",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C182",
+          "pax_max": "3",
+          "ano": "1970",
+          "uf": "MG"
+        },
+        {
+          "marca": "PPESQ",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2001",
+          "uf": "MG"
+        }
+      ],
+      "FUNDO DE MELHORIA DA POLICIA CIVIL - FUMPC": [
+        {
+          "marca": "PRHDR",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2002",
+          "uf": "RJ"
+        }
+      ],
+      "POLICIA CIVIL DO EST.DO R.DE JANEIRO": [
+        {
+          "marca": "PPEIH",
+          "modelo": "AS 350 BA",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1983",
+          "uf": "RJ"
+        }
+      ],
+      "DELEGACIA-GERAL DA POLICIA CIVIL - POLÍCIA CIVIL  MS": [
+        {
+          "marca": "PTYEZ",
+          "modelo": "R44",
+          "fabricante": "ROBINSON HELICOPTER",
+          "tipo": "HMNC",
+          "icao": "R44",
+          "pax_max": "3",
+          "ano": "1996",
+          "uf": "SE"
+        }
+      ],
+      "POLÍCIA CIVIL DO ESTADO DE RONDÔNIA": [
+        {
+          "marca": "PRMEH",
+          "modelo": "58",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "1976",
+          "uf": "AM"
+        }
+      ],
+      "SECRETARIA DE ESTADO DE POLÍCIA CIVIL - SEPOL": [
+        {
+          "marca": "PRJPC",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2020",
+          "uf": "RJ"
+        }
+      ],
+      "FUNDO DE MELHORIA DA POLÍCIA CIVIL ¿ FUMPC": [
+        {
+          "marca": "PRYDJ",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2004",
+          "uf": "RJ"
+        }
+      ],
+      "POLICIA CIVIL DO ESTADO DE GOIÁS": [
+        {
+          "marca": "PSPCG",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2025",
+          "uf": "GO"
+        }
+      ],
+      "POLÍCIA CIVIL DO ESTADO RIO GRANDE DO SUL": [
+        {
+          "marca": "PRFEG",
+          "modelo": "58",
+          "fabricante": "RAYTHEON AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "1982",
+          "uf": "SC"
+        }
+      ],
+      "POLÍCIA CIVIL DO ESTADO DO TOCANTINS": [
+        {
+          "marca": "PREDC",
+          "modelo": "R66",
+          "fabricante": "ROBINSON HELICOPTER",
+          "tipo": "HMNT",
+          "icao": "R66",
+          "pax_max": "4",
+          "ano": "2012",
+          "uf": "SP"
+        }
+      ],
+      "RIO GRANDE DO SUL POLICIA CIVIL": [
+        {
+          "marca": "PRHPC",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2012",
+          "uf": "RS"
+        }
+      ],
+      "POLÍCIA CIVIL DO ESTADO DO TOCANTINS - SSP/TO": [
+        {
+          "marca": "PTEAB",
+          "modelo": "EMB-810C",
+          "fabricante": "EMBRAER",
+          "tipo": "MLTE",
+          "icao": "PA34",
+          "pax_max": "6",
+          "ano": "",
+          "uf": "SP"
+        }
+      ],
+      "POLÍCIA CIVIL DO ESTADO DE RORAIMA": [
+        {
+          "marca": "PRRGM",
+          "modelo": "R44 II",
+          "fabricante": "ROBINSON HELICOPTER",
+          "tipo": "HMNC",
+          "icao": "R44",
+          "pax_max": "3",
+          "ano": "2009",
+          "uf": "MG"
+        }
+      ]
+    },
+    "Polícia Militar": {
+      "POLICIA MILITAR DO EST DE SANTA CATARINA": [
+        {
+          "marca": "PTHZL",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1997",
+          "uf": "SC"
+        }
+      ],
+      "GOIAS POLICIA MILITAR QUARTEL GENERAL": [
+        {
+          "marca": "PRPMG",
+          "modelo": "AW119MKII",
+          "fabricante": "AGUSTA",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2010",
+          "uf": "GO"
+        }
+      ],
+      "POLICIA MILITAR DO ESTADO DO PARA": [
+        {
+          "marca": "PRYSJ",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2004",
+          "uf": "PA"
+        },
+        {
+          "marca": "PRAMF",
+          "modelo": "AMT-200S",
+          "fabricante": "AEROMOT",
+          "tipo": "PLAN",
+          "icao": "RF10",
+          "pax_max": "1",
+          "ano": "2003",
+          "uf": "PA"
+        },
+        {
+          "marca": "PRGSJ",
+          "modelo": "AMT-200S",
+          "fabricante": "AEROMOT",
+          "tipo": "PLAN",
+          "icao": "RF10",
+          "pax_max": "001",
+          "ano": "2004",
+          "uf": "PA"
+        }
+      ],
+      "POLICIA MILITAR DO ESTADO DE SAO PAULO": [
+        {
+          "marca": "PRSPK",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2011",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRSPD",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2010",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRSPE",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2010",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRSPH",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2009",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRREL",
+          "modelo": "269C-1",
+          "fabricante": "SCHWEIZER",
+          "tipo": "HMNC",
+          "icao": "H269",
+          "pax_max": "1",
+          "ano": "2010",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRSPG",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2010",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRSPI",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2010",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRSPS",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2014",
+          "uf": "SP"
+        },
+        {
+          "marca": "PPEOD",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1992",
+          "uf": "SP"
+        }
+      ],
+      "RJ SSP POLICIA MILITAR DO ESTADO DO RIO DE JANEIRO": [
+        {
+          "marca": "PRLLM",
+          "modelo": "AS 350 B3",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2010",
+          "uf": "RJ"
+        }
+      ],
+      "POLÍCIA MILITAR DO ESTADO DE SÃO PAULO": [
+        {
+          "marca": "PPEOJ",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1993",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRFSP",
+          "modelo": "AW109SP",
+          "fabricante": "AGUSTA",
+          "tipo": "HMLT",
+          "icao": "A109",
+          "pax_max": "7",
+          "ano": "2014",
+          "uf": "SP"
+        },
+        {
+          "marca": "PPEOZ",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1999",
+          "uf": "SP"
+        },
+        {
+          "marca": "PPEOW",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1999",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRSLN",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2001",
+          "uf": "SP"
+        },
+        {
+          "marca": "PSGER",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2022",
+          "uf": "SP"
+        },
+        {
+          "marca": "PPEOV",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1999",
+          "uf": "SP"
+        },
+        {
+          "marca": "PPEOX",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1999",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRPUB",
+          "modelo": "AS 350 B3",
+          "fabricante": "AIRBUS HELICOPTERS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2022",
+          "uf": "SP"
+        },
+        {
+          "marca": "PPEOE",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1992",
+          "uf": "SP"
+        },
+        {
+          "marca": "PPEOS",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2000",
+          "uf": "SP"
+        },
+        {
+          "marca": "PPSAU",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2014",
+          "uf": "SP"
+        },
+        {
+          "marca": "PPEOY",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1999",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRUBI",
+          "modelo": "EC135 T3",
+          "fabricante": "AIRBUS HELICOPTERS DEUTSCHLAND",
+          "tipo": "HMLT",
+          "icao": "EC35",
+          "pax_max": "6",
+          "ano": "2022",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRINP",
+          "modelo": "G58",
+          "fabricante": "HAWKER BEECHCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "2011",
+          "uf": "PA"
+        }
+      ],
+      "POLICIA MILITAR DO DISTRITO FEDERAL": [
+        {
+          "marca": "PRPMF",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2011",
+          "uf": "DF"
+        },
+        {
+          "marca": "PRPMD",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2011",
+          "uf": "DF"
+        }
+      ],
+      "POLÍCIA MILITAR DO ESTADO DE RONDÔNIA": [
+        {
+          "marca": "PTVGK",
+          "modelo": "EMB-810D",
+          "fabricante": "NEIVA",
+          "tipo": "MLTE",
+          "icao": "PA34",
+          "pax_max": "5",
+          "ano": "1987",
+          "uf": "MT"
+        }
+      ],
+      "POLÍCIA MILITAR DO ESTADO DE MINAS GERAIS": [
+        {
+          "marca": "PPEJS",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2019",
+          "uf": "MG"
+        },
+        {
+          "marca": "PPLCE",
+          "modelo": "550 BRAVO",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "C500",
+          "icao": "C550",
+          "pax_max": "8",
+          "ano": "2003",
+          "uf": "MG"
+        },
+        {
+          "marca": "PPEJO",
+          "modelo": "300",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "BE30",
+          "icao": "BE30",
+          "pax_max": "9",
+          "ano": "1986",
+          "uf": "MG"
+        },
+        {
+          "marca": "PPEJT",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2025",
+          "uf": "MG"
+        }
+      ],
+      "POLICIA MILITAR DO ESTADO DE GOIAS": [
+        {
+          "marca": "PPPMG",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2025",
+          "uf": "GO"
+        },
+        {
+          "marca": "PPEHO",
+          "modelo": "AS 350 BA",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1981",
+          "uf": "GO"
+        },
+        {
+          "marca": "PTRQX",
+          "modelo": "EMB-810D",
+          "fabricante": "EMBRAER",
+          "tipo": "MLTE",
+          "icao": "PA34",
+          "pax_max": "5",
+          "ano": "1982",
+          "uf": "MG"
+        }
+      ],
+      "POLICIA MILITAR DO DISTRITO FEDERAL-PMDF": [
+        {
+          "marca": "PTVKJ",
+          "modelo": "EMB-820C CARAJA",
+          "fabricante": "EMBRAER",
+          "tipo": "MLTE",
+          "icao": "PAT4",
+          "pax_max": "7",
+          "ano": "1988",
+          "uf": "DF"
+        },
+        {
+          "marca": "PRLLN",
+          "modelo": "T210N",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C210",
+          "pax_max": "5",
+          "ano": "1979",
+          "uf": "DF"
+        },
+        {
+          "marca": "PPFSP",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1991",
+          "uf": "DF"
+        }
+      ],
+      "POLICIA MILITAR DE MATO GROSSO": [
+        {
+          "marca": "PPEMT",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1998",
+          "uf": "MT"
+        }
+      ],
+      "POLICIA MILITAR DE SANTA CATARINA": [
+        {
+          "marca": "PPFFY",
+          "modelo": "EMB-810C",
+          "fabricante": "EMBRAER",
+          "tipo": "MLTE",
+          "icao": "PA34",
+          "pax_max": "5",
+          "ano": "1976",
+          "uf": "SC"
+        },
+        {
+          "marca": "PRPMM",
+          "modelo": "AW119MKII",
+          "fabricante": "AGUSTA",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2009",
+          "uf": "SC"
+        },
+        {
+          "marca": "PTNKL",
+          "modelo": "EMB-711C",
+          "fabricante": "NEIVA",
+          "tipo": "MNTE",
+          "icao": "P28R",
+          "pax_max": "3",
+          "ano": "1977",
+          "uf": "GO"
+        },
+        {
+          "marca": "PRHGH",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2001",
+          "uf": "SC"
+        }
+      ],
+      "POLÍCIA MILITAR DO ESTADO DE GOIÁS": [
+        {
+          "marca": "PSFAL",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2025",
+          "uf": "GO"
+        }
+      ],
+      "POLÍCIA MILITAR DO ESTADO DA BAHIA": [
+        {
+          "marca": "PROPM",
+          "modelo": "AS 350 B3",
+          "fabricante": "AIRBUS HELICOPTERS",
+          "tipo": "",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2026",
+          "uf": "MG"
+        }
+      ],
+      "POLICIA MILITAR DO ESTADO DE MINAS GERAIS": [
+        {
+          "marca": "PRXAA",
+          "modelo": "B300",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "BE30",
+          "icao": "B350",
+          "pax_max": "10",
+          "ano": "2004",
+          "uf": "MG"
+        },
+        {
+          "marca": "PPEPO",
+          "modelo": "AS 365 N2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMLT",
+          "icao": "AS65",
+          "pax_max": "7",
+          "ano": "1993",
+          "uf": "MG"
+        }
+      ],
+      "POLICIA MILITAR DO ESTADO DO TOCANTINS": [
+        {
+          "marca": "PSHAM",
+          "modelo": "AS 350 B2",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2007",
+          "uf": "TO"
+        },
+        {
+          "marca": "PRRRM",
+          "modelo": "210L",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C210",
+          "pax_max": "5",
+          "ano": "1975",
+          "uf": "MT"
+        },
+        {
+          "marca": "PPAAZ",
+          "modelo": "G58",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "2008",
+          "uf": "MG"
+        }
+      ],
+      "POLICIA MILITAR": [
+        {
+          "marca": "PRRRD",
+          "modelo": "210N",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C210",
+          "pax_max": "5",
+          "ano": "1978",
+          "uf": "MG"
+        }
+      ],
+      "POLICIA MILITAR DA BAHIA": [
+        {
+          "marca": "PRGPM",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2006",
+          "uf": "BA"
+        }
+      ],
+      "POLICIA MILITAR DO PIAUI": [
+        {
+          "marca": "PRTNG",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "",
+          "uf": "BA"
+        }
+      ],
+      "POLICIA MILITAR DO EST.DE SAO PAULO": [
+        {
+          "marca": "PTHYL",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1993",
+          "uf": "SP"
+        }
+      ],
+      "GRUPAMENTO AÉREO DA POLÍCIA MILITAR DO TOCANTINS": [
+        {
+          "marca": "PSPIX",
+          "modelo": "210M",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C210",
+          "pax_max": "5",
+          "ano": "1977",
+          "uf": "PA"
+        }
+      ]
+    },
+    "Polícia Rodoviária Federal": {
+      "POLÍCIA RODOVIÁRIA FEDERAL": [
+        {
+          "marca": "PTOQD",
+          "modelo": "500",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "C500",
+          "icao": "C500",
+          "pax_max": "5",
+          "ano": "1975",
+          "uf": "PR"
+        }
+      ],
+      "DEPARTAMENTO DA POLÍCIA RODOVIÁRIA FEDERAL": [
+        {
+          "marca": "PRFKG",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2023",
+          "uf": "DF"
+        }
+      ],
+      "MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA - DEPARTAMENTO DE POLÍCIA RODOVIÁRIA FEDERAL": [
+        {
+          "marca": "PRFYC",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2024",
+          "uf": "DF"
+        },
+        {
+          "marca": "PRFPF",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2024",
+          "uf": "DF"
+        }
+      ],
+      "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA - DEPARTAMENTO DE POLICIA RODOVIARIA FEDERAL": [
+        {
+          "marca": "PRFCD",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2024",
+          "uf": "DF"
+        }
+      ],
+      "DEPARTAMENTO DE POLICIA RODOVIARIA FEDERAL": [
+        {
+          "marca": "PRFKF",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2022",
+          "uf": "DF"
+        }
+      ],
+      "DEPARTAMENTO DE POLÍCIA RODOVIÁRIA FEDERAL": [
+        {
+          "marca": "PRFCY",
+          "modelo": "208B",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C208",
+          "pax_max": "9",
+          "ano": "2024",
+          "uf": "DF"
+        }
+      ]
+    }
+  }
+}

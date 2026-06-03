@@ -1,0 +1,1267 @@
+# Frotas de Aeronaves — Órgãos Públicos Não-FAB
+
+_Gerado em 2026-06-03 · Fonte: [RAB/ANAC](https://sistemas.anac.gov.br/dadosabertos/Aeronaves/RAB/dados_aeronaves.csv) · Dados de 2026-06-03 · **302 aeronaves ativas** em 155 órgãos_
+
+> Exclui aeronaves da FAB/Aeronáutica (cobertas pelo GABAER/Decreto 10.267/2020).
+
+## Corpo de Bombeiros (58 aeronaves)
+
+| Órgão | UF | Aeronaves |
+|---|---|---:|
+| CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL | DF | 8 |
+| CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS | MG | 4 |
+| CORPO DE BOMBEIROS MILITAR DE RONDONIA | RO | 4 |
+| CORPO DE BOMBEIROS MILITAR DO ESTADO DE SANTA CATARINA | SC | 3 |
+| CORPO DE BOMBEIROS MIL.DE M.GERAIS | MG | 3 |
+| CORPO DE BOMBEIROS MIL. DO EST.DE GOIAS | GO | 3 |
+| FUNDO DE MELHORIA DO CORPO DE BOMBEIROS | SC | 3 |
+| CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO GRANDE DO NORTE | RN | 2 |
+| CORPO DE BOMBEIROS MIL. DO DIST. FEDERAL | DF | 2 |
+| CORPO DE BOMBEIROS MILITAR DO ESTADO DE MATO GROSSO DO SUL | SP | 2 |
+| CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS | MT | 2 |
+| CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO | RJ | 2 |
+| CORPO DE BOMBEIROS MILITAR DO ESTADO DE ALAGOAS | GO | 2 |
+| CORPO DE BOMBEIROS MILITAR DA BAHIA | MG | 2 |
+| CORPO DE BOMBEIROS MIL.DIST.FEDERAL | DF | 1 |
+| SECRETARIA DE ESTADO DA SAUDE - SES - CORPO DE BOMBEIROS MILITAR DA PARAÍBA | GO | 1 |
+| CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS - CBMMG | MG | 1 |
+| CORPO DE BOMBEIROS MILITAR DO ESTADO DA PARAÍBA | MT | 1 |
+| CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO GRANDE DO SUL | RS | 1 |
+| CORPO DE BOMBEIROS MILITAR - SC | SC | 1 |
+| CORPO DE BOMBEIROS MILITAR DO ESTADO DO ACRE | AC | 1 |
+| CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS- BATALHÃO DE OPERAÇÕES AÉREAS | SP | 1 |
+| CORPO DE BOMBEIROS MIL.DO EST.M.G.DO SUL | SP | 1 |
+| CORPO DE BOMBEIROS MIL.DO EST.PARA | PR | 1 |
+| GOV.DO DISTR.FED.CORPO DE BOMBEIROS | DF | 1 |
+| SEDEC-CORPO DE BOMBEIROS MIL.EST.RJ | RJ | 1 |
+| SECRETARIA DE ESTADO DE DEFESA CIVIL - CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO | RJ | 1 |
+| CORPO DE BOMBEIROS MILITAR DO ESTADO DE SANTA CATARINA - BATALHÃO DE OPERAÇÕES AÉREAS | SC | 1 |
+| CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS - CBMGO | Indisponível | 1 |
+| CORPO DE BOMBEIROS MILITAR DO ESTADO DE SANTA CATARINA -  BATALHÃO DE OPERAÇÕES AÉREAS | SC | 1 |
+
+### CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPFFH | PA-18-150 | PIPER AIRCRAFT | PA18 | 1 | 1974 |
+| PPFFL | PA-18-150 | PIPER AIRCRAFT | PA18 | 1 | 1974 |
+| PRDHL | EC 130 B4 | EUROCOPTER FRANCE | EC30 | 6 | 2008 |
+| PRMJX | AS 350 B2 | HELIBRAS | AS50 | 5 | 2007 |
+| PRMPJ | B200 | HAWKER BEECHCRAFT | BE20 | 9 | 1988 |
+| PRPIU | R44 II | ROBINSON HELICOPTER | R44 | 3 | 2010 |
+| PSBDF | AS 350 B3 | HELIBRAS | AS50 | 5 | 2023 |
+| PSCBD | 208B | CESSNA AIRCRAFT | C208 | 9 | 2025 |
+
+### CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPSAV | AS 350 B3 | HELIBRAS | AS50 | 5 | 2017 |
+| PSCEB | MBB BK 117 D-3 | AIRBUS HELICOPTERS DEUTSCHLAND | EC45 | 9 | 2024 |
+| PSEME | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2022 |
+| PSUTI | MBB BK 117 D-3 | AIRBUS HELICOPTERS DEUTSCHLAND | EC45 | 9 | 2024 |
+
+### CORPO DE BOMBEIROS MILITAR DE RONDONIA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRPML | 208B | CESSNA AIRCRAFT | C208 | 9 | 2018 |
+| PTDPH | 210K | CESSNA AIRCRAFT | C210 | 5 | 1970 |
+| PTHMW | HB-350B | HELIBRAS | AS50 | 5 | 1984 |
+| PTLMU | 58 | BEECH AIRCRAFT | BE58 | 5 | 1982 |
+
+### CORPO DE BOMBEIROS MILITAR DO ESTADO DE SANTA CATARINA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPAGP | 208B | CESSNA AIRCRAFT | C208 | 9 | 2011 |
+| PTRFT | EMB-820C CARAJA | EMBRAER | PAT4 | 7 | 1983 |
+| PTVKG | EMB-820C CARAJA | EMBRAER | PAT4 | 7 | 1989 |
+
+### CORPO DE BOMBEIROS MIL.DE M.GERAIS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPBBM | AS 350 B2 | HELIBRAS | AS50 | 5 | 2007 |
+| PRBOA | AS 350 B2 | HELIBRAS | AS50 | 5 | 2007 |
+| PSSUS | 208B | TEXTRON AVIATION | C208 | 9 | 2023 |
+
+### CORPO DE BOMBEIROS MIL. DO EST.DE GOIAS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRMZP | C90A | BEECH AIRCRAFT | BE9L | 7 | 2004 |
+| PRTID | 58 | BEECH AIRCRAFT | BE58 | 5 | 1984 |
+| PTVJH | EMB-810D | EMBRAER | PA34 | 5 | 1989 |
+
+### FUNDO DE MELHORIA DO CORPO DE BOMBEIROS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRBNU | AS 350 B2 | HELIBRAS | AS50 | 5 | 2016 |
+| PRHGR | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 2003 |
+| PRYCB | AS 350 B2 | HELIBRAS | AS50 | 6 | 2010 |
+
+### CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO GRANDE DO NORTE
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPERN | EMB-110P1 | EMBRAER | E110 | 9 | 1981 |
+| PTJLE | E55 | BEECH AIRCRAFT | BE55 | 5 | 1973 |
+
+### CORPO DE BOMBEIROS MIL. DO DIST. FEDERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPNBS | AT-802 | AIR TRACTOR | AT8T | 0 | 2011 |
+| PPNBZ | AT-802 | AIR TRACTOR | AT8T | 0 | 2011 |
+
+### CORPO DE BOMBEIROS MILITAR DO ESTADO DE MATO GROSSO DO SUL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPIMA | 206H | CESSNA AIRCRAFT | C206 | 5 | 2001 |
+| PRFPG | 58 | BEECH AIRCRAFT | BE58 | 5 | 1984 |
+
+### CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPVER | 58 | BEECH AIRCRAFT | BE58 | 5 | 1978 |
+| PTOKU | 95-B55 | BEECH AIRCRAFT | BE55 | 5 | 1980 |
+
+### CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPOBM | AS 350 B3 | HELIBRAS | AS50 | 5 | 2018 |
+| PTSRJ | AS 350 B3 | HELIBRAS | AS50 | 5 | 2019 |
+
+### CORPO DE BOMBEIROS MILITAR DO ESTADO DE ALAGOAS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PREPH | 210N | CESSNA AIRCRAFT | C210 | 5 | 1981 |
+| PRTXD | 58 | BEECH AIRCRAFT | BE58 | 5 | 1980 |
+
+### CORPO DE BOMBEIROS MILITAR DA BAHIA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRHCT | AS 350 B2 | HELIBRAS | AS50 | 5 | 2012 |
+| PTRAS | EMB-820C NAVAJO | EMBRAER | PA31 | 6 | 1979 |
+
+### CORPO DE BOMBEIROS MIL.DIST.FEDERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTHLZ | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 1985 |
+
+### SECRETARIA DE ESTADO DA SAUDE - SES - CORPO DE BOMBEIROS MILITAR DA PARAÍBA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTPTA | 208B | CESSNA AIRCRAFT | C208 | 9 | 1999 |
+
+### CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS - CBMMG
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSSES | 208B | CESSNA AIRCRAFT | C208 | 9 | 2020 |
+
+### CORPO DE BOMBEIROS MILITAR DO ESTADO DA PARAÍBA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRTPW | PA-32R-301T | PIPER AIRCRAFT | PA32 | 5 | 1997 |
+
+### CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO GRANDE DO SUL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSCOA | AW119MKII | AGUSTA | A119 | 7 | 2008 |
+
+### CORPO DE BOMBEIROS MILITAR - SC
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPADL | 35 | BEECH AIRCRAFT | BE35 | 3 | 1949 |
+
+### CORPO DE BOMBEIROS MILITAR DO ESTADO DO ACRE
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSBMA | 208B | TEXTRON AVIATION | C208 | 9 | 2025 |
+
+### CORPO DE BOMBEIROS MILITAR DE MINAS GERAIS- BATALHÃO DE OPERAÇÕES AÉREAS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRFNO | AT-502B | AIR TRACTOR | AT5T | 0 | 2010 |
+
+### CORPO DE BOMBEIROS MIL.DO EST.M.G.DO SUL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTKPG | A56TC | BEECH AIRCRAFT | BE56 | 005 | 1970 |
+
+### CORPO DE BOMBEIROS MIL.DO EST.PARA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTYAK | AS 350 BA | EUROCOPTER FRANCE | AS50 | 5 | 1995 |
+
+### GOV.DO DISTR.FED.CORPO DE BOMBEIROS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRCBM | EC 135T2 | EUROCOPTER DEUTSCHLAND | EC35 | 6 | 2005 |
+
+### SEDEC-CORPO DE BOMBEIROS MIL.EST.RJ
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PREBM | AT-802 | AIR TRACTOR | AT8T | 000 | 2003 |
+
+### SECRETARIA DE ESTADO DE DEFESA CIVIL - CORPO DE BOMBEIROS MILITAR DO ESTADO DO RIO DE JANEIRO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPUBM | AW169 | LEONARDO S.P.A | A169 | 10 | 2022 |
+
+### CORPO DE BOMBEIROS MILITAR DO ESTADO DE SANTA CATARINA - BATALHÃO DE OPERAÇÕES AÉREAS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRCMD | 208B | CESSNA AIRCRAFT | C208 | 9 | 2004 |
+
+### CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS - CBMGO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSHCH | AS 350 B3 | AIRBUS HELICOPTERS | AS50 | 5 | 2024 |
+
+### CORPO DE BOMBEIROS MILITAR DO ESTADO DE SANTA CATARINA -  BATALHÃO DE OPERAÇÕES AÉREAS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRIAL | 208B | CESSNA AIRCRAFT | C208 | 9 | 2008 |
+
+## Governo Estadual (113 aeronaves)
+
+| Órgão | UF | Aeronaves |
+|---|---|---:|
+| SECRETARIA DE ESTADO DE SEGURANCA PUBLICA DE MATO GROSSO | MT | 10 |
+| SECRETARIA DE ESTADO DA CASA MILITAR | GO | 9 |
+| GOVERNO DO PARANA - CASA MILITAR | PR | 7 |
+| GEES - SECRETARIA DA CASA MILITAR | ES | 4 |
+| SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA E DEFESA SOCIAL | SP | 4 |
+| BAHIA SECRETARIA DA SEGURANCA PUBLICA | BA | 3 |
+| MINISTERIO DA JUSTIÇA E SEGURANÇA PUBLICA | SP | 3 |
+| SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA DE MATO GROSSO | MT | 3 |
+| SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA DO PARANÁ | PA | 3 |
+| ESTADO DO MARANHÃO - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA | SP | 2 |
+| SECRETARIA DA SEGURANCA PUBLICA E DEFESA SOCIAL | CE | 2 |
+| GOVERNO DO ESTADO DE RORAIMA | SP | 2 |
+| SECRETARIA DA SEGURANÇA E DA DEFESA SOCIAL DO ESTADO DA PARAÍBA | BA | 2 |
+| GOV.DO ESTADO DO PARANA-CASA MILITAR | PR | 2 |
+| SECRETARIA DE ESTADO DE SEGURANCA PÚBLICA E DEFESA SOCIAL | PA | 2 |
+| GOVERNO DO ESTADO DE MATO GROSSO DO SUL - SECRETARIA DE ESTADO DE GOVERNO E GESTÃO ESTRATÉGICA - SEGOV/MS | MS | 2 |
+| GOV.DO EST.DA BAHIA CASA MILITAR | BA | 2 |
+| GOVERNO DO ESTADO DO AMAPA | AP | 2 |
+| ESTADO DO MARANHAO - SECRETARIA DE ESTADO DA SEGURANCA PUBLICA | GO | 2 |
+| GOVERNO DO ESTADO DO PARANÁ | PE | 2 |
+| SECRETARIA DA SEGURANÇA PÚBLICA E DEFESA SOCIAL DO CEARÁ - CIOPAER/SSPDS | SP | 1 |
+| GOVERNO DO ESTADO DO RIO G.DO NORTE | Indisponível | 1 |
+| CASA MILITAR DO GOVERNADOR | BA | 1 |
+| SECRETARIA DE ESTADO DA CASA MILITAR DO ESTADO DE GOIÁS | GO | 1 |
+| GOVERNO DO ESTADO DO AMAZONAS | AM | 1 |
+| GOVERNO DO ESTADO DO PARA | PA | 1 |
+| SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA | PR | 1 |
+| SECRETARIA DE SEGURANCA PUBLICA-SESP | AC | 1 |
+| ESTADO DO GOIÁS - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA - SSP/GO | SP | 1 |
+| CASA MILITAR DO ESTADO DE RORAIMA | MS | 1 |
+| SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA ¿ SSP/MA | SP | 1 |
+| SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA - SSP | AL | 1 |
+| SECRETARIA DE ESTADO DA SEGURANCA PUBLICA | PR | 1 |
+| SECRETARIA DE SEGURANÇA PÚBLICA DO ESTADO DO AMAZONAS | SP | 1 |
+| CASA MILITAR DA GOVERNADORIA DO ESTADO DE RORAIMA - CMG/RR | RR | 1 |
+| SECRETARIA DA CASA MILITAR DO ESTADO DO ESPIRITO SANTO - NOTAER | ES | 1 |
+| PODER EXECUTIVO CASA MILITAR DO ESTADO DO PARANA | PR | 1 |
+| SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA - SSP/MA | SP | 1 |
+| SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA DO AMAZONAS | AM | 1 |
+| SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA - ESTADO DE ALAGOAS | AL | 1 |
+| SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA DO ESTADO DO PARANÁ | SP | 1 |
+| SECRETARIA DE ESTADO DE SEGURANÇA PUBLICA | AL | 1 |
+| ESTADO DO ESPÍRITO SANTO - SECRETARIA DA CASA MILITAR | ES | 1 |
+| SECRETARIA DE ESTADO DA SEGURANÇA PUBLICA | Indisponível | 1 |
+| CASA CIVIL DO GOVERNO DO ESTADO DO CEARÁ | SP | 1 |
+| SECRETARIA DA SEGURANÇA PÚBLICA E DEFESA SOCIAL DO ESTADO DO CEARÁ | CE | 1 |
+| ESTADO DO ESPIRITO SANTO - GEES - SECRETARIA DA CASA MILITAR | ES | 1 |
+| SEC.CASA MILITAR DO EST.DO ESP.SANTO | ES | 1 |
+| GOVERNO DA BAHIA CASA MILITAR | BA | 1 |
+| MINISTERIO DA JUSTICA E SEGURANCA PUBLICA | DF | 1 |
+| MINISTERIO DA JUSTIÇA E SEGURANÇA PÚBLICA | DF | 1 |
+| SECRETARIA DE SEGURANÇA PÚBLICA DO ESTADO DO PIAUÍ | DF | 1 |
+| SECRETARIA DE ESTADO DA SEGURANÇA, DEFESA E CIDADANIA | SP | 1 |
+| SECRETARIA DA SEGURANCA PUBLICA | TO | 1 |
+| SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA, DEFESA E CIDADANIA - SESDEC | SP | 1 |
+| SECRETARIA DE SEGURANÇA, DEFESA E CIDADANIA DE RONDÔNIA | MG | 1 |
+| SECRETARIA DE ESTADO DA SEGURANCA PUBLICA E DA DEFESA SOCIAL | RN | 1 |
+| MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA | DF | 1 |
+| GOVERNO DO ESTADO DE RONDONIA | RO | 1 |
+| SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA DO ESTADO DO PARANÁ ¿ SSP/PR | SP | 1 |
+| SECRETARIA DE ESTADO DA SEGURANCA PUBLICA BPMOA | PR | 1 |
+| SECRETARIA DE ESTADO DA SEGURANCA PUBLICA E ADMINISTRACAO PENITENCIARIA - SESP | PR | 1 |
+| SECRETARIA DE SEGURANÇA PÚBLICA DO ESTADO DE ALAGOAS | AL | 1 |
+| SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA E DEFESA SOCIAL DO PARÁ | BA | 1 |
+| SECRETARIA DA SEGURANÇA PÚBLICA E DA DEFESA SOCIAL DO RIO GRANDE DO NORTE | DF | 1 |
+
+### SECRETARIA DE ESTADO DE SEGURANCA PUBLICA DE MATO GROSSO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPCMT | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 2010 |
+| PPHAR | 210N | CESSNA AIRCRAFT | C210 | 5 | 1978 |
+| PPMMT | AS 350 B2 | HELIBRAS | AS50 | 5 | 2006 |
+| PRCIC | G58 | BEECH AIRCRAFT | BE58 | 5 | 2007 |
+| PRGMT | AS 350 B3 | HELIBRAS | AS50 | 5 | 2010 |
+| PRLON | 58 | BEECH AIRCRAFT | BE58 | 5 | 1979 |
+| PRMON | 525B | CESSNA AIRCRAFT | C25B | 8 | 2009 |
+| PRVCJ | 58 | BEECH AIRCRAFT | BE58 | 5 | 1988 |
+| PSEMT | 550 BRAVO | CESSNA AIRCRAFT | C550 | 8 | 1997 |
+| PSGOV | PA-31T2 | PIPER AIRCRAFT | PAY2 | 6 | 1982 |
+
+### SECRETARIA DE ESTADO DA CASA MILITAR
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PREGM | PA-34-220T | PIPER AIRCRAFT | PA34 | 5 | 2006 |
+| PREGO | PA-34-220T | PIPER AIRCRAFT | PA34 | 5 | 2006 |
+| PRGEG | C90GT | RAYTHEON AIRCRAFT | BE9L | 7 | 2006 |
+| PRNFT | 550 | CESSNA AIRCRAFT | C550 | 8 | 1981 |
+| PRRGO | AS 350 B3 | HELIBRAS | AS50 | 5 | 2025 |
+| PTGGO | AS 350 B2 | HELIBRAS | AS50 | 5 | 2012 |
+| PTRPV | EMB-711ST | NEIVA | P28T | 3 | 1982 |
+| PTSTK | 525 | CESSNA AIRCRAFT | C525 | 6 | 1999 |
+| PTWTW | B300 | RAYTHEON AIRCRAFT | B350 | 9 | 1998 |
+
+### GOVERNO DO PARANA - CASA MILITAR
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPHZB | AS 350 B3 | HELIBRAS | AS50 | 6 | 2014 |
+| PPMMS | 208B | CESSNA AIRCRAFT | C208 | 7 | 2004 |
+| PRPRX | B300 | HAWKER BEECHCRAFT | B350 | 9 | 2012 |
+| PSBSS | 208B | CESSNA AIRCRAFT | C208 | 9 | 2012 |
+| PSHTT | EC 130 T2 | AIRBUS HELICOPTERS | EC30 | 6 | 2016 |
+| PSWLA | B300 | HAWKER BEECHCRAFT | B350 | 9 | 2008 |
+| PTOZL | C90A | BEECH AIRCRAFT | BE9L | 7 | 1993 |
+
+### GEES - SECRETARIA DA CASA MILITAR
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEMH | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 1998 |
+| PPMES | AS 350 B2 | HELIBRAS | AS50 | 5 | 2008 |
+| PRESE | AS 350 B3 | HELIBRAS | AS50 | 5 | 2014 |
+| PRRJG | MBB BK 117 C-2 | EUROCOPTER DEUTSCHLAND | EC45 | 9 | 2014 |
+
+### SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA E DEFESA SOCIAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPBAM | AS 350 B3 | HELIBRAS | AS50 | 5 | 2007 |
+| PRAGM | PC-12/45 | PILATUS | PC12 | 9 | 2005 |
+| PSCBM | AS 350 B2 | AIRBUS HELICOPTERS | AS50 | 5 | 2008 |
+| PSUTA | AS 350 B2 | AIRBUS HELICOPTERS | AS50 | 5 |  |
+
+### BAHIA SECRETARIA DA SEGURANCA PUBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRDPM | AS 350 B2 | HELIBRAS | AS50 | 5 | 2006 |
+| PRIPM | 208B | CESSNA AIRCRAFT | C208 | 9 | 2012 |
+| PRKPM | MBB BK 117 C-2 | EUROCOPTER DEUTSCHLAND | EC45 | 9 | 2012 |
+
+### MINISTERIO DA JUSTIÇA E SEGURANÇA PUBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRFKA | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2020 |
+| PRFKB | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2021 |
+| PRFKD | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2021 |
+
+### SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA DE MATO GROSSO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSSEG | PA-31T | PIPER AIRCRAFT | PAY2 | 6 | 1979 |
+| PSSMT | AS 350 B3 | HELIBRAS | AS50 | 5 | 2021 |
+| PSSSP | B200GT | HAWKER BEECHCRAFT | BE20 | 09 | 2016 |
+
+### SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA DO PARANÁ
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRHBZ | EC 130 B4 | EUROCOPTER FRANCE | EC30 | 7 | 2012 |
+| PSEPH | R66 | ROBINSON HELICOPTER | R66 | 4 | 2022 |
+| PSHCJ | R66 | ROBINSON HELICOPTER | R66 | 4 | 2023 |
+
+### ESTADO DO MARANHÃO - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPJJJ | AS 350 B2 | HELIBRAS | AS50 | 5 | 2010 |
+| PRHFI | AS 350 B2 | HELIBRAS | AS50 | 5 | 2012 |
+
+### SECRETARIA DA SEGURANCA PUBLICA E DEFESA SOCIAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEFM | AS 350 B2 | HELIBRAS | AS50 | 5 | 2001 |
+| PPENM | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 2001 |
+
+### GOVERNO DO ESTADO DE RORAIMA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTDUB | PA-23-250 | PIPER AIRCRAFT | PA27 | 5 | 1971 |
+| PTJTM | E55 | BEECH AIRCRAFT | BE55 | 005 | 1974 |
+
+### SECRETARIA DA SEGURANÇA E DA DEFESA SOCIAL DO ESTADO DA PARAÍBA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRFPO | EC 120 B | EUROCOPTER FRANCE | EC20 | 4 | 2001 |
+| PRYYY | AS 350 B3 | HELIBRAS | AS50 | 5 | 2011 |
+
+### GOV.DO ESTADO DO PARANA-CASA MILITAR
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRAMG | AMT-200S | AEROMOT | RF10 | 0 | 2004 |
+| PRGRR | AMT-200S | AEROMOT | RF10 | 1 | 2004 |
+
+### SECRETARIA DE ESTADO DE SEGURANCA PÚBLICA E DEFESA SOCIAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEPV | 208B | CESSNA AIRCRAFT | C208 | 10 | 2000 |
+| PPETR | C90A | RAYTHEON AIRCRAFT | BE9L | 5 | 1999 |
+
+### GOVERNO DO ESTADO DE MATO GROSSO DO SUL - SECRETARIA DE ESTADO DE GOVERNO E GESTÃO ESTRATÉGICA - SEGOV/MS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEIK | EMB-810D | EMBRAER | PA34 | 6 | 1984 |
+| PPEUS | EMB-810D | NEIVA | PA34 | 6 | 1985 |
+
+### GOV.DO EST.DA BAHIA CASA MILITAR
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEIN | EMB-810D | NEIVA | PA34 | 5 | 1985 |
+| PPEPS | C90A | BEECH AIRCRAFT | BE9L | 7 | 1996 |
+
+### GOVERNO DO ESTADO DO AMAPA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEIX | EMB-110P1 | EMBRAER | E110 | 10 | 1989 |
+| PTFCZ | U206F | CESSNA AIRCRAFT | C206 | 005 |  |
+
+### ESTADO DO MARANHAO - SECRETARIA DE ESTADO DA SEGURANCA PUBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRMRH | MBB BK 117 C-2 | EUROCOPTER DEUTSCHLAND | EC45 | 9 | 2010 |
+| PTKJT | 310Q | CESSNA AIRCRAFT | C310 | 5 | 1974 |
+
+### GOVERNO DO ESTADO DO PARANÁ
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPJAF | R66 | ROBINSON HELICOPTER | R66 | 4 | 2013 |
+| PTTRC | 208B | CESSNA AIRCRAFT | C208 | 9 | 2011 |
+
+### SECRETARIA DA SEGURANÇA PÚBLICA E DEFESA SOCIAL DO CEARÁ - CIOPAER/SSPDS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRYHB | EC 130 B4 | EUROCOPTER FRANCE | EC30 | 6 | 2002 |
+
+### GOVERNO DO ESTADO DO RIO G.DO NORTE
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTFRG | EMB-121A1 | EMBRAER | E121 | 5 | 1981 |
+
+### CASA MILITAR DO GOVERNADOR
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPESS | AS 355 N | EUROCOPTER FRANCE | AS55 | 5 | 1999 |
+
+### SECRETARIA DE ESTADO DA CASA MILITAR DO ESTADO DE GOIÁS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTKQC | 95-B55 | BEECH AIRCRAFT | BE55 | 005 | 1975 |
+
+### GOVERNO DO ESTADO DO AMAZONAS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEPD | 300 | BEECH AIRCRAFT | BE30 | 9 | 1986 |
+
+### GOVERNO DO ESTADO DO PARA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEJP | EMB-721C | NEIVA | P32R | 005 | 1976 |
+
+### SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSBOA | B200 | BEECH AIRCRAFT | BE20 | 09 | 1981 |
+
+### SECRETARIA DE SEGURANCA PUBLICA-SESP
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRCJD | AS 350 B2 | HELIBRAS | AS50 | 5 | 2009 |
+
+### ESTADO DO GOIÁS - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA - SSP/GO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSHBM | AS 350 B3 | EUROCOPTER FRANCE | AS50 | 5 | 2009 |
+
+### CASA MILITAR DO ESTADO DE RORAIMA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTIMZ | 210L | CESSNA AIRCRAFT | C210 | 5 | 1973 |
+
+### SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA ¿ SSP/MA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PREBH | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 2011 |
+
+### SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA - SSP
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSBLO | A119 | AGUSTA | A119 | 7 | 2001 |
+
+### SECRETARIA DE ESTADO DA SEGURANCA PUBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTYUQ | 407 | BELL HELICOPTER | B407 | 6 | 1996 |
+
+### SECRETARIA DE SEGURANÇA PÚBLICA DO ESTADO DO AMAZONAS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTKKY | PA-28-235 | PIPER AIRCRAFT | P28B | 3 | 1974 |
+
+### CASA MILITAR DA GOVERNADORIA DO ESTADO DE RORAIMA - CMG/RR
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSCMR | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2016 |
+
+### SECRETARIA DA CASA MILITAR DO ESTADO DO ESPIRITO SANTO - NOTAER
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSNOT | EC 130 T2 | AIRBUS HELICOPTERS | EC30 | 6 | 2025 |
+
+### PODER EXECUTIVO CASA MILITAR DO ESTADO DO PARANA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEJH | 206B | BELL HELICOPTER | B06 | 4 | 1992 |
+
+### SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA - SSP/MA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRCLR | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 2010 |
+
+### SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA DO AMAZONAS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PREAN | AS 350 B3 | HELIBRAS | AS50 | 5 | 2010 |
+
+### SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA - ESTADO DE ALAGOAS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSBLU | A119 | AGUSTA | A119 | 7 | 2007 |
+
+### SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA DO ESTADO DO PARANÁ
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSHPM | R66 | ROBINSON HELICOPTER | R66 | 3 | 2022 |
+
+### SECRETARIA DE ESTADO DE SEGURANÇA PUBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRPOL | AS 350 B2 | HELIBRAS | AS50 | 5 | 2012 |
+
+### ESTADO DO ESPÍRITO SANTO - SECRETARIA DA CASA MILITAR
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPESN | AS 350 B3 | HELIBRAS | AS50 | 5 | 2018 |
+
+### SECRETARIA DE ESTADO DA SEGURANÇA PUBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSHCF | AS 350 B3 | AIRBUS HELICOPTERS | AS50 | 5 | 2018 |
+
+### CASA CIVIL DO GOVERNO DO ESTADO DO CEARÁ
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRSZA | 45 | LEARJET | LJ45 | 9 | 1999 |
+
+### SECRETARIA DA SEGURANÇA PÚBLICA E DEFESA SOCIAL DO ESTADO DO CEARÁ
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPARY | EC135 T3 | AIRBUS HELICOPTERS DEUTSCHLAND | EC35 | 6 | 2018 |
+
+### ESTADO DO ESPIRITO SANTO - GEES - SECRETARIA DA CASA MILITAR
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRNOT | EC 130 T2 | AIRBUS HELICOPTERS | EC30 | 6 | 2024 |
+
+### SEC.CASA MILITAR DO EST.DO ESP.SANTO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEIO | AS 350 BA | HELIBRAS | AS50 | 5 | 1986 |
+
+### GOVERNO DA BAHIA CASA MILITAR
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTMBY | EMB-121A1 | EMBRAER | E121 | 6 | 1982 |
+
+### MINISTERIO DA JUSTICA E SEGURANCA PUBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRBSI | B300 | BEECH AIRCRAFT | B350 | 8 | 2012 |
+
+### MINISTERIO DA JUSTIÇA E SEGURANÇA PÚBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRFKC | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2021 |
+
+### SECRETARIA DE SEGURANÇA PÚBLICA DO ESTADO DO PIAUÍ
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRFPM | EC 120 B | EUROCOPTER FRANCE | EC20 | 4 | 2002 |
+
+### SECRETARIA DE ESTADO DA SEGURANÇA, DEFESA E CIDADANIA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRHNB | AS 350 B3 | HELIBRAS | AS50 | 6 | 2014 |
+
+### SECRETARIA DA SEGURANCA PUBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRSST | AS 350 B3 | EUROCOPTER FRANCE | AS50 | 5 | 2010 |
+
+### SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA, DEFESA E CIDADANIA - SESDEC
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRHLL | AS 350 B2 | HELIBRAS | AS50 | 6 | 2014 |
+
+### SECRETARIA DE SEGURANÇA, DEFESA E CIDADANIA DE RONDÔNIA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRSIX | R66 | ROBINSON HELICOPTER | R66 | 4 | 2012 |
+
+### SECRETARIA DE ESTADO DA SEGURANCA PUBLICA E DA DEFESA SOCIAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSGOD | AW119MKII | LEONARDO S.P.A | A119 | 6 | 2023 |
+
+### MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRFKE | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2022 |
+
+### GOVERNO DO ESTADO DE RONDONIA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTVAY | EMB-810D | EMBRAER | PA34 | 006 |  |
+
+### SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA DO ESTADO DO PARANÁ ¿ SSP/PR
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSHPR | R66 | ROBINSON HELICOPTER | R66 | 3 | 2022 |
+
+### SECRETARIA DE ESTADO DA SEGURANCA PUBLICA BPMOA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSHLT | R66 | ROBINSON HELICOPTER | R66 | 4 | 2024 |
+
+### SECRETARIA DE ESTADO DA SEGURANCA PUBLICA E ADMINISTRACAO PENITENCIARIA - SESP
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEJI | 206B | BELL HELICOPTER | B06 | 4 | 1992 |
+
+### SECRETARIA DE SEGURANÇA PÚBLICA DO ESTADO DE ALAGOAS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSPAM | EC135 T3 | AIRBUS HELICOPTERS DEUTSCHLAND | EC35 | 7 | 2024 |
+
+### SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA E DEFESA SOCIAL DO PARÁ
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRBAC | 58 | BEECH AIRCRAFT | BE58 | 5 | 1983 |
+
+### SECRETARIA DA SEGURANÇA PÚBLICA E DA DEFESA SOCIAL DO RIO GRANDE DO NORTE
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPFHD | 210N | CESSNA AIRCRAFT | C210 | 005 | 1982 |
+
+## Polícia Civil (44 aeronaves)
+
+| Órgão | UF | Aeronaves |
+|---|---|---:|
+| DEPARTAMENTO DE REPRESSÃO À CORRUPÇÃO E AO CRIME ORGANIZADO DA POLÍCIA CIVIL DE MATO GROSSO DO SUL - DRACCO | MS | 4 |
+| POLICIA CIVIL DO ESTADO DE SAO PAULO | SP | 4 |
+| POLICIA CIVIL DO DISTRITO FEDERAL | DF | 4 |
+| POLÍCIA CIVIL DO RIO GRANDE DO SUL | BA | 4 |
+| SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA E ADMINISTRAÇÃO PENITENCIÁRIA - POLÍCIA CIVIL DO PARANÁ. | PR | 4 |
+| POLICIA CIVIL DO ESTADO DE MINAS GERAIS | MG | 3 |
+| POLICIA CIVIL DO EST.DE MINAS GERAIS | MG | 3 |
+| POLICIA CIVIL | GO | 2 |
+| POLICIA CIVIL DO ESTADO DO RIO DE JANEIRO | RJ | 1 |
+| POLÍCIA CIVIL DO ESTADO DE MATO GROSSO DO SUL - DEPARTAMENTO DE REPRESSÃO A CORRUPÇÃO E AO CRIME ORGANIZADO - DRACCO | PA | 1 |
+| POLÍCIA CIVIL DO ESTADO DE SANTA CATARINA | PR | 1 |
+| SECRETARIA DE ESTADO DE POLICIA CIVIL | RJ | 1 |
+| FUNDO DE MELHORIA DA POLICIA CIVIL - FUMPC | RJ | 1 |
+| POLICIA CIVIL DO EST.DO R.DE JANEIRO | RJ | 1 |
+| DELEGACIA-GERAL DA POLICIA CIVIL - POLÍCIA CIVIL  MS | SE | 1 |
+| POLÍCIA CIVIL DO ESTADO DE RONDÔNIA | AM | 1 |
+| SECRETARIA DE ESTADO DE POLÍCIA CIVIL - SEPOL | RJ | 1 |
+| FUNDO DE MELHORIA DA POLÍCIA CIVIL ¿ FUMPC | RJ | 1 |
+| POLICIA CIVIL DO ESTADO DE GOIÁS | GO | 1 |
+| POLÍCIA CIVIL DO ESTADO RIO GRANDE DO SUL | SC | 1 |
+| POLÍCIA CIVIL DO ESTADO DO TOCANTINS | SP | 1 |
+| RIO GRANDE DO SUL POLICIA CIVIL | RS | 1 |
+| POLÍCIA CIVIL DO ESTADO DO TOCANTINS - SSP/TO | SP | 1 |
+| POLÍCIA CIVIL DO ESTADO DE RORAIMA | MG | 1 |
+
+### DEPARTAMENTO DE REPRESSÃO À CORRUPÇÃO E AO CRIME ORGANIZADO DA POLÍCIA CIVIL DE MATO GROSSO DO SUL - DRACCO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRVIB | 58 | BEECH AIRCRAFT | BE58 | 5 | 1977 |
+| PRVVV | 58 | RAYTHEON AIRCRAFT | BE58 | 5 | 1986 |
+| PSONE | 210N | CESSNA AIRCRAFT | C210 | 5 | 1980 |
+| PTBPE | 185 | CESSNA AIRCRAFT | C185 | 5 | 1961 |
+
+### POLICIA CIVIL DO ESTADO DE SAO PAULO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPLOC | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 2010 |
+| PPMAU | AS 350 B2 | HELIBRAS | AS50 | 5 | 2002 |
+| PRTCL | PA-31T2 | PIPER AIRCRAFT | PAY2 | 7 | 1983 |
+| PTMEN | 208B | CESSNA AIRCRAFT | C208 | 9 | 1994 |
+
+### POLICIA CIVIL DO DISTRITO FEDERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPFZA | AS 350 B2 | HELIBRAS | AS50 | 5 | 2000 |
+| PPFZB | AS 350 B2 | HELIBRAS | AS50 | 5 | 2015 |
+| PTHZG | AS 350 B2 | HELIBRAS | AS50 | 5 | 1995 |
+| PTICT | 58 | BEECH AIRCRAFT | BE58 | 5 | 1971 |
+
+### POLÍCIA CIVIL DO RIO GRANDE DO SUL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPJGO | 58 | BEECH AIRCRAFT | BE58 | 5 | 1981 |
+| PRIPC | AS 350 B3 | HELIBRAS | AS50 | 5 | 2025 |
+| PTEUD | EMB-810C | EMBRAER | PA34 | 5 | 1978 |
+| PTLJY | E55 | BEECH AIRCRAFT | BE55 | 5 | 1978 |
+
+### SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA E ADMINISTRAÇÃO PENITENCIÁRIA - POLÍCIA CIVIL DO PARANÁ.
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPPRL | R44 II | ROBINSON HELICOPTER | R44 | 3 | 2009 |
+| PRCBH | EC 130 B4 | EUROCOPTER FRANCE | EC30 | 7 | 2009 |
+| PRYFH | R44 II | ROBINSON HELICOPTER | R44 | 3 | 2006 |
+| PTHZF | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 6 | 1994 |
+
+### POLICIA CIVIL DO ESTADO DE MINAS GERAIS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPESP | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 1993 |
+| PREVA | C90A | BEECH AIRCRAFT | BE9L | 7 | 2001 |
+| PROLO | 210L | CESSNA AIRCRAFT | C210 | 5 | 1974 |
+
+### POLICIA CIVIL DO EST.DE MINAS GERAIS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPESQ | AS 350 B2 | HELIBRAS | AS50 | 5 | 2001 |
+| PPEVB | EMB-721D | NEIVA | P32R | 6 | 1980 |
+| PPFPS | 182N | CESSNA AIRCRAFT | C182 | 3 | 1970 |
+
+### POLICIA CIVIL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPCGO | AW119MKII | AGUSTA | A119 | 7 | 2010 |
+| PSPCM | PA-46-500TP | PIPER AIRCRAFT | P46T | 5 | 2014 |
+
+### POLICIA CIVIL DO ESTADO DO RIO DE JANEIRO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEVA | AS 355 N | EUROCOPTER FRANCE | AS55 | 5 | 1993 |
+
+### POLÍCIA CIVIL DO ESTADO DE MATO GROSSO DO SUL - DEPARTAMENTO DE REPRESSÃO A CORRUPÇÃO E AO CRIME ORGANIZADO - DRACCO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRHMR | R66 | ROBINSON HELICOPTER | R66 | 4 | 2011 |
+
+### POLÍCIA CIVIL DO ESTADO DE SANTA CATARINA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRNBJ | R44 II | ROBINSON HELICOPTER | R44 | 3 | 2014 |
+
+### SECRETARIA DE ESTADO DE POLICIA CIVIL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSAPC | AW169 | LEONARDO S.P.A | A169 | 10 | 2022 |
+
+### FUNDO DE MELHORIA DA POLICIA CIVIL - FUMPC
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRHDR | AS 350 B2 | HELIBRAS | AS50 | 5 | 2002 |
+
+### POLICIA CIVIL DO EST.DO R.DE JANEIRO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEIH | AS 350 BA | EUROCOPTER FRANCE | AS50 | 5 | 1983 |
+
+### DELEGACIA-GERAL DA POLICIA CIVIL - POLÍCIA CIVIL  MS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTYEZ | R44 | ROBINSON HELICOPTER | R44 | 3 | 1996 |
+
+### POLÍCIA CIVIL DO ESTADO DE RONDÔNIA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRMEH | 58 | BEECH AIRCRAFT | BE58 | 5 | 1976 |
+
+### SECRETARIA DE ESTADO DE POLÍCIA CIVIL - SEPOL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRJPC | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2020 |
+
+### FUNDO DE MELHORIA DA POLÍCIA CIVIL ¿ FUMPC
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRYDJ | AS 350 B2 | HELIBRAS | AS50 | 5 | 2004 |
+
+### POLICIA CIVIL DO ESTADO DE GOIÁS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSPCG | AS 350 B3 | HELIBRAS | AS50 | 5 | 2025 |
+
+### POLÍCIA CIVIL DO ESTADO RIO GRANDE DO SUL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRFEG | 58 | RAYTHEON AIRCRAFT | BE58 | 5 | 1982 |
+
+### POLÍCIA CIVIL DO ESTADO DO TOCANTINS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PREDC | R66 | ROBINSON HELICOPTER | R66 | 4 | 2012 |
+
+### RIO GRANDE DO SUL POLICIA CIVIL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRHPC | AS 350 B3 | HELIBRAS | AS50 | 5 | 2012 |
+
+### POLÍCIA CIVIL DO ESTADO DO TOCANTINS - SSP/TO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTEAB | EMB-810C | EMBRAER | PA34 | 6 |  |
+
+### POLÍCIA CIVIL DO ESTADO DE RORAIMA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRRGM | R44 II | ROBINSON HELICOPTER | R44 | 3 | 2009 |
+
+## Polícia Federal (20 aeronaves)
+
+| Órgão | UF | Aeronaves |
+|---|---|---:|
+| DEPARTAMENTO DE POLICIA FEDERAL | DF | 10 |
+| MJ-DEPARTAMENTO DE POLICIA FEDERAL | DF | 4 |
+| DEPARTAMENTO DE POLICIA FEDERAL - MINISTERIO DA JUSTICA E SEGURANCA PUBLICA | DF | 1 |
+| DEPARTAMENTO POLICIA FEDERAL-MJ | DF | 1 |
+| DEPARTAMENTO DE POLICIA FEDERAL - MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA | DF | 1 |
+| MINISTERIO DA JUSTICA E SEGURANCA PUBLICA  - DEPARTAMENTO DE POLICIA FEDERAL | Indisponível | 1 |
+| MINISTÉRIO DA JUSTIÇA E SEG PÚBLICA - DEPARTAMENTO DE POLÍCIA FEDERAL | DF | 1 |
+| MINISTERIO DA JUSTICA E SEGURANCA PUBLICA - DEPARTAMENTO DE POLICIA FEDERAL | Indisponível | 1 |
+
+### DEPARTAMENTO DE POLICIA FEDERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPFRS | PA-23-250 | PIPER AIRCRAFT | PA27 | 5 | 1973 |
+| PRAAC | 208B | CESSNA AIRCRAFT | C208 | 9 | 2001 |
+| PRHFA | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 2002 |
+| PRHFB | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 2002 |
+| PRHFC | AS 355 N | EUROCOPTER FRANCE | AS55 | 5 | 2002 |
+| PRHFD | AS 355 N | EUROCOPTER FRANCE | AS55 | 5 | 2002 |
+| PRHFV | AW139 | AGUSTA | A139 | 15 | 2013 |
+| PSCAV | ERJ 170-200 STD | EMBRAER | E75S | 82 | 2012 |
+| PSIRB | 208B | TEXTRON AVIATION | C208 | 9 | 2025 |
+| PTHZH | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 1995 |
+
+### MJ-DEPARTAMENTO DE POLICIA FEDERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTHRG | 412 | BELL HELICOPTER | B412 | 10 | 1982 |
+| PTHRH | 412 | BELL HELICOPTER | B412 | 11 | 1982 |
+| PUDRF |  |  | ULAC | 000 |  |
+| PUDRG |  |  | ULAC | 000 |  |
+
+### DEPARTAMENTO DE POLICIA FEDERAL - MINISTERIO DA JUSTICA E SEGURANCA PUBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRYLO | A109E | AGUSTA | A109 | 7 | 1999 |
+
+### DEPARTAMENTO POLICIA FEDERAL-MJ
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPFPU | PA-31 | PIPER AIRCRAFT | PA31 | 006 | 1976 |
+
+### DEPARTAMENTO DE POLICIA FEDERAL - MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSDPF | ERJ 170-200 STD | EMBRAER | E75S | 82 | 2012 |
+
+### MINISTERIO DA JUSTICA E SEGURANCA PUBLICA  - DEPARTAMENTO DE POLICIA FEDERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSPFG | 412EP | BELL HELICOPTER | B412 | 13 | 2007 |
+
+### MINISTÉRIO DA JUSTIÇA E SEG PÚBLICA - DEPARTAMENTO DE POLÍCIA FEDERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRLEE | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 2013 |
+
+### MINISTERIO DA JUSTICA E SEGURANCA PUBLICA - DEPARTAMENTO DE POLICIA FEDERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSPFH | 412EP | BELL HELICOPTER | B412 | 13 | 1996 |
+
+## Polícia Militar (60 aeronaves)
+
+| Órgão | UF | Aeronaves |
+|---|---|---:|
+| POLÍCIA MILITAR DO ESTADO DE SÃO PAULO | SP | 15 |
+| POLICIA MILITAR DO ESTADO DE SAO PAULO | SP | 9 |
+| POLÍCIA MILITAR DO ESTADO DE MINAS GERAIS | MG | 4 |
+| POLICIA MILITAR DE SANTA CATARINA | SC | 4 |
+| POLICIA MILITAR DO ESTADO DO PARA | PA | 3 |
+| POLICIA MILITAR DO ESTADO DE GOIAS | GO | 3 |
+| POLICIA MILITAR DO DISTRITO FEDERAL-PMDF | DF | 3 |
+| POLICIA MILITAR DO ESTADO DO TOCANTINS | TO | 3 |
+| POLICIA MILITAR DO DISTRITO FEDERAL | DF | 2 |
+| POLICIA MILITAR DO ESTADO DE MINAS GERAIS | MG | 2 |
+| POLICIA MILITAR DO EST DE SANTA CATARINA | SC | 1 |
+| GOIAS POLICIA MILITAR QUARTEL GENERAL | GO | 1 |
+| RJ SSP POLICIA MILITAR DO ESTADO DO RIO DE JANEIRO | RJ | 1 |
+| POLÍCIA MILITAR DO ESTADO DE RONDÔNIA | MT | 1 |
+| POLICIA MILITAR DE MATO GROSSO | MT | 1 |
+| POLÍCIA MILITAR DO ESTADO DE GOIÁS | GO | 1 |
+| POLÍCIA MILITAR DO ESTADO DA BAHIA | MG | 1 |
+| POLICIA MILITAR | MG | 1 |
+| POLICIA MILITAR DA BAHIA | BA | 1 |
+| POLICIA MILITAR DO PIAUI | BA | 1 |
+| POLICIA MILITAR DO EST.DE SAO PAULO | SP | 1 |
+| GRUPAMENTO AÉREO DA POLÍCIA MILITAR DO TOCANTINS | PA | 1 |
+
+### POLÍCIA MILITAR DO ESTADO DE SÃO PAULO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEOE | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 1992 |
+| PPEOJ | AS 350 B2 | HELIBRAS | AS50 | 5 | 1993 |
+| PPEOS | AS 350 B2 | HELIBRAS | AS50 | 5 | 2000 |
+| PPEOV | AS 350 B2 | HELIBRAS | AS50 | 5 | 1999 |
+| PPEOW | AS 350 B2 | HELIBRAS | AS50 | 5 | 1999 |
+| PPEOX | AS 350 B2 | HELIBRAS | AS50 | 5 | 1999 |
+| PPEOY | AS 350 B2 | HELIBRAS | AS50 | 5 | 1999 |
+| PPEOZ | AS 350 B2 | HELIBRAS | AS50 | 5 | 1999 |
+| PPSAU | AS 350 B2 | HELIBRAS | AS50 | 5 | 2014 |
+| PRFSP | AW109SP | AGUSTA | A109 | 7 | 2014 |
+| PRINP | G58 | HAWKER BEECHCRAFT | BE58 | 5 | 2011 |
+| PRPUB | AS 350 B3 | AIRBUS HELICOPTERS | AS50 | 5 | 2022 |
+| PRSLN | 208B | CESSNA AIRCRAFT | C208 | 9 | 2001 |
+| PRUBI | EC135 T3 | AIRBUS HELICOPTERS DEUTSCHLAND | EC35 | 6 | 2022 |
+| PSGER | AS 350 B3 | HELIBRAS | AS50 | 5 | 2022 |
+
+### POLICIA MILITAR DO ESTADO DE SAO PAULO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEOD | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 1992 |
+| PRREL | 269C-1 | SCHWEIZER | H269 | 1 | 2010 |
+| PRSPD | AS 350 B2 | HELIBRAS | AS50 | 5 | 2010 |
+| PRSPE | AS 350 B2 | HELIBRAS | AS50 | 5 | 2010 |
+| PRSPG | AS 350 B2 | HELIBRAS | AS50 | 5 | 2010 |
+| PRSPH | AS 350 B2 | HELIBRAS | AS50 | 5 | 2009 |
+| PRSPI | AS 350 B2 | HELIBRAS | AS50 | 5 | 2010 |
+| PRSPK | AS 350 B2 | HELIBRAS | AS50 | 5 | 2011 |
+| PRSPS | AS 350 B2 | HELIBRAS | AS50 | 5 | 2014 |
+
+### POLÍCIA MILITAR DO ESTADO DE MINAS GERAIS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEJO | 300 | BEECH AIRCRAFT | BE30 | 9 | 1986 |
+| PPEJS | AS 350 B3 | HELIBRAS | AS50 | 5 | 2019 |
+| PPEJT | AS 350 B3 | HELIBRAS | AS50 | 5 | 2025 |
+| PPLCE | 550 BRAVO | CESSNA AIRCRAFT | C550 | 8 | 2003 |
+
+### POLICIA MILITAR DE SANTA CATARINA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPFFY | EMB-810C | EMBRAER | PA34 | 5 | 1976 |
+| PRHGH | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 2001 |
+| PRPMM | AW119MKII | AGUSTA | A119 | 7 | 2009 |
+| PTNKL | EMB-711C | NEIVA | P28R | 3 | 1977 |
+
+### POLICIA MILITAR DO ESTADO DO PARA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRAMF | AMT-200S | AEROMOT | RF10 | 1 | 2003 |
+| PRGSJ | AMT-200S | AEROMOT | RF10 | 001 | 2004 |
+| PRYSJ | AS 350 B2 | HELIBRAS | AS50 | 5 | 2004 |
+
+### POLICIA MILITAR DO ESTADO DE GOIAS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEHO | AS 350 BA | HELIBRAS | AS50 | 5 | 1981 |
+| PPPMG | AS 350 B3 | HELIBRAS | AS50 | 5 | 2025 |
+| PTRQX | EMB-810D | EMBRAER | PA34 | 5 | 1982 |
+
+### POLICIA MILITAR DO DISTRITO FEDERAL-PMDF
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPFSP | AS 350 B2 | HELIBRAS | AS50 | 5 | 1991 |
+| PRLLN | T210N | CESSNA AIRCRAFT | C210 | 5 | 1979 |
+| PTVKJ | EMB-820C CARAJA | EMBRAER | PAT4 | 7 | 1988 |
+
+### POLICIA MILITAR DO ESTADO DO TOCANTINS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPAAZ | G58 | BEECH AIRCRAFT | BE58 | 5 | 2008 |
+| PRRRM | 210L | CESSNA AIRCRAFT | C210 | 5 | 1975 |
+| PSHAM | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 2007 |
+
+### POLICIA MILITAR DO DISTRITO FEDERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRPMD | AS 350 B2 | HELIBRAS | AS50 | 5 | 2011 |
+| PRPMF | AS 350 B2 | HELIBRAS | AS50 | 5 | 2011 |
+
+### POLICIA MILITAR DO ESTADO DE MINAS GERAIS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEPO | AS 365 N2 | EUROCOPTER FRANCE | AS65 | 7 | 1993 |
+| PRXAA | B300 | BEECH AIRCRAFT | B350 | 10 | 2004 |
+
+### POLICIA MILITAR DO EST DE SANTA CATARINA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTHZL | AS 350 B2 | EUROCOPTER FRANCE | AS50 | 5 | 1997 |
+
+### GOIAS POLICIA MILITAR QUARTEL GENERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRPMG | AW119MKII | AGUSTA | A119 | 7 | 2010 |
+
+### RJ SSP POLICIA MILITAR DO ESTADO DO RIO DE JANEIRO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRLLM | AS 350 B3 | EUROCOPTER FRANCE | AS50 | 5 | 2010 |
+
+### POLÍCIA MILITAR DO ESTADO DE RONDÔNIA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTVGK | EMB-810D | NEIVA | PA34 | 5 | 1987 |
+
+### POLICIA MILITAR DE MATO GROSSO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEMT | AS 350 B2 | HELIBRAS | AS50 | 5 | 1998 |
+
+### POLÍCIA MILITAR DO ESTADO DE GOIÁS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSFAL | AS 350 B3 | HELIBRAS | AS50 | 5 | 2025 |
+
+### POLÍCIA MILITAR DO ESTADO DA BAHIA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PROPM | AS 350 B3 | AIRBUS HELICOPTERS | AS50 | 5 | 2026 |
+
+### POLICIA MILITAR
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRRRD | 210N | CESSNA AIRCRAFT | C210 | 5 | 1978 |
+
+### POLICIA MILITAR DA BAHIA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRGPM | AS 350 B2 | HELIBRAS | AS50 | 5 | 2006 |
+
+### POLICIA MILITAR DO PIAUI
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRTNG | AS 350 B3 | HELIBRAS | AS50 | 5 |  |
+
+### POLICIA MILITAR DO EST.DE SAO PAULO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTHYL | AS 350 B2 | HELIBRAS | AS50 | 5 | 1993 |
+
+### GRUPAMENTO AÉREO DA POLÍCIA MILITAR DO TOCANTINS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PSPIX | 210M | CESSNA AIRCRAFT | C210 | 5 | 1977 |
+
+## Polícia Rodoviária Federal (7 aeronaves)
+
+| Órgão | UF | Aeronaves |
+|---|---|---:|
+| MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA - DEPARTAMENTO DE POLÍCIA RODOVIÁRIA FEDERAL | DF | 2 |
+| POLÍCIA RODOVIÁRIA FEDERAL | PR | 1 |
+| DEPARTAMENTO DA POLÍCIA RODOVIÁRIA FEDERAL | DF | 1 |
+| MINISTERIO DA JUSTICA E SEGURANCA PUBLICA - DEPARTAMENTO DE POLICIA RODOVIARIA FEDERAL | DF | 1 |
+| DEPARTAMENTO DE POLICIA RODOVIARIA FEDERAL | DF | 1 |
+| DEPARTAMENTO DE POLÍCIA RODOVIÁRIA FEDERAL | DF | 1 |
+
+### MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA - DEPARTAMENTO DE POLÍCIA RODOVIÁRIA FEDERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRFPF | 208B | CESSNA AIRCRAFT | C208 | 9 | 2024 |
+| PRFYC | 208B | CESSNA AIRCRAFT | C208 | 9 | 2024 |
+
+### POLÍCIA RODOVIÁRIA FEDERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTOQD | 500 | CESSNA AIRCRAFT | C500 | 5 | 1975 |
+
+### DEPARTAMENTO DA POLÍCIA RODOVIÁRIA FEDERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRFKG | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2023 |
+
+### MINISTERIO DA JUSTICA E SEGURANCA PUBLICA - DEPARTAMENTO DE POLICIA RODOVIARIA FEDERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRFCD | 208B | CESSNA AIRCRAFT | C208 | 9 | 2024 |
+
+### DEPARTAMENTO DE POLICIA RODOVIARIA FEDERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRFKF | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2022 |
+
+### DEPARTAMENTO DE POLÍCIA RODOVIÁRIA FEDERAL
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRFCY | 208B | CESSNA AIRCRAFT | C208 | 9 | 2024 |
