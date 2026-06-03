@@ -57,13 +57,66 @@ def is_internacional(local: str) -> bool:
 
 
 # Conjunto considerado "capital grande" — pra destacar destinos atípicos.
-CAPITAIS_GRANDES = {
-    "Brasília", "São Paulo", "Rio de Janeiro",
-    "Rio de Janeiro (Santos Dumont)", "Rio de Janeiro (Galeão)",
-    "São Paulo (Congonhas)", "São Paulo (Guarulhos)",
-    "Belo Horizonte", "Salvador", "Recife", "Porto Alegre",
-    "Curitiba", "Fortaleza", "Manaus", "Belém",
+# Todas as 27 capitais estaduais/DF + variantes de aeroporto que aparecem nos CSVs.
+# Destinos FORA desse conjunto são considerados "não-capitais" (interior).
+CAPITAIS_ESTADUAIS = {
+    # Distrito Federal
+    "Brasília",
+    # Acre
+    "Rio Branco",
+    # Alagoas
+    "Maceió",
+    # Amapá
+    "Macapá",
+    # Amazonas
+    "Manaus", "Manaus (Eduardo Gomes)", "Manaus (Ponta Pelada)",
+    # Bahia
+    "Salvador", "Salvador (Deputado Luís Eduardo Magalhães)",
+    # Ceará
+    "Fortaleza",
+    # Espírito Santo
+    "Vitória",
+    # Goiás
+    "Goiânia",
+    # Maranhão
+    "São Luís",
+    # Mato Grosso
+    "Cuiabá",
+    # Mato Grosso do Sul
+    "Campo Grande",
+    # Minas Gerais
+    "Belo Horizonte", "Belo Horizonte (Pampulha)", "Belo Horizonte (Confins)",
+    # Pará
+    "Belém",
+    # Paraíba
+    "João Pessoa",
+    # Paraná
+    "Curitiba", "Curitiba (Afonso Pena)",
+    # Pernambuco
+    "Recife",
+    # Piauí
+    "Teresina",
+    # Rio de Janeiro
+    "Rio de Janeiro", "Rio de Janeiro (Santos Dumont)", "Rio de Janeiro (Galeão)",
+    # Rio Grande do Norte
+    "Natal", "Natal (Augusto Severo)",
+    # Rio Grande do Sul
+    "Porto Alegre", "Porto Alegre (Salgado Filho)",
+    # Rondônia
+    "Porto Velho",
+    # Roraima
+    "Boa Vista",
+    # Santa Catarina
+    "Florianópolis",
+    # São Paulo
+    "São Paulo", "São Paulo (Congonhas)", "São Paulo (Guarulhos)",
+    # Sergipe
+    "Aracaju",
+    # Tocantins
+    "Palmas",
 }
+# Mantém nome legado para não quebrar referências externas
+CAPITAIS_GRANDES = CAPITAIS_ESTADUAIS
 
 
 def _detectar_encoding(path: Path) -> str:
