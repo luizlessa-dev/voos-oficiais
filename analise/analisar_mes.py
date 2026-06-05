@@ -118,6 +118,72 @@ CAPITAIS_ESTADUAIS = {
 # Mantém nome legado para não quebrar referências externas
 CAPITAIS_GRANDES = CAPITAIS_ESTADUAIS
 
+# ── custo estimado por aeronave ───────────────────────────────────────────────
+# Fonte: custo_aeronaves.json + TCU TC 008.687/2024-2
+# Midpoint = (min + max) / 2 por hora de voo
+
+_CUSTO_AERONAVE = {
+    "VC-1":   {"modelo": "A319CJ (FAB2101)",  "custo_h": 42_500},
+    "VC-99C": {"modelo": "Legacy 600",         "custo_h": 34_000},
+    "VC-2":   {"modelo": "ERJ-190",            "custo_h": 21_500},
+    "KC-30":  {"modelo": "A330-200",           "custo_h": 30_000},  # IPCA ~65% sobre 21k
+}
+_CUSTO_MEDIO_MISSAO = 38_100  # TCU TC 008.687/2024-2 — fallback sem tempo de voo
+
+# Mapeamento cargo → aeronave mais provável
+# Baseado na descrição de uso em custo_aeronaves.json
+def _aeronave_por_cargo(cargo: str) -> str:
+    c = cargo.upper()
+    if "PRESIDENTE DA REPÚBLICA" in c:
+        return "VC-1"
+    if any(t in c for t in ["PRESIDENTE DA CÂMARA", "PRESIDENTE DO CONGRESSO",
+                              "PRESIDENTE DO SUPREMO", "PRESIDENTE DO SENADO",
+                              "COMANDANTE DA AERONÁUTICA", "COMANDANTE DO EXÉRCITO",
+                              "COMANDANTE DA MARINHA"]):
+        return "VC-99C"
+    if "MINISTRO" in c or "MINISTRA" in c:
+        return "VC-99C"   # ministros em geral usam Legacy ou ERJ — usamos Legacy (conservador)
+    if "À DISPOSIÇÃO" in c or "A DISPOSIÇÃO" in c:
+        return "VC-99C"   # voos opacos — assume aeronave intermediária
+    return "VC-99C"       # default
+
+def calcular_custo(v: dict) -> dict:
+    """Retorna dict com aeronave, horas de voo e custo estimado em R$."""
+    aeronave_key = _aeronave_por_cargo(v["autoridade"])
+    info         = _CUSTO_AERONAVE[aeronave_key]
+    custo_h      = info["custo_h"]
+    modelo       = info["modelo"]
+
+    pouso = v.get("pouso")
+    if pouso and pouso > v["decolagem"]:
+        # Duração real
+        delta_h = (pouso - v["decolagem"]).total_seconds() / 3600
+        custo   = round(delta_h * custo_h)
+        fonte   = "tempo real"
+    elif pouso and pouso < v["decolagem"]:
+        # Pouso no dia seguinte (voo noturno)
+        from datetime import timedelta
+        delta_h = (pouso + timedelta(days=1) - v["decolagem"]).total_seconds() / 3600
+        custo   = round(delta_h * custo_h)
+        fonte   = "tempo real (+1 dia)"
+    else:
+        # Sem pouso → usa custo médio por missão do TCU
+        delta_h = None
+        custo   = _CUSTO_MEDIO_MISSAO
+        fonte   = "média TCU"
+
+    return {
+        "aeronave": modelo,
+        "aeronave_key": aeronave_key,
+        "horas": round(delta_h, 2) if delta_h else None,
+        "custo": custo,
+        "fonte": fonte,
+    }
+
+def _brl(v: int) -> str:
+    """Formata valor em R$ com separador de milhar."""
+    return f"R$ {v:,.0f}".replace(",", ".")
+
 
 def _detectar_encoding(path: Path) -> str:
     """Tenta UTF-8; cai pra latin-1 se quebrar (alguns CSVs antigos GABAER)."""
@@ -176,7 +242,58 @@ def secao_sumario(voos: list[dict], ano: int, mes: int) -> list[str]:
     lines.append(f"- **Por dia da semana:** {dias_str}")
     fds = sum(1 for v in voos if v["decolagem"].weekday() >= 5)
     lines.append(f"- **Voos em sábado/domingo:** {fds} ({fds/len(voos)*100:.1f}%)")
+    # Custo total estimado
+    total_custo = sum(calcular_custo(v)["custo"] for v in voos)
+    lines.append(f"- **Custo total estimado:** {_brl(total_custo)} "
+                 f"_(estimativa; referência TCU: {_brl(_CUSTO_MEDIO_MISSAO)}/missão)_")
     return lines + [""]
+
+
+def secao_custo(voos: list[dict]) -> list[str]:
+    """Custo estimado por autoridade e top voos mais caros."""
+    custos = [(v, calcular_custo(v)) for v in voos]
+    total  = sum(c["custo"] for _, c in custos)
+
+    # Por autoridade
+    por_autor: dict[str, dict] = defaultdict(lambda: {"custo": 0, "voos": 0, "aeronave": ""})
+    for v, c in custos:
+        a = por_autor[v["autoridade"]]
+        a["custo"]   += c["custo"]
+        a["voos"]    += 1
+        a["aeronave"] = c["aeronave"]
+
+    # Top 5 voos mais caros
+    top_voos = sorted(custos, key=lambda x: -x[1]["custo"])[:5]
+
+    lines = [f"## Custo estimado — {_brl(total)} no mês", ""]
+    lines.append(
+        f"_Estimativa baseada no tempo real de voo × custo/hora por tipo de aeronave. "
+        f"Referência base: TCU TC 008.687/2024-2 ({_brl(_CUSTO_MEDIO_MISSAO)}/missão). "
+        f"Sem pouso registrado: usa média TCU._"
+    )
+    lines.append("")
+
+    lines += ["### Por autoridade", ""]
+    lines += ["| Autoridade | Voos | Custo estimado | Aeronave |",
+              "|---|---:|---:|---|"]
+    for autor, info in sorted(por_autor.items(), key=lambda x: -x[1]["custo"]):
+        lines.append(
+            f"| {autor} | {info['voos']} | {_brl(info['custo'])} | {info['aeronave']} |"
+        )
+    lines.append("")
+
+    lines += ["### Top 5 voos mais caros", ""]
+    lines += ["| Decolagem | Autoridade | Rota | Horas | Custo est. |",
+              "|---|---|---|---:|---:|"]
+    for v, c in top_voos:
+        horas = f"{c['horas']:.1f}h" if c["horas"] else "—"
+        lines.append(
+            f"| {v['decolagem'].strftime('%d/%m %H:%M')} | {v['autoridade']} "
+            f"| {v['origem']} → {v['destino']} | {horas} | {_brl(c['custo'])} |"
+        )
+    lines.append("")
+
+    return lines
 
 
 def secao_top_autoridades(voos: list[dict]) -> list[str]:
@@ -485,6 +602,7 @@ def gerar_analise(csv_path: Path) -> Path:
         "",
     ]
     lines += secao_sumario(voos, ano, mes)
+    lines += secao_custo(voos)
     lines += secao_top_autoridades(voos)
     lines += secao_concentracao(voos)
     lines += secao_internacionais(voos)
