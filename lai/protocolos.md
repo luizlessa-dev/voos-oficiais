@@ -7,7 +7,7 @@
 
 | 3 | 60141001203202688 | COMAER | Aeronáutica | 2026-06-05 | 2026-06-29 | **Aguardando resposta** | Passageiros voos "À Disposição do Ministro da Defesa" (127 missões, 2023–2026) |
 | 4 | 60110001882202652 | Min. Defesa | Defesa Nacional | 2026-06-05 | 2026-06-29 | **Aguardando resposta** | Custo operacional por hora de voo por modelo de aeronave (VC-1, VC-2, VC-99C, KC-30) |
-| 5 | — | Câmara dos Deputados | Agenda | pendente | — | **Pendente** | Agenda oficial de Motta nos 23 fins de semana em PB — enviada pelo sistema da Câmara |
+| 5 | 2026060700000003 | Câmara dos Deputados | Agenda | 2026-06-07 | — | **Aguardando resposta** | Agenda oficial de Motta nos 23 fins de semana em PB — sistema faleconosco.camara.leg.br |
 
 ## Próximos passos
 
