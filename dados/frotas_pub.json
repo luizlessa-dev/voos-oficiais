@@ -5,7 +5,7 @@
     "url": "https://sistemas.anac.gov.br/dadosabertos/Aeronaves/RAB/dados_aeronaves.csv",
     "data_rab": "2026-06-03",
     "gerado": "2026-06-08",
-    "total_aeronaves": 323,
+    "total_aeronaves": 324,
     "nota": "Exclui aeronaves da Aeronáutica/FAB (cobertas pelo GABAER). Inclui aeronaves ativas (sem data de cancelamento)."
   },
   "frotas": {
@@ -3574,6 +3574,20 @@
           "pax_max": "9",
           "ano": "2024",
           "uf": "DF"
+        }
+      ]
+    },
+    "Governo Municipal": {
+      "MUNICÍPIO DE REDENÇÃO": [
+        {
+          "marca": "PTISR",
+          "modelo": "210L",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C210",
+          "pax_max": "5",
+          "ano": "1973",
+          "uf": "PA"
         }
       ]
     }

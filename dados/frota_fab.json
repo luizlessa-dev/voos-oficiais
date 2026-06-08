@@ -230,6 +230,103 @@
           "curiosidade": "Montado no Brasil pela Helibras. O 'cavalo de batalha' leve das asas rotativas da FAB."
         }
       ]
+    },
+    {
+      "id": "marinha",
+      "nome": "Aviação Naval (Marinha)",
+      "descricao": "A Força Aeronaval — caças e helicópteros que operam de navios. O Brasil não tem porta-aviões desde 2017; hoje embarca no porta-helicópteros NAM Atlântico.",
+      "forca": "Marinha do Brasil",
+      "aeronaves": [
+        {
+          "designacao": "AF-1 Skyhawk", "modelo": "McDonnell Douglas A-4 Skyhawk (AF-1B/C)", "fabricante": "McDonnell Douglas / modernização Embraer",
+          "categoria": "Caça-bombardeiro naval", "quantidade": 7,
+          "capacidade": "1–2 pilotos", "velocidade_kmh": 1080, "alcance_km": 1000,
+          "entrada_servico": 1998, "custo_hora": "não divulgado",
+          "curiosidade": "Em 2026, com a aposentadoria dos A-4 argentinos, o Brasil tornou-se o ÚLTIMO operador militar do A-4 Skyhawk DO MUNDO. A frota mal voa — o motor J52 não tem mais suporte global. Em 2026 a Marinha foi ao maior exercício do ano (com o porta-aviões nuclear USS Nimitz) SEM caças. Vida útil até ~2030, sem substituto definido.",
+          "destaque": true
+        },
+        {
+          "designacao": "SH-16 Seahawk", "modelo": "Sikorsky S-70B Seahawk", "fabricante": "Sikorsky",
+          "categoria": "Helicóptero antissubmarino (embarcado)", "quantidade": 6,
+          "capacidade": "3–4 tripulantes", "velocidade_kmh": 270, "alcance_km": 830,
+          "entrada_servico": 2012, "custo_hora": "não divulgado",
+          "curiosidade": "A 'joia' da guerra naval embarcada. Caça submarinos com sonar de imersão e torpedos. Vai equipar as novas Fragatas Classe Tamandaré. Já passou de 12 mil horas de voo.",
+          "destaque": true
+        },
+        {
+          "designacao": "AH-11B WildLynx", "modelo": "Leonardo Super Lynx Mk.21B", "fabricante": "Leonardo Helicopters",
+          "categoria": "Helicóptero de ataque/reconhecimento (embarcado)", "quantidade": 5, "quantidade_prevista": 6,
+          "capacidade": "2–3", "velocidade_kmh": 230, "alcance_km": 530,
+          "entrada_servico": 2019, "custo_hora": "não divulgado",
+          "curiosidade": "Apelidado 'WildLynx' pelas tripulações. Modernizado com cabine de vidro e compatível com visão noturna. Lança torpedos das fragatas."
+        },
+        {
+          "designacao": "UH-15 Super Cougar", "modelo": "Helibras/Airbus EC725 (H225M)", "fabricante": "Helibras / Airbus Helicopters",
+          "categoria": "Transporte médio naval / CSAR", "quantidade": 14,
+          "capacidade": "~28 tropa", "velocidade_kmh": 260, "alcance_km": 900,
+          "entrada_servico": 2010, "custo_hora": "não divulgado",
+          "curiosidade": "Principal helicóptero de transporte embarcado no NAM Atlântico. Mesma família (EC725) operada pela FAB e pelo Exército — fabricada no Brasil pela Helibras."
+        },
+        {
+          "designacao": "IH-18", "modelo": "Helibras/Airbus H125", "fabricante": "Helibras / Airbus Helicopters",
+          "categoria": "Helicóptero de instrução (novo)", "quantidade": 3,
+          "capacidade": "1–2 + 5", "velocidade_kmh": 245, "alcance_km": 660,
+          "entrada_servico": 2025, "custo_hora": "não divulgado",
+          "curiosidade": "Chegou em 2025 para aposentar o veterano Jet Ranger (IH-6B), em serviço desde os anos 1970. Primeira missão de treino em agosto de 2025."
+        },
+        {
+          "designacao": "ScanEagle", "modelo": "Boeing/Insitu ScanEagle", "fabricante": "Boeing/Insitu",
+          "categoria": "Drone (VANT) embarcado", "quantidade": 6,
+          "capacidade": "não tripulado", "velocidade_kmh": 110, "alcance_km": null, "autonomia_h": 20,
+          "entrada_servico": 2022, "custo_hora": "não divulgado",
+          "curiosidade": "O drone embarcado da Marinha. Decola por catapulta e é recuperado por um gancho ('SkyHook') — sem precisar de pista. Voa mais de 20 horas estendendo o 'olho' da frota além do horizonte."
+        }
+      ]
+    },
+    {
+      "id": "exercito",
+      "nome": "Aviação do Exército",
+      "descricao": "O Comando de Aviação do Exército (CAvEx), sediado em Taubaté/SP — helicópteros de ataque e transporte, com forte presença na Amazônia.",
+      "forca": "Exército Brasileiro",
+      "aeronaves": [
+        {
+          "designacao": "HA-1 Fennec", "modelo": "Helibras/Airbus AS550 A2 Fennec", "fabricante": "Helibras / Airbus Helicopters",
+          "categoria": "Helicóptero de ataque/reconhecimento", "quantidade": 34,
+          "capacidade": "1–2", "velocidade_kmh": 245, "alcance_km": 660,
+          "entrada_servico": 1989, "custo_hora": "não divulgado",
+          "curiosidade": "O ÚNICO helicóptero de ataque dedicado do Exército. Versão armada do Esquilo, com canhão de 20 mm, foguetes e mísseis.",
+          "destaque": true
+        },
+        {
+          "designacao": "HM-1 Pantera", "modelo": "Helibras/Airbus AS565 Panther", "fabricante": "Helibras / Airbus Helicopters",
+          "categoria": "Helicóptero de manobra / transporte", "quantidade": 34,
+          "capacidade": "2 + ~10 tropa", "velocidade_kmh": 260, "alcance_km": 800,
+          "entrada_servico": 1989, "custo_hora": "não divulgado",
+          "curiosidade": "Batizado 'Pantera' no Brasil. Modernizado pela Helibras com aviônica nova. Treina pouso embarcado em embarcações na Amazônia."
+        },
+        {
+          "designacao": "HM-2A Black Hawk", "modelo": "Sikorsky UH-60M Black Hawk", "fabricante": "Sikorsky / Lockheed Martin",
+          "categoria": "Helicóptero de transporte (novo)", "quantidade": 1, "quantidade_prevista": 12,
+          "capacidade": "2–4 + ~14 tropa", "velocidade_kmh": 280, "alcance_km": 590,
+          "entrada_servico": 2025, "custo_hora": "não divulgado",
+          "curiosidade": "Versão de última geração com cabine 100% digital, otimizada para o calor da Amazônia. A maior aquisição da Aviação do Exército em 2025 (~R$ 1 bilhão). Os EUA aprovaram a venda SEM armamento, por restrição tecnológica. 1 entregue em dez/2025, 11 até 2029.",
+          "destaque": true
+        },
+        {
+          "designacao": "HM-4 Caracal", "modelo": "Helibras/Airbus EC725 (H225M)", "fabricante": "Helibras / Airbus Helicopters",
+          "categoria": "Transporte pesado / manobra", "quantidade": 15,
+          "capacidade": "2–3 + ~28 tropa", "velocidade_kmh": 260, "alcance_km": 900,
+          "entrada_servico": 2011, "custo_hora": "não divulgado",
+          "curiosidade": "O maior helicóptero de transporte do Exército. Fabricado no Brasil pela Helibras dentro do programa H-XBR, compartilhado com FAB e Marinha."
+        },
+        {
+          "designacao": "Nauru 1000C", "modelo": "XMobots Nauru 1000C", "fabricante": "XMobots (Brasil)",
+          "categoria": "Drone (VANT) de asa fixa", "quantidade": 3,
+          "capacidade": "não tripulado", "velocidade_kmh": 110, "alcance_km": null, "autonomia_h": 16,
+          "entrada_servico": 2022, "custo_hora": "não divulgado",
+          "curiosidade": "Drone de reconhecimento de FABRICAÇÃO NACIONAL (XMobots, de São Carlos/SP). Representa o esforço de nacionalização de drones militares brasileiros."
+        }
+      ]
     }
   ],
 
@@ -241,6 +338,18 @@
     {
       "designacao": "AH-2 Sabre", "modelo": "Mil Mi-35M (Rússia)", "status": "Desativado em 01/03/2022",
       "curiosidade": "Helicóptero de ataque russo. A Rússia TENTOU RECOMPRAR esses Mi-35 do Brasil para uso na guerra da Ucrânia — o governo brasileiro recusou. Custaram US$ 386 milhões e operaram na Amazônia."
+    },
+    {
+      "designacao": "AH-11A Super Lynx", "modelo": "Westland Super Lynx Mk.21A", "status": "Marinha — último voo realizado",
+      "curiosidade": "Versão original do Super Lynx naval. Fez seu último voo, substituído pelos AH-11B modernizados. Ainda aparece como ativo em listas antigas."
+    },
+    {
+      "designacao": "IH-6B Jet Ranger", "modelo": "Bell 206 Jet Ranger", "status": "Marinha — em desativação",
+      "curiosidade": "Helicóptero de instrução em serviço desde os anos 1970. Sendo aposentado pelo IH-18; a Lei 15.338/2026 autorizou doar 2 unidades ao Uruguai."
+    },
+    {
+      "designacao": "HM-3 Cougar", "modelo": "Eurocopter AS532 UE Cougar", "status": "Exército — em desativação",
+      "curiosidade": "Helicóptero de transporte do Exército. Sendo substituído (junto com o HM-2 Black Hawk antigo) pelos 12 novos UH-60M."
     }
   ]
 }

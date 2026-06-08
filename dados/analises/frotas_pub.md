@@ -1,6 +1,6 @@
 # Frotas de Aeronaves — Órgãos Públicos Não-FAB
 
-_Gerado em 2026-06-08 · Fonte: [RAB/ANAC](https://sistemas.anac.gov.br/dadosabertos/Aeronaves/RAB/dados_aeronaves.csv) · Dados de 2026-06-03 · **323 aeronaves ativas** em 162 órgãos_
+_Gerado em 2026-06-08 · Fonte: [RAB/ANAC](https://sistemas.anac.gov.br/dadosabertos/Aeronaves/RAB/dados_aeronaves.csv) · Dados de 2026-06-03 · **324 aeronaves ativas** em 163 órgãos_
 
 > Exclui aeronaves da FAB/Aeronáutica (cobertas pelo GABAER/Decreto 10.267/2020).
 
@@ -724,6 +724,18 @@ _Gerado em 2026-06-08 · Fonte: [RAB/ANAC](https://sistemas.anac.gov.br/dadosabe
 | Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
 |---|---|---|---|---:|---|
 | PPFHD | 210N | CESSNA AIRCRAFT | C210 | 005 | 1982 |
+
+## Governo Municipal (1 aeronaves)
+
+| Órgão | UF | Aeronaves |
+|---|---|---:|
+| MUNICÍPIO DE REDENÇÃO | PA | 1 |
+
+### MUNICÍPIO DE REDENÇÃO
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PTISR | 210L | CESSNA AIRCRAFT | C210 | 5 | 1973 |
 
 ## Polícia Civil (44 aeronaves)
 

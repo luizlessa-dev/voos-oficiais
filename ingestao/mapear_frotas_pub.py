@@ -65,6 +65,10 @@ TERMOS_GOV = [
     "MINISTERIO DO MEIO AMBIENTE", "MINISTÉRIO DO MEIO AMBIENTE",
     "MINISTERIO DA AGRICULTURA", "MINISTÉRIO DA AGRICULTURA",
     "MINISTERIO DA SAUDE", "MINISTÉRIO DA SAÚDE",
+    # ── Governos municipais
+    "PREFEITURA",
+    "MUNICIPIO DE", "MUNICÍPIO DE",
+    "GOVERNO MUNICIPAL",
 ]
 
 # Termos que identificam FAB/Forças Armadas — excluir (cobertos pelo GABAER)
@@ -97,6 +101,8 @@ CATEGORIAS = [
                                    "MINISTERIO DA SAUDE", "MINISTÉRIO DA SAÚDE",
                                    "MINISTERIO DA JUSTICA", "MINISTÉRIO DA JUSTIÇA",
                                    "MJ-DEPARTAMENTO"]),
+    ("Governo Municipal",        ["PREFEITURA", "MUNICIPIO DE", "MUNICÍPIO DE",
+                                   "GOVERNO MUNICIPAL"]),
     ("Governo Estadual",         ["GOVERNO DO ESTADO", "GOVERNO DE",
                                    "SECRETARIA", "CASA MILITAR", "GEES"]),
 ]
