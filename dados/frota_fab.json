@@ -1,0 +1,246 @@
+{
+  "_meta": {
+    "descricao": "Catálogo da frota aérea da Força Aérea Brasileira (FAB) em serviço ativo, 2026.",
+    "atualizado": "2026-06-08",
+    "fonte": "Pesquisa consolidada: fab.mil.br, Wikipédia, Poder Aéreo, Estratégia Militares, TCU TC 008.687/2024-2.",
+    "avisos": [
+      "Quantidades são aproximadas e voláteis (acidentes, modernizações, manutenção). Confirmar com a FAB antes de publicar número exato.",
+      "A FAB NÃO divulga custo por hora de voo por modelo. Os únicos números públicos robustos são agregados do TCU.",
+      "Aeronaves militares da FAB não constam no RAB/ANAC (registro civil)."
+    ],
+    "total_aproximado_fab": 502
+  },
+
+  "categorias": [
+    {
+      "id": "vip",
+      "nome": "Transporte VIP / de Autoridades",
+      "descricao": "As aeronaves que carregam o presidente, ministros e autoridades — o foco do Radar FAB.",
+      "aeronaves": [
+        {
+          "designacao": "VC-1", "modelo": "Airbus ACJ319 (A319-100 Corporate Jet)", "fabricante": "Airbus",
+          "categoria": "Transporte presidencial", "quantidade": 1, "matriculas": ["FAB2101"],
+          "capacidade": "~40 (comitiva) + suíte presidencial", "velocidade_kmh": 830, "alcance_km": 8500,
+          "entrada_servico": 2005, "custo_hora": "não divulgado",
+          "curiosidade": "É O avião que leva o presidente da República, batizado 'Santos Dumont'. Apelidado de 'Aerolula' quando foi comprado em 2005. Custou ~US$ 91,7 milhões. O governo estuda substituí-lo por um modelo de maior alcance.",
+          "destaque": true
+        },
+        {
+          "designacao": "VC-2", "modelo": "Embraer 190 (EMB-190PR)", "fabricante": "Embraer",
+          "categoria": "Transporte presidencial / autoridades", "quantidade": 2, "matriculas": ["FAB2590", "FAB2591"],
+          "capacidade": "~32 + seção privativa", "velocidade_kmh": 870, "alcance_km": 4500,
+          "entrada_servico": 2010, "custo_hora": "não divulgado",
+          "curiosidade": "Voa à frente do presidencial em algumas missões para reconhecimento de segurança. Já foi usado em repatriações de brasileiros (Faixa de Gaza). Batizados 'Bartolomeu de Gusmão' e 'Augusto Severo'."
+        },
+        {
+          "designacao": "VC-99C", "modelo": "Embraer Legacy 600 (ERJ-135BJ)", "fabricante": "Embraer",
+          "categoria": "Jato executivo de autoridades", "quantidade": 6, "matriculas": ["FAB2580","FAB2581","FAB2582","FAB2583","FAB2584","FAB2585"],
+          "capacidade": "~13", "velocidade_kmh": 830, "alcance_km": 3700,
+          "entrada_servico": 2008, "custo_hora": "não divulgado (estimativa de mercado R$ 25–43k/h)",
+          "curiosidade": "É a versão militar do Legacy 600 — os mesmos jatos executivos que voam para grandes empresas levam ministros brasileiros. É a aeronave mais usada nos voos de autoridades do GABAER.",
+          "destaque": true
+        },
+        {
+          "designacao": "VC-99A/B", "modelo": "Embraer ERJ-145 / ERJ-135", "fabricante": "Embraer",
+          "categoria": "Transporte executivo", "quantidade": 3,
+          "capacidade": "8–16", "velocidade_kmh": 830, "alcance_km": 3000,
+          "entrada_servico": 2002, "custo_hora": "não divulgado",
+          "curiosidade": "Variantes mais antigas da família ERJ usadas para transporte de comandantes militares e autoridades de segundo escalão."
+        },
+        {
+          "designacao": "KC-30", "modelo": "Airbus A330-200 MRTT", "fabricante": "Airbus",
+          "categoria": "Transporte estratégico + reabastecimento", "quantidade": 2, "matriculas": ["FAB2900","FAB2901"],
+          "capacidade": "centenas de passageiros / carga", "velocidade_kmh": 870, "alcance_km": 14800,
+          "entrada_servico": 2022, "custo_hora": "não divulgado (referência 2019: ~R$ 23k/h)",
+          "curiosidade": "É a maior aeronave de transporte de pessoal da FAB e PODE reabastecer outros aviões em voo. Vira o 'avião presidencial' para viagens transcontinentais quando o VC-1 não tem alcance suficiente.",
+          "destaque": true
+        },
+        {
+          "designacao": "U-100", "modelo": "Embraer Phenom 100", "fabricante": "Embraer",
+          "categoria": "Jato leve / ligação", "quantidade": 4,
+          "capacidade": "~6", "velocidade_kmh": 720, "alcance_km": 2180,
+          "entrada_servico": 2012, "custo_hora": "não divulgado (estimativa R$ 8–12k/h)",
+          "curiosidade": "O primeiro jato leve da Embraer. Serve à FAB tanto para transporte de autoridades quanto para treinamento de transição de pilotos."
+        },
+        {
+          "designacao": "VH-36", "modelo": "Airbus H225M Caracal (versão VIP)", "fabricante": "Airbus Helicopters / Helibras",
+          "categoria": "Helicóptero VIP", "quantidade": 2,
+          "capacidade": "~12 VIP", "velocidade_kmh": 260, "alcance_km": 900,
+          "entrada_servico": 2016, "custo_hora": "não divulgado",
+          "curiosidade": "Transporta o presidente em deslocamentos curtos (Palácio → aeroporto). Montado no Brasil pela Helibras em Itajubá (MG)."
+        },
+        {
+          "designacao": "VH-35", "modelo": "Airbus H135 (EC135)", "fabricante": "Airbus Helicopters",
+          "categoria": "Helicóptero VIP leve", "quantidade": 2,
+          "capacidade": "~6", "velocidade_kmh": 250, "alcance_km": 630,
+          "entrada_servico": 2010, "custo_hora": "não divulgado",
+          "curiosidade": "Helicóptero executivo para transporte de autoridades em deslocamentos curtos."
+        }
+      ]
+    },
+    {
+      "id": "transporte",
+      "nome": "Transporte Tático e Logístico",
+      "descricao": "Carga, tropas e missões humanitárias.",
+      "aeronaves": [
+        {
+          "designacao": "KC-390", "modelo": "Embraer C-390 Millennium", "fabricante": "Embraer",
+          "categoria": "Transporte tático multimissão", "quantidade": 8,
+          "capacidade": "26 t de carga / 80 soldados", "velocidade_kmh": 870, "alcance_km": 2815,
+          "entrada_servico": 2019, "custo_hora": "não divulgado",
+          "curiosidade": "O MAIOR avião militar já desenvolvido na América Latina. Projetado para substituir o lendário C-130 Hércules. Já exportado para Portugal, Hungria e Holanda. ATENÇÃO EDITORIAL: dos 8 entregues, reportagens de 2026 apontam apenas 2–3 operacionais por problemas de disponibilidade.",
+          "destaque": true
+        },
+        {
+          "designacao": "C-105 Amazonas", "modelo": "Airbus C-295", "fabricante": "Airbus Defence",
+          "categoria": "Transporte tático médio / SAR", "quantidade": 13,
+          "capacidade": "~70 passageiros / 9 t", "velocidade_kmh": 480, "alcance_km": 4500,
+          "entrada_servico": 2006, "custo_hora": "não divulgado",
+          "curiosidade": "A versão SC-105 é dedicada a busca e salvamento. Atua intensamente na Amazônia."
+        },
+        {
+          "designacao": "C-98 Caravan", "modelo": "Cessna 208 Caravan", "fabricante": "Cessna",
+          "categoria": "Utilitário leve", "quantidade": 30,
+          "capacidade": "~9", "velocidade_kmh": 340, "alcance_km": 1700,
+          "entrada_servico": 1985, "custo_hora": "não divulgado",
+          "curiosidade": "O 'cavalo de batalha' leve da Amazônia — pousa em pistas curtas de terra onde nada maior chega."
+        },
+        {
+          "designacao": "C-97 Brasília", "modelo": "Embraer EMB-120 Brasília", "fabricante": "Embraer",
+          "categoria": "Transporte regional", "quantidade": 17,
+          "capacidade": "~30", "velocidade_kmh": 550, "alcance_km": 1750,
+          "entrada_servico": 1991, "custo_hora": "não divulgado",
+          "curiosidade": "Versão militar do avião regional que projetou a Embraer no mercado mundial nos anos 1990."
+        }
+      ]
+    },
+    {
+      "id": "caca",
+      "nome": "Caças e Ataque",
+      "descricao": "A defesa do espaço aéreo brasileiro.",
+      "aeronaves": [
+        {
+          "designacao": "F-39 Gripen", "modelo": "Saab Gripen E/F", "fabricante": "Saab + Embraer",
+          "categoria": "Caça multimissão", "quantidade": 12, "quantidade_prevista": 36,
+          "capacidade": "1–2 pilotos", "velocidade_kmh": 2470, "alcance_km": 1300,
+          "entrada_servico": 2022, "custo_hora": "não divulgado",
+          "curiosidade": "O caça mais moderno do Brasil. O primeiro biposto F-39F DO MUNDO será operado pela FAB. Escolhido em 2014 sobre o Rafale francês e o F/A-18 americano. Faz supercruzeiro — voo supersônico sem pós-combustor.",
+          "destaque": true
+        },
+        {
+          "designacao": "F-5M", "modelo": "Northrop F-5E/F Tiger II (modernizado)", "fabricante": "Northrop + Embraer/Elbit",
+          "categoria": "Caça de interceptação", "quantidade": 35,
+          "capacidade": "1–2 pilotos", "velocidade_kmh": 1700, "alcance_km": 1400,
+          "entrada_servico": 1975, "custo_hora": "não divulgado",
+          "curiosidade": "Caça veterano de meio século que resiste — modernizado com aviônica de 4ª geração. Deve servir até a transição completa para o Gripen."
+        },
+        {
+          "designacao": "A-29 Super Tucano", "modelo": "Embraer EMB-314", "fabricante": "Embraer",
+          "categoria": "Ataque leve / treinamento", "quantidade": 90,
+          "capacidade": "1–2", "velocidade_kmh": 590, "alcance_km": 1550,
+          "entrada_servico": 2003, "custo_hora": "não divulgado",
+          "curiosidade": "O MAIOR sucesso de exportação da Embraer em defesa — vendido a mais de 15 países, inclusive à Força Aérea dos EUA. É o avião que patrulha a Amazônia.",
+          "destaque": true
+        },
+        {
+          "designacao": "A-1M (AMX)", "modelo": "AMX International AMX", "fabricante": "Embraer + Aermacchi + Alenia",
+          "categoria": "Caça-bombardeiro / ataque", "quantidade": 8,
+          "capacidade": "1–2", "velocidade_kmh": 1050, "alcance_km": 1800,
+          "entrada_servico": 1989, "custo_hora": "não divulgado",
+          "curiosidade": "Único jato de ataque desenvolvido em parceria Brasil-Itália. Será desativado em 2027, encerrando uma era."
+        }
+      ]
+    },
+    {
+      "id": "vigilancia",
+      "nome": "Vigilância e Alerta Aéreo",
+      "descricao": "Os 'olhos' da FAB sobre o território e o mar.",
+      "aeronaves": [
+        {
+          "designacao": "E-99M", "modelo": "Embraer EMB-145 AEW&C", "fabricante": "Embraer (radar Saab Erieye)",
+          "categoria": "Alerta aéreo antecipado (AWACS)", "quantidade": 5,
+          "capacidade": "pilotos + operadores", "velocidade_kmh": 830, "alcance_km": null, "autonomia_h": 8,
+          "entrada_servico": 2002, "custo_hora": "não divulgado",
+          "curiosidade": "O 'olho no céu' da FAB — um avião-radar que enxerga aeronaves a 723 km de distância. Espinha dorsal da vigilância da Amazônia (SIVAM).",
+          "destaque": true
+        },
+        {
+          "designacao": "P-3AM Orion", "modelo": "Lockheed P-3 Orion", "fabricante": "Lockheed",
+          "categoria": "Patrulha marítima / antissubmarino", "quantidade": 4,
+          "capacidade": "~11 tripulantes", "velocidade_kmh": 610, "alcance_km": 8900,
+          "entrada_servico": 2011, "custo_hora": "não divulgado",
+          "curiosidade": "Quadrimotor que vigia a 'Amazônia Azul' (mar territorial). Caça submarinos e fiscaliza a costa brasileira."
+        },
+        {
+          "designacao": "RQ-900", "modelo": "Elbit Hermes 900", "fabricante": "Elbit Systems (Israel)",
+          "categoria": "Drone (VANT) de vigilância", "quantidade": 2,
+          "capacidade": "não tripulado", "velocidade_kmh": 220, "alcance_km": null, "autonomia_h": 30,
+          "entrada_servico": 2019, "custo_hora": "não divulgado",
+          "curiosidade": "Drone israelense de longa duração — voa por mais de 30 horas seguidas. Usado na vigilância de fronteiras e em grandes eventos (Copa 2014, Olimpíadas 2016)."
+        }
+      ]
+    },
+    {
+      "id": "treinamento",
+      "nome": "Treinamento",
+      "descricao": "Onde os pilotos da FAB aprendem a voar.",
+      "aeronaves": [
+        {
+          "designacao": "T-27 Tucano", "modelo": "Embraer EMB-312", "fabricante": "Embraer",
+          "categoria": "Treinamento básico-avançado", "quantidade": 40,
+          "capacidade": "2 (instrutor + aluno)", "velocidade_kmh": 450, "alcance_km": 1800,
+          "entrada_servico": 1983, "custo_hora": "não divulgado",
+          "curiosidade": "O avião da Esquadrilha da Fumaça por décadas. Treinou gerações de pilotos e foi exportado para vários países.",
+          "destaque": true
+        },
+        {
+          "designacao": "T-25 Universal", "modelo": "Neiva T-25", "fabricante": "Neiva (Embraer)",
+          "categoria": "Treinamento primário", "quantidade": 35,
+          "capacidade": "2–3", "velocidade_kmh": 300, "alcance_km": null,
+          "entrada_servico": 1971, "custo_hora": "não divulgado",
+          "curiosidade": "Um dos aviões MAIS ANTIGOS ainda em serviço na FAB — o primeiro avião que muitos cadetes da Academia da Força Aérea pilotam."
+        }
+      ]
+    },
+    {
+      "id": "helicopteros",
+      "nome": "Helicópteros",
+      "descricao": "Asas rotativas para transporte, combate e resgate.",
+      "aeronaves": [
+        {
+          "designacao": "H-36 Caracal", "modelo": "Airbus H225M", "fabricante": "Airbus Helicopters / Helibras",
+          "categoria": "Transporte militar / CSAR", "quantidade": 15,
+          "capacidade": "~28 soldados", "velocidade_kmh": 260, "alcance_km": 900,
+          "entrada_servico": 2016, "custo_hora": "não divulgado",
+          "curiosidade": "Montado no Brasil pela Helibras. Pode ser reabastecido em voo pelo KC-390. Custo do programa: ~US$ 640 milhões.",
+          "destaque": true
+        },
+        {
+          "designacao": "H-60 Black Hawk", "modelo": "Sikorsky UH-60L", "fabricante": "Sikorsky",
+          "categoria": "Transporte / combate / SAR", "quantidade": 16, "quantidade_prevista": 27,
+          "capacidade": "~11 soldados", "velocidade_kmh": 280, "alcance_km": 590,
+          "entrada_servico": 2011, "custo_hora": "não divulgado",
+          "curiosidade": "Atua intensamente na Amazônia. A FAB anunciou em 2026 a compra de mais 11 unidades (~US$ 230 milhões). Um dos helicópteros militares mais conhecidos do mundo."
+        },
+        {
+          "designacao": "H-50 Esquilo", "modelo": "Airbus AS350 Écureuil", "fabricante": "Airbus Helicopters / Helibras",
+          "categoria": "Utilitário leve / ligação", "quantidade": 30,
+          "capacidade": "~5", "velocidade_kmh": 245, "alcance_km": 660,
+          "entrada_servico": 1980, "custo_hora": "não divulgado",
+          "curiosidade": "Montado no Brasil pela Helibras. O 'cavalo de batalha' leve das asas rotativas da FAB."
+        }
+      ]
+    }
+  ],
+
+  "aposentadas": [
+    {
+      "designacao": "C-130 Hércules", "modelo": "Lockheed C-130", "status": "Aposentado",
+      "curiosidade": "Substituído pelo KC-390. Ainda aparece como 'ativo' em muitas listas desatualizadas — não está mais em serviço."
+    },
+    {
+      "designacao": "AH-2 Sabre", "modelo": "Mil Mi-35M (Rússia)", "status": "Desativado em 01/03/2022",
+      "curiosidade": "Helicóptero de ataque russo. A Rússia TENTOU RECOMPRAR esses Mi-35 do Brasil para uso na guerra da Ucrânia — o governo brasileiro recusou. Custaram US$ 386 milhões e operaram na Amazônia."
+    }
+  ]
+}
