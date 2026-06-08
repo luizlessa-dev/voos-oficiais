@@ -4,8 +4,8 @@
     "fonte": "Registro Aeronáutico Brasileiro (ANAC)",
     "url": "https://sistemas.anac.gov.br/dadosabertos/Aeronaves/RAB/dados_aeronaves.csv",
     "data_rab": "2026-06-03",
-    "gerado": "2026-06-03",
-    "total_aeronaves": 302,
+    "gerado": "2026-06-08",
+    "total_aeronaves": 323,
     "nota": "Exclui aeronaves da Aeronáutica/FAB (cobertas pelo GABAER). Inclui aeronaves ativas (sem data de cancelamento)."
   },
   "frotas": {
@@ -1198,38 +1198,6 @@
           "uf": "AC"
         }
       ],
-      "MINISTERIO DA JUSTIÇA E SEGURANÇA PUBLICA": [
-        {
-          "marca": "PRFKA",
-          "modelo": "AW119MKII",
-          "fabricante": "LEONARDO S.P.A",
-          "tipo": "HMNT",
-          "icao": "A119",
-          "pax_max": "7",
-          "ano": "2020",
-          "uf": "SP"
-        },
-        {
-          "marca": "PRFKD",
-          "modelo": "AW119MKII",
-          "fabricante": "LEONARDO S.P.A",
-          "tipo": "HMNT",
-          "icao": "A119",
-          "pax_max": "7",
-          "ano": "2021",
-          "uf": "DF"
-        },
-        {
-          "marca": "PRFKB",
-          "modelo": "AW119MKII",
-          "fabricante": "LEONARDO S.P.A",
-          "tipo": "HMNT",
-          "icao": "A119",
-          "pax_max": "7",
-          "ano": "2021",
-          "uf": "DF"
-        }
-      ],
       "ESTADO DO GOIÁS - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA - SSP/GO": [
         {
           "marca": "PSHBM",
@@ -1698,30 +1666,6 @@
           "uf": "SP"
         }
       ],
-      "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA": [
-        {
-          "marca": "PRBSI",
-          "modelo": "B300",
-          "fabricante": "BEECH AIRCRAFT",
-          "tipo": "BE30",
-          "icao": "B350",
-          "pax_max": "8",
-          "ano": "2012",
-          "uf": "DF"
-        }
-      ],
-      "MINISTERIO DA JUSTIÇA E SEGURANÇA PÚBLICA": [
-        {
-          "marca": "PRFKC",
-          "modelo": "AW119MKII",
-          "fabricante": "LEONARDO S.P.A",
-          "tipo": "HMNT",
-          "icao": "A119",
-          "pax_max": "7",
-          "ano": "2021",
-          "uf": "DF"
-        }
-      ],
       "SECRETARIA DE SEGURANÇA PÚBLICA DO ESTADO DO PIAUÍ": [
         {
           "marca": "PRFPM",
@@ -1792,18 +1736,6 @@
           "pax_max": "6",
           "ano": "2023",
           "uf": "RN"
-        }
-      ],
-      "MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA": [
-        {
-          "marca": "PRFKE",
-          "modelo": "AW119MKII",
-          "fabricante": "LEONARDO S.P.A",
-          "tipo": "HMNT",
-          "icao": "A119",
-          "pax_max": "7",
-          "ano": "2022",
-          "uf": "DF"
         }
       ],
       "GOVERNO DO ESTADO DE RONDONIA": [
@@ -2128,6 +2060,300 @@
           "pax_max": "13",
           "ano": "1996",
           "uf": "Indisponível"
+        }
+      ]
+    },
+    "Órgão Federal Civil": {
+      "INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA": [
+        {
+          "marca": "PSIBD",
+          "modelo": "AW119MKII",
+          "fabricante": "AGUSTA",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2013",
+          "uf": "SP"
+        },
+        {
+          "marca": "PSIBH",
+          "modelo": "AW119MKII",
+          "fabricante": "AGUSTA",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2014",
+          "uf": "SP"
+        },
+        {
+          "marca": "PSIBI",
+          "modelo": "AW119MKII",
+          "fabricante": "AGUSTA",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2014",
+          "uf": "PR"
+        },
+        {
+          "marca": "PSIBE",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2013",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRHVB",
+          "modelo": "EC 130 B4",
+          "fabricante": "EUROCOPTER FRANCE",
+          "tipo": "HMNT",
+          "icao": "EC30",
+          "pax_max": "7",
+          "ano": "2012",
+          "uf": "SP"
+        },
+        {
+          "marca": "PSIBC",
+          "modelo": "AW119MKII",
+          "fabricante": "AGUSTA",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2013",
+          "uf": "PR"
+        },
+        {
+          "marca": "PRHEB",
+          "modelo": "206L-4",
+          "fabricante": "BELL HELICOPTER",
+          "tipo": "HMNT",
+          "icao": "B06",
+          "pax_max": "6",
+          "ano": "2008",
+          "uf": "SP"
+        },
+        {
+          "marca": "PSIBF",
+          "modelo": "AW119MKII",
+          "fabricante": "AGUSTA",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2013",
+          "uf": "PR"
+        },
+        {
+          "marca": "PSIBG",
+          "modelo": "AW119MKII",
+          "fabricante": "AGUSTA",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2013",
+          "uf": "SP"
+        }
+      ],
+      "INSTITUTO NACIONAL DE COLONIZACAO E REFORMA AGRARIA": [
+        {
+          "marca": "PPEIQ",
+          "modelo": "ECHAR 20D",
+          "fabricante": "XMOBOTS AEROESPACIAL E DEFESA",
+          "tipo": "",
+          "icao": "ZZZZ",
+          "pax_max": "0",
+          "ano": "2017",
+          "uf": "DF"
+        },
+        {
+          "marca": "PTENU",
+          "modelo": "ECHAR 20D",
+          "fabricante": "XMOBOTS AEROESPACIAL E DEFESA",
+          "tipo": "",
+          "icao": "ZZZZ",
+          "pax_max": "0",
+          "ano": "2017",
+          "uf": "DF"
+        }
+      ],
+      "AGENCIA NACIONAL DE AVIACAO CIVIL ANAC": [
+        {
+          "marca": "PTPMK",
+          "modelo": "DISCUS-B",
+          "fabricante": "SCHEMPP-HIRTH",
+          "tipo": "PLAN",
+          "icao": "GLID",
+          "pax_max": "0",
+          "ano": "1987",
+          "uf": "RJ"
+        },
+        {
+          "marca": "PPGJZ",
+          "modelo": "AB-115",
+          "fabricante": "AERO BOERO",
+          "tipo": "MNTE",
+          "icao": "AB11",
+          "pax_max": "1",
+          "ano": "1992",
+          "uf": "RJ"
+        },
+        {
+          "marca": "PPGOE",
+          "modelo": "AB-115",
+          "fabricante": "AERO BOERO",
+          "tipo": "MNTE",
+          "icao": "AB11",
+          "pax_max": "000",
+          "ano": "1993",
+          "uf": "RJ"
+        },
+        {
+          "marca": "PTPMP",
+          "modelo": "DISCUS-B",
+          "fabricante": "SCHEMPP-HIRTH",
+          "tipo": "PLAN",
+          "icao": "GLID",
+          "pax_max": "0",
+          "ano": "1987",
+          "uf": "RJ"
+        },
+        {
+          "marca": "PRWAV",
+          "modelo": "AMT-600",
+          "fabricante": "AEROMOT",
+          "tipo": "MNTE",
+          "icao": "GURI",
+          "pax_max": "1",
+          "ano": "2010",
+          "uf": "RJ"
+        }
+      ],
+      "UNIVERSIDADE FEDERAL DE MINAS GERAIS": [
+        {
+          "marca": "PUFMG",
+          "modelo": "",
+          "fabricante": "",
+          "tipo": "UATE",
+          "icao": "ULAC",
+          "pax_max": "000",
+          "ano": "",
+          "uf": "MG"
+        },
+        {
+          "marca": "PPZTZ",
+          "modelo": "",
+          "fabricante": "",
+          "tipo": "MNTE",
+          "icao": "ZZZZ",
+          "pax_max": "000",
+          "ano": "",
+          "uf": "MG"
+        }
+      ],
+      "AGENCIA NACIONAL DE AVIACAO CIVIL - ANAC": [
+        {
+          "marca": "PPFGN",
+          "modelo": "AB-115",
+          "fabricante": "AERO BOERO",
+          "tipo": "MNTE",
+          "icao": "AB11",
+          "pax_max": "1",
+          "ano": "1988",
+          "uf": "RJ"
+        }
+      ],
+      "MINISTERIO DA JUSTIÇA E SEGURANÇA PUBLICA": [
+        {
+          "marca": "PRFKA",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2020",
+          "uf": "SP"
+        },
+        {
+          "marca": "PRFKD",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2021",
+          "uf": "DF"
+        },
+        {
+          "marca": "PRFKB",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2021",
+          "uf": "DF"
+        }
+      ],
+      "UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARA - UNIFESSPA": [
+        {
+          "marca": "PRDJX",
+          "modelo": "ARATOR 5C",
+          "fabricante": "XMOBOTS AEROESPACIAL E DEFESA",
+          "tipo": "",
+          "icao": "ZZZZ",
+          "pax_max": "0",
+          "ano": "2022",
+          "uf": "PA"
+        }
+      ],
+      "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA": [
+        {
+          "marca": "PRBSI",
+          "modelo": "B300",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "BE30",
+          "icao": "B350",
+          "pax_max": "8",
+          "ano": "2012",
+          "uf": "DF"
+        }
+      ],
+      "MINISTERIO DA JUSTIÇA E SEGURANÇA PÚBLICA": [
+        {
+          "marca": "PRFKC",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2021",
+          "uf": "DF"
+        }
+      ],
+      "UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI": [
+        {
+          "marca": "PPKCA",
+          "modelo": "AMT-100",
+          "fabricante": "AEROMOT",
+          "tipo": "PLAN",
+          "icao": "RF10",
+          "pax_max": "001",
+          "ano": "1986",
+          "uf": "MG"
+        }
+      ],
+      "MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA": [
+        {
+          "marca": "PRFKE",
+          "modelo": "AW119MKII",
+          "fabricante": "LEONARDO S.P.A",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2022",
+          "uf": "DF"
         }
       ]
     },

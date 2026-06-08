@@ -47,6 +47,24 @@ TERMOS_GOV = [
     "MJ-DEPARTAMENTO",
     "DEPARTAMENTO DE POLICIA FEDERAL", "DEPARTAMENTO DE POLÍCIA FEDERAL",
     "DRACCO",
+    # ── Agências/órgãos federais civis (nomes completos p/ evitar falso positivo)
+    "INSTITUTO BRASILEIRO DO MEIO AMBIENTE",            # IBAMA
+    "INSTITUTO CHICO MENDES",                            # ICMBio
+    "INSTITUTO NACIONAL DE COLONIZACAO",                 # INCRA
+    "INSTITUTO NACIONAL DE COLONIZAÇÃO",
+    "AGENCIA NACIONAL DE AVIACAO CIVIL",                 # ANAC
+    "AGÊNCIA NACIONAL DE AVIAÇÃO CIVIL",
+    "FUNDACAO NACIONAL DOS POVOS INDIGENAS",             # FUNAI
+    "FUNDAÇÃO NACIONAL DOS POVOS INDÍGENAS",
+    "FUNDACAO NACIONAL DO INDIO", "FUNDAÇÃO NACIONAL DO ÍNDIO",
+    "INSTITUTO NACIONAL DE PESQUISAS ESPACIAIS",         # INPE
+    "INSTITUTO NACIONAL DE PESQUISAS DA AMAZONIA",       # INPA
+    "UNIVERSIDADE FEDERAL",
+    "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA",           # DNIT
+    "INSTITUTO CHICO MENDES DE CONSERVACAO",
+    "MINISTERIO DO MEIO AMBIENTE", "MINISTÉRIO DO MEIO AMBIENTE",
+    "MINISTERIO DA AGRICULTURA", "MINISTÉRIO DA AGRICULTURA",
+    "MINISTERIO DA SAUDE", "MINISTÉRIO DA SAÚDE",
 ]
 
 # Termos que identificam FAB/Forças Armadas — excluir (cobertos pelo GABAER)
@@ -66,10 +84,21 @@ CATEGORIAS = [
                                    "PM DO ESTADO", "PMDF"]),
     ("Polícia Civil",            ["POLICIA CIVIL", "POLÍCIA CIVIL", "DRACCO"]),
     ("Corpo de Bombeiros",       ["CORPO DE BOMBEIROS"]),
-    ("Governo Estadual",         ["GOVERNO DO ESTADO", "GOVERNO DE",
-                                   "SECRETARIA", "CASA MILITAR",
+    ("Órgão Federal Civil",      ["INSTITUTO BRASILEIRO DO MEIO AMBIENTE",
+                                   "INSTITUTO CHICO MENDES",
+                                   "INSTITUTO NACIONAL DE COLONIZACAO", "INSTITUTO NACIONAL DE COLONIZAÇÃO",
+                                   "AGENCIA NACIONAL DE AVIACAO", "AGÊNCIA NACIONAL DE AVIAÇÃO",
+                                   "FUNDACAO NACIONAL", "FUNDAÇÃO NACIONAL",
+                                   "INSTITUTO NACIONAL DE PESQUISAS",
+                                   "UNIVERSIDADE FEDERAL",
+                                   "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA",
+                                   "MINISTERIO DO MEIO AMBIENTE", "MINISTÉRIO DO MEIO AMBIENTE",
+                                   "MINISTERIO DA AGRICULTURA", "MINISTÉRIO DA AGRICULTURA",
+                                   "MINISTERIO DA SAUDE", "MINISTÉRIO DA SAÚDE",
                                    "MINISTERIO DA JUSTICA", "MINISTÉRIO DA JUSTIÇA",
-                                   "GEES"]),
+                                   "MJ-DEPARTAMENTO"]),
+    ("Governo Estadual",         ["GOVERNO DO ESTADO", "GOVERNO DE",
+                                   "SECRETARIA", "CASA MILITAR", "GEES"]),
 ]
 
 

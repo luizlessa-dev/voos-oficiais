@@ -1,6 +1,6 @@
 # Frotas de Aeronaves — Órgãos Públicos Não-FAB
 
-_Gerado em 2026-06-03 · Fonte: [RAB/ANAC](https://sistemas.anac.gov.br/dadosabertos/Aeronaves/RAB/dados_aeronaves.csv) · Dados de 2026-06-03 · **302 aeronaves ativas** em 155 órgãos_
+_Gerado em 2026-06-08 · Fonte: [RAB/ANAC](https://sistemas.anac.gov.br/dadosabertos/Aeronaves/RAB/dados_aeronaves.csv) · Dados de 2026-06-03 · **323 aeronaves ativas** em 162 órgãos_
 
 > Exclui aeronaves da FAB/Aeronáutica (cobertas pelo GABAER/Decreto 10.267/2020).
 
@@ -247,7 +247,7 @@ _Gerado em 2026-06-03 · Fonte: [RAB/ANAC](https://sistemas.anac.gov.br/dadosabe
 |---|---|---|---|---:|---|
 | PRIAL | 208B | CESSNA AIRCRAFT | C208 | 9 | 2008 |
 
-## Governo Estadual (113 aeronaves)
+## Governo Estadual (107 aeronaves)
 
 | Órgão | UF | Aeronaves |
 |---|---|---:|
@@ -257,7 +257,6 @@ _Gerado em 2026-06-03 · Fonte: [RAB/ANAC](https://sistemas.anac.gov.br/dadosabe
 | GEES - SECRETARIA DA CASA MILITAR | ES | 4 |
 | SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA E DEFESA SOCIAL | SP | 4 |
 | BAHIA SECRETARIA DA SEGURANCA PUBLICA | BA | 3 |
-| MINISTERIO DA JUSTIÇA E SEGURANÇA PUBLICA | SP | 3 |
 | SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA DE MATO GROSSO | MT | 3 |
 | SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA DO PARANÁ | PA | 3 |
 | ESTADO DO MARANHÃO - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA | SP | 2 |
@@ -300,15 +299,12 @@ _Gerado em 2026-06-03 · Fonte: [RAB/ANAC](https://sistemas.anac.gov.br/dadosabe
 | ESTADO DO ESPIRITO SANTO - GEES - SECRETARIA DA CASA MILITAR | ES | 1 |
 | SEC.CASA MILITAR DO EST.DO ESP.SANTO | ES | 1 |
 | GOVERNO DA BAHIA CASA MILITAR | BA | 1 |
-| MINISTERIO DA JUSTICA E SEGURANCA PUBLICA | DF | 1 |
-| MINISTERIO DA JUSTIÇA E SEGURANÇA PÚBLICA | DF | 1 |
 | SECRETARIA DE SEGURANÇA PÚBLICA DO ESTADO DO PIAUÍ | DF | 1 |
 | SECRETARIA DE ESTADO DA SEGURANÇA, DEFESA E CIDADANIA | SP | 1 |
 | SECRETARIA DA SEGURANCA PUBLICA | TO | 1 |
 | SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA, DEFESA E CIDADANIA - SESDEC | SP | 1 |
 | SECRETARIA DE SEGURANÇA, DEFESA E CIDADANIA DE RONDÔNIA | MG | 1 |
 | SECRETARIA DE ESTADO DA SEGURANCA PUBLICA E DA DEFESA SOCIAL | RN | 1 |
-| MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA | DF | 1 |
 | GOVERNO DO ESTADO DE RONDONIA | RO | 1 |
 | SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA DO ESTADO DO PARANÁ ¿ SSP/PR | SP | 1 |
 | SECRETARIA DE ESTADO DA SEGURANCA PUBLICA BPMOA | PR | 1 |
@@ -383,14 +379,6 @@ _Gerado em 2026-06-03 · Fonte: [RAB/ANAC](https://sistemas.anac.gov.br/dadosabe
 | PRDPM | AS 350 B2 | HELIBRAS | AS50 | 5 | 2006 |
 | PRIPM | 208B | CESSNA AIRCRAFT | C208 | 9 | 2012 |
 | PRKPM | MBB BK 117 C-2 | EUROCOPTER DEUTSCHLAND | EC45 | 9 | 2012 |
-
-### MINISTERIO DA JUSTIÇA E SEGURANÇA PUBLICA
-
-| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
-|---|---|---|---|---:|---|
-| PRFKA | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2020 |
-| PRFKB | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2021 |
-| PRFKD | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2021 |
 
 ### SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA DE MATO GROSSO
 
@@ -659,18 +647,6 @@ _Gerado em 2026-06-03 · Fonte: [RAB/ANAC](https://sistemas.anac.gov.br/dadosabe
 |---|---|---|---|---:|---|
 | PTMBY | EMB-121A1 | EMBRAER | E121 | 6 | 1982 |
 
-### MINISTERIO DA JUSTICA E SEGURANCA PUBLICA
-
-| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
-|---|---|---|---|---:|---|
-| PRBSI | B300 | BEECH AIRCRAFT | B350 | 8 | 2012 |
-
-### MINISTERIO DA JUSTIÇA E SEGURANÇA PÚBLICA
-
-| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
-|---|---|---|---|---:|---|
-| PRFKC | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2021 |
-
 ### SECRETARIA DE SEGURANÇA PÚBLICA DO ESTADO DO PIAUÍ
 
 | Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
@@ -706,12 +682,6 @@ _Gerado em 2026-06-03 · Fonte: [RAB/ANAC](https://sistemas.anac.gov.br/dadosabe
 | Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
 |---|---|---|---|---:|---|
 | PSGOD | AW119MKII | LEONARDO S.P.A | A119 | 6 | 2023 |
-
-### MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA
-
-| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
-|---|---|---|---|---:|---|
-| PRFKE | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2022 |
 
 ### GOVERNO DO ESTADO DE RONDONIA
 
@@ -1265,3 +1235,101 @@ _Gerado em 2026-06-03 · Fonte: [RAB/ANAC](https://sistemas.anac.gov.br/dadosabe
 | Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
 |---|---|---|---|---:|---|
 | PRFCY | 208B | CESSNA AIRCRAFT | C208 | 9 | 2024 |
+
+## Órgão Federal Civil (27 aeronaves)
+
+| Órgão | UF | Aeronaves |
+|---|---|---:|
+| INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA | SP | 9 |
+| AGENCIA NACIONAL DE AVIACAO CIVIL ANAC | RJ | 5 |
+| MINISTERIO DA JUSTIÇA E SEGURANÇA PUBLICA | SP | 3 |
+| INSTITUTO NACIONAL DE COLONIZACAO E REFORMA AGRARIA | DF | 2 |
+| UNIVERSIDADE FEDERAL DE MINAS GERAIS | MG | 2 |
+| AGENCIA NACIONAL DE AVIACAO CIVIL - ANAC | RJ | 1 |
+| UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARA - UNIFESSPA | PA | 1 |
+| MINISTERIO DA JUSTICA E SEGURANCA PUBLICA | DF | 1 |
+| MINISTERIO DA JUSTIÇA E SEGURANÇA PÚBLICA | DF | 1 |
+| UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI | MG | 1 |
+| MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA | DF | 1 |
+
+### INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRHEB | 206L-4 | BELL HELICOPTER | B06 | 6 | 2008 |
+| PRHVB | EC 130 B4 | EUROCOPTER FRANCE | EC30 | 7 | 2012 |
+| PSIBC | AW119MKII | AGUSTA | A119 | 7 | 2013 |
+| PSIBD | AW119MKII | AGUSTA | A119 | 7 | 2013 |
+| PSIBE | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2013 |
+| PSIBF | AW119MKII | AGUSTA | A119 | 7 | 2013 |
+| PSIBG | AW119MKII | AGUSTA | A119 | 7 | 2013 |
+| PSIBH | AW119MKII | AGUSTA | A119 | 7 | 2014 |
+| PSIBI | AW119MKII | AGUSTA | A119 | 7 | 2014 |
+
+### AGENCIA NACIONAL DE AVIACAO CIVIL ANAC
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPGJZ | AB-115 | AERO BOERO | AB11 | 1 | 1992 |
+| PPGOE | AB-115 | AERO BOERO | AB11 | 000 | 1993 |
+| PRWAV | AMT-600 | AEROMOT | GURI | 1 | 2010 |
+| PTPMK | DISCUS-B | SCHEMPP-HIRTH | GLID | 0 | 1987 |
+| PTPMP | DISCUS-B | SCHEMPP-HIRTH | GLID | 0 | 1987 |
+
+### MINISTERIO DA JUSTIÇA E SEGURANÇA PUBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRFKA | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2020 |
+| PRFKB | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2021 |
+| PRFKD | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2021 |
+
+### INSTITUTO NACIONAL DE COLONIZACAO E REFORMA AGRARIA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPEIQ | ECHAR 20D | XMOBOTS AEROESPACIAL E DEFESA | ZZZZ | 0 | 2017 |
+| PTENU | ECHAR 20D | XMOBOTS AEROESPACIAL E DEFESA | ZZZZ | 0 | 2017 |
+
+### UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPZTZ |  |  | ZZZZ | 000 |  |
+| PUFMG |  |  | ULAC | 000 |  |
+
+### AGENCIA NACIONAL DE AVIACAO CIVIL - ANAC
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPFGN | AB-115 | AERO BOERO | AB11 | 1 | 1988 |
+
+### UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARA - UNIFESSPA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRDJX | ARATOR 5C | XMOBOTS AEROESPACIAL E DEFESA | ZZZZ | 0 | 2022 |
+
+### MINISTERIO DA JUSTICA E SEGURANCA PUBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRBSI | B300 | BEECH AIRCRAFT | B350 | 8 | 2012 |
+
+### MINISTERIO DA JUSTIÇA E SEGURANÇA PÚBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRFKC | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2021 |
+
+### UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PPKCA | AMT-100 | AEROMOT | RF10 | 001 | 1986 |
+
+### MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA
+
+| Marca | Modelo | Fabricante | Tipo ICAO | Pax | Ano |
+|---|---|---|---|---:|---|
+| PRFKE | AW119MKII | LEONARDO S.P.A | A119 | 7 | 2022 |
