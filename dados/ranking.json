@@ -1,0 +1,4669 @@
+{
+  "_meta": {
+    "gerado": "2026-06-08 19:18",
+    "fonte": "GABAER/COMAER · Decreto 10.267/2020",
+    "periodo": "2014–2026",
+    "total_voos": 10012,
+    "total_custo_estimado": 613911275,
+    "total_autoridades": 214,
+    "nota_custo": "Estimativa: tempo real de voo × custo/hora por aeronave (VC-1 R$42,5k/h presidencial; Legacy 600 R$34k/h demais). Sem pouso registrado: média TCU R$38,1k/missão."
+  },
+  "ranking": [
+    {
+      "autoridade": "Presidente da Câmara dos Deputados",
+      "voos": 826,
+      "custo_estimado": 56251795,
+      "fds": 211,
+      "fds_pct": 26,
+      "noturnos": 82,
+      "internacionais": 58,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 343
+        },
+        {
+          "destino": "Maceió",
+          "n": 144
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 121
+        }
+      ],
+      "bolsonaro": 403,
+      "lula": 423
+    },
+    {
+      "autoridade": "Presidente do Supremo Tribunal Federal",
+      "voos": 509,
+      "custo_estimado": 28321112,
+      "fds": 105,
+      "fds_pct": 21,
+      "noturnos": 7,
+      "internacionais": 9,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 202
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 125
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 53
+        }
+      ],
+      "bolsonaro": 197,
+      "lula": 312
+    },
+    {
+      "autoridade": "Ministro da Educação",
+      "voos": 502,
+      "custo_estimado": 32178831,
+      "fds": 62,
+      "fds_pct": 12,
+      "noturnos": 34,
+      "internacionais": 40,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 168
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 29
+        },
+        {
+          "destino": "Fortaleza",
+          "n": 24
+        }
+      ],
+      "bolsonaro": 254,
+      "lula": 248
+    },
+    {
+      "autoridade": "Ministro da Saúde",
+      "voos": 465,
+      "custo_estimado": 28007861,
+      "fds": 104,
+      "fds_pct": 22,
+      "noturnos": 19,
+      "internacionais": 14,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 180
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 33
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 28
+        }
+      ],
+      "bolsonaro": 347,
+      "lula": 118
+    },
+    {
+      "autoridade": "Presidente do Congresso Nacional",
+      "voos": 462,
+      "custo_estimado": 21097670,
+      "fds": 137,
+      "fds_pct": 30,
+      "noturnos": 25,
+      "internacionais": 21,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 208
+        },
+        {
+          "destino": "Belo Horizonte (Pampulha)",
+          "n": 93
+        },
+        {
+          "destino": "Macapá",
+          "n": 44
+        }
+      ],
+      "bolsonaro": 243,
+      "lula": 219
+    },
+    {
+      "autoridade": "Ministro da Defesa",
+      "voos": 387,
+      "custo_estimado": 23282762,
+      "fds": 70,
+      "fds_pct": 18,
+      "noturnos": 5,
+      "internacionais": 8,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 165
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 53
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 18
+        }
+      ],
+      "bolsonaro": 193,
+      "lula": 194
+    },
+    {
+      "autoridade": "Ministro da Justiça e Segurança Pública",
+      "voos": 378,
+      "custo_estimado": 21819505,
+      "fds": 34,
+      "fds_pct": 9,
+      "noturnos": 5,
+      "internacionais": 18,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 153
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 70
+        },
+        {
+          "destino": "São Luís",
+          "n": 27
+        }
+      ],
+      "bolsonaro": 102,
+      "lula": 276
+    },
+    {
+      "autoridade": "Ministro das Relações Exteriores",
+      "voos": 358,
+      "custo_estimado": 36561336,
+      "fds": 69,
+      "fds_pct": 19,
+      "noturnos": 40,
+      "internacionais": 195,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 111
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 14
+        },
+        {
+          "destino": "Praia (Cabo Verde)",
+          "n": 13
+        }
+      ],
+      "bolsonaro": 139,
+      "lula": 219
+    },
+    {
+      "autoridade": "Ministro da Fazenda",
+      "voos": 305,
+      "custo_estimado": 13183507,
+      "fds": 37,
+      "fds_pct": 12,
+      "noturnos": 17,
+      "internacionais": 48,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 134
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 100
+        },
+        {
+          "destino": "São Paulo (Guarulhos)",
+          "n": 12
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 305
+    },
+    {
+      "autoridade": "Ministro do Turismo",
+      "voos": 296,
+      "custo_estimado": 18801708,
+      "fds": 40,
+      "fds_pct": 14,
+      "noturnos": 8,
+      "internacionais": 8,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 116
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 26
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 15
+        }
+      ],
+      "bolsonaro": 209,
+      "lula": 87
+    },
+    {
+      "autoridade": "Ministro do Desenvolvimento Regional",
+      "voos": 277,
+      "custo_estimado": 14888564,
+      "fds": 17,
+      "fds_pct": 6,
+      "noturnos": 3,
+      "internacionais": 1,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 93
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 16
+        },
+        {
+          "destino": "Natal",
+          "n": 10
+        }
+      ],
+      "bolsonaro": 277,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro da Infraestrutura",
+      "voos": 253,
+      "custo_estimado": 13210942,
+      "fds": 8,
+      "fds_pct": 3,
+      "noturnos": 6,
+      "internacionais": 2,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 111
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 34
+        },
+        {
+          "destino": "Uberlândia",
+          "n": 6
+        }
+      ],
+      "bolsonaro": 253,
+      "lula": 0
+    },
+    {
+      "autoridade": "Comandante do Exército",
+      "voos": 252,
+      "custo_estimado": 15835505,
+      "fds": 36,
+      "fds_pct": 14,
+      "noturnos": 0,
+      "internacionais": 8,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 96
+        },
+        {
+          "destino": "Canoas",
+          "n": 17
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 17
+        }
+      ],
+      "bolsonaro": 163,
+      "lula": 89
+    },
+    {
+      "autoridade": "Ministro das Comunicações",
+      "voos": 232,
+      "custo_estimado": 17886834,
+      "fds": 17,
+      "fds_pct": 7,
+      "noturnos": 18,
+      "internacionais": 39,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 78
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 36
+        },
+        {
+          "destino": "Natal",
+          "n": 6
+        }
+      ],
+      "bolsonaro": 127,
+      "lula": 105
+    },
+    {
+      "autoridade": "Comandante da Marinha",
+      "voos": 210,
+      "custo_estimado": 12960935,
+      "fds": 26,
+      "fds_pct": 12,
+      "noturnos": 11,
+      "internacionais": 31,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 79
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 48
+        },
+        {
+          "destino": "Rio de Janeiro (Galeão)",
+          "n": 12
+        }
+      ],
+      "bolsonaro": 179,
+      "lula": 31
+    },
+    {
+      "autoridade": "Ministro da Cidadania",
+      "voos": 210,
+      "custo_estimado": 12122928,
+      "fds": 27,
+      "fds_pct": 13,
+      "noturnos": 6,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 80
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 13
+        },
+        {
+          "destino": "Recife",
+          "n": 7
+        }
+      ],
+      "bolsonaro": 210,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro de Portos e Aeroportos",
+      "voos": 210,
+      "custo_estimado": 12081339,
+      "fds": 4,
+      "fds_pct": 2,
+      "noturnos": 8,
+      "internacionais": 3,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 72
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 26
+        },
+        {
+          "destino": "Recife",
+          "n": 17
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 210
+    },
+    {
+      "autoridade": "Ministro dos Transportes",
+      "voos": 207,
+      "custo_estimado": 11659162,
+      "fds": 3,
+      "fds_pct": 1,
+      "noturnos": 4,
+      "internacionais": 2,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 75
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 25
+        },
+        {
+          "destino": "Maceió",
+          "n": 13
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 207
+    },
+    {
+      "autoridade": "Ministro das Minas e Energia",
+      "voos": 188,
+      "custo_estimado": 10655870,
+      "fds": 4,
+      "fds_pct": 2,
+      "noturnos": 4,
+      "internacionais": 7,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 77
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 14
+        },
+        {
+          "destino": "Foz Do Iguaçu",
+          "n": 11
+        }
+      ],
+      "bolsonaro": 94,
+      "lula": 94
+    },
+    {
+      "autoridade": "À Disposição do Ministério da Defesa",
+      "voos": 175,
+      "custo_estimado": 11139104,
+      "fds": 11,
+      "fds_pct": 6,
+      "noturnos": 1,
+      "internacionais": 10,
+      "a_disposicao": 175,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 73
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 52
+        },
+        {
+          "destino": "São Paulo (Guarulhos)",
+          "n": 4
+        }
+      ],
+      "bolsonaro": 6,
+      "lula": 169
+    },
+    {
+      "autoridade": "Ministro Integração do Desenvolvimento Regional",
+      "voos": 155,
+      "custo_estimado": 9276330,
+      "fds": 22,
+      "fds_pct": 14,
+      "noturnos": 5,
+      "internacionais": 1,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 62
+        },
+        {
+          "destino": "Macapá",
+          "n": 9
+        },
+        {
+          "destino": "Belém",
+          "n": 8
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 155
+    },
+    {
+      "autoridade": "Ministro da Ciência, Tecnologia e Inovação",
+      "voos": 150,
+      "custo_estimado": 10041339,
+      "fds": 13,
+      "fds_pct": 9,
+      "noturnos": 7,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 55
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 12
+        },
+        {
+          "destino": "Florianópolis",
+          "n": 6
+        }
+      ],
+      "bolsonaro": 140,
+      "lula": 10
+    },
+    {
+      "autoridade": "Ministro do Trabalho e Emprego",
+      "voos": 149,
+      "custo_estimado": 7788834,
+      "fds": 16,
+      "fds_pct": 11,
+      "noturnos": 5,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 68
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 34
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 6
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 149
+    },
+    {
+      "autoridade": "Ministro da Casa Civil da Presidência da República",
+      "voos": 133,
+      "custo_estimado": 7715169,
+      "fds": 9,
+      "fds_pct": 7,
+      "noturnos": 8,
+      "internacionais": 2,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 52
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 13
+        },
+        {
+          "destino": "Teresina",
+          "n": 10
+        }
+      ],
+      "bolsonaro": 25,
+      "lula": 108
+    },
+    {
+      "autoridade": "Ministro do Meio Ambiente",
+      "voos": 131,
+      "custo_estimado": 7100035,
+      "fds": 6,
+      "fds_pct": 5,
+      "noturnos": 5,
+      "internacionais": 2,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 42
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 17
+        },
+        {
+          "destino": "Ribeirão Preto",
+          "n": 5
+        }
+      ],
+      "bolsonaro": 127,
+      "lula": 4
+    },
+    {
+      "autoridade": "Comandante da Aeronáutica",
+      "voos": 129,
+      "custo_estimado": 8516101,
+      "fds": 16,
+      "fds_pct": 12,
+      "noturnos": 6,
+      "internacionais": 23,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 51
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 8
+        },
+        {
+          "destino": "Rio de Janeiro (Afonsos)",
+          "n": 6
+        }
+      ],
+      "bolsonaro": 113,
+      "lula": 16
+    },
+    {
+      "autoridade": "Ministro da Secretaria-Geral da Presidência da República",
+      "voos": 123,
+      "custo_estimado": 7083338,
+      "fds": 16,
+      "fds_pct": 13,
+      "noturnos": 9,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 42
+        },
+        {
+          "destino": "Aracaju",
+          "n": 9
+        },
+        {
+          "destino": "Belém",
+          "n": 8
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 123
+    },
+    {
+      "autoridade": "Ministro da Advocacia Geral da União",
+      "voos": 120,
+      "custo_estimado": 6661166,
+      "fds": 7,
+      "fds_pct": 6,
+      "noturnos": 4,
+      "internacionais": 2,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 54
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 19
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 13
+        }
+      ],
+      "bolsonaro": 30,
+      "lula": 90
+    },
+    {
+      "autoridade": "Ministro das Cidades",
+      "voos": 119,
+      "custo_estimado": 7537935,
+      "fds": 4,
+      "fds_pct": 3,
+      "noturnos": 5,
+      "internacionais": 2,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 57
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 11
+        },
+        {
+          "destino": "Belém",
+          "n": 7
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 119
+    },
+    {
+      "autoridade": "Ministra da Mulher, da Família e dos Direitos Humanos",
+      "voos": 112,
+      "custo_estimado": 7356603,
+      "fds": 9,
+      "fds_pct": 8,
+      "noturnos": 5,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 51
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 5
+        },
+        {
+          "destino": "Manaus (Ponta Pelada)",
+          "n": 5
+        }
+      ],
+      "bolsonaro": 112,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "voos": 111,
+      "custo_estimado": 7125831,
+      "fds": 2,
+      "fds_pct": 2,
+      "noturnos": 4,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 48
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 7
+        },
+        {
+          "destino": "Fortaleza",
+          "n": 4
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 111
+    },
+    {
+      "autoridade": "À Disposição do Ministro da Defesa",
+      "voos": 105,
+      "custo_estimado": 6100172,
+      "fds": 3,
+      "fds_pct": 3,
+      "noturnos": 1,
+      "internacionais": 4,
+      "a_disposicao": 105,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 51
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 26
+        },
+        {
+          "destino": "São Paulo (Guarulhos)",
+          "n": 3
+        }
+      ],
+      "bolsonaro": 15,
+      "lula": 90
+    },
+    {
+      "autoridade": "Ministra da Saúde",
+      "voos": 95,
+      "custo_estimado": 6239002,
+      "fds": 12,
+      "fds_pct": 13,
+      "noturnos": 1,
+      "internacionais": 2,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 34
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 6
+        },
+        {
+          "destino": "Rio de Janeiro (Galeão)",
+          "n": 4
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 95
+    },
+    {
+      "autoridade": "Ministro da Agricultura e Pecuária",
+      "voos": 91,
+      "custo_estimado": 4830832,
+      "fds": 14,
+      "fds_pct": 15,
+      "noturnos": 3,
+      "internacionais": 6,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 35
+        },
+        {
+          "destino": "Cuiabá",
+          "n": 6
+        },
+        {
+          "destino": "Uberlândia",
+          "n": 3
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 91
+    },
+    {
+      "autoridade": "Ministra da Ciência, Tecnologia e Inovação",
+      "voos": 91,
+      "custo_estimado": 5360668,
+      "fds": 5,
+      "fds_pct": 5,
+      "noturnos": 9,
+      "internacionais": 2,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 41
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 7
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 5
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 91
+    },
+    {
+      "autoridade": "Ministro da Economia",
+      "voos": 90,
+      "custo_estimado": 4966838,
+      "fds": 7,
+      "fds_pct": 8,
+      "noturnos": 1,
+      "internacionais": 4,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 42
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 22
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 14
+        }
+      ],
+      "bolsonaro": 90,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro do Trabalho e Previdência",
+      "voos": 80,
+      "custo_estimado": 4612666,
+      "fds": 3,
+      "fds_pct": 4,
+      "noturnos": 1,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 23
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 10
+        },
+        {
+          "destino": "Canoas",
+          "n": 8
+        }
+      ],
+      "bolsonaro": 80,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministra dos Povos Indígenas",
+      "voos": 77,
+      "custo_estimado": 5241665,
+      "fds": 16,
+      "fds_pct": 21,
+      "noturnos": 10,
+      "internacionais": 2,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 31
+        },
+        {
+          "destino": "Manaus (Ponta Pelada)",
+          "n": 4
+        },
+        {
+          "destino": "Boa Vista",
+          "n": 3
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 77
+    },
+    {
+      "autoridade": "Ministra da Agricultura, Pecuária e Abastecimento",
+      "voos": 66,
+      "custo_estimado": 4205932,
+      "fds": 2,
+      "fds_pct": 3,
+      "noturnos": 1,
+      "internacionais": 2,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 25
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 6
+        },
+        {
+          "destino": "Campinas",
+          "n": 3
+        }
+      ],
+      "bolsonaro": 66,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministra do Planejamento e Orçamento",
+      "voos": 66,
+      "custo_estimado": 4323670,
+      "fds": 7,
+      "fds_pct": 11,
+      "noturnos": 2,
+      "internacionais": 7,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 23
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 4
+        },
+        {
+          "destino": "Belém",
+          "n": 4
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 66
+    },
+    {
+      "autoridade": "Secretário de Relações Institucionais da PR",
+      "voos": 63,
+      "custo_estimado": 2921166,
+      "fds": 37,
+      "fds_pct": 59,
+      "noturnos": 3,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 30
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 8
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 5
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 63
+    },
+    {
+      "autoridade": "Ministro do Desenvolvimento Agrário",
+      "voos": 58,
+      "custo_estimado": 3436836,
+      "fds": 15,
+      "fds_pct": 26,
+      "noturnos": 2,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 23
+        },
+        {
+          "destino": "Canoas",
+          "n": 5
+        },
+        {
+          "destino": "Belém",
+          "n": 3
+        }
+      ],
+      "bolsonaro": 2,
+      "lula": 56
+    },
+    {
+      "autoridade": "Ministra da Cultura",
+      "voos": 53,
+      "custo_estimado": 3425500,
+      "fds": 5,
+      "fds_pct": 9,
+      "noturnos": 5,
+      "internacionais": 4,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 19
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 6
+        },
+        {
+          "destino": "Recife",
+          "n": 3
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 53
+    },
+    {
+      "autoridade": "Ministra das Mulheres",
+      "voos": 53,
+      "custo_estimado": 3394334,
+      "fds": 5,
+      "fds_pct": 9,
+      "noturnos": 8,
+      "internacionais": 2,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 24
+        },
+        {
+          "destino": "Natal (Parnamirim)",
+          "n": 4
+        },
+        {
+          "destino": "Belém",
+          "n": 3
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 53
+    },
+    {
+      "autoridade": "À disposição do Ministério da Defesa",
+      "voos": 47,
+      "custo_estimado": 2755267,
+      "fds": 5,
+      "fds_pct": 11,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 47,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 13
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 9
+        },
+        {
+          "destino": "Manaus (Ponta Pelada)",
+          "n": 4
+        }
+      ],
+      "bolsonaro": 32,
+      "lula": 15
+    },
+    {
+      "autoridade": "Ministra do Meio Ambiente",
+      "voos": 45,
+      "custo_estimado": 3816500,
+      "fds": 6,
+      "fds_pct": 13,
+      "noturnos": 6,
+      "internacionais": 6,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 17
+        },
+        {
+          "destino": "Belém",
+          "n": 3
+        },
+        {
+          "destino": "Santarém",
+          "n": 3
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 45
+    },
+    {
+      "autoridade": "Presidente  do Supremo Tribunal Federal",
+      "voos": 43,
+      "custo_estimado": 2382835,
+      "fds": 1,
+      "fds_pct": 2,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 22
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 20
+        },
+        {
+          "destino": "Manaus (Eduardo Gomes)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 43,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministra da Gestão e Inovação em Serviços Públicos",
+      "voos": 40,
+      "custo_estimado": 2552831,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 4,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 20
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 5
+        },
+        {
+          "destino": "Foz do Iguaçu",
+          "n": 4
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 40
+    },
+    {
+      "autoridade": "Ministro de Minas e Energia",
+      "voos": 37,
+      "custo_estimado": 2652000,
+      "fds": 3,
+      "fds_pct": 8,
+      "noturnos": 3,
+      "internacionais": 7,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 13
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 3
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 3
+        }
+      ],
+      "bolsonaro": 4,
+      "lula": 33
+    },
+    {
+      "autoridade": "Ministra do Esporte",
+      "voos": 36,
+      "custo_estimado": 1887001,
+      "fds": 4,
+      "fds_pct": 11,
+      "noturnos": 1,
+      "internacionais": 2,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 10
+        },
+        {
+          "destino": "Brasília",
+          "n": 9
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 4
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 36
+    },
+    {
+      "autoridade": "Ministro da Ciência,  Tecnologia e Inovação",
+      "voos": 34,
+      "custo_estimado": 1720800,
+      "fds": 1,
+      "fds_pct": 3,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 12
+        },
+        {
+          "destino": "São José Dos Campos",
+          "n": 4
+        },
+        {
+          "destino": "Guarulhos",
+          "n": 3
+        }
+      ],
+      "bolsonaro": 34,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro do Esporte",
+      "voos": 33,
+      "custo_estimado": 1898332,
+      "fds": 6,
+      "fds_pct": 18,
+      "noturnos": 5,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 13
+        },
+        {
+          "destino": "São Luís",
+          "n": 3
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 2
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 33
+    },
+    {
+      "autoridade": "Ministra da Igualdade Racial",
+      "voos": 31,
+      "custo_estimado": 1847335,
+      "fds": 5,
+      "fds_pct": 16,
+      "noturnos": 2,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 15
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 6
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 2
+        }
+      ],
+      "bolsonaro": 2,
+      "lula": 29
+    },
+    {
+      "autoridade": "Ministro dos Direitos Humanos e Cidadania",
+      "voos": 28,
+      "custo_estimado": 1870002,
+      "fds": 1,
+      "fds_pct": 4,
+      "noturnos": 3,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 10
+        },
+        {
+          "destino": "Belém",
+          "n": 4
+        },
+        {
+          "destino": "Curitiba",
+          "n": 2
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 28
+    },
+    {
+      "autoridade": "Ministro da Controladoria Geral da União",
+      "voos": 28,
+      "custo_estimado": 1629166,
+      "fds": 2,
+      "fds_pct": 7,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 14
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 5
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 3
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 28
+    },
+    {
+      "autoridade": "Ministra  da Mulher, da Família e dos Direitos Humanos",
+      "voos": 27,
+      "custo_estimado": 1646165,
+      "fds": 3,
+      "fds_pct": 11,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 12
+        },
+        {
+          "destino": "Rio de Janeiro (Galeão)",
+          "n": 2
+        },
+        {
+          "destino": "Maringá",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 27,
+      "lula": 0
+    },
+    {
+      "autoridade": "Secretário da Comunicação Social",
+      "voos": 26,
+      "custo_estimado": 1660332,
+      "fds": 5,
+      "fds_pct": 19,
+      "noturnos": 2,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 11
+        },
+        {
+          "destino": "Porto Alegre",
+          "n": 4
+        },
+        {
+          "destino": "Belém",
+          "n": 2
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 26
+    },
+    {
+      "autoridade": "Chefe do Estado-Maior Conjunto das Forças Armadas",
+      "voos": 24,
+      "custo_estimado": 1768000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 9
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 3
+        },
+        {
+          "destino": "Boa Vista",
+          "n": 3
+        }
+      ],
+      "bolsonaro": 20,
+      "lula": 4
+    },
+    {
+      "autoridade": "Ministro da Ciência, Tecnologia, Inovações e Comunicações",
+      "voos": 23,
+      "custo_estimado": 943501,
+      "fds": 2,
+      "fds_pct": 9,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 10
+        },
+        {
+          "destino": "Ribeirão Preto",
+          "n": 2
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 2
+        }
+      ],
+      "bolsonaro": 23,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministra da Mulher, da Família e dos Direitos Humanos.",
+      "voos": 16,
+      "custo_estimado": 1266501,
+      "fds": 8,
+      "fds_pct": 50,
+      "noturnos": 1,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 8
+        },
+        {
+          "destino": "Manaus (Ponta Pelada)",
+          "n": 2
+        },
+        {
+          "destino": "Belém",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 16,
+      "lula": 0
+    },
+    {
+      "autoridade": "Secretário Extraordinário da Presidência da República",
+      "voos": 16,
+      "custo_estimado": 1286332,
+      "fds": 3,
+      "fds_pct": 19,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Canoas",
+          "n": 9
+        },
+        {
+          "destino": "Brasília",
+          "n": 7
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 16
+    },
+    {
+      "autoridade": "À Disposição do Ministro da Defesa (Compartilhado com o Ministro da Fazenda)",
+      "voos": 14,
+      "custo_estimado": 745167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 14,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 11
+        },
+        {
+          "destino": "Brasília",
+          "n": 2
+        },
+        {
+          "destino": "São Paulo (Guarulhos)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 14
+    },
+    {
+      "autoridade": "Presidente do Congresso Nacional (Em exercício)",
+      "voos": 12,
+      "custo_estimado": 997333,
+      "fds": 1,
+      "fds_pct": 8,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 6
+        },
+        {
+          "destino": "João Pessoa",
+          "n": 5
+        },
+        {
+          "destino": "Campina Grande",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 12
+    },
+    {
+      "autoridade": "Ministro da Fazenda (Compartilhado com À Disposição do Ministro da Defesa)",
+      "voos": 12,
+      "custo_estimado": 646000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 9
+        },
+        {
+          "destino": "Brasília",
+          "n": 2
+        },
+        {
+          "destino": "São Paulo (Guarulhos)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 12
+    },
+    {
+      "autoridade": "Ministro-Chefe da Casa Civil da Presidência da República (Interino)",
+      "voos": 9,
+      "custo_estimado": 1564000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 4,
+      "internacionais": 8,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Riade (Arábia Saudita)",
+          "n": 2
+        },
+        {
+          "destino": "Ilha do Sal (Cabo Verde)",
+          "n": 1
+        },
+        {
+          "destino": "Zurique (Suíça)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 9,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro do Gabinete de Segurança Institucional da Presidência da República",
+      "voos": 9,
+      "custo_estimado": 728166,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 2,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 5
+        },
+        {
+          "destino": "Zandery (Paramaribo)",
+          "n": 1
+        },
+        {
+          "destino": "Rio de Janeiro (Santa Cruz)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 2,
+      "lula": 7
+    },
+    {
+      "autoridade": "Presidente da Câmara dos Deputados (Em exercício)",
+      "voos": 9,
+      "custo_estimado": 464667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 1,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 3
+        },
+        {
+          "destino": "Brasília",
+          "n": 2
+        },
+        {
+          "destino": "São José Dos Campos",
+          "n": 2
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 9
+    },
+    {
+      "autoridade": "Secretária de Relações Institucionais da Presidência da República",
+      "voos": 9,
+      "custo_estimado": 677166,
+      "fds": 2,
+      "fds_pct": 22,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 4
+        },
+        {
+          "destino": "Natal (Parnamirim)",
+          "n": 1
+        },
+        {
+          "destino": "Foz do Iguaçu",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 9
+    },
+    {
+      "autoridade": "À disposição do Ministro da Defesa",
+      "voos": 8,
+      "custo_estimado": 532666,
+      "fds": 2,
+      "fds_pct": 25,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 8,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 4
+        },
+        {
+          "destino": "Manaus (Eduardo Gomes)",
+          "n": 1
+        },
+        {
+          "destino": "SBIL - Ilhéus",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 4,
+      "lula": 4
+    },
+    {
+      "autoridade": "Ministro da Previdência Social",
+      "voos": 8,
+      "custo_estimado": 637501,
+      "fds": 1,
+      "fds_pct": 12,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 4
+        },
+        {
+          "destino": "São Luís",
+          "n": 1
+        },
+        {
+          "destino": "Foz do Iguaçu",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 8
+    },
+    {
+      "autoridade": "À disposição do(a) Ministério da Defesa",
+      "voos": 7,
+      "custo_estimado": 464666,
+      "fds": 3,
+      "fds_pct": 43,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 7,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 3
+        },
+        {
+          "destino": "Rio Branco",
+          "n": 1
+        },
+        {
+          "destino": "Porto Velho",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 7,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro-Chefe da Casa Civil da Presidência da República",
+      "voos": 7,
+      "custo_estimado": 345667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 4
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 1
+        },
+        {
+          "destino": "Salvador",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 7,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro do meio Ambiente",
+      "voos": 7,
+      "custo_estimado": 504334,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Santarém",
+          "n": 2
+        },
+        {
+          "destino": "Brasília",
+          "n": 2
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 2
+        }
+      ],
+      "bolsonaro": 7,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministra dos Direitos Humanos e Cidadania",
+      "voos": 7,
+      "custo_estimado": 495834,
+      "fds": 3,
+      "fds_pct": 43,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 3
+        },
+        {
+          "destino": "Alcântara",
+          "n": 1
+        },
+        {
+          "destino": "São José Dos Campos",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 7
+    },
+    {
+      "autoridade": "À disposição do Comando da Aeronáutica",
+      "voos": 6,
+      "custo_estimado": 416500,
+      "fds": 2,
+      "fds_pct": 33,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 6,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 3
+        },
+        {
+          "destino": "Fortaleza",
+          "n": 2
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 6,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro da Fazenda (Compartilhado com À Disposição do Ministério da Defesa)",
+      "voos": 6,
+      "custo_estimado": 308833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 6
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 6
+    },
+    {
+      "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com o Ministro da Fazenda)",
+      "voos": 6,
+      "custo_estimado": 300334,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 4
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 2
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 6
+    },
+    {
+      "autoridade": "Secretário da Comunicação Social da Presidência da República",
+      "voos": 6,
+      "custo_estimado": 376832,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Salvador",
+          "n": 2
+        },
+        {
+          "destino": "Fortaleza",
+          "n": 1
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 6
+    },
+    {
+      "autoridade": "à disposição do Ministro da Defesa",
+      "voos": 5,
+      "custo_estimado": 226667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 5,
+      "top_destinos": [
+        {
+          "destino": "Manaus (Ponta Pelada)",
+          "n": 1
+        },
+        {
+          "destino": "Boa Vista",
+          "n": 1
+        },
+        {
+          "destino": "São José Dos Campos",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 5,
+      "lula": 0
+    },
+    {
+      "autoridade": "Presidente do Congresso Nacional (Em execício)",
+      "voos": 5,
+      "custo_estimado": 402334,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 3
+        },
+        {
+          "destino": "João Pessoa",
+          "n": 1
+        },
+        {
+          "destino": "Maceió",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 5
+    },
+    {
+      "autoridade": "Ministro de Empreendedorismo, da Microempresa e da Empresa de  Pequeno Porte",
+      "voos": 5,
+      "custo_estimado": 286167,
+      "fds": 1,
+      "fds_pct": 20,
+      "noturnos": 1,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Recife",
+          "n": 1
+        },
+        {
+          "destino": "São Luiz",
+          "n": 1
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 5
+    },
+    {
+      "autoridade": "Ministro de Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte",
+      "voos": 5,
+      "custo_estimado": 204000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 2
+        },
+        {
+          "destino": "Dracena",
+          "n": 1
+        },
+        {
+          "destino": "São Paulo (Guarulhos)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 5
+    },
+    {
+      "autoridade": "Ministro da Fazenda (Compartilhado com o Ministro da Justiça e Segurança Pública)",
+      "voos": 5,
+      "custo_estimado": 249334,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 3
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 2
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 5
+    },
+    {
+      "autoridade": "Ministro da Agricultura, Pecuária e Abastecimento",
+      "voos": 4,
+      "custo_estimado": 271999,
+      "fds": 2,
+      "fds_pct": 50,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 2
+        },
+        {
+          "destino": "Canoas",
+          "n": 1
+        },
+        {
+          "destino": "Londrina",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 4,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro da Secretaria de Governo da Presidência da República",
+      "voos": 4,
+      "custo_estimado": 272000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 2
+        },
+        {
+          "destino": "Florianópolis",
+          "n": 1
+        },
+        {
+          "destino": "Foz do Iguaçu",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 4,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro da Secretaria-Geral da Presidência da república",
+      "voos": 4,
+      "custo_estimado": 212500,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 1,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 2
+        },
+        {
+          "destino": "Brasília",
+          "n": 2
+        }
+      ],
+      "bolsonaro": 4,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro dos Esportes",
+      "voos": 4,
+      "custo_estimado": 260666,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        },
+        {
+          "destino": "Belém",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 4
+    },
+    {
+      "autoridade": "Presidente do Congresso Nacional (Em Exercício)",
+      "voos": 4,
+      "custo_estimado": 342833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 2
+        },
+        {
+          "destino": "João Pessoa",
+          "n": 2
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 4
+    },
+    {
+      "autoridade": "Ministro-Chefe da Secretaria Geral da Presidência da República",
+      "voos": 3,
+      "custo_estimado": 311667,
+      "fds": 2,
+      "fds_pct": 67,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Boa Vista",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        },
+        {
+          "destino": "Florianópolis",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 3,
+      "lula": 0
+    },
+    {
+      "autoridade": "Presidente do Supremo Tribunal Federal (Interino)",
+      "voos": 3,
+      "custo_estimado": 142934,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 2
+        },
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 3,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro do Estado-Maior Conjunto das Forças Armadas",
+      "voos": 3,
+      "custo_estimado": 121834,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Dourados",
+          "n": 1
+        },
+        {
+          "destino": "Ponta Porã",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 3,
+      "lula": 0
+    },
+    {
+      "autoridade": "Presidente do Congresso Nacional (Interino)",
+      "voos": 3,
+      "custo_estimado": 249333,
+      "fds": 1,
+      "fds_pct": 33,
+      "noturnos": 1,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 2
+        },
+        {
+          "destino": "Campina Grande",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 3
+    },
+    {
+      "autoridade": "Ministro dos Trasportes",
+      "voos": 3,
+      "custo_estimado": 187000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        },
+        {
+          "destino": "Maceió",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 3
+    },
+    {
+      "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com o Ministro da Advocacia Geral da União)",
+      "voos": 3,
+      "custo_estimado": 150167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 3
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 3
+    },
+    {
+      "autoridade": "Ministro da Advocacia Geral da União (Compartilhado com o Ministro da Justiça e Segurança Pública)",
+      "voos": 3,
+      "custo_estimado": 150167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 3
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 3
+    },
+    {
+      "autoridade": "Presidente do Supremo Tribunal Federal (Compartilhado com o Ministro da Fazenda)",
+      "voos": 3,
+      "custo_estimado": 153000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Guarulhos)",
+          "n": 3
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 3
+    },
+    {
+      "autoridade": "Ministro da Fazenda (Compartilhado com o Presidente do Supremo Tribunal Federal)",
+      "voos": 3,
+      "custo_estimado": 150167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Guarulhos)",
+          "n": 2
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 3
+    },
+    {
+      "autoridade": "Ministro-Chefe da Secretaria de Governo da Presidência da República",
+      "voos": 2,
+      "custo_estimado": 93500,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 2,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro da Advocacia-Geral da União",
+      "voos": 2,
+      "custo_estimado": 170000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Santa Maria",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 2,
+      "lula": 0
+    },
+    {
+      "autoridade": "Advogado-Geral da União",
+      "voos": 2,
+      "custo_estimado": 96333,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 2,
+      "lula": 0
+    },
+    {
+      "autoridade": "Secretaria-Geral da Presedência da República",
+      "voos": 2,
+      "custo_estimado": 141667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Erechim",
+          "n": 1
+        },
+        {
+          "destino": "Canoas",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 2,
+      "lula": 0
+    },
+    {
+      "autoridade": "Presidente do Senado Federal (Interino)",
+      "voos": 2,
+      "custo_estimado": 144500,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Imperatriz",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 2,
+      "lula": 0
+    },
+    {
+      "autoridade": "Presidente do Senado Federal(Interino)",
+      "voos": 2,
+      "custo_estimado": 141667,
+      "fds": 2,
+      "fds_pct": 100,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        },
+        {
+          "destino": "João Pessoa",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 2,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministra do Meio Ambiente e Mudança do Clima",
+      "voos": 2,
+      "custo_estimado": 113333,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Comandande da Marinha",
+      "voos": 2,
+      "custo_estimado": 96333,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Navegantes",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Ministério da Agricultura e Pecuária",
+      "voos": 2,
+      "custo_estimado": 155833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Canoas",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "voos": 2,
+      "custo_estimado": 155833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Canoas",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Secretário Geral da Presidência da República",
+      "voos": 2,
+      "custo_estimado": 155833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Canoas",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Ministra dos Povos Indígenas (Compatilhado com o Ministro da Secretaria-Geral da Presidência da República)",
+      "voos": 2,
+      "custo_estimado": 121833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Cascavel",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Ministro da Secretaria-Geral da Presidência da República (Compartilhado com a Ministra dos Povos Indígenas)",
+      "voos": 2,
+      "custo_estimado": 121833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Cascavel",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Ministra da Gestão em Inovação de Serviços Público",
+      "voos": 2,
+      "custo_estimado": 138833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Teresina",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Ministro do Desenvolvimento Agrário",
+      "voos": 2,
+      "custo_estimado": 79334,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Presidente Prudente",
+          "n": 1
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "À Disposição do Ministério da Defesa (Compartilhado com o Ministro da Fazenda)",
+      "voos": 2,
+      "custo_estimado": 102000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 2,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 2
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "À Disposição do Ministério da Defesa (Compartilhado com o Ministério da Fazenda)",
+      "voos": 2,
+      "custo_estimado": 104833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 2,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 2
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Presidente da Câmara dos Deputados (Compatilhado com o Ministro do Turismo)",
+      "voos": 2,
+      "custo_estimado": 130333,
+      "fds": 2,
+      "fds_pct": 100,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Novo Progresso",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Ministro do Turismo (Compartilhado com o Presidente do Congresso Nacional)",
+      "voos": 2,
+      "custo_estimado": 62333,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Novo Progresso",
+          "n": 1
+        },
+        {
+          "destino": "Parintins",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Ministro do Turismo (Compartilhado com o Presidente do Câmara dos Deputados )",
+      "voos": 2,
+      "custo_estimado": 130333,
+      "fds": 2,
+      "fds_pct": 100,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Novo Progresso",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Presidente da Câmara dos Deputados (Compartilhado com o Ministro da Saúde)",
+      "voos": 2,
+      "custo_estimado": 36833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Patos",
+          "n": 1
+        },
+        {
+          "destino": "João Pessoa",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Ministro da Saúde (Compartilhado com o Presidente da Camara dos Deputados)",
+      "voos": 2,
+      "custo_estimado": 36833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Patos",
+          "n": 1
+        },
+        {
+          "destino": "João Pessoa",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Presidente da Câmara dos Deputados (Compartilhado com o Ministro da Fazenda)",
+      "voos": 2,
+      "custo_estimado": 175667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Ministro dos Transportes (Compartilhado com o Ministro da Justiça e Segurança Pública)",
+      "voos": 2,
+      "custo_estimado": 121833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Foz do Iguaçu",
+          "n": 1
+        },
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Ministra do Desenvolvimento Agrário",
+      "voos": 2,
+      "custo_estimado": 87833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Presidente Prudente",
+          "n": 1
+        },
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 2
+    },
+    {
+      "autoridade": "Ministério da Saúde",
+      "voos": 1,
+      "custo_estimado": 56667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 1,
+      "lula": 0
+    },
+    {
+      "autoridade": "Presidente da Câmara dos Deputados/Presidente do Congresso Nacional",
+      "voos": 1,
+      "custo_estimado": 48167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 1,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro do Desenvolvimento Regional/Ministro do Turismo",
+      "voos": 1,
+      "custo_estimado": 85000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Recife",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 1,
+      "lula": 0
+    },
+    {
+      "autoridade": "Presidente  do Supremo Tribunal FederalPresidente do Congresso Nacional",
+      "voos": 1,
+      "custo_estimado": 45333,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 1,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro do Trabalho e da Previdência",
+      "voos": 1,
+      "custo_estimado": 87833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Porto Alegre",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 1,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro da Advocacia Geral da União\nComandante da Marinha",
+      "voos": 1,
+      "custo_estimado": 59500,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 1,
+      "lula": 0
+    },
+    {
+      "autoridade": "Ministro da Ciência, Tecnologia e InovaçãoSecretário de Relações Institucionais da PR",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Secretaria-Geral da Presidência da República",
+      "voos": 1,
+      "custo_estimado": 82167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Belém",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministério da Defesa",
+      "voos": 1,
+      "custo_estimado": 82167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Fortaleza",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente do Supremo Tribunal Federa",
+      "voos": 1,
+      "custo_estimado": 56667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Salvador",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente do Congresso Nacional (em exercício)",
+      "voos": 1,
+      "custo_estimado": 87833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "João Pessoa",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Minsitro da Educação",
+      "voos": 1,
+      "custo_estimado": 45333,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São José dos Campos",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministra das Mulheres (Compatilhado com o Ministério da Igualdade Racial)",
+      "voos": 1,
+      "custo_estimado": 53833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "À Disposição do Ministério da Defesa (Compartilhado com Ministro do Trabalho e Emprego e Comandante do Exército)",
+      "voos": 1,
+      "custo_estimado": 48167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 1,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro do Trabalho e Emprego (Compartilhado com À Disposição do Ministério da Defesa)",
+      "voos": 1,
+      "custo_estimado": 48167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministra da Ciência, Tecnologia e Inovações",
+      "voos": 1,
+      "custo_estimado": 102000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Recife",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Secretário Relações Institucionais",
+      "voos": 1,
+      "custo_estimado": 79333,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Belém",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Cidade",
+      "voos": 1,
+      "custo_estimado": 124667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Campinas",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Justiça e Segurança Pública (compartilhado com o Ministro de Minas e Energia)",
+      "voos": 1,
+      "custo_estimado": 45333,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro das Minas e Energia (compartilhado com o Ministério da Justiça e Segurança Pública)",
+      "voos": 1,
+      "custo_estimado": 45333,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente da Câmara dos Deputados (compartilhado com o Ministro da Casa Civil)",
+      "voos": 1,
+      "custo_estimado": 59500,
+      "fds": 1,
+      "fds_pct": 100,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Casa Civil da Presidência da República (compartilhado com o Presidente da Câmara dos Deputados",
+      "voos": 1,
+      "custo_estimado": 59500,
+      "fds": 1,
+      "fds_pct": 100,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Defesa (compartilhado com a Ministra do Meio Ambiente e Comandante do Exército)",
+      "voos": 1,
+      "custo_estimado": 90667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministra do Meio Ambiente (compartilhado com o Ministro da Defesa)",
+      "voos": 1,
+      "custo_estimado": 90667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Comandante do Exército (compartilhado com o Ministro da Defesa)",
+      "voos": 1,
+      "custo_estimado": 90667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Defesa (Compartilhado com Comandante do Exército)",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 1,
+      "fds_pct": 100,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Comandante do Exército (Compartilhado com Ministro da Defesa)",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 1,
+      "fds_pct": 100,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministra das Mulheres(Compartilhado com a Ministra do Meio Ambiente e Ministro da Secretaria-Geral da Presidência da República)",
+      "voos": 1,
+      "custo_estimado": 14167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Campo Grande",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministra do Meio Ambiente (Compartilhado com a Ministra das Mulheres)",
+      "voos": 1,
+      "custo_estimado": 14167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Campo Grande",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Secretaria-Geral da Presidência da República (Compartilhado com a Ministra das Mulheres)",
+      "voos": 1,
+      "custo_estimado": 14167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Campo Grande",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente do Supremo Tribunal Federal (Compartilhado com a Ministra da Saúde)",
+      "voos": 1,
+      "custo_estimado": 85000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Canoas",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministra da Saúde (Compartilhado com Presidente do Supremo Tribunal Federal)",
+      "voos": 1,
+      "custo_estimado": 85000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Canoas",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente do Supremo Tribunal Federal (Compartilhado com Ministro dos Transportes)",
+      "voos": 1,
+      "custo_estimado": 56667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro dos Transportes ( Compartilhado com Presidente do Supremo Tribunal Federal)",
+      "voos": 1,
+      "custo_estimado": 56667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com Ministro da Fazenda)",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Fazenda (Compartilhado com Ministro da Justiça e Segurança Pública)",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "À Disposição do Ministério da Defesa (Compartilhado com o Presidente do Congresso Nacional)",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 1,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente do Congresso Nacional (Compartilhado com À Disposição do Ministério da Defesa)",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com Ministro do Trabalho e Emprego)",
+      "voos": 1,
+      "custo_estimado": 56667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro do Trabalho e Emprego (Compartilhado com Ministro da Justiça e Segurança Pública)",
+      "voos": 1,
+      "custo_estimado": 56667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Casa Civil",
+      "voos": 1,
+      "custo_estimado": 53833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "À Disposição do Ministério da Defesa(Compartilhado com Ministro da Fazenda)",
+      "voos": 1,
+      "custo_estimado": 53833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 1,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com a Ministra do Meio Ambiente)",
+      "voos": 1,
+      "custo_estimado": 56667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministra do Meio Ambiente (Compartilhado com o Ministro da Justiça e Segurança Pública)",
+      "voos": 1,
+      "custo_estimado": 56667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Integração e Desenvolvimento Regional",
+      "voos": 1,
+      "custo_estimado": 76500,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Belém",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Fazenda (Compartilhado com o Vice Presidente da República)",
+      "voos": 1,
+      "custo_estimado": 60208,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente do Congresso Nacional (Compartilhado com Ministra da Gestão e Inovação em Serviços Públicos)",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com Ministro das Relações Exteriores)",
+      "voos": 1,
+      "custo_estimado": 53833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "À Disposição do Ministério da Defesa (Compartilhado com Ministro de Portos e Aeroportos)",
+      "voos": 1,
+      "custo_estimado": 73667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 1,
+      "top_destinos": [
+        {
+          "destino": "São Luís",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro das Relações Exteriores (Compartilhado com Ministro da Justiça e Segurança Pública)",
+      "voos": 1,
+      "custo_estimado": 53833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro de Portos e Aeroportos (Compartilhado com À Disposição do Ministério da Defesa)",
+      "voos": 1,
+      "custo_estimado": 73667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Luís",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministra da Gestão e Inovação em Serviços Públicos (Compartilhado com Presidente do Congresso Nacional)",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "À Disposição do Ministro da Defesa(Compartilhado com Ministro da Fazenda)",
+      "voos": 1,
+      "custo_estimado": 53833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 1,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Fazenda(Compartilhado com à Disposição do Ministro da Defesa)",
+      "voos": 1,
+      "custo_estimado": 53833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Fazenda (Compartilhado com o Ministro da Justiça e Segurança Pública e À Disposição do Ministro da Defesa",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Fazenda (Compartilhado com o Presidente do Supremo Tribunal Federal e À Disposição do Ministro da Defesa)",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Guarulhos)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente do Supremo Tribunal Federal (Compartilhado com a Ministra dos Povos Indígenas)",
+      "voos": 1,
+      "custo_estimado": 53833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministra dos Povos Indígenas (Compartilhado com o Presidente do Supremo Tribunal Federal)",
+      "voos": 1,
+      "custo_estimado": 53833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente do Supremo Tribunal Federal (Compatilhado o Ministro da Fazenda)",
+      "voos": 1,
+      "custo_estimado": 48167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente da Câmara dos Deputados (Compartilhado com Ministro da Advogacia Geral da União)",
+      "voos": 1,
+      "custo_estimado": 53833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente da Câmara dos Deputados (Compartilhado com Ministra Gestão e Inovação em Serviços Públicos e Ministro da Advogacia Geral da União)",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Advocacia Geral da União (Compartilhado com o Presidente da Câmara dos Deputados)",
+      "voos": 1,
+      "custo_estimado": 53833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministra da Gestão e Inovação em Serviços Públicos (Compartilhado com o Presidente da Câmara dos Deputados e Ministro da Justiça e Segurança Pública)",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente do Supremo Tribunal Federal (Compartilhado com o Ministro da Educação)",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Educação (Compartilhado com o Presidente do Supremo Tribunal Federal)",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente do Congresso Nacional (Compartilhado com o Ministro do Turismo)",
+      "voos": 1,
+      "custo_estimado": 53833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Novo Progresso",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente do Congresso Nacional Compartilhado com o Ministro do Turismo)",
+      "voos": 1,
+      "custo_estimado": 8500,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Parintins",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente do Supremo Tribunal Federal (Voo compartilhado com o Ministro da Fazenda)",
+      "voos": 1,
+      "custo_estimado": 48167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Fazenda (Voo compartilhado com o Presidente do Supremo Tribunal Federal)",
+      "voos": 1,
+      "custo_estimado": 48167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Fazenda (Compartilhado com Presidente da Câmara dos Deputados e Ministro da Justiça e Segurança Pública)",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Fazenda (Compartilhado com À Disposição do Ministro da Defesa )",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro do Desenvolvimento e Assistência Social Família e Combate à Fome",
+      "voos": 1,
+      "custo_estimado": 53833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Petrolina",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro do Trabalho e Emprego (Compartilhado com o Ministro da Justiça e Segurança Pública)",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com o Ministro do Trabalho e Emprego)",
+      "voos": 1,
+      "custo_estimado": 51000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministra dos Direitos Humanos e Cidadânia",
+      "voos": 1,
+      "custo_estimado": 56667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Rio de Janeiro (Santos Dumont)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com o Ministro das Relações Exteriores)",
+      "voos": 1,
+      "custo_estimado": 73667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Belém",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro das Relações Exteriores (Compartilhado com o Ministro da Justiça e Segurança Pública)",
+      "voos": 1,
+      "custo_estimado": 73667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Belém",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com a Ministra da Gestão e Inovação em Serviços Públicos; a Ministra da Ciência, Tecnologia e Inovações; o Ministro do Desenvolvimento  Agrário; o Ministro das Cidades; a Ministra das Mulheres; a Ministra dos Direitos Humanos e Cidadânia; e o Ministro da Controladoria Geral da União)",
+      "voos": 1,
+      "custo_estimado": 79333,
+      "fds": 1,
+      "fds_pct": 100,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Belém",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Fazenda (Compartilhado com o Presidente da Câmara dos Deputados)",
+      "voos": 1,
+      "custo_estimado": 124667,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministra da Gestão e Inovação em Serviços Públicos (Compartilhado com o Ministro da Justiça e Segurança Pública)",
+      "voos": 1,
+      "custo_estimado": 79333,
+      "fds": 1,
+      "fds_pct": 100,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Belém",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente do Congresso Nacional (Compartilhado com a Ministra da Igualdade Racial)",
+      "voos": 1,
+      "custo_estimado": 82167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Belém",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministra da Igualdade Racial (Compartilhado com o Presidente do Congresso Nacional)",
+      "voos": 1,
+      "custo_estimado": 82167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Belém",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente do Congresso Nacional (Compartilhado com o Ministro de Minas e Energia)",
+      "voos": 1,
+      "custo_estimado": 82167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro de Minas e Energia (Compartilhado com o Presidente do Congresso Nacional)",
+      "voos": 1,
+      "custo_estimado": 82167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente do Congresso Nacional (Compartilhado com o Ministro da Saúde)",
+      "voos": 1,
+      "custo_estimado": 82167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Macapá",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Saúde (Compartilhado com o Presidente do Congresso Nacional)",
+      "voos": 1,
+      "custo_estimado": 82167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Macapá",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com o Ministro dos Transportes e a\nMinistra do Planejamento e Orçamento)",
+      "voos": 1,
+      "custo_estimado": 68000,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Foz do Iguaçu",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com o Ministro dos Transportes e a\nMinistra da Gestão e Inovação em Serviços Públicos)",
+      "voos": 1,
+      "custo_estimado": 53833,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Presidente do Congresso Nacional (Compartilhado com o Ministro Integração do Desenvolvimento Regional)",
+      "voos": 1,
+      "custo_estimado": 87833,
+      "fds": 1,
+      "fds_pct": 100,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro Integração do Desenvolvimento Regional (Compartilhado com o Presidente do Congresso Nacional)",
+      "voos": 1,
+      "custo_estimado": 87833,
+      "fds": 1,
+      "fds_pct": 100,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "Brasília",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "À Disposição do Ministro da Defesa (Compartilhado com o Ministro do Trabalho e Emprego)",
+      "voos": 1,
+      "custo_estimado": 48167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 1,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    },
+    {
+      "autoridade": "Ministro do Trabalho e Emprego (Compartilhado com À Disposição do Ministro da Defesa)",
+      "voos": 1,
+      "custo_estimado": 48167,
+      "fds": 0,
+      "fds_pct": 0,
+      "noturnos": 0,
+      "internacionais": 0,
+      "a_disposicao": 0,
+      "top_destinos": [
+        {
+          "destino": "São Paulo (Congonhas)",
+          "n": 1
+        }
+      ],
+      "bolsonaro": 0,
+      "lula": 1
+    }
+  ]
+}
