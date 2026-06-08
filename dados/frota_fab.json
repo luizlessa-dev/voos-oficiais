@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "descricao": "Catálogo da frota aérea da Força Aérea Brasileira (FAB) em serviço ativo, 2026.",
+    "descricao": "Catálogo da frota aérea das Forças Armadas brasileiras (FAB, Marinha, Exército) em serviço ativo, 2026.",
     "atualizado": "2026-06-08",
     "fonte": "Pesquisa consolidada: fab.mil.br, Wikipédia, Poder Aéreo, Estratégia Militares, TCU TC 008.687/2024-2.",
     "avisos": [
@@ -182,7 +182,7 @@
           "alcance_km": 4500,
           "entrada_servico": 2006,
           "custo_hora": "não divulgado",
-          "curiosidade": "A versão SC-105 é dedicada a busca e salvamento. Atua intensamente na Amazônia."
+          "curiosidade": "A versão SC-105 é dedicada a busca e salvamento. Atua intensamente na Amazônia. A variante SC-105 leva bolhas de observação e equipamento de resgate para busca e salvamento (SAR)."
         },
         {
           "designacao": "C-98 Caravan",
@@ -222,6 +222,19 @@
           "entrada_servico": 1973,
           "custo_hora": "não divulgado",
           "curiosidade": "O PRIMEIRO avião de transporte de sucesso da Embraer — foi a aeronave que projetou a empresa e a tornou uma potência aeronáutica. Em serviço há mais de 50 anos, em fase final de substituição."
+        },
+        {
+          "designacao": "U-7 Seneca",
+          "modelo": "Embraer EMB-810 Seneca",
+          "fabricante": "Embraer / Piper",
+          "categoria": "Transporte leve / ligação",
+          "quantidade": 20,
+          "capacidade": "~6",
+          "velocidade_kmh": 360,
+          "alcance_km": 1300,
+          "entrada_servico": 1975,
+          "custo_hora": "não divulgado",
+          "curiosidade": "O bimotor leve que serviu de 'carro de passeio' da FAB por décadas em esquadrões mistos de transporte e ligação."
         }
       ]
     },
@@ -339,6 +352,61 @@
           "entrada_servico": 2019,
           "custo_hora": "não divulgado",
           "curiosidade": "Drone israelense de longa duração — voa por mais de 30 horas seguidas. Usado na vigilância de fronteiras e em grandes eventos (Copa 2014, Olimpíadas 2016)."
+        },
+        {
+          "designacao": "P-95 Bandeirulha",
+          "modelo": "Embraer EMB-111",
+          "fabricante": "Embraer",
+          "categoria": "Patrulha marítima costeira",
+          "quantidade": 20,
+          "capacidade": "~6 tripulantes",
+          "velocidade_kmh": 360,
+          "alcance_km": 2900,
+          "entrada_servico": 1978,
+          "custo_hora": "não divulgado",
+          "curiosidade": "O 'primo patrulheiro' do Bandeirante, com um radar no nariz que lhe dá um focinho inconfundível. Guarda a costa brasileira desde os anos 1970."
+        },
+        {
+          "designacao": "P-99 / R-99",
+          "modelo": "Embraer EMB-145 RS/MP",
+          "fabricante": "Embraer",
+          "categoria": "Sensoriamento remoto / patrulha",
+          "quantidade": 3,
+          "capacidade": "tripulação + operadores",
+          "velocidade_kmh": 830,
+          "alcance_km": null,
+          "autonomia_h": 8,
+          "entrada_servico": 2002,
+          "custo_hora": "não divulgado",
+          "curiosidade": "Eram os aviões-espião do SIVAM (sensoriamento da Amazônia). Em 2026, num giro de doutrina, estão sendo redesignados P-99 para virar patrulheiros do Atlântico, com novos sensores MX-15."
+        },
+        {
+          "designacao": "RQ-450",
+          "modelo": "Elbit Hermes 450",
+          "fabricante": "Elbit Systems (Israel)",
+          "categoria": "Drone (VANT) de vigilância",
+          "quantidade": 4,
+          "capacidade": "não tripulado",
+          "velocidade_kmh": 130,
+          "alcance_km": null,
+          "autonomia_h": 17,
+          "entrada_servico": 2011,
+          "custo_hora": "não divulgado",
+          "curiosidade": "O irmão menor do RQ-900. Opera no Esquadrão Hórus, em Santa Maria (RS), desde 2011."
+        },
+        {
+          "designacao": "RQ-1150",
+          "modelo": "IAI Heron I",
+          "fabricante": "Israel Aerospace Industries",
+          "categoria": "Drone (VANT) de vigilância (ISR)",
+          "quantidade": 3,
+          "capacidade": "não tripulado",
+          "velocidade_kmh": 200,
+          "alcance_km": null,
+          "autonomia_h": 40,
+          "entrada_servico": 2019,
+          "custo_hora": "não divulgado",
+          "curiosidade": "Drone israelense de média altitude e longuíssima autonomia (até 40h). Parte da frota foi herdada da Polícia Federal. Voa no Esquadrão Orungan (Santa Cruz/RJ)."
         }
       ]
     },
@@ -519,6 +587,45 @@
           "entrada_servico": 2022,
           "custo_hora": "não divulgado",
           "curiosidade": "O drone embarcado da Marinha. Decola por catapulta e é recuperado por um gancho ('SkyHook') — sem precisar de pista. Voa mais de 20 horas estendendo o 'olho' da frota além do horizonte."
+        },
+        {
+          "designacao": "UH-12 Esquilo",
+          "modelo": "Helibras AS350 Écureuil",
+          "fabricante": "Helibras / Airbus",
+          "categoria": "Helicóptero utilitário embarcado",
+          "quantidade": 19,
+          "capacidade": "~5",
+          "velocidade_kmh": 245,
+          "alcance_km": 660,
+          "entrada_servico": 1984,
+          "custo_hora": "não divulgado",
+          "curiosidade": "O 'burro de carga' embarcado da Marinha — monomotor que opera do convés de navios-patrulha e fragatas."
+        },
+        {
+          "designacao": "UH-17",
+          "modelo": "Airbus H135",
+          "fabricante": "Airbus Helicopters",
+          "categoria": "Helicóptero utilitário / SAR / aeromédico",
+          "quantidade": 5,
+          "capacidade": "~6",
+          "velocidade_kmh": 255,
+          "alcance_km": 635,
+          "entrada_servico": 2019,
+          "custo_hora": "não divulgado",
+          "curiosidade": "Versão utilitária do H135 (o IH-18 é a de instrução). Faz desde evacuação médica até transporte de tropa. Substituiu o antigo Esquilo bimotor UH-13."
+        },
+        {
+          "designacao": "AH-15B",
+          "modelo": "Airbus H225M (versão de ataque)",
+          "fabricante": "Helibras / Airbus",
+          "categoria": "Helicóptero de ataque / emprego geral",
+          "quantidade": 12,
+          "capacidade": "2–3 + tropa",
+          "velocidade_kmh": 260,
+          "alcance_km": 900,
+          "entrada_servico": 2011,
+          "custo_hora": "não divulgado",
+          "curiosidade": "Variante armada do Super Cougar, do Projeto H-XBR. A última unidade foi entregue em dez/2025, reforçando a defesa da Amazônia Azul."
         }
       ]
     },
@@ -600,6 +707,79 @@
           "entrada_servico": 2022,
           "custo_hora": "não divulgado",
           "curiosidade": "Drone de reconhecimento de FABRICAÇÃO NACIONAL (XMobots, de São Carlos/SP). Representa o esforço de nacionalização de drones militares brasileiros."
+        },
+        {
+          "designacao": "HM-2 Black Hawk (UH-60L)",
+          "modelo": "Sikorsky UH-60L",
+          "fabricante": "Sikorsky",
+          "categoria": "Helicóptero de transporte (legado, em substituição)",
+          "quantidade": 4,
+          "capacidade": "2–4 + ~11 tropa",
+          "velocidade_kmh": 280,
+          "alcance_km": 590,
+          "entrada_servico": 1997,
+          "custo_hora": "não divulgado",
+          "curiosidade": "A frota ORIGINAL de Black Hawk do Exército (UH-60L), em serviço desde 1997. Sendo substituída pelos 12 novos UH-60M (HM-2A) até 2028."
+        },
+        {
+          "designacao": "VANTs táticos",
+          "modelo": "DJI Matrice/Mavic + classe Carcará",
+          "fabricante": "DJI / nacionais",
+          "categoria": "Drones táticos de reconhecimento",
+          "quantidade": 30,
+          "capacidade": "não tripulado",
+          "velocidade_kmh": 70,
+          "alcance_km": null,
+          "autonomia_h": 1,
+          "entrada_servico": 2022,
+          "custo_hora": "não divulgado",
+          "curiosidade": "Drones leves de reconhecimento de pelotão (quadricópteros DJI e classe Carcará), usados pela tropa para enxergar 'atrás da próxima colina'."
+        },
+        {
+          "designacao": "HM-3 Cougar",
+          "modelo": "Eurocopter AS532 UE Cougar",
+          "fabricante": "Eurocopter",
+          "categoria": "Transporte médio (em desativação)",
+          "quantidade": 8,
+          "capacidade": "2–3 + ~20 tropa",
+          "velocidade_kmh": 260,
+          "alcance_km": 600,
+          "entrada_servico": 1999,
+          "custo_hora": "não divulgado",
+          "curiosidade": "Helicóptero de transporte ainda ATIVO, mas em desativação — a substituição pelos 12 novos UH-60M só se completa em 2028."
+        }
+      ]
+    },
+    {
+      "id": "inspecao",
+      "nome": "Inspeção em Voo (GEIV)",
+      "descricao": "As aeronaves-laboratório que aferem em pleno voo os auxílios de navegação de todos os aeroportos do país — quem 'calibra' o espaço aéreo brasileiro.",
+      "aeronaves": [
+        {
+          "designacao": "IU-50",
+          "modelo": "Embraer Legacy 500",
+          "fabricante": "Embraer",
+          "categoria": "Inspeção em voo",
+          "quantidade": 4,
+          "capacidade": "tripulação + operadores",
+          "velocidade_kmh": 860,
+          "alcance_km": 5600,
+          "entrada_servico": 2018,
+          "custo_hora": "não divulgado",
+          "curiosidade": "Voa a mais de 800 km/h aferindo os auxílios eletrônicos de navegação de todos os aeroportos do Brasil. É literalmente o avião que 'calibra' o espaço aéreo do país."
+        },
+        {
+          "designacao": "IU-93",
+          "modelo": "Hawker 800XP",
+          "fabricante": "Hawker Beechcraft",
+          "categoria": "Inspeção em voo",
+          "quantidade": 4,
+          "capacidade": "tripulação + operadores",
+          "velocidade_kmh": 800,
+          "alcance_km": 5000,
+          "entrada_servico": 2007,
+          "custo_hora": "não divulgado",
+          "curiosidade": "Com o sistema UNIFIS 3000, monitora e valida em pleno voo os sinais de rádio que orientam os pousos por instrumentos. Junto com o IU-50, forma a frota do GEIV."
         }
       ]
     }
@@ -628,12 +808,6 @@
       "modelo": "Bell 206 Jet Ranger",
       "status": "Marinha — em desativação",
       "curiosidade": "Helicóptero de instrução em serviço desde os anos 1970. Sendo aposentado pelo IH-18; a Lei 15.338/2026 autorizou doar 2 unidades ao Uruguai."
-    },
-    {
-      "designacao": "HM-3 Cougar",
-      "modelo": "Eurocopter AS532 UE Cougar",
-      "status": "Exército — em desativação",
-      "curiosidade": "Helicóptero de transporte do Exército. Sendo substituído (junto com o HM-2 Black Hawk antigo) pelos 12 novos UH-60M."
     }
   ]
 }
