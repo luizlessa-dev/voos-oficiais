@@ -1,0 +1,671 @@
+{
+  "autoridade": "Ministro do Trabalho e Previdência",
+  "slug": "ministro-do-trabalho-e-previdencia",
+  "voos": 80,
+  "custo_estimado": 4612666,
+  "fds": 3,
+  "fds_pct": 4,
+  "noturnos": 1,
+  "internacionais": 0,
+  "a_disposicao": 0,
+  "bolsonaro": 80,
+  "lula": 0,
+  "top_destinos": [
+    {
+      "destino": "Brasília",
+      "n": 23
+    },
+    {
+      "destino": "São Paulo",
+      "n": 11
+    },
+    {
+      "destino": "Canoas",
+      "n": 8
+    },
+    {
+      "destino": "Santa Maria",
+      "n": 3
+    },
+    {
+      "destino": "Caxias Do Sul",
+      "n": 2
+    },
+    {
+      "destino": "Florianópolis",
+      "n": 2
+    },
+    {
+      "destino": "Manaus",
+      "n": 2
+    },
+    {
+      "destino": "Navegantes",
+      "n": 2
+    },
+    {
+      "destino": "Pelotas",
+      "n": 1
+    },
+    {
+      "destino": "Santa Maria Da Vitória",
+      "n": 1
+    }
+  ],
+  "timeline": [
+    {
+      "mes": "2021-08",
+      "n": 1
+    },
+    {
+      "mes": "2021-09",
+      "n": 2
+    },
+    {
+      "mes": "2021-10",
+      "n": 10
+    },
+    {
+      "mes": "2021-11",
+      "n": 7
+    },
+    {
+      "mes": "2022-01",
+      "n": 2
+    },
+    {
+      "mes": "2022-02",
+      "n": 24
+    },
+    {
+      "mes": "2022-03",
+      "n": 9
+    },
+    {
+      "mes": "2022-04",
+      "n": 4
+    },
+    {
+      "mes": "2022-05",
+      "n": 5
+    },
+    {
+      "mes": "2022-06",
+      "n": 5
+    },
+    {
+      "mes": "2022-07",
+      "n": 2
+    },
+    {
+      "mes": "2022-08",
+      "n": 6
+    },
+    {
+      "mes": "2022-10",
+      "n": 3
+    }
+  ],
+  "voos_lista": [
+    {
+      "data": "19/10/2022",
+      "origem": "Foz do Iguaçu",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "19/10/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "18/10/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Foz do Iguaçu",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "25/08/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "19/08/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "10/08/2022",
+      "origem": "Brasília",
+      "destino": "Canoas",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "10/08/2022",
+      "origem": "Canoas",
+      "destino": "Brasília",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "09/08/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "09/08/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "15/07/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "01/07/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "30/06/2022",
+      "origem": "Boa Vista",
+      "destino": "Santarém",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "30/06/2022",
+      "origem": "Santarém",
+      "destino": "Parnaíba",
+      "custo": 73667,
+      "fds": false
+    },
+    {
+      "data": "30/06/2022",
+      "origem": "Parnaíba",
+      "destino": "Brasília",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "29/06/2022",
+      "origem": "Brasília",
+      "destino": "Manaus (Ponta Pelada)",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "29/06/2022",
+      "origem": "Manaus (Ponta Pelada)",
+      "destino": "Boa Vista",
+      "custo": 42500,
+      "fds": false
+    },
+    {
+      "data": "27/05/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "19/05/2022",
+      "origem": "Brasília",
+      "destino": "Navegantes",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "19/05/2022",
+      "origem": "Navegantes",
+      "destino": "Brasília",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "10/05/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "09/05/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "20/04/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "13/04/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "07/04/2022",
+      "origem": "Brasília",
+      "destino": "Navegantes",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "07/04/2022",
+      "origem": "Navegantes",
+      "destino": "Brasília",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "23/03/2022",
+      "origem": "Canoas",
+      "destino": "Santo Ângelo",
+      "custo": 31167,
+      "fds": false
+    },
+    {
+      "data": "23/03/2022",
+      "origem": "Santo Ângelo",
+      "destino": "Brasília",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "21/03/2022",
+      "origem": "Brasília",
+      "destino": "Passo Fundo",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "21/03/2022",
+      "origem": "Passo Fundo",
+      "destino": "Canoas",
+      "custo": 17000,
+      "fds": false
+    },
+    {
+      "data": "18/03/2022",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "11/03/2022",
+      "origem": "Brasília",
+      "destino": "Campinas",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "07/03/2022",
+      "origem": "Brasília",
+      "destino": "Cuiabá",
+      "custo": 11333,
+      "fds": false
+    },
+    {
+      "data": "07/03/2022",
+      "origem": "Cuiabá",
+      "destino": "Goiânia",
+      "custo": 73667,
+      "fds": false
+    },
+    {
+      "data": "07/03/2022",
+      "origem": "Goiânia",
+      "destino": "Brasília",
+      "custo": 14167,
+      "fds": false
+    },
+    {
+      "data": "24/02/2022",
+      "origem": "Brasília",
+      "destino": "Teresina",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "24/02/2022",
+      "origem": "Teresina",
+      "destino": "Palmas",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "24/02/2022",
+      "origem": "Palmas",
+      "destino": "Brasília",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "23/02/2022",
+      "origem": "Canoas",
+      "destino": "Caxias Do Sul",
+      "custo": 14167,
+      "fds": false
+    },
+    {
+      "data": "23/02/2022",
+      "origem": "Caxias Do Sul",
+      "destino": "Brasília",
+      "custo": 73667,
+      "fds": false
+    },
+    {
+      "data": "21/02/2022",
+      "origem": "Brasília",
+      "destino": "Canoas",
+      "custo": 136000,
+      "fds": false
+    },
+    {
+      "data": "21/02/2022",
+      "origem": "Canoas",
+      "destino": "Chapecó",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "21/02/2022",
+      "origem": "Chapecó",
+      "destino": "Canoas",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "17/02/2022",
+      "origem": "Brasília",
+      "destino": "Belo Horizonte (Pampulha)",
+      "custo": 36833,
+      "fds": false
+    },
+    {
+      "data": "17/02/2022",
+      "origem": "Belo Horizonte (Pampulha)",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 39667,
+      "fds": false
+    },
+    {
+      "data": "15/02/2022",
+      "origem": "Brasília",
+      "destino": "Fortaleza",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "15/02/2022",
+      "origem": "Fortaleza",
+      "destino": "João Pessoa",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "15/02/2022",
+      "origem": "João Pessoa",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "14/02/2022",
+      "origem": "Brasília",
+      "destino": "Manaus (Ponta Pelada)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "14/02/2022",
+      "origem": "Manaus (Ponta Pelada)",
+      "destino": "Belém",
+      "custo": 99167,
+      "fds": false
+    },
+    {
+      "data": "14/02/2022",
+      "origem": "Belém",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "11/02/2022",
+      "origem": "Brasília",
+      "destino": "Porto Velho",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "11/02/2022",
+      "origem": "Porto Velho",
+      "destino": "Brasília",
+      "custo": 127500,
+      "fds": false
+    },
+    {
+      "data": "09/02/2022",
+      "origem": "Brasília",
+      "destino": "Campo Grande",
+      "custo": 14167,
+      "fds": false
+    },
+    {
+      "data": "09/02/2022",
+      "origem": "Campo Grande",
+      "destino": "Vitória",
+      "custo": 107667,
+      "fds": false
+    },
+    {
+      "data": "09/02/2022",
+      "origem": "Vitória",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "07/02/2022",
+      "origem": "Brasília",
+      "destino": "Florianópolis",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "07/02/2022",
+      "origem": "Florianópolis",
+      "destino": "Curitiba",
+      "custo": 19833,
+      "fds": false
+    },
+    {
+      "data": "07/02/2022",
+      "origem": "Curitiba",
+      "destino": "Brasília",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "27/01/2022",
+      "origem": "Canoas",
+      "destino": "Brasília",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "25/01/2022",
+      "origem": "Brasília",
+      "destino": "Canoas",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "27/11/2021",
+      "origem": "Canoas",
+      "destino": "Brasília",
+      "custo": 73667,
+      "fds": true
+    },
+    {
+      "data": "25/11/2021",
+      "origem": "Brasília",
+      "destino": "Santa Maria",
+      "custo": 93500,
+      "fds": false
+    },
+    {
+      "data": "25/11/2021",
+      "origem": "Santa Maria",
+      "destino": "Canoas",
+      "custo": 17000,
+      "fds": false
+    },
+    {
+      "data": "11/11/2021",
+      "origem": "Brasília",
+      "destino": "Florianópolis",
+      "custo": 65167,
+      "fds": false
+    },
+    {
+      "data": "11/11/2021",
+      "origem": "Florianópolis",
+      "destino": "Brasília",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "09/11/2021",
+      "origem": "Brasília",
+      "destino": "Sorriso",
+      "custo": 14167,
+      "fds": false
+    },
+    {
+      "data": "09/11/2021",
+      "origem": "Sorriso",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "30/10/2021",
+      "origem": "Canoas",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": true
+    },
+    {
+      "data": "29/10/2021",
+      "origem": "Canoas",
+      "destino": "Santa Maria",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "29/10/2021",
+      "origem": "Santa Maria",
+      "destino": "Alegrete",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "29/10/2021",
+      "origem": "Alegrete",
+      "destino": "Santa Maria",
+      "custo": 19833,
+      "fds": false
+    },
+    {
+      "data": "29/10/2021",
+      "origem": "Santa Maria",
+      "destino": "Canoas",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "27/10/2021",
+      "origem": "Brasília",
+      "destino": "Porto Alegre",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "08/10/2021",
+      "origem": "Brasília",
+      "destino": "Santa Maria Da Vitória",
+      "custo": 39667,
+      "fds": false
+    },
+    {
+      "data": "08/10/2021",
+      "origem": "Santa Maria Da Vitória",
+      "destino": "Salvador",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "08/10/2021",
+      "origem": "Salvador",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "02/10/2021",
+      "origem": "Canoas",
+      "destino": "Brasília",
+      "custo": 79333,
+      "fds": true
+    },
+    {
+      "data": "30/09/2021",
+      "origem": "Brasília",
+      "destino": "Caxias Do Sul",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "30/09/2021",
+      "origem": "Caxias Do Sul",
+      "destino": "Canoas",
+      "custo": 8500,
+      "fds": false
+    },
+    {
+      "data": "20/08/2021",
+      "origem": "Brasília",
+      "destino": "Pelotas",
+      "custo": 90667,
+      "fds": false
+    }
+  ]
+}

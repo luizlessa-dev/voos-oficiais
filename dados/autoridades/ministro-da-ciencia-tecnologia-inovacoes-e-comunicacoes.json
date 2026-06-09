@@ -1,0 +1,244 @@
+{
+  "autoridade": "Ministro da Ciência, Tecnologia, Inovações e Comunicações",
+  "slug": "ministro-da-ciencia-tecnologia-inovacoes-e-comunicacoes",
+  "voos": 23,
+  "custo_estimado": 943501,
+  "fds": 2,
+  "fds_pct": 9,
+  "noturnos": 0,
+  "internacionais": 0,
+  "a_disposicao": 0,
+  "bolsonaro": 23,
+  "lula": 0,
+  "top_destinos": [
+    {
+      "destino": "Brasília",
+      "n": 10
+    },
+    {
+      "destino": "Ribeirão Preto",
+      "n": 2
+    },
+    {
+      "destino": "São Paulo",
+      "n": 2
+    },
+    {
+      "destino": "Uberlândia",
+      "n": 2
+    },
+    {
+      "destino": "Foz Do Iguaçu",
+      "n": 1
+    },
+    {
+      "destino": "Rio de Janeiro",
+      "n": 1
+    },
+    {
+      "destino": "Guarulhos",
+      "n": 1
+    },
+    {
+      "destino": "Riberão Preto",
+      "n": 1
+    },
+    {
+      "destino": "Campinas",
+      "n": 1
+    },
+    {
+      "destino": "Belo Horizonte",
+      "n": 1
+    }
+  ],
+  "timeline": [
+    {
+      "mes": "2020-01",
+      "n": 1
+    },
+    {
+      "mes": "2020-02",
+      "n": 4
+    },
+    {
+      "mes": "2020-03",
+      "n": 4
+    },
+    {
+      "mes": "2020-04",
+      "n": 7
+    },
+    {
+      "mes": "2020-05",
+      "n": 5
+    },
+    {
+      "mes": "2020-06",
+      "n": 2
+    }
+  ],
+  "voos_lista": [
+    {
+      "data": "12/06/2020",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "12/06/2020",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "16/05/2020",
+      "origem": "Brasília",
+      "destino": "Uberlândia",
+      "custo": 25500,
+      "fds": true
+    },
+    {
+      "data": "16/05/2020",
+      "origem": "Uberlândia",
+      "destino": "Brasília",
+      "custo": 22667,
+      "fds": true
+    },
+    {
+      "data": "15/05/2020",
+      "origem": "Brasília",
+      "destino": "Sorocaba",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "15/05/2020",
+      "origem": "Sorocaba",
+      "destino": "Ribeirão Preto",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "15/05/2020",
+      "origem": "Ribeirão Preto",
+      "destino": "Brasília",
+      "custo": 36833,
+      "fds": false
+    },
+    {
+      "data": "13/04/2020",
+      "origem": "Brasília",
+      "destino": "Belo Horizonte (Pampulha)",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "13/04/2020",
+      "origem": "Belo Horizonte (Pampulha)",
+      "destino": "Uberlândia",
+      "custo": 42500,
+      "fds": false
+    },
+    {
+      "data": "13/04/2020",
+      "origem": "Uberlândia",
+      "destino": "Brasília",
+      "custo": 22667,
+      "fds": false
+    },
+    {
+      "data": "10/04/2020",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "10/04/2020",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "06/04/2020",
+      "origem": "Brasília",
+      "destino": "Campinas",
+      "custo": 42500,
+      "fds": false
+    },
+    {
+      "data": "06/04/2020",
+      "origem": "Campinas",
+      "destino": "Brasília",
+      "custo": 42500,
+      "fds": false
+    },
+    {
+      "data": "31/03/2020",
+      "origem": "Brasília",
+      "destino": "Ribeirão Preto",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "31/03/2020",
+      "origem": "Ribeirão Preto",
+      "destino": "Brasília",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "05/03/2020",
+      "origem": "Brasília",
+      "destino": "Riberão Preto",
+      "custo": 36833,
+      "fds": false
+    },
+    {
+      "data": "05/03/2020",
+      "origem": "Riberão Preto",
+      "destino": "Brasília",
+      "custo": 39667,
+      "fds": false
+    },
+    {
+      "data": "14/02/2020",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "14/02/2020",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Guarulhos",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "03/02/2020",
+      "origem": "Brasília",
+      "destino": "Foz Do Iguaçu",
+      "custo": 65167,
+      "fds": false
+    },
+    {
+      "data": "03/02/2020",
+      "origem": "Foz Do Iguaçu",
+      "destino": "Brasília",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "06/01/2020",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    }
+  ]
+}

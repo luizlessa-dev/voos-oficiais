@@ -1,0 +1,415 @@
+{
+  "autoridade": "Ministra da Gestão e Inovação em Serviços Públicos",
+  "slug": "ministra-da-gestao-e-inovacao-em-servicos-publicos",
+  "voos": 40,
+  "custo_estimado": 2552831,
+  "fds": 0,
+  "fds_pct": 0,
+  "noturnos": 4,
+  "internacionais": 0,
+  "a_disposicao": 0,
+  "bolsonaro": 0,
+  "lula": 40,
+  "top_destinos": [
+    {
+      "destino": "Brasília",
+      "n": 20
+    },
+    {
+      "destino": "Rio de Janeiro",
+      "n": 5
+    },
+    {
+      "destino": "Foz do Iguaçu",
+      "n": 4
+    },
+    {
+      "destino": "Recife",
+      "n": 2
+    },
+    {
+      "destino": "Fortaleza",
+      "n": 2
+    },
+    {
+      "destino": "João Pessoa",
+      "n": 2
+    },
+    {
+      "destino": "São Paulo",
+      "n": 2
+    },
+    {
+      "destino": "Natal",
+      "n": 1
+    },
+    {
+      "destino": "Vitória",
+      "n": 1
+    },
+    {
+      "destino": "Belo Horizonte",
+      "n": 1
+    }
+  ],
+  "timeline": [
+    {
+      "mes": "2023-03",
+      "n": 2
+    },
+    {
+      "mes": "2023-04",
+      "n": 4
+    },
+    {
+      "mes": "2023-05",
+      "n": 2
+    },
+    {
+      "mes": "2023-06",
+      "n": 2
+    },
+    {
+      "mes": "2023-07",
+      "n": 2
+    },
+    {
+      "mes": "2023-12",
+      "n": 2
+    },
+    {
+      "mes": "2024-02",
+      "n": 2
+    },
+    {
+      "mes": "2024-07",
+      "n": 3
+    },
+    {
+      "mes": "2024-11",
+      "n": 1
+    },
+    {
+      "mes": "2024-12",
+      "n": 2
+    },
+    {
+      "mes": "2025-01",
+      "n": 2
+    },
+    {
+      "mes": "2025-03",
+      "n": 2
+    },
+    {
+      "mes": "2025-08",
+      "n": 1
+    },
+    {
+      "mes": "2025-09",
+      "n": 2
+    },
+    {
+      "mes": "2025-10",
+      "n": 2
+    },
+    {
+      "mes": "2025-11",
+      "n": 1
+    },
+    {
+      "mes": "2025-12",
+      "n": 2
+    },
+    {
+      "mes": "2026-03",
+      "n": 4
+    },
+    {
+      "mes": "2026-04",
+      "n": 2
+    }
+  ],
+  "voos_lista": [
+    {
+      "data": "08/04/2026",
+      "origem": "Brasília",
+      "destino": "Fortaleza",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "08/04/2026",
+      "origem": "Fortaleza",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "31/03/2026",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "31/03/2026",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "30/03/2026",
+      "origem": "Brasília",
+      "destino": "Belo Horizonte (Pampulha)",
+      "custo": 39667,
+      "fds": false
+    },
+    {
+      "data": "30/03/2026",
+      "origem": "Belo Horizonte (Pampulha)",
+      "destino": "Brasília",
+      "custo": 36833,
+      "fds": false
+    },
+    {
+      "data": "19/12/2025",
+      "origem": "Foz do Iguaçu",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "19/12/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "13/11/2025",
+      "origem": "Belém",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "10/10/2025",
+      "origem": "Brasília",
+      "destino": "João Pessoa",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "10/10/2025",
+      "origem": "João Pessoa",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "18/09/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "18/09/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "08/08/2025",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "24/03/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Foz do Iguaçu",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "24/03/2025",
+      "origem": "Foz do Iguaçu",
+      "destino": "Brasília",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "27/01/2025",
+      "origem": "Brasília",
+      "destino": "Vitória",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "27/01/2025",
+      "origem": "Vitória",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "03/12/2024",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "03/12/2024",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "01/11/2024",
+      "origem": "Foz do Iguaçu",
+      "destino": "Brasília",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "02/07/2024",
+      "origem": "João Pessoa",
+      "destino": "Brasília",
+      "custo": 90667,
+      "fds": false
+    },
+    {
+      "data": "01/07/2024",
+      "origem": "Brasília",
+      "destino": "Natal (Parnamirim)",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "01/07/2024",
+      "origem": "Natal (Parnamirim)",
+      "destino": "João Pessoa",
+      "custo": 11333,
+      "fds": false
+    },
+    {
+      "data": "06/02/2024",
+      "origem": "Brasília",
+      "destino": "Recife",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "06/02/2024",
+      "origem": "Recife",
+      "destino": "Brasília",
+      "custo": 90667,
+      "fds": false
+    },
+    {
+      "data": "15/12/2023",
+      "origem": "Brasília",
+      "destino": "Foz do Iguaçu",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "12/12/2023",
+      "origem": "São Luís",
+      "destino": "Brasília",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "25/07/2023",
+      "origem": "Brasília",
+      "destino": "Foz do Iguaçu",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "25/07/2023",
+      "origem": "Foz do Iguaçu",
+      "destino": "Brasília",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "06/06/2023",
+      "origem": "Brasília",
+      "destino": "Fortaleza",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "06/06/2023",
+      "origem": "Fortaleza",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "05/05/2023",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "05/05/2023",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "26/04/2023",
+      "origem": "Foz do Iguaçu",
+      "destino": "Brasília",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "25/04/2023",
+      "origem": "Brasília",
+      "destino": "Foz do Iguaçu",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "14/04/2023",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "14/04/2023",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "22/03/2023",
+      "origem": "Brasília",
+      "destino": "Recife",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "22/03/2023",
+      "origem": "Recife",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": false
+    }
+  ]
+}

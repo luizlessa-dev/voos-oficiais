@@ -1,0 +1,769 @@
+{
+  "autoridade": "Ministro da Economia",
+  "slug": "ministro-da-economia",
+  "voos": 90,
+  "custo_estimado": 4966838,
+  "fds": 7,
+  "fds_pct": 8,
+  "noturnos": 1,
+  "internacionais": 4,
+  "a_disposicao": 0,
+  "bolsonaro": 90,
+  "lula": 0,
+  "top_destinos": [
+    {
+      "destino": "Brasília",
+      "n": 42
+    },
+    {
+      "destino": "São Paulo",
+      "n": 25
+    },
+    {
+      "destino": "Rio de Janeiro",
+      "n": 14
+    },
+    {
+      "destino": "Fort-de-France",
+      "n": 2
+    },
+    {
+      "destino": "Washignton",
+      "n": 1
+    },
+    {
+      "destino": "Fortaleza",
+      "n": 1
+    },
+    {
+      "destino": "Porto Alegre",
+      "n": 1
+    },
+    {
+      "destino": "Passo Fundo",
+      "n": 1
+    },
+    {
+      "destino": "Salvador",
+      "n": 1
+    },
+    {
+      "destino": "Belo Horizonte",
+      "n": 1
+    }
+  ],
+  "timeline": [
+    {
+      "mes": "2020-03",
+      "n": 3
+    },
+    {
+      "mes": "2021-04",
+      "n": 2
+    },
+    {
+      "mes": "2021-05",
+      "n": 2
+    },
+    {
+      "mes": "2021-06",
+      "n": 2
+    },
+    {
+      "mes": "2021-07",
+      "n": 8
+    },
+    {
+      "mes": "2021-09",
+      "n": 2
+    },
+    {
+      "mes": "2021-10",
+      "n": 4
+    },
+    {
+      "mes": "2021-11",
+      "n": 3
+    },
+    {
+      "mes": "2021-12",
+      "n": 2
+    },
+    {
+      "mes": "2022-02",
+      "n": 5
+    },
+    {
+      "mes": "2022-03",
+      "n": 5
+    },
+    {
+      "mes": "2022-04",
+      "n": 2
+    },
+    {
+      "mes": "2022-05",
+      "n": 5
+    },
+    {
+      "mes": "2022-06",
+      "n": 3
+    },
+    {
+      "mes": "2022-07",
+      "n": 2
+    },
+    {
+      "mes": "2022-08",
+      "n": 10
+    },
+    {
+      "mes": "2022-09",
+      "n": 16
+    },
+    {
+      "mes": "2022-10",
+      "n": 9
+    },
+    {
+      "mes": "2022-11",
+      "n": 2
+    },
+    {
+      "mes": "2022-12",
+      "n": 3
+    }
+  ],
+  "voos_lista": [
+    {
+      "data": "16/12/2022",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "07/12/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "07/12/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "11/11/2022",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "11/11/2022",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "27/10/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "26/10/2022",
+      "origem": "Brasília",
+      "destino": "Belo Horizonte (Pampulha)",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "26/10/2022",
+      "origem": "Belo Horizonte (Pampulha)",
+      "destino": "Vitória",
+      "custo": 22667,
+      "fds": false
+    },
+    {
+      "data": "26/10/2022",
+      "origem": "Vitória",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "20/10/2022",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "20/10/2022",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 31167,
+      "fds": false
+    },
+    {
+      "data": "20/10/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "16/10/2022",
+      "origem": "São Paulo (Guarulhos)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": true
+    },
+    {
+      "data": "09/10/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 53833,
+      "fds": true
+    },
+    {
+      "data": "28/09/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "27/09/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "26/09/2022",
+      "origem": "Brasília",
+      "destino": "Salvador",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "26/09/2022",
+      "origem": "Salvador",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "23/09/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "23/09/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "21/09/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "21/09/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "14/09/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "14/09/2022",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "14/09/2022",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 36833,
+      "fds": false
+    },
+    {
+      "data": "08/09/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "08/09/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "01/09/2022",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "01/09/2022",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "01/09/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "26/08/2022",
+      "origem": "Brasília",
+      "destino": "Porto Alegre",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "26/08/2022",
+      "origem": "Porto Alegre",
+      "destino": "Passo Fundo",
+      "custo": 19833,
+      "fds": false
+    },
+    {
+      "data": "26/08/2022",
+      "origem": "Passo Fundo",
+      "destino": "Brasília",
+      "custo": 73667,
+      "fds": false
+    },
+    {
+      "data": "18/08/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "17/08/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "11/08/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "11/08/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "08/08/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "03/08/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "03/08/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "18/07/2022",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "18/07/2022",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "20/06/2022",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "20/06/2022",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "14/06/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "20/05/2022",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "19/05/2022",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 31167,
+      "fds": false
+    },
+    {
+      "data": "19/05/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 22667,
+      "fds": false
+    },
+    {
+      "data": "18/05/2022",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "16/05/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "23/04/2022",
+      "origem": "São Paulo (Guarulhos)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": true
+    },
+    {
+      "data": "17/04/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 45333,
+      "fds": true
+    },
+    {
+      "data": "24/03/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "23/03/2022",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "18/03/2022",
+      "origem": "Brasília",
+      "destino": "Fortaleza",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "18/03/2022",
+      "origem": "Fortaleza",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "04/03/2022",
+      "origem": "São Paulo (Guarulhos)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "26/02/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 48167,
+      "fds": true
+    },
+    {
+      "data": "22/02/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "21/02/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "03/02/2022",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "03/02/2022",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "17/12/2021",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "17/12/2021",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "17/11/2021",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "11/11/2021",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "11/11/2021",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "15/10/2021",
+      "origem": "Washignton (EUA)",
+      "destino": "Fort-de-France (França)",
+      "custo": 161500,
+      "fds": false
+    },
+    {
+      "data": "15/10/2021",
+      "origem": "Fort-de-France (França)",
+      "destino": "Brasília",
+      "custo": 206833,
+      "fds": false
+    },
+    {
+      "data": "11/10/2021",
+      "origem": "Brasília",
+      "destino": "Fort-de-France (França)",
+      "custo": 136000,
+      "fds": false
+    },
+    {
+      "data": "11/10/2021",
+      "origem": "Fort-de-France (França)",
+      "destino": "Washignton (EUA)",
+      "custo": 155833,
+      "fds": false
+    },
+    {
+      "data": "14/09/2021",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "14/09/2021",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "30/07/2021",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "30/07/2021",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "16/07/2021",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "16/07/2021",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "08/07/2021",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "08/07/2021",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "03/07/2021",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": true
+    },
+    {
+      "data": "02/07/2021",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "24/06/2021",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "24/06/2021",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "25/05/2021",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "25/05/2021",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "07/04/2021",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "07/04/2021",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "29/03/2020",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": true
+    },
+    {
+      "data": "19/03/2020",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "16/03/2020",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    }
+  ]
+}

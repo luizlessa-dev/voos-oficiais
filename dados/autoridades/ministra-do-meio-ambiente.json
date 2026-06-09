@@ -1,0 +1,426 @@
+{
+  "autoridade": "Ministra do Meio Ambiente",
+  "slug": "ministra-do-meio-ambiente",
+  "voos": 45,
+  "custo_estimado": 3816500,
+  "fds": 6,
+  "fds_pct": 13,
+  "noturnos": 6,
+  "internacionais": 6,
+  "a_disposicao": 0,
+  "bolsonaro": 0,
+  "lula": 45,
+  "top_destinos": [
+    {
+      "destino": "Brasília",
+      "n": 17
+    },
+    {
+      "destino": "São Paulo",
+      "n": 3
+    },
+    {
+      "destino": "Belém",
+      "n": 3
+    },
+    {
+      "destino": "Rio de Janeiro",
+      "n": 3
+    },
+    {
+      "destino": "Santarém",
+      "n": 3
+    },
+    {
+      "destino": "Manaus",
+      "n": 2
+    },
+    {
+      "destino": "Corumbá",
+      "n": 2
+    },
+    {
+      "destino": "Fort-de-France",
+      "n": 2
+    },
+    {
+      "destino": "Letícia",
+      "n": 1
+    },
+    {
+      "destino": "Maturacá",
+      "n": 1
+    }
+  ],
+  "timeline": [
+    {
+      "mes": "2023-07",
+      "n": 7
+    },
+    {
+      "mes": "2023-08",
+      "n": 6
+    },
+    {
+      "mes": "2023-10",
+      "n": 2
+    },
+    {
+      "mes": "2023-11",
+      "n": 2
+    },
+    {
+      "mes": "2024-03",
+      "n": 4
+    },
+    {
+      "mes": "2024-04",
+      "n": 2
+    },
+    {
+      "mes": "2024-06",
+      "n": 4
+    },
+    {
+      "mes": "2024-07",
+      "n": 2
+    },
+    {
+      "mes": "2024-08",
+      "n": 6
+    },
+    {
+      "mes": "2024-09",
+      "n": 2
+    },
+    {
+      "mes": "2024-10",
+      "n": 4
+    },
+    {
+      "mes": "2025-05",
+      "n": 1
+    },
+    {
+      "mes": "2025-11",
+      "n": 3
+    }
+  ],
+  "voos_lista": [
+    {
+      "data": "22/11/2025",
+      "origem": "Belém",
+      "destino": "Brasília",
+      "custo": 79333,
+      "fds": true
+    },
+    {
+      "data": "05/11/2025",
+      "origem": "Rio de Janeiro (Galeão)",
+      "destino": "Belém",
+      "custo": 124667,
+      "fds": false
+    },
+    {
+      "data": "04/11/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 22667,
+      "fds": false
+    },
+    {
+      "data": "24/05/2025",
+      "origem": "Rio Branco",
+      "destino": "Brasília",
+      "custo": 181333,
+      "fds": true
+    },
+    {
+      "data": "25/10/2024",
+      "origem": "Washignton (EUA)",
+      "destino": "Fort-de-France (França)",
+      "custo": 153000,
+      "fds": false
+    },
+    {
+      "data": "25/10/2024",
+      "origem": "Fort-de-France (França)",
+      "destino": "Brasília",
+      "custo": 204000,
+      "fds": false
+    },
+    {
+      "data": "22/10/2024",
+      "origem": "Fort-de-France (França)",
+      "destino": "Washignton (EUA)",
+      "custo": 158667,
+      "fds": false
+    },
+    {
+      "data": "21/10/2024",
+      "origem": "Brasília",
+      "destino": "Fort-de-France (França)",
+      "custo": 136000,
+      "fds": false
+    },
+    {
+      "data": "05/09/2024",
+      "origem": "Brasília",
+      "destino": "Santarém",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "05/09/2024",
+      "origem": "Santarém",
+      "destino": "Brasília",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "22/08/2024",
+      "origem": "Brasília",
+      "destino": "Santarém",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "22/08/2024",
+      "origem": "Santarém",
+      "destino": "Brasília",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "14/08/2024",
+      "origem": "Campo Grande",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "02/08/2024",
+      "origem": "Teresina",
+      "destino": "Brasília",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "01/08/2024",
+      "origem": "Brasília",
+      "destino": "Recife",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "01/08/2024",
+      "origem": "Recife",
+      "destino": "Teresina",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "18/07/2024",
+      "origem": "Brasília",
+      "destino": "Santarém",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "16/07/2024",
+      "origem": "Brasília",
+      "destino": "Corumbá",
+      "custo": 39667,
+      "fds": false
+    },
+    {
+      "data": "28/06/2024",
+      "origem": "Brasília",
+      "destino": "Corumbá",
+      "custo": 31167,
+      "fds": false
+    },
+    {
+      "data": "28/06/2024",
+      "origem": "Corumbá",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "10/06/2024",
+      "origem": "Brasília",
+      "destino": "Petrolina",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "10/06/2024",
+      "origem": "Petrolina",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "18/04/2024",
+      "origem": "Brasília",
+      "destino": "Campo Grande",
+      "custo": 17000,
+      "fds": false
+    },
+    {
+      "data": "18/04/2024",
+      "origem": "Campo Grande",
+      "destino": "Brasília",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "12/03/2024",
+      "origem": "Belém",
+      "destino": "Brasília",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "11/03/2024",
+      "origem": "Brasília",
+      "destino": "Belém",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "04/03/2024",
+      "origem": "Brasília",
+      "destino": "Rio Branco",
+      "custo": 104833,
+      "fds": false
+    },
+    {
+      "data": "04/03/2024",
+      "origem": "Rio Branco",
+      "destino": "Brasília",
+      "custo": 110500,
+      "fds": false
+    },
+    {
+      "data": "04/11/2023",
+      "origem": "Brasília",
+      "destino": "Cruzeiro Do Sul",
+      "custo": 130333,
+      "fds": true
+    },
+    {
+      "data": "04/11/2023",
+      "origem": "Cruzeiro Do Sul",
+      "destino": "Brasília",
+      "custo": 136000,
+      "fds": true
+    },
+    {
+      "data": "02/10/2023",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "02/10/2023",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Galeão)",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "18/08/2023",
+      "origem": "Brasília",
+      "destino": "Guanambi",
+      "custo": 31167,
+      "fds": false
+    },
+    {
+      "data": "17/08/2023",
+      "origem": "Goiânia",
+      "destino": "Brasília",
+      "custo": 14167,
+      "fds": false
+    },
+    {
+      "data": "11/08/2023",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "11/08/2023",
+      "origem": "Rio de Janeiro (Galeão)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "03/08/2023",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "03/08/2023",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Belém",
+      "custo": 121833,
+      "fds": false
+    },
+    {
+      "data": "22/07/2023",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 45333,
+      "fds": true
+    },
+    {
+      "data": "13/07/2023",
+      "origem": "Brasília",
+      "destino": "Manaus (Ponta Pelada)",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "13/07/2023",
+      "origem": "Manaus (Ponta Pelada)",
+      "destino": "Maturacá",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "13/07/2023",
+      "origem": "Maturacá",
+      "destino": "Manaus (Ponta Pelada)",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "13/07/2023",
+      "origem": "Manaus (Ponta Pelada)",
+      "destino": "Brasília",
+      "custo": 121833,
+      "fds": false
+    },
+    {
+      "data": "08/07/2023",
+      "origem": "Letícia (Colômbia)",
+      "destino": "Brasília",
+      "custo": 195500,
+      "fds": true
+    },
+    {
+      "data": "07/07/2023",
+      "origem": "Brasília",
+      "destino": "Letícia (Colômbia)",
+      "custo": 62333,
+      "fds": false
+    }
+  ]
+}

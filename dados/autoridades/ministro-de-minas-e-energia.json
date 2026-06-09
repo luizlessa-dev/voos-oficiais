@@ -1,0 +1,374 @@
+{
+  "autoridade": "Ministro de Minas e Energia",
+  "slug": "ministro-de-minas-e-energia",
+  "voos": 37,
+  "custo_estimado": 2652000,
+  "fds": 3,
+  "fds_pct": 8,
+  "noturnos": 3,
+  "internacionais": 7,
+  "a_disposicao": 0,
+  "bolsonaro": 4,
+  "lula": 33,
+  "top_destinos": [
+    {
+      "destino": "Brasília",
+      "n": 13
+    },
+    {
+      "destino": "Rio de Janeiro",
+      "n": 5
+    },
+    {
+      "destino": "São Paulo",
+      "n": 4
+    },
+    {
+      "destino": "Montes Claros",
+      "n": 2
+    },
+    {
+      "destino": "Assunção",
+      "n": 2
+    },
+    {
+      "destino": "Belém",
+      "n": 2
+    },
+    {
+      "destino": "Canoas",
+      "n": 1
+    },
+    {
+      "destino": "Boa Vista",
+      "n": 1
+    },
+    {
+      "destino": "Passo Fundo",
+      "n": 1
+    },
+    {
+      "destino": "Manaus",
+      "n": 1
+    }
+  ],
+  "timeline": [
+    {
+      "mes": "2021-09",
+      "n": 2
+    },
+    {
+      "mes": "2021-10",
+      "n": 2
+    },
+    {
+      "mes": "2024-05",
+      "n": 2
+    },
+    {
+      "mes": "2025-01",
+      "n": 1
+    },
+    {
+      "mes": "2025-02",
+      "n": 6
+    },
+    {
+      "mes": "2025-03",
+      "n": 2
+    },
+    {
+      "mes": "2025-04",
+      "n": 4
+    },
+    {
+      "mes": "2025-06",
+      "n": 2
+    },
+    {
+      "mes": "2025-09",
+      "n": 1
+    },
+    {
+      "mes": "2025-11",
+      "n": 3
+    },
+    {
+      "mes": "2025-12",
+      "n": 5
+    },
+    {
+      "mes": "2026-02",
+      "n": 3
+    },
+    {
+      "mes": "2026-03",
+      "n": 2
+    },
+    {
+      "mes": "2026-04",
+      "n": 2
+    }
+  ],
+  "voos_lista": [
+    {
+      "data": "24/04/2026",
+      "origem": "Brasília",
+      "destino": "Uberaba",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "08/04/2026",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "18/03/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "18/03/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "11/02/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "06/02/2026",
+      "origem": "Ipatinga",
+      "destino": "Belo Horizonte (Pampulha)",
+      "custo": 22667,
+      "fds": false
+    },
+    {
+      "data": "05/02/2026",
+      "origem": "Brasília",
+      "destino": "Ipatinga",
+      "custo": 42500,
+      "fds": false
+    },
+    {
+      "data": "08/12/2025",
+      "origem": "Cali (Colômbia)",
+      "destino": "Brasília",
+      "custo": 255000,
+      "fds": false
+    },
+    {
+      "data": "07/12/2025",
+      "origem": "Havana (Cuba)",
+      "destino": "Cali (Colômbia)",
+      "custo": 113333,
+      "fds": true
+    },
+    {
+      "data": "05/12/2025",
+      "origem": "São Paulo (Guarulhos)",
+      "destino": "Manaus (Eduardo Gomes)",
+      "custo": 90667,
+      "fds": false
+    },
+    {
+      "data": "05/12/2025",
+      "origem": "Manaus (Eduardo Gomes)",
+      "destino": "Havana (Cuba)",
+      "custo": 147333,
+      "fds": false
+    },
+    {
+      "data": "02/12/2025",
+      "origem": "Recife",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "12/11/2025",
+      "origem": "Belém",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "11/11/2025",
+      "origem": "Brasília",
+      "destino": "Belém",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "06/11/2025",
+      "origem": "Brasília",
+      "destino": "Belém",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "25/09/2025",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "20/06/2025",
+      "origem": "Assunção (Paraguai)",
+      "destino": "Brasília",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "19/06/2025",
+      "origem": "Brasília",
+      "destino": "Assunção (Paraguai)",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "17/04/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "15/04/2025",
+      "origem": "Brasília",
+      "destino": "Passo Fundo",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "15/04/2025",
+      "origem": "Passo Fundo",
+      "destino": "Brasília",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "09/04/2025",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "21/03/2025",
+      "origem": "Brasília",
+      "destino": "Boa Vista",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "21/03/2025",
+      "origem": "Boa Vista",
+      "destino": "Brasília",
+      "custo": 153000,
+      "fds": false
+    },
+    {
+      "data": "25/02/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "25/02/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "21/02/2025",
+      "origem": "Assunção (Paraguai)",
+      "destino": "Brasília",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "20/02/2025",
+      "origem": "Brasília",
+      "destino": "Assunção (Paraguai)",
+      "custo": 73667,
+      "fds": false
+    },
+    {
+      "data": "10/02/2025",
+      "origem": "Brasília",
+      "destino": "Montes Claros",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "10/02/2025",
+      "origem": "Montes Claros",
+      "destino": "Brasília",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "08/01/2025",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Galeão)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "28/05/2024",
+      "origem": "Brasília",
+      "destino": "Canoas",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "28/05/2024",
+      "origem": "Canoas",
+      "destino": "Brasília",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "07/10/2021",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "07/10/2021",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Galeão)",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "11/09/2021",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Montes Claros",
+      "custo": 34000,
+      "fds": true
+    },
+    {
+      "data": "11/09/2021",
+      "origem": "Montes Claros",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 34000,
+      "fds": true
+    }
+  ]
+}

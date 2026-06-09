@@ -1,0 +1,874 @@
+{
+  "autoridade": "À Disposição do Ministro da Defesa",
+  "slug": "a-disposicao-do-ministro-da-defesa",
+  "voos": 105,
+  "custo_estimado": 6100172,
+  "fds": 3,
+  "fds_pct": 3,
+  "noturnos": 1,
+  "internacionais": 4,
+  "a_disposicao": 105,
+  "bolsonaro": 15,
+  "lula": 90,
+  "top_destinos": [
+    {
+      "destino": "Brasília",
+      "n": 51
+    },
+    {
+      "destino": "São Paulo",
+      "n": 29
+    },
+    {
+      "destino": "Rio de Janeiro",
+      "n": 6
+    },
+    {
+      "destino": "Belém",
+      "n": 3
+    },
+    {
+      "destino": "Recife",
+      "n": 2
+    },
+    {
+      "destino": "Novo Progresso",
+      "n": 2
+    },
+    {
+      "destino": "Porto Alegre",
+      "n": 2
+    },
+    {
+      "destino": "Bissau",
+      "n": 1
+    },
+    {
+      "destino": "Macapá",
+      "n": 1
+    },
+    {
+      "destino": "Porto Velho",
+      "n": 1
+    }
+  ],
+  "timeline": [
+    {
+      "mes": "2021-08",
+      "n": 6
+    },
+    {
+      "mes": "2021-09",
+      "n": 7
+    },
+    {
+      "mes": "2021-10",
+      "n": 2
+    },
+    {
+      "mes": "2024-10",
+      "n": 1
+    },
+    {
+      "mes": "2024-12",
+      "n": 3
+    },
+    {
+      "mes": "2025-02",
+      "n": 7
+    },
+    {
+      "mes": "2025-03",
+      "n": 9
+    },
+    {
+      "mes": "2025-04",
+      "n": 8
+    },
+    {
+      "mes": "2025-05",
+      "n": 4
+    },
+    {
+      "mes": "2025-06",
+      "n": 3
+    },
+    {
+      "mes": "2025-07",
+      "n": 2
+    },
+    {
+      "mes": "2025-08",
+      "n": 2
+    },
+    {
+      "mes": "2025-09",
+      "n": 4
+    },
+    {
+      "mes": "2025-10",
+      "n": 3
+    },
+    {
+      "mes": "2025-11",
+      "n": 9
+    },
+    {
+      "mes": "2025-12",
+      "n": 7
+    },
+    {
+      "mes": "2026-01",
+      "n": 5
+    },
+    {
+      "mes": "2026-02",
+      "n": 5
+    },
+    {
+      "mes": "2026-03",
+      "n": 7
+    },
+    {
+      "mes": "2026-04",
+      "n": 11
+    }
+  ],
+  "voos_lista": [
+    {
+      "data": "27/04/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "23/04/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "22/04/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "16/04/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "14/04/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "09/04/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "09/04/2026",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Galeão)",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "09/04/2026",
+      "origem": "Rio de Janeiro (Galeão)",
+      "destino": "São José Dos Campos",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "09/04/2026",
+      "origem": "São José Dos Campos",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "06/04/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "02/04/2026",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "26/03/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "26/03/2026",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Galeão)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "26/03/2026",
+      "origem": "Rio de Janeiro (Galeão)",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "23/03/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "19/03/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "09/03/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "03/03/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "26/02/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "23/02/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "19/02/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "18/02/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "11/02/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "31/01/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": true
+    },
+    {
+      "data": "28/01/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "26/01/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "19/01/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "15/01/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "19/12/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "15/12/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "11/12/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 65167,
+      "fds": false
+    },
+    {
+      "data": "09/12/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "04/12/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "02/12/2025",
+      "origem": "Florianópolis",
+      "destino": "Brasília",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "01/12/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Florianópolis",
+      "custo": 31167,
+      "fds": false
+    },
+    {
+      "data": "28/11/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "24/11/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "11/11/2025",
+      "origem": "Brasília",
+      "destino": "Belém",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "06/11/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "04/11/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "03/11/2025",
+      "origem": "São Luís",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "03/11/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "03/11/2025",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 39667,
+      "fds": false
+    },
+    {
+      "data": "02/11/2025",
+      "origem": "Brasília",
+      "destino": "São Luís",
+      "custo": 68000,
+      "fds": true
+    },
+    {
+      "data": "23/10/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "22/10/2025",
+      "origem": "Belém",
+      "destino": "Brasília",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "07/10/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "22/09/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "16/09/2025",
+      "origem": "Belém",
+      "destino": "Brasília",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "16/09/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "15/09/2025",
+      "origem": "Brasília",
+      "destino": "Belém",
+      "custo": 73667,
+      "fds": false
+    },
+    {
+      "data": "25/08/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "12/08/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "25/07/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "25/07/2025",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "26/06/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "24/06/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "16/06/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "21/05/2025",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "15/05/2025",
+      "origem": "Belém",
+      "destino": "Brasília",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "06/05/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "05/05/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "23/04/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "22/04/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "16/04/2025",
+      "origem": "Breves",
+      "destino": "Belém",
+      "custo": 39667,
+      "fds": false
+    },
+    {
+      "data": "15/04/2025",
+      "origem": "Belém",
+      "destino": "Breves",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "07/04/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "07/04/2025",
+      "origem": "Gurupi",
+      "destino": "Brasília",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "06/04/2025",
+      "origem": "Brasília",
+      "destino": "Gurupi",
+      "custo": 28333,
+      "fds": true
+    },
+    {
+      "data": "01/04/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "26/03/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "24/03/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "20/03/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "17/03/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "13/03/2025",
+      "origem": "Punta Arenas (Chile)",
+      "destino": "Porto Alegre",
+      "custo": 144500,
+      "fds": false
+    },
+    {
+      "data": "13/03/2025",
+      "origem": "Porto Alegre",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "11/03/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "10/03/2025",
+      "origem": "Brasília",
+      "destino": "Porto Alegre",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "10/03/2025",
+      "origem": "Porto Alegre",
+      "destino": "Punta Arenas (Chile)",
+      "custo": 170000,
+      "fds": false
+    },
+    {
+      "data": "26/02/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "25/02/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "20/02/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "18/02/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "13/02/2025",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "10/02/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "03/02/2025",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "19/12/2024",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "17/12/2024",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "10/12/2024",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "10/10/2024",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "01/10/2021",
+      "origem": "Brasília",
+      "destino": "Bonito",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "01/10/2021",
+      "origem": "Bonito",
+      "destino": "Brasília",
+      "custo": 90667,
+      "fds": false
+    },
+    {
+      "data": "30/09/2021",
+      "origem": "Porto Velho",
+      "destino": "Novo Progresso",
+      "custo": 107667,
+      "fds": false
+    },
+    {
+      "data": "30/09/2021",
+      "origem": "Novo Progresso",
+      "destino": "Brasília",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "29/09/2021",
+      "origem": "Brasília",
+      "destino": "Macapá",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "29/09/2021",
+      "origem": "Macapá",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "27/09/2021",
+      "origem": "Brasília",
+      "destino": "Novo Progresso",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "27/09/2021",
+      "origem": "Novo Progresso",
+      "destino": "Porto Velho",
+      "custo": 36833,
+      "fds": false
+    },
+    {
+      "data": "09/09/2021",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "27/08/2021",
+      "origem": "Rio de Janeiro (Galeão)",
+      "destino": "Recife",
+      "custo": 90667,
+      "fds": false
+    },
+    {
+      "data": "27/08/2021",
+      "origem": "Recife",
+      "destino": "Bissau (Guiné-Bissau)",
+      "custo": 249333,
+      "fds": false
+    },
+    {
+      "data": "26/08/2021",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "26/08/2021",
+      "origem": "São Paulo (Guarulhos)",
+      "destino": "Rio de Janeiro (Galeão)",
+      "custo": 22667,
+      "fds": false
+    },
+    {
+      "data": "23/08/2021",
+      "origem": "Bissau (Guiné-Bissau)",
+      "destino": "Recife",
+      "custo": 39667,
+      "fds": false
+    },
+    {
+      "data": "23/08/2021",
+      "origem": "Recife",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    }
+  ]
+}

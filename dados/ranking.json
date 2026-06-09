@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "gerado": "2026-06-08 19:18",
+    "gerado": "2026-06-08 23:13",
     "fonte": "GABAER/COMAER · Decreto 10.267/2020",
     "periodo": "2014–2026",
     "total_voos": 10012,
@@ -33,7 +33,8 @@
         }
       ],
       "bolsonaro": 403,
-      "lula": 423
+      "lula": 423,
+      "slug": "presidente-da-camara-dos-deputados"
     },
     {
       "autoridade": "Presidente do Supremo Tribunal Federal",
@@ -59,7 +60,8 @@
         }
       ],
       "bolsonaro": 197,
-      "lula": 312
+      "lula": 312,
+      "slug": "presidente-do-supremo-tribunal-federal"
     },
     {
       "autoridade": "Ministro da Educação",
@@ -85,7 +87,8 @@
         }
       ],
       "bolsonaro": 254,
-      "lula": 248
+      "lula": 248,
+      "slug": "ministro-da-educacao"
     },
     {
       "autoridade": "Ministro da Saúde",
@@ -111,7 +114,8 @@
         }
       ],
       "bolsonaro": 347,
-      "lula": 118
+      "lula": 118,
+      "slug": "ministro-da-saude"
     },
     {
       "autoridade": "Presidente do Congresso Nacional",
@@ -137,7 +141,8 @@
         }
       ],
       "bolsonaro": 243,
-      "lula": 219
+      "lula": 219,
+      "slug": "presidente-do-congresso-nacional"
     },
     {
       "autoridade": "Ministro da Defesa",
@@ -163,7 +168,8 @@
         }
       ],
       "bolsonaro": 193,
-      "lula": 194
+      "lula": 194,
+      "slug": "ministro-da-defesa"
     },
     {
       "autoridade": "Ministro da Justiça e Segurança Pública",
@@ -189,7 +195,8 @@
         }
       ],
       "bolsonaro": 102,
-      "lula": 276
+      "lula": 276,
+      "slug": "ministro-da-justica-e-seguranca-publica"
     },
     {
       "autoridade": "Ministro das Relações Exteriores",
@@ -215,7 +222,8 @@
         }
       ],
       "bolsonaro": 139,
-      "lula": 219
+      "lula": 219,
+      "slug": "ministro-das-relacoes-exteriores"
     },
     {
       "autoridade": "Ministro da Fazenda",
@@ -241,7 +249,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 305
+      "lula": 305,
+      "slug": "ministro-da-fazenda"
     },
     {
       "autoridade": "Ministro do Turismo",
@@ -267,7 +276,8 @@
         }
       ],
       "bolsonaro": 209,
-      "lula": 87
+      "lula": 87,
+      "slug": "ministro-do-turismo"
     },
     {
       "autoridade": "Ministro do Desenvolvimento Regional",
@@ -293,7 +303,8 @@
         }
       ],
       "bolsonaro": 277,
-      "lula": 0
+      "lula": 0,
+      "slug": "ministro-do-desenvolvimento-regional"
     },
     {
       "autoridade": "Ministro da Infraestrutura",
@@ -319,7 +330,8 @@
         }
       ],
       "bolsonaro": 253,
-      "lula": 0
+      "lula": 0,
+      "slug": "ministro-da-infraestrutura"
     },
     {
       "autoridade": "Comandante do Exército",
@@ -345,7 +357,8 @@
         }
       ],
       "bolsonaro": 163,
-      "lula": 89
+      "lula": 89,
+      "slug": "comandante-do-exercito"
     },
     {
       "autoridade": "Ministro das Comunicações",
@@ -371,7 +384,8 @@
         }
       ],
       "bolsonaro": 127,
-      "lula": 105
+      "lula": 105,
+      "slug": "ministro-das-comunicacoes"
     },
     {
       "autoridade": "Comandante da Marinha",
@@ -397,7 +411,8 @@
         }
       ],
       "bolsonaro": 179,
-      "lula": 31
+      "lula": 31,
+      "slug": "comandante-da-marinha"
     },
     {
       "autoridade": "Ministro da Cidadania",
@@ -423,7 +438,8 @@
         }
       ],
       "bolsonaro": 210,
-      "lula": 0
+      "lula": 0,
+      "slug": "ministro-da-cidadania"
     },
     {
       "autoridade": "Ministro de Portos e Aeroportos",
@@ -449,7 +465,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 210
+      "lula": 210,
+      "slug": "ministro-de-portos-e-aeroportos"
     },
     {
       "autoridade": "Ministro dos Transportes",
@@ -475,7 +492,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 207
+      "lula": 207,
+      "slug": "ministro-dos-transportes"
     },
     {
       "autoridade": "Ministro das Minas e Energia",
@@ -501,7 +519,8 @@
         }
       ],
       "bolsonaro": 94,
-      "lula": 94
+      "lula": 94,
+      "slug": "ministro-das-minas-e-energia"
     },
     {
       "autoridade": "À Disposição do Ministério da Defesa",
@@ -527,7 +546,8 @@
         }
       ],
       "bolsonaro": 6,
-      "lula": 169
+      "lula": 169,
+      "slug": "a-disposicao-do-ministerio-da-defesa"
     },
     {
       "autoridade": "Ministro Integração do Desenvolvimento Regional",
@@ -553,7 +573,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 155
+      "lula": 155,
+      "slug": "ministro-integracao-do-desenvolvimento-regional"
     },
     {
       "autoridade": "Ministro da Ciência, Tecnologia e Inovação",
@@ -579,7 +600,8 @@
         }
       ],
       "bolsonaro": 140,
-      "lula": 10
+      "lula": 10,
+      "slug": "ministro-da-ciencia-tecnologia-e-inovacao"
     },
     {
       "autoridade": "Ministro do Trabalho e Emprego",
@@ -605,7 +627,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 149
+      "lula": 149,
+      "slug": "ministro-do-trabalho-e-emprego"
     },
     {
       "autoridade": "Ministro da Casa Civil da Presidência da República",
@@ -631,7 +654,8 @@
         }
       ],
       "bolsonaro": 25,
-      "lula": 108
+      "lula": 108,
+      "slug": "ministro-da-casa-civil-da-presidencia-da-republica"
     },
     {
       "autoridade": "Ministro do Meio Ambiente",
@@ -657,7 +681,8 @@
         }
       ],
       "bolsonaro": 127,
-      "lula": 4
+      "lula": 4,
+      "slug": "ministro-do-meio-ambiente"
     },
     {
       "autoridade": "Comandante da Aeronáutica",
@@ -683,7 +708,8 @@
         }
       ],
       "bolsonaro": 113,
-      "lula": 16
+      "lula": 16,
+      "slug": "comandante-da-aeronautica"
     },
     {
       "autoridade": "Ministro da Secretaria-Geral da Presidência da República",
@@ -709,7 +735,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 123
+      "lula": 123,
+      "slug": "ministro-da-secretaria-geral-da-presidencia-da-republica"
     },
     {
       "autoridade": "Ministro da Advocacia Geral da União",
@@ -735,7 +762,8 @@
         }
       ],
       "bolsonaro": 30,
-      "lula": 90
+      "lula": 90,
+      "slug": "ministro-da-advocacia-geral-da-uniao"
     },
     {
       "autoridade": "Ministro das Cidades",
@@ -761,7 +789,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 119
+      "lula": 119,
+      "slug": "ministro-das-cidades"
     },
     {
       "autoridade": "Ministra da Mulher, da Família e dos Direitos Humanos",
@@ -787,7 +816,8 @@
         }
       ],
       "bolsonaro": 112,
-      "lula": 0
+      "lula": 0,
+      "slug": "ministra-da-mulher-da-familia-e-dos-direitos-humanos"
     },
     {
       "autoridade": "Ministro do Desenvolvimento e Assistência Social, Família e Combate à Fome",
@@ -813,7 +843,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 111
+      "lula": 111,
+      "slug": "ministro-do-desenvolvimento-e-assistencia-social-familia-e-combate-a-fome"
     },
     {
       "autoridade": "À Disposição do Ministro da Defesa",
@@ -839,7 +870,8 @@
         }
       ],
       "bolsonaro": 15,
-      "lula": 90
+      "lula": 90,
+      "slug": "a-disposicao-do-ministro-da-defesa"
     },
     {
       "autoridade": "Ministra da Saúde",
@@ -865,7 +897,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 95
+      "lula": 95,
+      "slug": "ministra-da-saude"
     },
     {
       "autoridade": "Ministro da Agricultura e Pecuária",
@@ -891,7 +924,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 91
+      "lula": 91,
+      "slug": "ministro-da-agricultura-e-pecuaria"
     },
     {
       "autoridade": "Ministra da Ciência, Tecnologia e Inovação",
@@ -917,7 +951,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 91
+      "lula": 91,
+      "slug": "ministra-da-ciencia-tecnologia-e-inovacao"
     },
     {
       "autoridade": "Ministro da Economia",
@@ -943,7 +978,8 @@
         }
       ],
       "bolsonaro": 90,
-      "lula": 0
+      "lula": 0,
+      "slug": "ministro-da-economia"
     },
     {
       "autoridade": "Ministro do Trabalho e Previdência",
@@ -969,7 +1005,8 @@
         }
       ],
       "bolsonaro": 80,
-      "lula": 0
+      "lula": 0,
+      "slug": "ministro-do-trabalho-e-previdencia"
     },
     {
       "autoridade": "Ministra dos Povos Indígenas",
@@ -995,7 +1032,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 77
+      "lula": 77,
+      "slug": "ministra-dos-povos-indigenas"
     },
     {
       "autoridade": "Ministra da Agricultura, Pecuária e Abastecimento",
@@ -1021,7 +1059,8 @@
         }
       ],
       "bolsonaro": 66,
-      "lula": 0
+      "lula": 0,
+      "slug": "ministra-da-agricultura-pecuaria-e-abastecimento"
     },
     {
       "autoridade": "Ministra do Planejamento e Orçamento",
@@ -1047,7 +1086,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 66
+      "lula": 66,
+      "slug": "ministra-do-planejamento-e-orcamento"
     },
     {
       "autoridade": "Secretário de Relações Institucionais da PR",
@@ -1073,7 +1113,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 63
+      "lula": 63,
+      "slug": "secretario-de-relacoes-institucionais-da-pr"
     },
     {
       "autoridade": "Ministro do Desenvolvimento Agrário",
@@ -1099,7 +1140,8 @@
         }
       ],
       "bolsonaro": 2,
-      "lula": 56
+      "lula": 56,
+      "slug": "ministro-do-desenvolvimento-agrario"
     },
     {
       "autoridade": "Ministra da Cultura",
@@ -1125,7 +1167,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 53
+      "lula": 53,
+      "slug": "ministra-da-cultura"
     },
     {
       "autoridade": "Ministra das Mulheres",
@@ -1151,7 +1194,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 53
+      "lula": 53,
+      "slug": "ministra-das-mulheres"
     },
     {
       "autoridade": "À disposição do Ministério da Defesa",
@@ -1177,7 +1221,8 @@
         }
       ],
       "bolsonaro": 32,
-      "lula": 15
+      "lula": 15,
+      "slug": "a-disposicao-do-ministerio-da-defesa"
     },
     {
       "autoridade": "Ministra do Meio Ambiente",
@@ -1203,7 +1248,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 45
+      "lula": 45,
+      "slug": "ministra-do-meio-ambiente"
     },
     {
       "autoridade": "Presidente  do Supremo Tribunal Federal",
@@ -1229,7 +1275,8 @@
         }
       ],
       "bolsonaro": 43,
-      "lula": 0
+      "lula": 0,
+      "slug": "presidente-do-supremo-tribunal-federal"
     },
     {
       "autoridade": "Ministra da Gestão e Inovação em Serviços Públicos",
@@ -1255,7 +1302,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 40
+      "lula": 40,
+      "slug": "ministra-da-gestao-e-inovacao-em-servicos-publicos"
     },
     {
       "autoridade": "Ministro de Minas e Energia",
@@ -1281,7 +1329,8 @@
         }
       ],
       "bolsonaro": 4,
-      "lula": 33
+      "lula": 33,
+      "slug": "ministro-de-minas-e-energia"
     },
     {
       "autoridade": "Ministra do Esporte",
@@ -1307,7 +1356,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 36
+      "lula": 36,
+      "slug": "ministra-do-esporte"
     },
     {
       "autoridade": "Ministro da Ciência,  Tecnologia e Inovação",
@@ -1333,7 +1383,8 @@
         }
       ],
       "bolsonaro": 34,
-      "lula": 0
+      "lula": 0,
+      "slug": "ministro-da-ciencia-tecnologia-e-inovacao"
     },
     {
       "autoridade": "Ministro do Esporte",
@@ -1359,7 +1410,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 33
+      "lula": 33,
+      "slug": "ministro-do-esporte"
     },
     {
       "autoridade": "Ministra da Igualdade Racial",
@@ -1385,7 +1437,8 @@
         }
       ],
       "bolsonaro": 2,
-      "lula": 29
+      "lula": 29,
+      "slug": "ministra-da-igualdade-racial"
     },
     {
       "autoridade": "Ministro dos Direitos Humanos e Cidadania",
@@ -1411,7 +1464,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 28
+      "lula": 28,
+      "slug": "ministro-dos-direitos-humanos-e-cidadania"
     },
     {
       "autoridade": "Ministro da Controladoria Geral da União",
@@ -1437,7 +1491,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 28
+      "lula": 28,
+      "slug": "ministro-da-controladoria-geral-da-uniao"
     },
     {
       "autoridade": "Ministra  da Mulher, da Família e dos Direitos Humanos",
@@ -1463,7 +1518,8 @@
         }
       ],
       "bolsonaro": 27,
-      "lula": 0
+      "lula": 0,
+      "slug": "ministra-da-mulher-da-familia-e-dos-direitos-humanos"
     },
     {
       "autoridade": "Secretário da Comunicação Social",
@@ -1489,7 +1545,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 26
+      "lula": 26,
+      "slug": "secretario-da-comunicacao-social"
     },
     {
       "autoridade": "Chefe do Estado-Maior Conjunto das Forças Armadas",
@@ -1515,7 +1572,8 @@
         }
       ],
       "bolsonaro": 20,
-      "lula": 4
+      "lula": 4,
+      "slug": "chefe-do-estado-maior-conjunto-das-forcas-armadas"
     },
     {
       "autoridade": "Ministro da Ciência, Tecnologia, Inovações e Comunicações",
@@ -1541,7 +1599,8 @@
         }
       ],
       "bolsonaro": 23,
-      "lula": 0
+      "lula": 0,
+      "slug": "ministro-da-ciencia-tecnologia-inovacoes-e-comunicacoes"
     },
     {
       "autoridade": "Ministra da Mulher, da Família e dos Direitos Humanos.",
@@ -1567,7 +1626,8 @@
         }
       ],
       "bolsonaro": 16,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Secretário Extraordinário da Presidência da República",
@@ -1589,7 +1649,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 16
+      "lula": 16,
+      "slug": null
     },
     {
       "autoridade": "À Disposição do Ministro da Defesa (Compartilhado com o Ministro da Fazenda)",
@@ -1615,7 +1676,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 14
+      "lula": 14,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Congresso Nacional (Em exercício)",
@@ -1641,7 +1703,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 12
+      "lula": 12,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Fazenda (Compartilhado com À Disposição do Ministro da Defesa)",
@@ -1667,7 +1730,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 12
+      "lula": 12,
+      "slug": null
     },
     {
       "autoridade": "Ministro-Chefe da Casa Civil da Presidência da República (Interino)",
@@ -1693,7 +1757,8 @@
         }
       ],
       "bolsonaro": 9,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Ministro do Gabinete de Segurança Institucional da Presidência da República",
@@ -1719,7 +1784,8 @@
         }
       ],
       "bolsonaro": 2,
-      "lula": 7
+      "lula": 7,
+      "slug": null
     },
     {
       "autoridade": "Presidente da Câmara dos Deputados (Em exercício)",
@@ -1745,7 +1811,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 9
+      "lula": 9,
+      "slug": null
     },
     {
       "autoridade": "Secretária de Relações Institucionais da Presidência da República",
@@ -1771,7 +1838,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 9
+      "lula": 9,
+      "slug": null
     },
     {
       "autoridade": "À disposição do Ministro da Defesa",
@@ -1797,7 +1865,8 @@
         }
       ],
       "bolsonaro": 4,
-      "lula": 4
+      "lula": 4,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Previdência Social",
@@ -1823,7 +1892,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 8
+      "lula": 8,
+      "slug": null
     },
     {
       "autoridade": "À disposição do(a) Ministério da Defesa",
@@ -1849,7 +1919,8 @@
         }
       ],
       "bolsonaro": 7,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Ministro-Chefe da Casa Civil da Presidência da República",
@@ -1875,7 +1946,8 @@
         }
       ],
       "bolsonaro": 7,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Ministro do meio Ambiente",
@@ -1901,7 +1973,8 @@
         }
       ],
       "bolsonaro": 7,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Ministra dos Direitos Humanos e Cidadania",
@@ -1927,7 +2000,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 7
+      "lula": 7,
+      "slug": null
     },
     {
       "autoridade": "À disposição do Comando da Aeronáutica",
@@ -1953,7 +2027,8 @@
         }
       ],
       "bolsonaro": 6,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Fazenda (Compartilhado com À Disposição do Ministério da Defesa)",
@@ -1971,7 +2046,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 6
+      "lula": 6,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com o Ministro da Fazenda)",
@@ -1993,7 +2069,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 6
+      "lula": 6,
+      "slug": null
     },
     {
       "autoridade": "Secretário da Comunicação Social da Presidência da República",
@@ -2019,7 +2096,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 6
+      "lula": 6,
+      "slug": null
     },
     {
       "autoridade": "à disposição do Ministro da Defesa",
@@ -2045,7 +2123,8 @@
         }
       ],
       "bolsonaro": 5,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Congresso Nacional (Em execício)",
@@ -2071,7 +2150,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 5
+      "lula": 5,
+      "slug": null
     },
     {
       "autoridade": "Ministro de Empreendedorismo, da Microempresa e da Empresa de  Pequeno Porte",
@@ -2097,7 +2177,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 5
+      "lula": 5,
+      "slug": null
     },
     {
       "autoridade": "Ministro de Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte",
@@ -2123,7 +2204,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 5
+      "lula": 5,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Fazenda (Compartilhado com o Ministro da Justiça e Segurança Pública)",
@@ -2145,7 +2227,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 5
+      "lula": 5,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Agricultura, Pecuária e Abastecimento",
@@ -2171,7 +2254,8 @@
         }
       ],
       "bolsonaro": 4,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Secretaria de Governo da Presidência da República",
@@ -2197,7 +2281,8 @@
         }
       ],
       "bolsonaro": 4,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Secretaria-Geral da Presidência da república",
@@ -2219,7 +2304,8 @@
         }
       ],
       "bolsonaro": 4,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Ministro dos Esportes",
@@ -2245,7 +2331,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 4
+      "lula": 4,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Congresso Nacional (Em Exercício)",
@@ -2267,7 +2354,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 4
+      "lula": 4,
+      "slug": null
     },
     {
       "autoridade": "Ministro-Chefe da Secretaria Geral da Presidência da República",
@@ -2293,7 +2381,8 @@
         }
       ],
       "bolsonaro": 3,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Supremo Tribunal Federal (Interino)",
@@ -2315,7 +2404,8 @@
         }
       ],
       "bolsonaro": 3,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Ministro do Estado-Maior Conjunto das Forças Armadas",
@@ -2341,7 +2431,8 @@
         }
       ],
       "bolsonaro": 3,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Congresso Nacional (Interino)",
@@ -2363,7 +2454,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 3
+      "lula": 3,
+      "slug": null
     },
     {
       "autoridade": "Ministro dos Trasportes",
@@ -2389,7 +2481,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 3
+      "lula": 3,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com o Ministro da Advocacia Geral da União)",
@@ -2407,7 +2500,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 3
+      "lula": 3,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Advocacia Geral da União (Compartilhado com o Ministro da Justiça e Segurança Pública)",
@@ -2425,7 +2519,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 3
+      "lula": 3,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Supremo Tribunal Federal (Compartilhado com o Ministro da Fazenda)",
@@ -2443,7 +2538,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 3
+      "lula": 3,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Fazenda (Compartilhado com o Presidente do Supremo Tribunal Federal)",
@@ -2465,7 +2561,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 3
+      "lula": 3,
+      "slug": null
     },
     {
       "autoridade": "Ministro-Chefe da Secretaria de Governo da Presidência da República",
@@ -2487,7 +2584,8 @@
         }
       ],
       "bolsonaro": 2,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Advocacia-Geral da União",
@@ -2509,7 +2607,8 @@
         }
       ],
       "bolsonaro": 2,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Advogado-Geral da União",
@@ -2531,7 +2630,8 @@
         }
       ],
       "bolsonaro": 2,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Secretaria-Geral da Presedência da República",
@@ -2553,7 +2653,8 @@
         }
       ],
       "bolsonaro": 2,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Senado Federal (Interino)",
@@ -2575,7 +2676,8 @@
         }
       ],
       "bolsonaro": 2,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Senado Federal(Interino)",
@@ -2597,7 +2699,8 @@
         }
       ],
       "bolsonaro": 2,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Ministra do Meio Ambiente e Mudança do Clima",
@@ -2619,7 +2722,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Comandande da Marinha",
@@ -2641,7 +2745,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Ministério da Agricultura e Pecuária",
@@ -2663,7 +2768,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
@@ -2685,7 +2791,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Secretário Geral da Presidência da República",
@@ -2707,7 +2814,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Ministra dos Povos Indígenas (Compatilhado com o Ministro da Secretaria-Geral da Presidência da República)",
@@ -2729,7 +2837,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Secretaria-Geral da Presidência da República (Compartilhado com a Ministra dos Povos Indígenas)",
@@ -2751,7 +2860,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Ministra da Gestão em Inovação de Serviços Público",
@@ -2773,7 +2883,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Ministro do Desenvolvimento Agrário",
@@ -2795,7 +2906,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "À Disposição do Ministério da Defesa (Compartilhado com o Ministro da Fazenda)",
@@ -2813,7 +2925,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "À Disposição do Ministério da Defesa (Compartilhado com o Ministério da Fazenda)",
@@ -2831,7 +2944,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Presidente da Câmara dos Deputados (Compatilhado com o Ministro do Turismo)",
@@ -2853,7 +2967,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Ministro do Turismo (Compartilhado com o Presidente do Congresso Nacional)",
@@ -2875,7 +2990,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Ministro do Turismo (Compartilhado com o Presidente do Câmara dos Deputados )",
@@ -2897,7 +3013,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Presidente da Câmara dos Deputados (Compartilhado com o Ministro da Saúde)",
@@ -2919,7 +3036,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Saúde (Compartilhado com o Presidente da Camara dos Deputados)",
@@ -2941,7 +3059,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Presidente da Câmara dos Deputados (Compartilhado com o Ministro da Fazenda)",
@@ -2963,7 +3082,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Ministro dos Transportes (Compartilhado com o Ministro da Justiça e Segurança Pública)",
@@ -2985,7 +3105,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Ministra do Desenvolvimento Agrário",
@@ -3007,7 +3128,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 2
+      "lula": 2,
+      "slug": null
     },
     {
       "autoridade": "Ministério da Saúde",
@@ -3025,7 +3147,8 @@
         }
       ],
       "bolsonaro": 1,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Presidente da Câmara dos Deputados/Presidente do Congresso Nacional",
@@ -3043,7 +3166,8 @@
         }
       ],
       "bolsonaro": 1,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Ministro do Desenvolvimento Regional/Ministro do Turismo",
@@ -3061,7 +3185,8 @@
         }
       ],
       "bolsonaro": 1,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Presidente  do Supremo Tribunal FederalPresidente do Congresso Nacional",
@@ -3079,7 +3204,8 @@
         }
       ],
       "bolsonaro": 1,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Ministro do Trabalho e da Previdência",
@@ -3097,7 +3223,8 @@
         }
       ],
       "bolsonaro": 1,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Advocacia Geral da União\nComandante da Marinha",
@@ -3115,7 +3242,8 @@
         }
       ],
       "bolsonaro": 1,
-      "lula": 0
+      "lula": 0,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Ciência, Tecnologia e InovaçãoSecretário de Relações Institucionais da PR",
@@ -3133,7 +3261,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Secretaria-Geral da Presidência da República",
@@ -3151,7 +3280,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministério da Defesa",
@@ -3169,7 +3299,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Supremo Tribunal Federa",
@@ -3187,7 +3318,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Congresso Nacional (em exercício)",
@@ -3205,7 +3337,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Minsitro da Educação",
@@ -3223,7 +3356,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministra das Mulheres (Compatilhado com o Ministério da Igualdade Racial)",
@@ -3241,7 +3375,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "À Disposição do Ministério da Defesa (Compartilhado com Ministro do Trabalho e Emprego e Comandante do Exército)",
@@ -3259,7 +3394,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro do Trabalho e Emprego (Compartilhado com À Disposição do Ministério da Defesa)",
@@ -3277,7 +3413,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministra da Ciência, Tecnologia e Inovações",
@@ -3295,7 +3432,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Secretário Relações Institucionais",
@@ -3313,7 +3451,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Cidade",
@@ -3331,7 +3470,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Justiça e Segurança Pública (compartilhado com o Ministro de Minas e Energia)",
@@ -3349,7 +3489,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro das Minas e Energia (compartilhado com o Ministério da Justiça e Segurança Pública)",
@@ -3367,7 +3508,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente da Câmara dos Deputados (compartilhado com o Ministro da Casa Civil)",
@@ -3385,7 +3527,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Casa Civil da Presidência da República (compartilhado com o Presidente da Câmara dos Deputados",
@@ -3403,7 +3546,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Defesa (compartilhado com a Ministra do Meio Ambiente e Comandante do Exército)",
@@ -3421,7 +3565,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministra do Meio Ambiente (compartilhado com o Ministro da Defesa)",
@@ -3439,7 +3584,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Comandante do Exército (compartilhado com o Ministro da Defesa)",
@@ -3457,7 +3603,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Defesa (Compartilhado com Comandante do Exército)",
@@ -3475,7 +3622,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Comandante do Exército (Compartilhado com Ministro da Defesa)",
@@ -3493,7 +3641,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministra das Mulheres(Compartilhado com a Ministra do Meio Ambiente e Ministro da Secretaria-Geral da Presidência da República)",
@@ -3511,7 +3660,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministra do Meio Ambiente (Compartilhado com a Ministra das Mulheres)",
@@ -3529,7 +3679,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Secretaria-Geral da Presidência da República (Compartilhado com a Ministra das Mulheres)",
@@ -3547,7 +3698,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Supremo Tribunal Federal (Compartilhado com a Ministra da Saúde)",
@@ -3565,7 +3717,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministra da Saúde (Compartilhado com Presidente do Supremo Tribunal Federal)",
@@ -3583,7 +3736,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Supremo Tribunal Federal (Compartilhado com Ministro dos Transportes)",
@@ -3601,7 +3755,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro dos Transportes ( Compartilhado com Presidente do Supremo Tribunal Federal)",
@@ -3619,7 +3774,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com Ministro da Fazenda)",
@@ -3637,7 +3793,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Fazenda (Compartilhado com Ministro da Justiça e Segurança Pública)",
@@ -3655,7 +3812,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "À Disposição do Ministério da Defesa (Compartilhado com o Presidente do Congresso Nacional)",
@@ -3673,7 +3831,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Congresso Nacional (Compartilhado com À Disposição do Ministério da Defesa)",
@@ -3691,7 +3850,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com Ministro do Trabalho e Emprego)",
@@ -3709,7 +3869,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro do Trabalho e Emprego (Compartilhado com Ministro da Justiça e Segurança Pública)",
@@ -3727,7 +3888,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Casa Civil",
@@ -3745,7 +3907,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "À Disposição do Ministério da Defesa(Compartilhado com Ministro da Fazenda)",
@@ -3763,7 +3926,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com a Ministra do Meio Ambiente)",
@@ -3781,7 +3945,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministra do Meio Ambiente (Compartilhado com o Ministro da Justiça e Segurança Pública)",
@@ -3799,7 +3964,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Integração e Desenvolvimento Regional",
@@ -3817,7 +3983,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Fazenda (Compartilhado com o Vice Presidente da República)",
@@ -3835,7 +4002,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Congresso Nacional (Compartilhado com Ministra da Gestão e Inovação em Serviços Públicos)",
@@ -3853,7 +4021,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com Ministro das Relações Exteriores)",
@@ -3871,7 +4040,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "À Disposição do Ministério da Defesa (Compartilhado com Ministro de Portos e Aeroportos)",
@@ -3889,7 +4059,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro das Relações Exteriores (Compartilhado com Ministro da Justiça e Segurança Pública)",
@@ -3907,7 +4078,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro de Portos e Aeroportos (Compartilhado com À Disposição do Ministério da Defesa)",
@@ -3925,7 +4097,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministra da Gestão e Inovação em Serviços Públicos (Compartilhado com Presidente do Congresso Nacional)",
@@ -3943,7 +4116,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "À Disposição do Ministro da Defesa(Compartilhado com Ministro da Fazenda)",
@@ -3961,7 +4135,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Fazenda(Compartilhado com à Disposição do Ministro da Defesa)",
@@ -3979,7 +4154,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Fazenda (Compartilhado com o Ministro da Justiça e Segurança Pública e À Disposição do Ministro da Defesa",
@@ -3997,7 +4173,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Fazenda (Compartilhado com o Presidente do Supremo Tribunal Federal e À Disposição do Ministro da Defesa)",
@@ -4015,7 +4192,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Supremo Tribunal Federal (Compartilhado com a Ministra dos Povos Indígenas)",
@@ -4033,7 +4211,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministra dos Povos Indígenas (Compartilhado com o Presidente do Supremo Tribunal Federal)",
@@ -4051,7 +4230,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Supremo Tribunal Federal (Compatilhado o Ministro da Fazenda)",
@@ -4069,7 +4249,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente da Câmara dos Deputados (Compartilhado com Ministro da Advogacia Geral da União)",
@@ -4087,7 +4268,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente da Câmara dos Deputados (Compartilhado com Ministra Gestão e Inovação em Serviços Públicos e Ministro da Advogacia Geral da União)",
@@ -4105,7 +4287,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Advocacia Geral da União (Compartilhado com o Presidente da Câmara dos Deputados)",
@@ -4123,7 +4306,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministra da Gestão e Inovação em Serviços Públicos (Compartilhado com o Presidente da Câmara dos Deputados e Ministro da Justiça e Segurança Pública)",
@@ -4141,7 +4325,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Supremo Tribunal Federal (Compartilhado com o Ministro da Educação)",
@@ -4159,7 +4344,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Educação (Compartilhado com o Presidente do Supremo Tribunal Federal)",
@@ -4177,7 +4363,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Congresso Nacional (Compartilhado com o Ministro do Turismo)",
@@ -4195,7 +4382,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Congresso Nacional Compartilhado com o Ministro do Turismo)",
@@ -4213,7 +4401,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Supremo Tribunal Federal (Voo compartilhado com o Ministro da Fazenda)",
@@ -4231,7 +4420,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Fazenda (Voo compartilhado com o Presidente do Supremo Tribunal Federal)",
@@ -4249,7 +4439,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Fazenda (Compartilhado com Presidente da Câmara dos Deputados e Ministro da Justiça e Segurança Pública)",
@@ -4267,7 +4458,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Fazenda (Compartilhado com À Disposição do Ministro da Defesa )",
@@ -4285,7 +4477,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro do Desenvolvimento e Assistência Social Família e Combate à Fome",
@@ -4303,7 +4496,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro do Trabalho e Emprego (Compartilhado com o Ministro da Justiça e Segurança Pública)",
@@ -4321,7 +4515,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com o Ministro do Trabalho e Emprego)",
@@ -4339,7 +4534,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministra dos Direitos Humanos e Cidadânia",
@@ -4357,7 +4553,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com o Ministro das Relações Exteriores)",
@@ -4375,7 +4572,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro das Relações Exteriores (Compartilhado com o Ministro da Justiça e Segurança Pública)",
@@ -4393,7 +4591,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com a Ministra da Gestão e Inovação em Serviços Públicos; a Ministra da Ciência, Tecnologia e Inovações; o Ministro do Desenvolvimento  Agrário; o Ministro das Cidades; a Ministra das Mulheres; a Ministra dos Direitos Humanos e Cidadânia; e o Ministro da Controladoria Geral da União)",
@@ -4411,7 +4610,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Fazenda (Compartilhado com o Presidente da Câmara dos Deputados)",
@@ -4429,7 +4629,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministra da Gestão e Inovação em Serviços Públicos (Compartilhado com o Ministro da Justiça e Segurança Pública)",
@@ -4447,7 +4648,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Congresso Nacional (Compartilhado com a Ministra da Igualdade Racial)",
@@ -4465,7 +4667,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministra da Igualdade Racial (Compartilhado com o Presidente do Congresso Nacional)",
@@ -4483,7 +4686,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Congresso Nacional (Compartilhado com o Ministro de Minas e Energia)",
@@ -4501,7 +4705,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro de Minas e Energia (Compartilhado com o Presidente do Congresso Nacional)",
@@ -4519,7 +4724,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Congresso Nacional (Compartilhado com o Ministro da Saúde)",
@@ -4537,7 +4743,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Saúde (Compartilhado com o Presidente do Congresso Nacional)",
@@ -4555,7 +4762,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com o Ministro dos Transportes e a\nMinistra do Planejamento e Orçamento)",
@@ -4573,7 +4781,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro da Justiça e Segurança Pública (Compartilhado com o Ministro dos Transportes e a\nMinistra da Gestão e Inovação em Serviços Públicos)",
@@ -4591,7 +4800,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Presidente do Congresso Nacional (Compartilhado com o Ministro Integração do Desenvolvimento Regional)",
@@ -4609,7 +4819,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro Integração do Desenvolvimento Regional (Compartilhado com o Presidente do Congresso Nacional)",
@@ -4627,7 +4838,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "À Disposição do Ministro da Defesa (Compartilhado com o Ministro do Trabalho e Emprego)",
@@ -4645,7 +4857,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     },
     {
       "autoridade": "Ministro do Trabalho e Emprego (Compartilhado com À Disposição do Ministro da Defesa)",
@@ -4663,7 +4876,8 @@
         }
       ],
       "bolsonaro": 0,
-      "lula": 1
+      "lula": 1,
+      "slug": null
     }
   ]
 }

@@ -1,0 +1,796 @@
+{
+  "autoridade": "Ministro da Agricultura e Pecuária",
+  "slug": "ministro-da-agricultura-e-pecuaria",
+  "voos": 91,
+  "custo_estimado": 4830832,
+  "fds": 14,
+  "fds_pct": 15,
+  "noturnos": 3,
+  "internacionais": 6,
+  "a_disposicao": 0,
+  "bolsonaro": 0,
+  "lula": 91,
+  "top_destinos": [
+    {
+      "destino": "Brasília",
+      "n": 35
+    },
+    {
+      "destino": "Cuiabá",
+      "n": 6
+    },
+    {
+      "destino": "Uberlândia",
+      "n": 3
+    },
+    {
+      "destino": "Sorriso",
+      "n": 3
+    },
+    {
+      "destino": "Canoas",
+      "n": 3
+    },
+    {
+      "destino": "Belém",
+      "n": 3
+    },
+    {
+      "destino": "Uberaba",
+      "n": 2
+    },
+    {
+      "destino": "Rio de Janeiro",
+      "n": 2
+    },
+    {
+      "destino": "Londrina",
+      "n": 2
+    },
+    {
+      "destino": "Passo Fundo",
+      "n": 2
+    }
+  ],
+  "timeline": [
+    {
+      "mes": "2023-02",
+      "n": 7
+    },
+    {
+      "mes": "2023-03",
+      "n": 5
+    },
+    {
+      "mes": "2023-04",
+      "n": 2
+    },
+    {
+      "mes": "2023-06",
+      "n": 4
+    },
+    {
+      "mes": "2023-07",
+      "n": 3
+    },
+    {
+      "mes": "2023-08",
+      "n": 4
+    },
+    {
+      "mes": "2023-09",
+      "n": 11
+    },
+    {
+      "mes": "2023-10",
+      "n": 2
+    },
+    {
+      "mes": "2023-11",
+      "n": 5
+    },
+    {
+      "mes": "2024-01",
+      "n": 2
+    },
+    {
+      "mes": "2024-02",
+      "n": 3
+    },
+    {
+      "mes": "2024-03",
+      "n": 4
+    },
+    {
+      "mes": "2024-04",
+      "n": 4
+    },
+    {
+      "mes": "2024-05",
+      "n": 4
+    },
+    {
+      "mes": "2024-06",
+      "n": 1
+    },
+    {
+      "mes": "2024-07",
+      "n": 8
+    },
+    {
+      "mes": "2024-09",
+      "n": 5
+    },
+    {
+      "mes": "2024-11",
+      "n": 4
+    },
+    {
+      "mes": "2025-02",
+      "n": 2
+    },
+    {
+      "mes": "2025-03",
+      "n": 2
+    },
+    {
+      "mes": "2025-04",
+      "n": 3
+    },
+    {
+      "mes": "2025-08",
+      "n": 1
+    },
+    {
+      "mes": "2025-09",
+      "n": 2
+    },
+    {
+      "mes": "2025-10",
+      "n": 1
+    },
+    {
+      "mes": "2025-11",
+      "n": 2
+    }
+  ],
+  "voos_lista": [
+    {
+      "data": "20/11/2025",
+      "origem": "Belém",
+      "destino": "Brasília",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "17/11/2025",
+      "origem": "Brasília",
+      "destino": "Belém",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "17/10/2025",
+      "origem": "Brasília",
+      "destino": "Maceió",
+      "custo": 73667,
+      "fds": false
+    },
+    {
+      "data": "24/09/2025",
+      "origem": "Brasília",
+      "destino": "Navegantes",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "24/09/2025",
+      "origem": "Navegantes",
+      "destino": "Brasília",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "15/08/2025",
+      "origem": "Brasília",
+      "destino": "Cáceres",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "24/04/2025",
+      "origem": "Brasília",
+      "destino": "Sinop",
+      "custo": 17000,
+      "fds": false
+    },
+    {
+      "data": "24/04/2025",
+      "origem": "Sinop",
+      "destino": "Sorriso",
+      "custo": 8500,
+      "fds": false
+    },
+    {
+      "data": "24/04/2025",
+      "origem": "Sorriso",
+      "destino": "Cuiabá",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "18/03/2025",
+      "origem": "Brasília",
+      "destino": "Belém",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "18/03/2025",
+      "origem": "Belém",
+      "destino": "Brasília",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "06/02/2025",
+      "origem": "Brasília",
+      "destino": "Punta del Este (Uruguai)",
+      "custo": 113333,
+      "fds": false
+    },
+    {
+      "data": "06/02/2025",
+      "origem": "Punta del Este (Uruguai)",
+      "destino": "Brasília",
+      "custo": 104833,
+      "fds": false
+    },
+    {
+      "data": "13/11/2024",
+      "origem": "Brasília",
+      "destino": "Petrolina",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "13/11/2024",
+      "origem": "Petrolina",
+      "destino": "Brasília",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "06/11/2024",
+      "origem": "Brasília",
+      "destino": "Punta del Este (Uruguai)",
+      "custo": 107667,
+      "fds": false
+    },
+    {
+      "data": "06/11/2024",
+      "origem": "Punta del Este (Uruguai)",
+      "destino": "Brasília",
+      "custo": 107667,
+      "fds": false
+    },
+    {
+      "data": "16/09/2024",
+      "origem": "Brasília",
+      "destino": "Ribeirão Preto",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "16/09/2024",
+      "origem": "Ribeirão Preto",
+      "destino": "Araraquara",
+      "custo": 11333,
+      "fds": false
+    },
+    {
+      "data": "16/09/2024",
+      "origem": "Araraquara",
+      "destino": "Brasília",
+      "custo": 36833,
+      "fds": false
+    },
+    {
+      "data": "03/09/2024",
+      "origem": "Fortaleza",
+      "destino": "Salvador",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "03/09/2024",
+      "origem": "Salvador",
+      "destino": "Brasília",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "25/07/2024",
+      "origem": "Brasília",
+      "destino": "Belém",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "25/07/2024",
+      "origem": "Belém",
+      "destino": "Brasília",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "18/07/2024",
+      "origem": "Brasília",
+      "destino": "Canoas",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "18/07/2024",
+      "origem": "Canoas",
+      "destino": "Brasília",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "07/07/2024",
+      "origem": "Brasília",
+      "destino": "Imperatriz",
+      "custo": 53833,
+      "fds": true
+    },
+    {
+      "data": "07/07/2024",
+      "origem": "Imperatriz",
+      "destino": "Brasília",
+      "custo": 59500,
+      "fds": true
+    },
+    {
+      "data": "05/07/2024",
+      "origem": "Brasília",
+      "destino": "Canoas",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "05/07/2024",
+      "origem": "Canoas",
+      "destino": "Brasília",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "21/06/2024",
+      "origem": "Cáceres",
+      "destino": "Cuiabá",
+      "custo": 14167,
+      "fds": false
+    },
+    {
+      "data": "17/05/2024",
+      "origem": "Brasília",
+      "destino": "Palmas",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "17/05/2024",
+      "origem": "Palmas",
+      "destino": "Brasília",
+      "custo": 36833,
+      "fds": false
+    },
+    {
+      "data": "13/05/2024",
+      "origem": "Brasília",
+      "destino": "Imperatriz",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "13/05/2024",
+      "origem": "Imperatriz",
+      "destino": "Brasília",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "28/04/2024",
+      "origem": "Brasília",
+      "destino": "Ribeirão Preto",
+      "custo": 36833,
+      "fds": true
+    },
+    {
+      "data": "28/04/2024",
+      "origem": "Ribeirão Preto",
+      "destino": "Brasília",
+      "custo": 34000,
+      "fds": true
+    },
+    {
+      "data": "27/04/2024",
+      "origem": "Uberaba",
+      "destino": "Brasília",
+      "custo": 25500,
+      "fds": true
+    },
+    {
+      "data": "26/04/2024",
+      "origem": "Brasília",
+      "destino": "Uberlândia",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "19/03/2024",
+      "origem": "Sorriso",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "18/03/2024",
+      "origem": "Brasília",
+      "destino": "Sorriso",
+      "custo": 14167,
+      "fds": false
+    },
+    {
+      "data": "04/03/2024",
+      "origem": "Brasília",
+      "destino": "Passo Fundo",
+      "custo": 73667,
+      "fds": false
+    },
+    {
+      "data": "04/03/2024",
+      "origem": "Passo Fundo",
+      "destino": "Brasília",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "08/02/2024",
+      "origem": "Brasília",
+      "destino": "Belo Horizonte (Pampulha)",
+      "custo": 36833,
+      "fds": false
+    },
+    {
+      "data": "07/02/2024",
+      "origem": "Brasília",
+      "destino": "Cascavel",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "07/02/2024",
+      "origem": "Cascavel",
+      "destino": "Brasília",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "26/01/2024",
+      "origem": "Brasília",
+      "destino": "Sinop",
+      "custo": 22667,
+      "fds": false
+    },
+    {
+      "data": "26/01/2024",
+      "origem": "Sinop",
+      "destino": "Cuiabá",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "24/11/2023",
+      "origem": "Brasília",
+      "destino": "Crateús",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "24/11/2023",
+      "origem": "Crateús",
+      "destino": "Teresina",
+      "custo": 17000,
+      "fds": false
+    },
+    {
+      "data": "24/11/2023",
+      "origem": "Teresina",
+      "destino": "Brasília",
+      "custo": 65167,
+      "fds": false
+    },
+    {
+      "data": "13/11/2023",
+      "origem": "Brasília",
+      "destino": "Maceió",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "13/11/2023",
+      "origem": "Maceió",
+      "destino": "Brasília",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "19/10/2023",
+      "origem": "Brasília",
+      "destino": "Foz do Iguaçu",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "19/10/2023",
+      "origem": "Foz do Iguaçu",
+      "destino": "Brasília",
+      "custo": 65167,
+      "fds": false
+    },
+    {
+      "data": "23/09/2023",
+      "origem": "Cuiabá",
+      "destino": "Rondonópolis",
+      "custo": 17000,
+      "fds": true
+    },
+    {
+      "data": "23/09/2023",
+      "origem": "Rondonópolis",
+      "destino": "Cuiabá",
+      "custo": 14167,
+      "fds": true
+    },
+    {
+      "data": "22/09/2023",
+      "origem": "Alta Floresta",
+      "destino": "Cuiabá",
+      "custo": 36833,
+      "fds": false
+    },
+    {
+      "data": "21/09/2023",
+      "origem": "Brasília",
+      "destino": "Barra Do Garças",
+      "custo": 31167,
+      "fds": false
+    },
+    {
+      "data": "21/09/2023",
+      "origem": "Barra Do Garças",
+      "destino": "Alta Floresta",
+      "custo": 5667,
+      "fds": false
+    },
+    {
+      "data": "18/09/2023",
+      "origem": "Brasília",
+      "destino": "Londrina",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "18/09/2023",
+      "origem": "Londrina",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "16/09/2023",
+      "origem": "Petrolina",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": true
+    },
+    {
+      "data": "15/09/2023",
+      "origem": "Brasília",
+      "destino": "Petrolina",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "14/09/2023",
+      "origem": "Brasília",
+      "destino": "Uberlândia",
+      "custo": 19833,
+      "fds": false
+    },
+    {
+      "data": "14/09/2023",
+      "origem": "Uberlândia",
+      "destino": "Brasília",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "31/08/2023",
+      "origem": "Brasília",
+      "destino": "Canoas",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "11/08/2023",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "08/08/2023",
+      "origem": "Curitiba",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "07/08/2023",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Curitiba",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "10/07/2023",
+      "origem": "Cuiabá",
+      "destino": "Sorriso",
+      "custo": 22667,
+      "fds": false
+    },
+    {
+      "data": "10/07/2023",
+      "origem": "Sorriso",
+      "destino": "Cuiabá",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "10/07/2023",
+      "origem": "Cuiabá",
+      "destino": "Brasília",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "29/06/2023",
+      "origem": "Brasília",
+      "destino": "Belo Horizonte (Pampulha)",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "29/06/2023",
+      "origem": "Belo Horizonte (Pampulha)",
+      "destino": "Brasília",
+      "custo": 42500,
+      "fds": false
+    },
+    {
+      "data": "01/06/2023",
+      "origem": "Brasília",
+      "destino": "Uberlândia",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "01/06/2023",
+      "origem": "Uberlândia",
+      "destino": "Brasília",
+      "custo": 22667,
+      "fds": false
+    },
+    {
+      "data": "27/04/2023",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "27/04/2023",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "16/03/2023",
+      "origem": "Montevideo (Uruguai)",
+      "destino": "Brasília",
+      "custo": 110500,
+      "fds": false
+    },
+    {
+      "data": "15/03/2023",
+      "origem": "Brasília",
+      "destino": "Buenos Aires (Argentina)",
+      "custo": 121833,
+      "fds": false
+    },
+    {
+      "data": "06/03/2023",
+      "origem": "Passo Fundo",
+      "destino": "Uberaba",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "06/03/2023",
+      "origem": "Uberaba",
+      "destino": "Brasília",
+      "custo": 31167,
+      "fds": false
+    },
+    {
+      "data": "05/03/2023",
+      "origem": "Brasília",
+      "destino": "Passo Fundo",
+      "custo": 73667,
+      "fds": true
+    },
+    {
+      "data": "25/02/2023",
+      "origem": "Brasília",
+      "destino": "Londrina",
+      "custo": 48167,
+      "fds": true
+    },
+    {
+      "data": "25/02/2023",
+      "origem": "Londrina",
+      "destino": "São José Dos Campos",
+      "custo": 34000,
+      "fds": true
+    },
+    {
+      "data": "25/02/2023",
+      "origem": "São José Dos Campos",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": true
+    },
+    {
+      "data": "06/02/2023",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "06/02/2023",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "04/02/2023",
+      "origem": "Brasília",
+      "destino": "Uberaba",
+      "custo": 28333,
+      "fds": true
+    },
+    {
+      "data": "04/02/2023",
+      "origem": "Uberaba",
+      "destino": "Brasília",
+      "custo": 28333,
+      "fds": true
+    }
+  ]
+}

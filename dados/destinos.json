@@ -1,0 +1,352 @@
+{
+  "_meta": {
+    "gerado": "2026-06-08 23:13",
+    "total_destinos_mapeados": 57,
+    "voos_sem_coordenada": 753,
+    "nota": "Voos nacionais agrupados por cidade-destino. Internacionais não entram no mapa do Brasil."
+  },
+  "destinos": [
+    {
+      "cidade": "Brasília",
+      "n": 3926,
+      "lat": -15.79,
+      "lng": -47.88
+    },
+    {
+      "cidade": "São Paulo",
+      "n": 1231,
+      "lat": -23.55,
+      "lng": -46.63
+    },
+    {
+      "cidade": "Rio de Janeiro",
+      "n": 812,
+      "lat": -22.91,
+      "lng": -43.17
+    },
+    {
+      "cidade": "Belo Horizonte",
+      "n": 217,
+      "lat": -19.92,
+      "lng": -43.94
+    },
+    {
+      "cidade": "Maceió",
+      "n": 213,
+      "lat": -9.67,
+      "lng": -35.74
+    },
+    {
+      "cidade": "Recife",
+      "n": 171,
+      "lat": -8.05,
+      "lng": -34.88
+    },
+    {
+      "cidade": "Belém",
+      "n": 164,
+      "lat": -1.46,
+      "lng": -48.5
+    },
+    {
+      "cidade": "Salvador",
+      "n": 143,
+      "lat": -12.97,
+      "lng": -38.51
+    },
+    {
+      "cidade": "Fortaleza",
+      "n": 124,
+      "lat": -3.73,
+      "lng": -38.52
+    },
+    {
+      "cidade": "João Pessoa",
+      "n": 120,
+      "lat": -7.12,
+      "lng": -34.86
+    },
+    {
+      "cidade": "Canoas",
+      "n": 107,
+      "lat": -29.92,
+      "lng": -51.18
+    },
+    {
+      "cidade": "Manaus",
+      "n": 106,
+      "lat": -3.12,
+      "lng": -60.02
+    },
+    {
+      "cidade": "São Luís",
+      "n": 92,
+      "lat": -2.53,
+      "lng": -44.3
+    },
+    {
+      "cidade": "Macapá",
+      "n": 88,
+      "lat": 0.03,
+      "lng": -51.07
+    },
+    {
+      "cidade": "Curitiba",
+      "n": 73,
+      "lat": -25.43,
+      "lng": -49.27
+    },
+    {
+      "cidade": "Natal",
+      "n": 70,
+      "lat": -5.79,
+      "lng": -35.21
+    },
+    {
+      "cidade": "Boa Vista",
+      "n": 66,
+      "lat": 2.82,
+      "lng": -60.67
+    },
+    {
+      "cidade": "Porto Alegre",
+      "n": 66,
+      "lat": -30.03,
+      "lng": -51.23
+    },
+    {
+      "cidade": "Foz do Iguaçu",
+      "n": 64,
+      "lat": -25.52,
+      "lng": -54.58
+    },
+    {
+      "cidade": "Campinas",
+      "n": 62,
+      "lat": -22.91,
+      "lng": -47.06
+    },
+    {
+      "cidade": "Campo Grande",
+      "n": 58,
+      "lat": -20.47,
+      "lng": -54.62
+    },
+    {
+      "cidade": "Teresina",
+      "n": 58,
+      "lat": -5.09,
+      "lng": -42.8
+    },
+    {
+      "cidade": "Florianópolis",
+      "n": 57,
+      "lat": -27.59,
+      "lng": -48.55
+    },
+    {
+      "cidade": "Vitória",
+      "n": 54,
+      "lat": -20.32,
+      "lng": -40.34
+    },
+    {
+      "cidade": "Goiânia",
+      "n": 53,
+      "lat": -16.69,
+      "lng": -49.26
+    },
+    {
+      "cidade": "Aracaju",
+      "n": 52,
+      "lat": -10.95,
+      "lng": -37.07
+    },
+    {
+      "cidade": "São José Dos Campos",
+      "n": 47,
+      "lat": -23.22,
+      "lng": -45.89
+    },
+    {
+      "cidade": "Cuiabá",
+      "n": 46,
+      "lat": -15.6,
+      "lng": -56.1
+    },
+    {
+      "cidade": "Petrolina",
+      "n": 43,
+      "lat": -9.39,
+      "lng": -40.5
+    },
+    {
+      "cidade": "Porto Velho",
+      "n": 40,
+      "lat": -8.76,
+      "lng": -63.9
+    },
+    {
+      "cidade": "Palmas",
+      "n": 37,
+      "lat": -10.18,
+      "lng": -48.33
+    },
+    {
+      "cidade": "Santarém",
+      "n": 29,
+      "lat": -2.44,
+      "lng": -54.71
+    },
+    {
+      "cidade": "Novo Progresso",
+      "n": 28,
+      "lat": -7.14,
+      "lng": -55.38
+    },
+    {
+      "cidade": "Santa Maria",
+      "n": 26,
+      "lat": -29.68,
+      "lng": -53.81
+    },
+    {
+      "cidade": "Uberlândia",
+      "n": 24,
+      "lat": -18.92,
+      "lng": -48.28
+    },
+    {
+      "cidade": "Londrina",
+      "n": 24,
+      "lat": -23.31,
+      "lng": -51.16
+    },
+    {
+      "cidade": "Rio Branco",
+      "n": 23,
+      "lat": -9.97,
+      "lng": -67.81
+    },
+    {
+      "cidade": "Ribeirão Preto",
+      "n": 22,
+      "lat": -21.18,
+      "lng": -47.81
+    },
+    {
+      "cidade": "Foz Do Iguaçu",
+      "n": 19,
+      "lat": -25.52,
+      "lng": -54.58
+    },
+    {
+      "cidade": "Campina Grande",
+      "n": 18,
+      "lat": -7.23,
+      "lng": -35.88
+    },
+    {
+      "cidade": "Juazeiro Do Norte",
+      "n": 16,
+      "lat": -7.21,
+      "lng": -39.31
+    },
+    {
+      "cidade": "Imperatriz",
+      "n": 16,
+      "lat": -5.53,
+      "lng": -47.49
+    },
+    {
+      "cidade": "Patos",
+      "n": 15,
+      "lat": -7.02,
+      "lng": -37.28
+    },
+    {
+      "cidade": "Sorocaba",
+      "n": 13,
+      "lat": -23.5,
+      "lng": -47.46
+    },
+    {
+      "cidade": "Varginha",
+      "n": 12,
+      "lat": -21.55,
+      "lng": -45.43
+    },
+    {
+      "cidade": "Bauru",
+      "n": 10,
+      "lat": -22.31,
+      "lng": -49.06
+    },
+    {
+      "cidade": "Pelotas",
+      "n": 10,
+      "lat": -31.77,
+      "lng": -52.34
+    },
+    {
+      "cidade": "Caruaru",
+      "n": 9,
+      "lat": -8.28,
+      "lng": -35.97
+    },
+    {
+      "cidade": "Jaguaruna",
+      "n": 8,
+      "lat": -28.61,
+      "lng": -49.02
+    },
+    {
+      "cidade": "Sinop",
+      "n": 7,
+      "lat": -11.86,
+      "lng": -55.5
+    },
+    {
+      "cidade": "Presidente Prudente",
+      "n": 7,
+      "lat": -22.13,
+      "lng": -51.39
+    },
+    {
+      "cidade": "Marabá",
+      "n": 6,
+      "lat": -5.37,
+      "lng": -49.13
+    },
+    {
+      "cidade": "Barreiras",
+      "n": 5,
+      "lat": -12.15,
+      "lng": -44.99
+    },
+    {
+      "cidade": "Dourados",
+      "n": 5,
+      "lat": -22.22,
+      "lng": -54.81
+    },
+    {
+      "cidade": "Araçatuba",
+      "n": 5,
+      "lat": -21.21,
+      "lng": -50.43
+    },
+    {
+      "cidade": "Serra Talhada",
+      "n": 3,
+      "lat": -7.99,
+      "lng": -38.3
+    },
+    {
+      "cidade": "Botucatu",
+      "n": 2,
+      "lat": -22.89,
+      "lng": -48.45
+    }
+  ]
+}

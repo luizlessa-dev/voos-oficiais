@@ -1,0 +1,268 @@
+{
+  "autoridade": "Ministra  da Mulher, da Família e dos Direitos Humanos",
+  "slug": "ministra-da-mulher-da-familia-e-dos-direitos-humanos",
+  "voos": 27,
+  "custo_estimado": 1646165,
+  "fds": 3,
+  "fds_pct": 11,
+  "noturnos": 0,
+  "internacionais": 0,
+  "a_disposicao": 0,
+  "bolsonaro": 27,
+  "lula": 0,
+  "top_destinos": [
+    {
+      "destino": "Brasília",
+      "n": 12
+    },
+    {
+      "destino": "Rio de Janeiro",
+      "n": 2
+    },
+    {
+      "destino": "Maringá",
+      "n": 1
+    },
+    {
+      "destino": "Feira De Santana",
+      "n": 1
+    },
+    {
+      "destino": "Campinas",
+      "n": 1
+    },
+    {
+      "destino": "Vitória",
+      "n": 1
+    },
+    {
+      "destino": "Manaus",
+      "n": 1
+    },
+    {
+      "destino": "Chapecó",
+      "n": 1
+    },
+    {
+      "destino": "Governador Valadares",
+      "n": 1
+    },
+    {
+      "destino": "Boa Vista",
+      "n": 1
+    }
+  ],
+  "timeline": [
+    {
+      "mes": "2021-04",
+      "n": 2
+    },
+    {
+      "mes": "2021-05",
+      "n": 13
+    },
+    {
+      "mes": "2021-06",
+      "n": 1
+    },
+    {
+      "mes": "2021-07",
+      "n": 4
+    },
+    {
+      "mes": "2021-08",
+      "n": 7
+    }
+  ],
+  "voos_lista": [
+    {
+      "data": "25/08/2021",
+      "origem": "Belém",
+      "destino": "Brasília",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "23/08/2021",
+      "origem": "Brasília",
+      "destino": "Belém",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "22/08/2021",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": true
+    },
+    {
+      "data": "21/08/2021",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": true
+    },
+    {
+      "data": "13/08/2021",
+      "origem": "Natal",
+      "destino": "Mossoró",
+      "custo": 19833,
+      "fds": false
+    },
+    {
+      "data": "13/08/2021",
+      "origem": "Mossoró",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "12/08/2021",
+      "origem": "Brasília",
+      "destino": "Natal",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "29/07/2021",
+      "origem": "Brasília",
+      "destino": "Montes Claros",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "29/07/2021",
+      "origem": "Montes Claros",
+      "destino": "Brasília",
+      "custo": 31167,
+      "fds": false
+    },
+    {
+      "data": "26/07/2021",
+      "origem": "Brasília",
+      "destino": "Boa Vista",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "26/07/2021",
+      "origem": "Boa Vista",
+      "destino": "Brasília",
+      "custo": 153000,
+      "fds": false
+    },
+    {
+      "data": "26/06/2021",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": true
+    },
+    {
+      "data": "26/05/2021",
+      "origem": "Brasília",
+      "destino": "Governador Valadares",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "26/05/2021",
+      "origem": "Governador Valadares",
+      "destino": "Brasília",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "21/05/2021",
+      "origem": "Brasília",
+      "destino": "Chapecó",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "21/05/2021",
+      "origem": "Chapecó",
+      "destino": "Brasília",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "20/05/2021",
+      "origem": "Brasília",
+      "destino": "Manaus (Ponta Pelada)",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "20/05/2021",
+      "origem": "Manaus (Ponta Pelada)",
+      "destino": "Brasília",
+      "custo": 121833,
+      "fds": false
+    },
+    {
+      "data": "18/05/2021",
+      "origem": "Brasília",
+      "destino": "Vitória",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "18/05/2021",
+      "origem": "Vitória",
+      "destino": "Rio de Janeiro (Galeão)",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "18/05/2021",
+      "origem": "Rio de Janeiro (Galeão)",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "13/05/2021",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Galeão)",
+      "custo": 42500,
+      "fds": false
+    },
+    {
+      "data": "13/05/2021",
+      "origem": "Rio de Janeiro (Galeão)",
+      "destino": "Campinas",
+      "custo": 31167,
+      "fds": false
+    },
+    {
+      "data": "10/05/2021",
+      "origem": "Brasília",
+      "destino": "Feira De Santana",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "10/05/2021",
+      "origem": "Feira De Santana",
+      "destino": "Brasília",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "21/04/2021",
+      "origem": "Brasília",
+      "destino": "Maringá",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "21/04/2021",
+      "origem": "Maringá",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    }
+  ]
+}

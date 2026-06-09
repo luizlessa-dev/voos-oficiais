@@ -1,0 +1,259 @@
+{
+  "autoridade": "Chefe do Estado-Maior Conjunto das Forças Armadas",
+  "slug": "chefe-do-estado-maior-conjunto-das-forcas-armadas",
+  "voos": 24,
+  "custo_estimado": 1768000,
+  "fds": 0,
+  "fds_pct": 0,
+  "noturnos": 0,
+  "internacionais": 0,
+  "a_disposicao": 0,
+  "bolsonaro": 20,
+  "lula": 4,
+  "top_destinos": [
+    {
+      "destino": "Brasília",
+      "n": 9
+    },
+    {
+      "destino": "Rio de Janeiro",
+      "n": 4
+    },
+    {
+      "destino": "Boa Vista",
+      "n": 3
+    },
+    {
+      "destino": "Belém",
+      "n": 2
+    },
+    {
+      "destino": "Corumbá",
+      "n": 1
+    },
+    {
+      "destino": "Foz Do Iguaçu",
+      "n": 1
+    },
+    {
+      "destino": "Oiapoque",
+      "n": 1
+    },
+    {
+      "destino": "Foz do Iguaçu",
+      "n": 1
+    },
+    {
+      "destino": "São José Dos Campos",
+      "n": 1
+    },
+    {
+      "destino": "Alto Alegre",
+      "n": 1
+    }
+  ],
+  "timeline": [
+    {
+      "mes": "2020-09",
+      "n": 3
+    },
+    {
+      "mes": "2020-10",
+      "n": 6
+    },
+    {
+      "mes": "2021-12",
+      "n": 1
+    },
+    {
+      "mes": "2022-03",
+      "n": 4
+    },
+    {
+      "mes": "2022-04",
+      "n": 2
+    },
+    {
+      "mes": "2022-05",
+      "n": 2
+    },
+    {
+      "mes": "2022-09",
+      "n": 2
+    },
+    {
+      "mes": "2023-01",
+      "n": 4
+    }
+  ],
+  "voos_lista": [
+    {
+      "data": "26/01/2023",
+      "origem": "Boa Vista",
+      "destino": "Alto Alegre",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "26/01/2023",
+      "origem": "Alto Alegre",
+      "destino": "Boa Vista",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "26/01/2023",
+      "origem": "Boa Vista",
+      "destino": "Brasília",
+      "custo": 158667,
+      "fds": false
+    },
+    {
+      "data": "25/01/2023",
+      "origem": "Brasília",
+      "destino": "Boa Vista",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "02/09/2022",
+      "origem": "Brasília",
+      "destino": "São José Dos Campos",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "02/09/2022",
+      "origem": "São José Dos Campos",
+      "destino": "Brasília",
+      "custo": 73667,
+      "fds": false
+    },
+    {
+      "data": "27/05/2022",
+      "origem": "Foz do Iguaçu",
+      "destino": "Brasília",
+      "custo": 96333,
+      "fds": false
+    },
+    {
+      "data": "25/05/2022",
+      "origem": "Brasília",
+      "destino": "Foz do Iguaçu",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "29/04/2022",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "29/04/2022",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 73667,
+      "fds": false
+    },
+    {
+      "data": "22/03/2022",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "22/03/2022",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "18/03/2022",
+      "origem": "Boa Vista",
+      "destino": "Brasília",
+      "custo": 153000,
+      "fds": false
+    },
+    {
+      "data": "17/03/2022",
+      "origem": "Brasília",
+      "destino": "Boa Vista",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "15/12/2021",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Galeão)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "30/10/2020",
+      "origem": "Belém",
+      "destino": "Brasília",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "29/10/2020",
+      "origem": "Belém",
+      "destino": "Oiapoque",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "29/10/2020",
+      "origem": "Oiapoque",
+      "destino": "Belém",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "28/10/2020",
+      "origem": "Brasília",
+      "destino": "Belém",
+      "custo": 73667,
+      "fds": false
+    },
+    {
+      "data": "08/10/2020",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "06/10/2020",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "17/09/2020",
+      "origem": "Foz Do Iguaçu",
+      "destino": "Brasília",
+      "custo": 65167,
+      "fds": false
+    },
+    {
+      "data": "16/09/2020",
+      "origem": "Corumbá",
+      "destino": "Foz Do Iguaçu",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "15/09/2020",
+      "origem": "Brasília",
+      "destino": "Corumbá",
+      "custo": 28333,
+      "fds": false
+    }
+  ]
+}

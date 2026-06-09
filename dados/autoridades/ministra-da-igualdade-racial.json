@@ -1,0 +1,332 @@
+{
+  "autoridade": "Ministra da Igualdade Racial",
+  "slug": "ministra-da-igualdade-racial",
+  "voos": 31,
+  "custo_estimado": 1847335,
+  "fds": 5,
+  "fds_pct": 16,
+  "noturnos": 2,
+  "internacionais": 0,
+  "a_disposicao": 0,
+  "bolsonaro": 2,
+  "lula": 29,
+  "top_destinos": [
+    {
+      "destino": "Brasília",
+      "n": 15
+    },
+    {
+      "destino": "Rio de Janeiro",
+      "n": 6
+    },
+    {
+      "destino": "São Paulo",
+      "n": 2
+    },
+    {
+      "destino": "Alcântara",
+      "n": 2
+    },
+    {
+      "destino": "São Luís",
+      "n": 1
+    },
+    {
+      "destino": "Belém",
+      "n": 1
+    },
+    {
+      "destino": "Canoas",
+      "n": 1
+    },
+    {
+      "destino": "Recife",
+      "n": 1
+    },
+    {
+      "destino": "Maceió",
+      "n": 1
+    },
+    {
+      "destino": "Salvador",
+      "n": 1
+    }
+  ],
+  "timeline": [
+    {
+      "mes": "2014-02",
+      "n": 2
+    },
+    {
+      "mes": "2023-02",
+      "n": 2
+    },
+    {
+      "mes": "2023-07",
+      "n": 2
+    },
+    {
+      "mes": "2023-08",
+      "n": 2
+    },
+    {
+      "mes": "2023-09",
+      "n": 2
+    },
+    {
+      "mes": "2023-12",
+      "n": 2
+    },
+    {
+      "mes": "2024-04",
+      "n": 2
+    },
+    {
+      "mes": "2024-06",
+      "n": 2
+    },
+    {
+      "mes": "2024-09",
+      "n": 1
+    },
+    {
+      "mes": "2025-07",
+      "n": 2
+    },
+    {
+      "mes": "2025-08",
+      "n": 7
+    },
+    {
+      "mes": "2025-10",
+      "n": 2
+    },
+    {
+      "mes": "2025-11",
+      "n": 1
+    },
+    {
+      "mes": "2026-03",
+      "n": 2
+    }
+  ],
+  "voos_lista": [
+    {
+      "data": "03/03/2026",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "03/03/2026",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "14/11/2025",
+      "origem": "Belém",
+      "destino": "Brasília",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "30/10/2025",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "30/10/2025",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "28/08/2025",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "28/08/2025",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "15/08/2025",
+      "origem": "Salvador",
+      "destino": "Brasília",
+      "custo": 65167,
+      "fds": false
+    },
+    {
+      "data": "13/08/2025",
+      "origem": "Maceió",
+      "destino": "Salvador",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "12/08/2025",
+      "origem": "Brasília",
+      "destino": "Recife",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "12/08/2025",
+      "origem": "Recife",
+      "destino": "Maceió",
+      "custo": 19833,
+      "fds": false
+    },
+    {
+      "data": "09/08/2025",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": true
+    },
+    {
+      "data": "24/07/2025",
+      "origem": "Montes Claros",
+      "destino": "Brasília",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "02/07/2025",
+      "origem": "Salvador",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 65167,
+      "fds": false
+    },
+    {
+      "data": "18/09/2024",
+      "origem": "Brasília",
+      "destino": "Alcântara",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "14/06/2024",
+      "origem": "Brasília",
+      "destino": "Canoas",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "14/06/2024",
+      "origem": "Canoas",
+      "destino": "Brasília",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "30/04/2024",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "30/04/2024",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "04/12/2023",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "04/12/2023",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "24/09/2023",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 56667,
+      "fds": true
+    },
+    {
+      "data": "24/09/2023",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": true
+    },
+    {
+      "data": "07/08/2023",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "04/08/2023",
+      "origem": "Brasília",
+      "destino": "Belém",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "31/07/2023",
+      "origem": "Brasília",
+      "destino": "São Luís",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "31/07/2023",
+      "origem": "São Luís",
+      "destino": "Brasília",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "25/02/2023",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": true
+    },
+    {
+      "data": "12/02/2023",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 59500,
+      "fds": true
+    },
+    {
+      "data": "26/02/2014",
+      "origem": "Brasília",
+      "destino": "Alcântara",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "26/02/2014",
+      "origem": "Alcântara",
+      "destino": "Brasília",
+      "custo": 73667,
+      "fds": false
+    }
+  ]
+}
