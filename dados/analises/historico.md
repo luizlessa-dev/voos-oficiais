@@ -1,6 +1,6 @@
 # Análise Histórica — Voos de Autoridades (GABAER)
 
-_Gerado em 2026-06-03 02:36 · Fonte: [FABdadosabertos/GABAER](https://github.com/FABdadosabertos/GABAER) · **10012 voos** de 2020 a 2026_
+_Gerado em 2026-06-09 00:37 · Fonte: [FABdadosabertos/GABAER](https://github.com/FABdadosabertos/GABAER) · **10012 voos** de 2020 a 2026_
 
 ## Total de voos por ano
 

@@ -1,0 +1,47 @@
+name: Radar FAB — RAB mensal (frota pública)
+
+# Atualiza mensalmente a frota de aeronaves de órgãos públicos (RAB/ANAC).
+# O CSV bruto (~22MB) não é commitado — só os derivados frotas_pub.{json,md}.
+
+on:
+  schedule:
+    # dia 3 de cada mês, 10:00 UTC (RAB costuma atualizar no início do mês)
+    - cron: "0 10 3 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+concurrency:
+  group: rab-mensal
+  cancel-in-progress: false
+
+jobs:
+  refresh-rab:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Mapear frotas públicas (baixa RAB + processa)
+        run: python ingestao/mapear_frotas_pub.py
+
+      - name: Commitar se mudou
+        run: |
+          git config user.name  "rab-watch[bot]"
+          git config user.email "rab-watch@users.noreply.github.com"
+          git add dados/frotas_pub.json dados/analises/frotas_pub.md
+          if git diff --cached --quiet; then
+            echo "Frota pública idêntica — nada a commitar."
+          else
+            git commit -m "rab: atualização mensal da frota pública $(date -u +%Y-%m-%d)"
+            git push
+          fi

@@ -77,12 +77,20 @@ jobs:
             python analise/analisar_mes.py "dados/snapshots/$a"
           done
 
+      - name: Regenerar dados derivados (histórico, ranking, destinos, comitiva)
+        if: steps.ingestao.outputs.tem_novos == 'true'
+        run: |
+          echo "Histórico..." && python analise/analisar_historico.py
+          echo "Ranking + destinos + autoridades..." && python analise/gerar_ranking.py
+          echo "Comitiva (reagrega portal_*.md existentes)..." && python analise/agregar_comitiva.py || echo "comitiva: sem portal_*.md, ok"
+
       - name: Commitar mudanças
         if: steps.ingestao.outputs.tem_novos == 'true'
         run: |
           git config user.name  "gabaer-watch[bot]"
           git config user.email "gabaer-watch@users.noreply.github.com"
-          git add dados/snapshots dados/analises dados/newsletter
+          git add dados/snapshots dados/analises dados/newsletter \
+                  dados/ranking.json dados/destinos.json dados/comitiva.json dados/autoridades
           if git diff --cached --quiet; then
             echo "Nada pra commitar (estado idêntico)."
           else
