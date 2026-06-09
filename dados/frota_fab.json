@@ -50,7 +50,9 @@
           "alcance_km": 4500,
           "entrada_servico": 2010,
           "custo_hora": "não divulgado",
-          "curiosidade": "Voa à frente do presidencial em algumas missões para reconhecimento de segurança. Já foi usado em repatriações de brasileiros (Faixa de Gaza). Batizados 'Bartolomeu de Gusmão' e 'Augusto Severo'."
+          "curiosidade": "Voa à frente do presidencial em algumas missões para reconhecimento de segurança. Já foi usado em repatriações de brasileiros (Faixa de Gaza). Batizados 'Bartolomeu de Gusmão' e 'Augusto Severo'.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/FAB%20VC-2.jpg",
+          "imagem_credito": "john.vergari · CC BY 2.0"
         },
         {
           "designacao": "VC-99C",
@@ -120,7 +122,9 @@
           "alcance_km": 2180,
           "entrada_servico": 2012,
           "custo_hora": "não divulgado (estimativa R$ 8–12k/h)",
-          "curiosidade": "O primeiro jato leve da Embraer. Serve à FAB tanto para transporte de autoridades quanto para treinamento de transição de pilotos."
+          "curiosidade": "O primeiro jato leve da Embraer. Serve à FAB tanto para transporte de autoridades quanto para treinamento de transição de pilotos.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Embraer%20Phenom%20100%20N316N%20FDK%20MD1.jpg",
+          "imagem_credito": "Acroterion · CC BY-SA 4.0 · modelo ilustrativo"
         },
         {
           "designacao": "VH-36",
@@ -133,7 +137,9 @@
           "alcance_km": 900,
           "entrada_servico": 2016,
           "custo_hora": "não divulgado",
-          "curiosidade": "Transporta o presidente em deslocamentos curtos (Palácio → aeroporto). Montado no Brasil pela Helibras em Itajubá (MG)."
+          "curiosidade": "Transporta o presidente em deslocamentos curtos (Palácio → aeroporto). Montado no Brasil pela Helibras em Itajubá (MG).",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Brazilian%20military%20helicopter%20VH-36%20Caracal%2C%202012.jpg",
+          "imagem_credito": "Min. da Defesa / José Carlos da Silva · CC BY 2.0"
         },
         {
           "designacao": "VH-35",
@@ -182,7 +188,9 @@
           "alcance_km": 4500,
           "entrada_servico": 2006,
           "custo_hora": "não divulgado",
-          "curiosidade": "A versão SC-105 é dedicada a busca e salvamento. Atua intensamente na Amazônia. A variante SC-105 leva bolhas de observação e equipamento de resgate para busca e salvamento (SAR)."
+          "curiosidade": "A versão SC-105 é dedicada a busca e salvamento. Atua intensamente na Amazônia. A variante SC-105 leva bolhas de observação e equipamento de resgate para busca e salvamento (SAR).",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/C-105%20Amazonas%20no%20Domingo%20A%C3%A9reo%20-%20panoramio.jpg",
+          "imagem_credito": "Marco Aurélio Esparz · CC BY-SA 3.0"
         },
         {
           "designacao": "C-98 Caravan",
@@ -208,7 +216,9 @@
           "alcance_km": 1750,
           "entrada_servico": 1991,
           "custo_hora": "não divulgado",
-          "curiosidade": "Versão militar do avião regional que projetou a Embraer no mercado mundial nos anos 1990."
+          "curiosidade": "Versão militar do avião regional que projetou a Embraer no mercado mundial nos anos 1990.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/2014%20C-97%20%28%20Embraer%20Emb.120%20%29%20Forca%20Aerea%20Brasileira%20%287321278880%29.jpg",
+          "imagem_credito": "Aeroprints.com · CC BY-SA 3.0"
         },
         {
           "designacao": "C-95 Bandeirante",
@@ -221,7 +231,9 @@
           "alcance_km": 1900,
           "entrada_servico": 1973,
           "custo_hora": "não divulgado",
-          "curiosidade": "O PRIMEIRO avião de transporte de sucesso da Embraer — foi a aeronave que projetou a empresa e a tornou uma potência aeronáutica. Em serviço há mais de 50 anos, em fase final de substituição."
+          "curiosidade": "O PRIMEIRO avião de transporte de sucesso da Embraer — foi a aeronave que projetou a empresa e a tornou uma potência aeronáutica. Em serviço há mais de 50 anos, em fase final de substituição.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/C-95%20Bandeirante%20%2814429978514%29.jpg",
+          "imagem_credito": "Rob Schleiffert · CC BY-SA 2.0"
         },
         {
           "designacao": "U-7 Seneca",
@@ -271,7 +283,9 @@
           "alcance_km": 1400,
           "entrada_servico": 1975,
           "custo_hora": "não divulgado",
-          "curiosidade": "Caça veterano de meio século que resiste — modernizado com aviônica de 4ª geração. Deve servir até a transição completa para o Gripen."
+          "curiosidade": "Caça veterano de meio século que resiste — modernizado com aviônica de 4ª geração. Deve servir até a transição completa para o Gripen.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Brazilian%20Air%20Force%20F-5M.jpg",
+          "imagem_credito": "FAB / Agência Brasil · CC BY 3.0 BR"
         },
         {
           "designacao": "A-29 Super Tucano",
@@ -300,7 +314,9 @@
           "alcance_km": 1800,
           "entrada_servico": 1989,
           "custo_hora": "não divulgado",
-          "curiosidade": "Único jato de ataque desenvolvido em parceria Brasil-Itália. Será desativado em 2027, encerrando uma era."
+          "curiosidade": "Único jato de ataque desenvolvido em parceria Brasil-Itália. Será desativado em 2027, encerrando uma era.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/AMX%20A1%20FAB%20SBCO%20%2837719353101%29.jpg",
+          "imagem_credito": "Rafael Luiz Canossa · CC BY-SA 2.0"
         }
       ]
     },
@@ -337,7 +353,9 @@
           "alcance_km": 8900,
           "entrada_servico": 2011,
           "custo_hora": "não divulgado",
-          "curiosidade": "Quadrimotor que vigia a 'Amazônia Azul' (mar territorial). Caça submarinos e fiscaliza a costa brasileira."
+          "curiosidade": "Quadrimotor que vigia a 'Amazônia Azul' (mar territorial). Caça submarinos e fiscaliza a costa brasileira.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Aeronave%20ORION%20%28P-3AM%29%20-%20For%C3%A7a%20A%C3%A9rea%20Brasileira%20%2852345199326%29.jpg",
+          "imagem_credito": "Silva Lopes / Agência Força Aérea · CC BY-SA 2.0"
         },
         {
           "designacao": "RQ-900",
@@ -351,7 +369,9 @@
           "autonomia_h": 30,
           "entrada_servico": 2019,
           "custo_hora": "não divulgado",
-          "curiosidade": "Drone israelense de longa duração — voa por mais de 30 horas seguidas. Usado na vigilância de fronteiras e em grandes eventos (Copa 2014, Olimpíadas 2016)."
+          "curiosidade": "Drone israelense de longa duração — voa por mais de 30 horas seguidas. Usado na vigilância de fronteiras e em grandes eventos (Copa 2014, Olimpíadas 2016).",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Elbit%20Hermes%20900.jpg",
+          "imagem_credito": "Tio Skill · CC BY-SA 4.0 · modelo ilustrativo"
         },
         {
           "designacao": "P-95 Bandeirulha",
@@ -364,7 +384,9 @@
           "alcance_km": 2900,
           "entrada_servico": 1978,
           "custo_hora": "não divulgado",
-          "curiosidade": "O 'primo patrulheiro' do Bandeirante, com um radar no nariz que lhe dá um focinho inconfundível. Guarda a costa brasileira desde os anos 1970."
+          "curiosidade": "O 'primo patrulheiro' do Bandeirante, com um radar no nariz que lhe dá um focinho inconfundível. Guarda a costa brasileira desde os anos 1970.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Bandeirulha%20%284891984977%29.jpg",
+          "imagem_credito": "André Gustavo Stumpf Filho · CC BY 2.0"
         },
         {
           "designacao": "P-99 / R-99",
@@ -442,7 +464,9 @@
           "alcance_km": null,
           "entrada_servico": 1971,
           "custo_hora": "não divulgado",
-          "curiosidade": "Um dos aviões MAIS ANTIGOS ainda em serviço na FAB — o primeiro avião que muitos cadetes da Academia da Força Aérea pilotam."
+          "curiosidade": "Um dos aviões MAIS ANTIGOS ainda em serviço na FAB — o primeiro avião que muitos cadetes da Academia da Força Aérea pilotam.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Domingo%20A%C3%A9reo%202009%20-%20Neiva%20T-25%20-%20Universal%20ao%20fundo%20um%20avi%C3%A3o%20da%20Esquadrilha%20da%20Fuma%C3%A7a%20-%20panoramio.jpg",
+          "imagem_credito": "Marco Aurélio Esparz · CC BY-SA 3.0"
         }
       ]
     },
@@ -479,7 +503,9 @@
           "alcance_km": 590,
           "entrada_servico": 2011,
           "custo_hora": "não divulgado",
-          "curiosidade": "Atua intensamente na Amazônia. A FAB anunciou em 2026 a compra de mais 11 unidades (~US$ 230 milhões). Um dos helicópteros militares mais conhecidos do mundo."
+          "curiosidade": "Atua intensamente na Amazônia. A FAB anunciou em 2026 a compra de mais 11 unidades (~US$ 230 milhões). Um dos helicópteros militares mais conhecidos do mundo.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Academia%20da%20For%C3%A7a%20A%C3%A9rea%20%28AFA%29%20em%20Pirassununga-SP.%20Helic%C3%B3ptero%20Sikorsky%20UH-60%20Black%20Hawk%20utilizado%20pela%20For%C3%A7a%20A%C3%A9rea%20Brasileira%20%28FAB%29.%20Este%20modelo%20de%20helic%C3%B3ptero%20-%20panoramio.jpg",
+          "imagem_credito": "Marco Aurélio Esparz · CC BY-SA 3.0"
         },
         {
           "designacao": "H-50 Esquilo",
@@ -492,7 +518,9 @@
           "alcance_km": 660,
           "entrada_servico": 1980,
           "custo_hora": "não divulgado",
-          "curiosidade": "Montado no Brasil pela Helibras. O 'cavalo de batalha' leve das asas rotativas da FAB."
+          "curiosidade": "Montado no Brasil pela Helibras. O 'cavalo de batalha' leve das asas rotativas da FAB.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Helic%C3%B3ptero%20AS350%20L1%20Esquilo%20da%20Avia%C3%A7%C3%A3o%20do%20Ex%C3%A9rcito%20%28AvEx%29%20chegando%20para%20o%20Arrai%C3%A1%20A%C3%A9reo%2C%20no%20Aeroclube%20de%20Bauru%2C%20que%20foi%20realizado%20no%20dia%20seguinte.%20-%20panoramio.jpg",
+          "imagem_credito": "Marco Aurélio Esparz · CC BY-SA 3.0"
         }
       ]
     },
@@ -546,7 +574,9 @@
           "alcance_km": 530,
           "entrada_servico": 2019,
           "custo_hora": "não divulgado",
-          "curiosidade": "Apelidado 'WildLynx' pelas tripulações. Modernizado com cabine de vidro e compatível com visão noturna. Lança torpedos das fragatas."
+          "curiosidade": "Apelidado 'WildLynx' pelas tripulações. Modernizado com cabine de vidro e compatível com visão noturna. Lança torpedos das fragatas.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/AH-11B%20Wild%20Lynx%20%2852937814846%29.jpg",
+          "imagem_credito": "Marinha do Brasil · CC BY-SA 2.0"
         },
         {
           "designacao": "UH-15 Super Cougar",
@@ -559,7 +589,9 @@
           "alcance_km": 900,
           "entrada_servico": 2010,
           "custo_hora": "não divulgado",
-          "curiosidade": "Principal helicóptero de transporte embarcado no NAM Atlântico. Mesma família (EC725) operada pela FAB e pelo Exército — fabricada no Brasil pela Helibras."
+          "curiosidade": "Principal helicóptero de transporte embarcado no NAM Atlântico. Mesma família (EC725) operada pela FAB e pelo Exército — fabricada no Brasil pela Helibras.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Marinha%20do%20Brasil%20-%20UH-15B%20Super%20Cougar%20%2852609027691%29.jpg",
+          "imagem_credito": "Marinha do Brasil · CC BY-SA 2.0"
         },
         {
           "designacao": "IH-18",
@@ -662,7 +694,9 @@
           "alcance_km": 800,
           "entrada_servico": 1989,
           "custo_hora": "não divulgado",
-          "curiosidade": "Batizado 'Pantera' no Brasil. Modernizado pela Helibras com aviônica nova. Treina pouso embarcado em embarcações na Amazônia."
+          "curiosidade": "Batizado 'Pantera' no Brasil. Modernizado pela Helibras com aviônica nova. Treina pouso embarcado em embarcações na Amazônia.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/HA-1%20Pantera%20of%20the%20Brazilian%20Army.%20Demo%20in%20the%20city%20center%20of%20Brasilia%20%2811091705124%29.jpg",
+          "imagem_credito": "Rob Schleiffert · CC BY-SA 2.0"
         },
         {
           "designacao": "HM-2A Black Hawk",
@@ -692,7 +726,9 @@
           "alcance_km": 900,
           "entrada_servico": 2011,
           "custo_hora": "não divulgado",
-          "curiosidade": "O maior helicóptero de transporte do Exército. Fabricado no Brasil pela Helibras dentro do programa H-XBR, compartilhado com FAB e Marinha."
+          "curiosidade": "O maior helicóptero de transporte do Exército. Fabricado no Brasil pela Helibras dentro do programa H-XBR, compartilhado com FAB e Marinha.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Airbus%20Helicopters%20EC725%20Super%20Cougar%20in%20Brazilian%20flight%20in%20recife%20bay.jpg",
+          "imagem_credito": "Wilfredor · CC BY-SA 4.0"
         },
         {
           "designacao": "Nauru 1000C",
@@ -766,7 +802,9 @@
           "alcance_km": 5600,
           "entrada_servico": 2018,
           "custo_hora": "não divulgado",
-          "curiosidade": "Voa a mais de 800 km/h aferindo os auxílios eletrônicos de navegação de todos os aeroportos do Brasil. É literalmente o avião que 'calibra' o espaço aéreo do país."
+          "curiosidade": "Voa a mais de 800 km/h aferindo os auxílios eletrônicos de navegação de todos os aeroportos do Brasil. É literalmente o avião que 'calibra' o espaço aéreo do país.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Embraer%20Legacy%20500%20%28G-TULI%29%20at%20Manchester%20Airport%2C%202020.jpg",
+          "imagem_credito": "Riik@mctr · CC BY-SA 2.0 · modelo ilustrativo"
         },
         {
           "designacao": "IU-93",
