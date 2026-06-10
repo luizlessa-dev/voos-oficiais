@@ -89,7 +89,9 @@
           "alcance_km": 3000,
           "entrada_servico": 2002,
           "custo_hora": "não divulgado",
-          "curiosidade": "Variantes mais antigas da família ERJ usadas para transporte de comandantes militares e autoridades de segundo escalão."
+          "curiosidade": "Variantes mais antigas da família ERJ usadas para transporte de comandantes militares e autoridades de segundo escalão.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/2550%20Embraer%20ERJ%20145%20%28%20VC-99A%20%29%20Forca%20Aerea%20Brasileira%20%288168913399%29.jpg",
+          "imagem_credito": "Aeroprints.com · CC BY-SA 3.0"
         },
         {
           "designacao": "KC-30",
@@ -203,7 +205,9 @@
           "alcance_km": 1700,
           "entrada_servico": 1985,
           "custo_hora": "não divulgado",
-          "curiosidade": "O 'cavalo de batalha' leve da Amazônia — pousa em pistas curtas de terra onde nada maior chega."
+          "curiosidade": "O 'cavalo de batalha' leve da Amazônia — pousa em pistas curtas de terra onde nada maior chega.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Entardecer%20na%20Academia%20da%20For%C3%A7a%20A%C3%A9rea%20%28AFA%29%20em%20Pirassununga%2C%20em%20destaque%20o%20avi%C3%A3o%20Cessna%20Grand%20Caravan%20C-98A.%20A%20FAB%20utiliza%20duas%20vers%C3%B5es%20do%20Caravan%2C%20o%20208A%20que%20n%C3%A3o%20tem%20o%20compartiment%20-%20panoramio.jpg",
+          "imagem_credito": "Marco Aurélio Esparz · CC BY-SA 3.0"
         },
         {
           "designacao": "C-97 Brasília",
@@ -246,7 +250,9 @@
           "alcance_km": 1300,
           "entrada_servico": 1975,
           "custo_hora": "não divulgado",
-          "curiosidade": "O bimotor leve que serviu de 'carro de passeio' da FAB por décadas em esquadrões mistos de transporte e ligação."
+          "curiosidade": "O bimotor leve que serviu de 'carro de passeio' da FAB por décadas em esquadrões mistos de transporte e ligação.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Emb810%20Brazil%20%2816559291830%29.jpg",
+          "imagem_credito": "Rob Schleiffert · CC BY-SA 2.0"
         }
       ]
     },
@@ -631,7 +637,9 @@
           "alcance_km": 660,
           "entrada_servico": 1984,
           "custo_hora": "não divulgado",
-          "curiosidade": "O 'burro de carga' embarcado da Marinha — monomotor que opera do convés de navios-patrulha e fragatas."
+          "curiosidade": "O 'burro de carga' embarcado da Marinha — monomotor que opera do convés de navios-patrulha e fragatas.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Aeronave%20Esquilo%20%28UH-12%29%20sobrevoando%20a%20Ilha%20da%20Trindade%20-%202022%20%2852551818497%29.jpg",
+          "imagem_credito": "Marinha do Brasil · CC BY-SA 2.0"
         },
         {
           "designacao": "UH-17",
@@ -644,7 +652,9 @@
           "alcance_km": 635,
           "entrada_servico": 2019,
           "custo_hora": "não divulgado",
-          "curiosidade": "Versão utilitária do H135 (o IH-18 é a de instrução). Faz desde evacuação médica até transporte de tropa. Substituiu o antigo Esquilo bimotor UH-13."
+          "curiosidade": "Versão utilitária do H135 (o IH-18 é a de instrução). Faz desde evacuação médica até transporte de tropa. Substituiu o antigo Esquilo bimotor UH-13.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Marinha%20do%20Brasil%20-%20Aeronave%20UH-17%20Bi-Turbina%20%2852609027816%29.jpg",
+          "imagem_credito": "Marinha do Brasil · CC BY-SA 2.0"
         },
         {
           "designacao": "AH-15B",
@@ -657,7 +667,9 @@
           "alcance_km": 900,
           "entrada_servico": 2011,
           "custo_hora": "não divulgado",
-          "curiosidade": "Variante armada do Super Cougar, do Projeto H-XBR. A última unidade foi entregue em dez/2025, reforçando a defesa da Amazônia Azul."
+          "curiosidade": "Variante armada do Super Cougar, do Projeto H-XBR. A última unidade foi entregue em dez/2025, reforçando a defesa da Amazônia Azul.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Luz%20noturna%20AH-15B%20-%20Super%20Cougar%20%2852678839064%29.jpg",
+          "imagem_credito": "Marinha do Brasil · CC BY-SA 2.0"
         }
       ]
     },
@@ -755,7 +767,9 @@
           "alcance_km": 590,
           "entrada_servico": 1997,
           "custo_hora": "não divulgado",
-          "curiosidade": "A frota ORIGINAL de Black Hawk do Exército (UH-60L), em serviço desde 1997. Sendo substituída pelos 12 novos UH-60M (HM-2A) até 2028."
+          "curiosidade": "A frota ORIGINAL de Black Hawk do Exército (UH-60L), em serviço desde 1997. Sendo substituída pelos 12 novos UH-60M (HM-2A) até 2028.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Brazilian%20military%20helicopter%20underway%2C%202012.jpg",
+          "imagem_credito": "Min. da Defesa / Tereza Sobreira · CC BY 2.0"
         },
         {
           "designacao": "VANTs táticos",
@@ -782,7 +796,9 @@
           "alcance_km": 600,
           "entrada_servico": 1999,
           "custo_hora": "não divulgado",
-          "curiosidade": "Helicóptero de transporte ainda ATIVO, mas em desativação — a substituição pelos 12 novos UH-60M só se completa em 2028."
+          "curiosidade": "Helicóptero de transporte ainda ATIVO, mas em desativação — a substituição pelos 12 novos UH-60M só se completa em 2028.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/2%C2%BA%20BAvEx%20%285540283759%29.jpg",
+          "imagem_credito": "André Gustavo Stumpf · CC BY 2.0"
         }
       ]
     },
