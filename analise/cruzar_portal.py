@@ -279,6 +279,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("csv")
     ap.add_argument("--key", default=os.environ.get("PORTAL_TRANSPARENCIA_API_KEY", ""))
+    ap.add_argument("--refazer", action="store_true", help="reprocessa meses já gerados")
     args = ap.parse_args()
 
     if not args.key:
@@ -300,10 +301,14 @@ def main() -> int:
         gerar_md(res, ano, mes)
         return 0
 
-    # Arquivo anual: itera os meses presentes nos dados
+    # Arquivo anual: itera os meses presentes nos dados (pula os já gerados)
     meses = sorted({v["decolagem"].month for v in voos})
     print(f"  arquivo anual — {len(meses)} meses com voos: {meses}", file=sys.stderr)
     for mes in meses:
+        alvo = ANALISES / f"portal_{ano:04d}-{mes:02d}.md"
+        if alvo.exists() and not args.refazer:
+            print(f"\n=== {ano}-{mes:02d} já existe — pulando (use --refazer pra forçar) ===", file=sys.stderr)
+            continue
         voos_mes = [v for v in voos if v["decolagem"].month == mes]
         print(f"\n=== {ano}-{mes:02d} ({len(voos_mes)} voos) ===", file=sys.stderr)
         res = cruzar(voos_mes, ano, mes, args.key)
