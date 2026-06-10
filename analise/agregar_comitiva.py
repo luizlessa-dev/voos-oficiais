@@ -84,10 +84,13 @@ def main() -> int:
         total_voos += len(lista)
         total_serv += sum(len(v["servidores"]) for v in lista)
 
+    meses_cobertos = sorted({v["mes"] for voos in saida.values() for v in voos})
+    cobertura = (f"{meses_cobertos[0]} a {meses_cobertos[-1]} (ministérios do Executivo)"
+                 if meses_cobertos else "—")
     out = {
         "_meta": {
             "fonte": "Portal da Transparência (SCDP) × GABAER",
-            "cobertura": "jan–abr/2026 (ministérios do Executivo)",
+            "cobertura": cobertura,
             "nota": "Servidores do mesmo órgão que viajaram ao destino do voo FAB "
                     "nas mesmas datas. NÃO prova que estavam na aeronave — ponto de "
                     "partida de apuração.",

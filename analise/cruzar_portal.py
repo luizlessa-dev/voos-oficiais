@@ -286,16 +286,28 @@ def main() -> int:
         return 1
 
     path = Path(args.csv)
-    nome = path.stem
-    _, ano_s, mes_s = nome.split("_")
-    ano, mes = int(ano_s), int(mes_s)
+    partes = path.stem.split("_")   # voos_2025_anual  ou  voos_2026_04
+    ano = int(partes[1])
+    anual = (len(partes) > 2 and partes[2] == "anual")
 
     print(f"Lendo {path.name}...", file=sys.stderr)
     voos = parse_csv(path)
     print(f"  {len(voos)} voos", file=sys.stderr)
 
-    res = cruzar(voos, ano, mes, args.key)
-    gerar_md(res, ano, mes)
+    if not anual:
+        mes = int(partes[2])
+        res = cruzar(voos, ano, mes, args.key)
+        gerar_md(res, ano, mes)
+        return 0
+
+    # Arquivo anual: itera os meses presentes nos dados
+    meses = sorted({v["decolagem"].month for v in voos})
+    print(f"  arquivo anual — {len(meses)} meses com voos: {meses}", file=sys.stderr)
+    for mes in meses:
+        voos_mes = [v for v in voos if v["decolagem"].month == mes]
+        print(f"\n=== {ano}-{mes:02d} ({len(voos_mes)} voos) ===", file=sys.stderr)
+        res = cruzar(voos_mes, ano, mes, args.key)
+        gerar_md(res, ano, mes)
     return 0
 
 
