@@ -1,7 +1,7 @@
 {
   "_meta": {
     "descricao": "Catálogo da frota aérea das Forças Armadas brasileiras (FAB, Marinha, Exército) em serviço ativo, 2026.",
-    "atualizado": "2026-06-08",
+    "atualizado": "2026-06-10",
     "fonte": "Pesquisa consolidada: fab.mil.br, Wikipédia, Poder Aéreo, Estratégia Militares, TCU TC 008.687/2024-2.",
     "avisos": [
       "Quantidades são aproximadas e voláteis (acidentes, modernizações, manutenção). Confirmar com a FAB antes de publicar número exato.",
@@ -154,7 +154,9 @@
           "alcance_km": 630,
           "entrada_servico": 2010,
           "custo_hora": "não divulgado",
-          "curiosidade": "Helicóptero executivo para transporte de autoridades em deslocamentos curtos."
+          "curiosidade": "Helicóptero executivo para transporte de autoridades em deslocamentos curtos.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Airbus%20Helicopters%20H135%20HB-ZUE.jpg",
+          "imagem_credito": "Chme82 · CC BY-SA 4.0"
         }
       ]
     },
@@ -406,7 +408,9 @@
           "autonomia_h": 8,
           "entrada_servico": 2002,
           "custo_hora": "não divulgado",
-          "curiosidade": "Eram os aviões-espião do SIVAM (sensoriamento da Amazônia). Em 2026, num giro de doutrina, estão sendo redesignados P-99 para virar patrulheiros do Atlântico, com novos sensores MX-15."
+          "curiosidade": "Eram os aviões-espião do SIVAM (sensoriamento da Amazônia). Em 2026, num giro de doutrina, estão sendo redesignados P-99 para virar patrulheiros do Atlântico, com novos sensores MX-15.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Embraer%20R-99%206750%20%289505743118%29.jpg",
+          "imagem_credito": "Alan Wilson · CC BY-SA 2.0"
         },
         {
           "designacao": "RQ-450",
@@ -420,7 +424,9 @@
           "autonomia_h": 17,
           "entrada_servico": 2011,
           "custo_hora": "não divulgado",
-          "curiosidade": "O irmão menor do RQ-900. Opera no Esquadrão Hórus, em Santa Maria (RS), desde 2011."
+          "curiosidade": "O irmão menor do RQ-900. Opera no Esquadrão Hórus, em Santa Maria (RS), desde 2011.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Vant%20Hermes%20450%20da%20FAB%20no%20aeroporto%20de%20C%C3%A1ceres%20%28MT%29%20%288101398607%29.jpg",
+          "imagem_credito": "Ministério da Defesa · CC BY 2.0"
         },
         {
           "designacao": "RQ-1150",
@@ -434,7 +440,9 @@
           "autonomia_h": 40,
           "entrada_servico": 2019,
           "custo_hora": "não divulgado",
-          "curiosidade": "Drone israelense de média altitude e longuíssima autonomia (até 40h). Parte da frota foi herdada da Polícia Federal. Voa no Esquadrão Orungan (Santa Cruz/RJ)."
+          "curiosidade": "Drone israelense de média altitude e longuíssima autonomia (até 40h). Parte da frota foi herdada da Polícia Federal. Voa no Esquadrão Orungan (Santa Cruz/RJ).",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/IAI%20Heron%201%20on%20the%20runway.JPEG",
+          "imagem_credito": "SSGT REYNALDO RAMON, USAF · Public domain"
         }
       ]
     },
@@ -610,7 +618,9 @@
           "alcance_km": 660,
           "entrada_servico": 2025,
           "custo_hora": "não divulgado",
-          "curiosidade": "Chegou em 2025 para aposentar o veterano Jet Ranger (IH-6B), em serviço desde os anos 1970. Primeira missão de treino em agosto de 2025."
+          "curiosidade": "Chegou em 2025 para aposentar o veterano Jet Ranger (IH-6B), em serviço desde os anos 1970. Primeira missão de treino em agosto de 2025.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Helic%C3%B3ptero%20Esquilo%20%2824654822592%29.jpg",
+          "imagem_credito": "Marinha do Brasil · CC BY-SA 2.0"
         },
         {
           "designacao": "ScanEagle",
@@ -624,7 +634,9 @@
           "autonomia_h": 20,
           "entrada_servico": 2022,
           "custo_hora": "não divulgado",
-          "curiosidade": "O drone embarcado da Marinha. Decola por catapulta e é recuperado por um gancho ('SkyHook') — sem precisar de pista. Voa mais de 20 horas estendendo o 'olho' da frota além do horizonte."
+          "curiosidade": "O drone embarcado da Marinha. Decola por catapulta e é recuperado por um gancho ('SkyHook') — sem precisar de pista. Voa mais de 20 horas estendendo o 'olho' da frota além do horizonte.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Insitu%20ScanEagle%20Launch.jpg",
+          "imagem_credito": "Insitu Inc · CC BY-SA 4.0"
         },
         {
           "designacao": "UH-12 Esquilo",
@@ -754,7 +766,9 @@
           "autonomia_h": 16,
           "entrada_servico": 2022,
           "custo_hora": "não divulgado",
-          "curiosidade": "Drone de reconhecimento de FABRICAÇÃO NACIONAL (XMobots, de São Carlos/SP). Representa o esforço de nacionalização de drones militares brasileiros."
+          "curiosidade": "Drone de reconhecimento de FABRICAÇÃO NACIONAL (XMobots, de São Carlos/SP). Representa o esforço de nacionalização de drones militares brasileiros.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Nauru%201000C%20A.jpg",
+          "imagem_credito": "Denistav · CC BY-SA 4.0"
         },
         {
           "designacao": "HM-2 Black Hawk (UH-60L)",
@@ -783,7 +797,9 @@
           "autonomia_h": 1,
           "entrada_servico": 2022,
           "custo_hora": "não divulgado",
-          "curiosidade": "Drones leves de reconhecimento de pelotão (quadricópteros DJI e classe Carcará), usados pela tropa para enxergar 'atrás da próxima colina'."
+          "curiosidade": "Drones leves de reconhecimento de pelotão (quadricópteros DJI e classe Carcará), usados pela tropa para enxergar 'atrás da próxima colina'.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/DJI%20Matrice%20300%20RTK.jpg",
+          "imagem_credito": "Gaelle1106 · CC BY-SA 4.0"
         },
         {
           "designacao": "HM-3 Cougar",
@@ -833,7 +849,9 @@
           "alcance_km": 5000,
           "entrada_servico": 2007,
           "custo_hora": "não divulgado",
-          "curiosidade": "Com o sistema UNIFIS 3000, monitora e valida em pleno voo os sinais de rádio que orientam os pousos por instrumentos. Junto com o IU-50, forma a frota do GEIV."
+          "curiosidade": "Com o sistema UNIFIS 3000, monitora e valida em pleno voo os sinais de rádio que orientam os pousos por instrumentos. Junto com o IU-50, forma a frota do GEIV.",
+          "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/FAB%20IU-93A%20%28Hawker%20800XP%29.jpg",
+          "imagem_credito": "Bento Mattos · CC BY-SA 4.0"
         }
       ]
     }
