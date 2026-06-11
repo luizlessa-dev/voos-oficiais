@@ -120,6 +120,8 @@ jobs:
           else
             data=$(date -u +"%Y-%m-%d")
             git commit -m "gabaer: ingestão automática ${data} (${{ steps.ingestao.outputs.qtd_novos }} CSV novos/atualizados)"
+            # main pode ter andado durante o run (push manual) — rebase antes
+            git pull --rebase origin main
             git push
           fi
 
