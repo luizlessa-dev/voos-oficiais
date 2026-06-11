@@ -1,10 +1,10 @@
 # Radar FAB
 
-Produto jornalístico do ecossistema **Transparência Federal** — monitoramento serial de voos de autoridades em aeronaves da Força Aérea Brasileira, com base de dados aberta e publicação mensal.
+Produto jornalístico do ecossistema **The BR Insider** (Lessa Labs Tecnologia Ltda.) — monitoramento serial de voos de autoridades em aeronaves da Força Aérea Brasileira, com base de dados aberta e publicação mensal.
 
-**URL pública:** `radar.transparenciafederal.org` (em construção)
+**URL pública:** `radar.thebrinsider.com` (em construção — subdomínio proposto, a confirmar antes de apontar DNS)
 
-> **Estado em 2026-05-23:** Esqueleto operacional completo. Dados de jan-abr/2026 + histórico 2020–2025 ingeridos, análise automática rodando, GitHub Actions validado, LAI protocolada (60141001093202654, prazo 15/06). Falta: esboçar edição zero pública + decidir repo standalone vs módulo `transparencia-v3`.
+> **Estado em 2026-06-10:** Esqueleto operacional completo. Histórico GABAER 2020–abr/2026 ingerido (10.012 voos), análises mensais + histórica geradas, cruzamento comitiva SCDP × GABAER cobrindo 2020-01–2026-04 (436 voos, 1.638 servidores co-viajantes, 15 autoridades — `dados/comitiva.json` e `dados/analises/portal_*.md`), 2 briefings de pauta prontos (Motta/PB e MEC volta ao mundo), 5 LAIs protocoladas (ver [`lai/protocolos.md`](lai/protocolos.md) — LAI 1 vence 15/06/2026). Falta: fechar edição zero pública + decidir repo standalone vs módulo `transparencia-v3`.
 
 ---
 
@@ -112,7 +112,8 @@ Exemplo: [`dados/analises/2026-04.md`](dados/analises/2026-04.md).
 - [x] Análises mensais (jan–abr/2026) e histórica geradas
 - [x] Lookup de autoridades (cargo → nome → período)
 - [x] Referência de custo por hora + dados TCU
-- [x] LAI enviada pelo Fala.BR — protocolo **60141001093202654**, prazo 15/06/2026 (ver [`lai/protocolos.md`](lai/protocolos.md))
+- [x] LAIs protocoladas: 5 pedidos ativos — antecipação do CSV (protocolo **60141001093202654**, prazo 15/06/2026), passageiros MEC, passageiros Defesa, custo/hora e agenda Motta (ver [`lai/protocolos.md`](lai/protocolos.md))
+- [x] Cruzamento comitiva SCDP × GABAER 2020–2026 (`dados/comitiva.json` + `dados/analises/portal_*.md`)
 - [ ] Decidir: repo próprio ou módulo do `transparencia-v3`?
 
 ## Decisões registradas
