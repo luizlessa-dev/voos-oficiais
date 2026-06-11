@@ -77,6 +77,30 @@ jobs:
             python analise/analisar_mes.py "dados/snapshots/$a"
           done
 
+      # Gera dados/analises/portal_AAAA-MM.md batendo na API do Portal da
+      # Transparência. Idempotente (anual pula meses já gerados; mensal
+      # regenera só o próprio mês). Falha de API/cota NÃO derruba o workflow:
+      # o agregar_comitiva.py seguinte reagrega o que existir.
+      - name: Cruzamento Portal da Transparência (comitiva)
+        if: steps.ingestao.outputs.tem_novos == 'true'
+        env:
+          PORTAL_TRANSPARENCIA_API_KEY: ${{ secrets.PORTAL_TRANSPARENCIA_API_KEY }}
+        run: |
+          if [ -z "$PORTAL_TRANSPARENCIA_API_KEY" ]; then
+            echo "::warning::secret PORTAL_TRANSPARENCIA_API_KEY ausente — pulando cruzamento"
+            exit 0
+          fi
+          IFS=',' read -ra ARQS <<< "${{ steps.ingestao.outputs.arquivos_lista }}"
+          for a in "${ARQS[@]}"; do
+            case "$a" in
+              voos_*.csv)
+                echo "Cruzando $a com o Portal..."
+                python analise/cruzar_portal.py "dados/snapshots/$a" \
+                  || echo "::warning::cruzamento de $a falhou (API fora/sem cota?) — seguindo sem ele"
+                ;;
+            esac
+          done
+
       - name: Regenerar dados derivados (histórico, ranking, destinos, comitiva)
         if: steps.ingestao.outputs.tem_novos == 'true'
         run: |
