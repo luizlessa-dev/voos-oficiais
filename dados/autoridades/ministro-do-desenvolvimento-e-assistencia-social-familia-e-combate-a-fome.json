@@ -1,19 +1,19 @@
 {
   "autoridade": "Ministro do Desenvolvimento e Assistência Social, Família e Combate à Fome",
   "slug": "ministro-do-desenvolvimento-e-assistencia-social-familia-e-combate-a-fome",
-  "voos": 111,
-  "custo_estimado": 7125831,
+  "voos": 117,
+  "custo_estimado": 7496997,
   "fds": 2,
   "fds_pct": 2,
   "noturnos": 4,
   "internacionais": 0,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 111,
+  "lula": 117,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 48
+      "n": 51
     },
     {
       "destino": "São Paulo",
@@ -28,11 +28,15 @@
       "n": 4
     },
     {
+      "destino": "Teresina",
+      "n": 4
+    },
+    {
       "destino": "João Pessoa",
       "n": 3
     },
     {
-      "destino": "Teresina",
+      "destino": "Macapá",
       "n": 3
     },
     {
@@ -42,10 +46,6 @@
     {
       "destino": "Belém",
       "n": 3
-    },
-    {
-      "destino": "Macapá",
-      "n": 2
     },
     {
       "destino": "São Luís",
@@ -176,9 +176,59 @@
     {
       "mes": "2026-03",
       "n": 2
+    },
+    {
+      "mes": "2026-06",
+      "n": 4
+    },
+    {
+      "mes": "2026-07",
+      "n": 2
     }
   ],
   "voos_lista": [
+    {
+      "data": "30/07/2026",
+      "origem": "Brasília",
+      "destino": "Teresina",
+      "custo": 65167,
+      "fds": false
+    },
+    {
+      "data": "22/07/2026",
+      "origem": "Teresina",
+      "destino": "Brasília",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "30/06/2026",
+      "origem": "Goiânia",
+      "destino": "Brasília",
+      "custo": 14167,
+      "fds": false
+    },
+    {
+      "data": "08/06/2026",
+      "origem": "Brasília",
+      "destino": "Oiapoque",
+      "custo": 104833,
+      "fds": false
+    },
+    {
+      "data": "08/06/2026",
+      "origem": "Oiapoque",
+      "destino": "Macapá",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "08/06/2026",
+      "origem": "Macapá",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": false
+    },
     {
       "data": "23/03/2026",
       "origem": "Natal (Parnamirim)",

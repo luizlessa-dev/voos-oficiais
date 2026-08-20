@@ -1,23 +1,23 @@
 {
   "autoridade": "Ministro do Trabalho e Emprego",
   "slug": "ministro-do-trabalho-e-emprego",
-  "voos": 149,
-  "custo_estimado": 7788834,
+  "voos": 162,
+  "custo_estimado": 8596333,
   "fds": 16,
-  "fds_pct": 11,
+  "fds_pct": 10,
   "noturnos": 5,
   "internacionais": 0,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 149,
+  "lula": 162,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 68
+      "n": 74
     },
     {
       "destino": "São Paulo",
-      "n": 35
+      "n": 37
     },
     {
       "destino": "Rio de Janeiro",
@@ -37,7 +37,11 @@
     },
     {
       "destino": "Belo Horizonte",
-      "n": 2
+      "n": 3
+    },
+    {
+      "destino": "Salvador",
+      "n": 3
     },
     {
       "destino": "Vitória",
@@ -45,10 +49,6 @@
     },
     {
       "destino": "São José Dos Campos",
-      "n": 2
-    },
-    {
-      "destino": "Salvador",
       "n": 2
     }
   ],
@@ -208,9 +208,112 @@
     {
       "mes": "2026-04",
       "n": 4
+    },
+    {
+      "mes": "2026-05",
+      "n": 7
+    },
+    {
+      "mes": "2026-06",
+      "n": 1
+    },
+    {
+      "mes": "2026-07",
+      "n": 5
     }
   ],
   "voos_lista": [
+    {
+      "data": "17/07/2026",
+      "origem": "Petrolina",
+      "destino": "Brasília",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "16/07/2026",
+      "origem": "Brasília",
+      "destino": "Maceió",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "16/07/2026",
+      "origem": "Maceió",
+      "destino": "Petrolina",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "03/07/2026",
+      "origem": "Brasília",
+      "destino": "Salvador",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "03/07/2026",
+      "origem": "Salvador",
+      "destino": "Brasília",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "23/06/2026",
+      "origem": "Palmas",
+      "destino": "Brasília",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "29/05/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "21/05/2026",
+      "origem": "Brasília",
+      "destino": "Belo Horizonte (Pampulha)",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "21/05/2026",
+      "origem": "Belo Horizonte (Pampulha)",
+      "destino": "Brasília",
+      "custo": 42500,
+      "fds": false
+    },
+    {
+      "data": "14/05/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "12/05/2026",
+      "origem": "Boa Vista",
+      "destino": "Brasília",
+      "custo": 144500,
+      "fds": false
+    },
+    {
+      "data": "11/05/2026",
+      "origem": "Brasília",
+      "destino": "Boa Vista",
+      "custo": 90667,
+      "fds": false
+    },
+    {
+      "data": "07/05/2026",
+      "origem": "João Pessoa",
+      "destino": "Brasília",
+      "custo": 90667,
+      "fds": false
+    },
     {
       "data": "17/04/2026",
       "origem": "Brasília",

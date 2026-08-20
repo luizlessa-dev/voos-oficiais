@@ -1,23 +1,23 @@
 {
   "autoridade": "Ministro da Justiça e Segurança Pública",
   "slug": "ministro-da-justica-e-seguranca-publica",
-  "voos": 378,
-  "custo_estimado": 21819505,
+  "voos": 382,
+  "custo_estimado": 22040505,
   "fds": 34,
   "fds_pct": 9,
   "noturnos": 5,
-  "internacionais": 18,
+  "internacionais": 20,
   "a_disposicao": 0,
   "bolsonaro": 102,
-  "lula": 276,
+  "lula": 280,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 153
+      "n": 154
     },
     {
       "destino": "São Paulo",
-      "n": 77
+      "n": 78
     },
     {
       "destino": "São Luís",
@@ -25,7 +25,7 @@
     },
     {
       "destino": "Rio de Janeiro",
-      "n": 24
+      "n": 25
     },
     {
       "destino": "Salvador",
@@ -308,9 +308,45 @@
     {
       "mes": "2026-04",
       "n": 2
+    },
+    {
+      "mes": "2026-05",
+      "n": 2
+    },
+    {
+      "mes": "2026-07",
+      "n": 2
     }
   ],
   "voos_lista": [
+    {
+      "data": "16/07/2026",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "15/07/2026",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "29/05/2026",
+      "origem": "Assunção (Paraguai)",
+      "destino": "Brasília",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "27/05/2026",
+      "origem": "Brasília",
+      "destino": "Assunção (Paraguai)",
+      "custo": 76500,
+      "fds": false
+    },
     {
       "data": "24/04/2026",
       "origem": "João Pessoa",

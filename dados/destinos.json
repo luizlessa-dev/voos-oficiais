@@ -1,70 +1,76 @@
 {
   "_meta": {
-    "gerado": "2026-06-11 03:05",
+    "gerado": "2026-08-20 16:07",
     "total_destinos_mapeados": 114,
-    "voos_sem_coordenada": 204,
+    "voos_sem_coordenada": 208,
     "nota": "Voos nacionais agrupados por cidade-destino. Internacionais não entram no mapa do Brasil."
   },
   "destinos": [
     {
       "cidade": "Brasília",
-      "n": 3926,
+      "n": 4059,
       "lat": -15.79,
       "lng": -47.88
     },
     {
       "cidade": "São Paulo",
-      "n": 1231,
+      "n": 1292,
       "lat": -23.55,
       "lng": -46.63
     },
     {
       "cidade": "Rio de Janeiro",
-      "n": 812,
+      "n": 824,
       "lat": -22.91,
       "lng": -43.17
     },
     {
       "cidade": "Belo Horizonte",
-      "n": 217,
+      "n": 221,
       "lat": -19.92,
       "lng": -43.94
     },
     {
       "cidade": "Maceió",
-      "n": 213,
+      "n": 214,
       "lat": -9.67,
       "lng": -35.74
     },
     {
       "cidade": "Recife",
-      "n": 171,
+      "n": 178,
       "lat": -8.05,
       "lng": -34.88
     },
     {
       "cidade": "Belém",
-      "n": 164,
+      "n": 165,
       "lat": -1.46,
       "lng": -48.5
     },
     {
       "cidade": "Salvador",
-      "n": 143,
+      "n": 147,
       "lat": -12.97,
       "lng": -38.51
     },
     {
+      "cidade": "João Pessoa",
+      "n": 129,
+      "lat": -7.12,
+      "lng": -34.86
+    },
+    {
       "cidade": "Fortaleza",
-      "n": 124,
+      "n": 128,
       "lat": -3.73,
       "lng": -38.52
     },
     {
-      "cidade": "João Pessoa",
-      "n": 120,
-      "lat": -7.12,
-      "lng": -34.86
+      "cidade": "Manaus",
+      "n": 110,
+      "lat": -3.12,
+      "lng": -60.02
     },
     {
       "cidade": "Canoas",
@@ -73,10 +79,10 @@
       "lng": -51.18
     },
     {
-      "cidade": "Manaus",
-      "n": 106,
-      "lat": -3.12,
-      "lng": -60.02
+      "cidade": "Macapá",
+      "n": 100,
+      "lat": 0.03,
+      "lng": -51.07
     },
     {
       "cidade": "São Luís",
@@ -85,38 +91,32 @@
       "lng": -44.3
     },
     {
-      "cidade": "Macapá",
-      "n": 88,
-      "lat": 0.03,
-      "lng": -51.07
-    },
-    {
       "cidade": "Curitiba",
       "n": 73,
       "lat": -25.43,
       "lng": -49.27
     },
     {
-      "cidade": "Natal",
-      "n": 70,
-      "lat": -5.79,
-      "lng": -35.21
-    },
-    {
       "cidade": "Boa Vista",
-      "n": 66,
+      "n": 71,
       "lat": 2.82,
       "lng": -60.67
     },
     {
+      "cidade": "Natal",
+      "n": 71,
+      "lat": -5.79,
+      "lng": -35.21
+    },
+    {
       "cidade": "Porto Alegre",
-      "n": 66,
+      "n": 70,
       "lat": -30.03,
       "lng": -51.23
     },
     {
       "cidade": "Foz do Iguaçu",
-      "n": 64,
+      "n": 65,
       "lat": -25.52,
       "lng": -54.58
     },
@@ -128,13 +128,13 @@
     },
     {
       "cidade": "Campo Grande",
-      "n": 58,
+      "n": 62,
       "lat": -20.47,
       "lng": -54.62
     },
     {
       "cidade": "Teresina",
-      "n": 58,
+      "n": 61,
       "lat": -5.09,
       "lng": -42.8
     },
@@ -152,43 +152,43 @@
     },
     {
       "cidade": "Goiânia",
-      "n": 53,
+      "n": 54,
       "lat": -16.69,
       "lng": -49.26
     },
     {
       "cidade": "Aracaju",
-      "n": 52,
+      "n": 53,
       "lat": -10.95,
       "lng": -37.07
     },
     {
       "cidade": "São José Dos Campos",
-      "n": 47,
+      "n": 50,
       "lat": -23.22,
       "lng": -45.89
     },
     {
       "cidade": "Cuiabá",
-      "n": 46,
+      "n": 48,
       "lat": -15.6,
       "lng": -56.1
     },
     {
       "cidade": "Petrolina",
-      "n": 43,
+      "n": 45,
       "lat": -9.39,
       "lng": -40.5
     },
     {
       "cidade": "Porto Velho",
-      "n": 40,
+      "n": 41,
       "lat": -8.76,
       "lng": -63.9
     },
     {
       "cidade": "Palmas",
-      "n": 37,
+      "n": 38,
       "lat": -10.18,
       "lng": -48.33
     },
@@ -206,21 +206,39 @@
     },
     {
       "cidade": "Navegantes",
-      "n": 27,
+      "n": 28,
       "lat": -26.9,
       "lng": -48.65
     },
     {
       "cidade": "Santa Maria",
-      "n": 26,
+      "n": 27,
       "lat": -29.68,
       "lng": -53.81
     },
     {
       "cidade": "Uberlândia",
-      "n": 24,
+      "n": 26,
       "lat": -18.92,
       "lng": -48.28
+    },
+    {
+      "cidade": "Rio Branco",
+      "n": 25,
+      "lat": -9.97,
+      "lng": -67.81
+    },
+    {
+      "cidade": "Ribeirão Preto",
+      "n": 24,
+      "lat": -21.18,
+      "lng": -47.81
+    },
+    {
+      "cidade": "Montes Claros",
+      "n": 24,
+      "lat": -16.73,
+      "lng": -43.86
     },
     {
       "cidade": "Londrina",
@@ -229,34 +247,22 @@
       "lng": -51.16
     },
     {
-      "cidade": "Rio Branco",
-      "n": 23,
-      "lat": -9.97,
-      "lng": -67.81
-    },
-    {
-      "cidade": "Ribeirão Preto",
-      "n": 22,
-      "lat": -21.18,
-      "lng": -47.81
-    },
-    {
-      "cidade": "Montes Claros",
-      "n": 22,
-      "lat": -16.73,
-      "lng": -43.86
-    },
-    {
       "cidade": "Guaratinguetá",
-      "n": 22,
+      "n": 23,
       "lat": -22.82,
       "lng": -45.19
     },
     {
       "cidade": "Mossoró",
-      "n": 22,
+      "n": 23,
       "lat": -5.19,
       "lng": -37.34
+    },
+    {
+      "cidade": "Caxias Do Sul",
+      "n": 20,
+      "lat": -29.17,
+      "lng": -51.18
     },
     {
       "cidade": "Foz Do Iguaçu",
@@ -271,28 +277,28 @@
       "lng": -46.53
     },
     {
-      "cidade": "Caxias Do Sul",
+      "cidade": "Juazeiro Do Norte",
       "n": 19,
-      "lat": -29.17,
-      "lng": -51.18
+      "lat": -7.21,
+      "lng": -39.31
+    },
+    {
+      "cidade": "Pirassununga",
+      "n": 18,
+      "lat": -21.99,
+      "lng": -47.43
+    },
+    {
+      "cidade": "Patos",
+      "n": 18,
+      "lat": -7.02,
+      "lng": -37.28
     },
     {
       "cidade": "Campina Grande",
       "n": 18,
       "lat": -7.23,
       "lng": -35.88
-    },
-    {
-      "cidade": "Pirassununga",
-      "n": 17,
-      "lat": -21.99,
-      "lng": -47.43
-    },
-    {
-      "cidade": "Juazeiro Do Norte",
-      "n": 16,
-      "lat": -7.21,
-      "lng": -39.31
     },
     {
       "cidade": "Paulo Afonso",
@@ -311,12 +317,6 @@
       "n": 16,
       "lat": -19.01,
       "lng": -57.65
-    },
-    {
-      "cidade": "Patos",
-      "n": 15,
-      "lat": -7.02,
-      "lng": -37.28
     },
     {
       "cidade": "Cascavel",
@@ -343,6 +343,12 @@
       "lng": -39.06
     },
     {
+      "cidade": "Araraquara",
+      "n": 14,
+      "lat": -21.79,
+      "lng": -48.18
+    },
+    {
       "cidade": "Sorocaba",
       "n": 13,
       "lat": -23.5,
@@ -355,16 +361,16 @@
       "lng": -38.97
     },
     {
-      "cidade": "Araraquara",
-      "n": 13,
-      "lat": -21.79,
-      "lng": -48.18
-    },
-    {
       "cidade": "Varginha",
-      "n": 12,
+      "n": 13,
       "lat": -21.55,
       "lng": -45.43
+    },
+    {
+      "cidade": "Governador Valadares",
+      "n": 12,
+      "lat": -18.85,
+      "lng": -41.95
     },
     {
       "cidade": "Anápolis",
@@ -385,16 +391,22 @@
       "lng": -52.62
     },
     {
-      "cidade": "Governador Valadares",
-      "n": 11,
-      "lat": -18.85,
-      "lng": -41.95
-    },
-    {
       "cidade": "Parnaíba",
       "n": 10,
       "lat": -2.9,
       "lng": -41.78
+    },
+    {
+      "cidade": "Maringá",
+      "n": 10,
+      "lat": -23.42,
+      "lng": -51.94
+    },
+    {
+      "cidade": "Oiapoque",
+      "n": 10,
+      "lat": 3.84,
+      "lng": -51.83
     },
     {
       "cidade": "Bauru",
@@ -419,12 +431,6 @@
       "n": 9,
       "lat": -20.82,
       "lng": -49.38
-    },
-    {
-      "cidade": "Maringá",
-      "n": 9,
-      "lat": -23.42,
-      "lng": -51.94
     },
     {
       "cidade": "Barra Do Garças",
@@ -511,12 +517,6 @@
       "lng": -55.5
     },
     {
-      "cidade": "Oiapoque",
-      "n": 7,
-      "lat": 3.84,
-      "lng": -51.83
-    },
-    {
       "cidade": "Santo Ângelo",
       "n": 7,
       "lat": -28.3,
@@ -535,10 +535,28 @@
       "lng": -48.21
     },
     {
+      "cidade": "Ji-Paraná",
+      "n": 7,
+      "lat": -10.88,
+      "lng": -61.95
+    },
+    {
       "cidade": "Presidente Prudente",
       "n": 7,
       "lat": -22.13,
       "lng": -51.39
+    },
+    {
+      "cidade": "Parintins",
+      "n": 7,
+      "lat": -2.63,
+      "lng": -56.74
+    },
+    {
+      "cidade": "Araxá",
+      "n": 6,
+      "lat": -19.59,
+      "lng": -46.94
     },
     {
       "cidade": "Marabá",
@@ -577,12 +595,6 @@
       "lng": -55.71
     },
     {
-      "cidade": "Ji-Paraná",
-      "n": 6,
-      "lat": -10.88,
-      "lng": -61.95
-    },
-    {
       "cidade": "Uruguaiana",
       "n": 6,
       "lat": -29.76,
@@ -593,18 +605,6 @@
       "n": 6,
       "lat": -19.39,
       "lng": -40.07
-    },
-    {
-      "cidade": "Parintins",
-      "n": 6,
-      "lat": -2.63,
-      "lng": -56.74
-    },
-    {
-      "cidade": "Araxá",
-      "n": 5,
-      "lat": -19.59,
-      "lng": -46.94
     },
     {
       "cidade": "Barreiras",

@@ -1,19 +1,19 @@
 {
   "autoridade": "Ministro da Agricultura e Pecuária",
   "slug": "ministro-da-agricultura-e-pecuaria",
-  "voos": 91,
-  "custo_estimado": 4830832,
+  "voos": 95,
+  "custo_estimado": 5167998,
   "fds": 14,
   "fds_pct": 15,
   "noturnos": 3,
-  "internacionais": 6,
+  "internacionais": 8,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 91,
+  "lula": 95,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 35
+      "n": 37
     },
     {
       "destino": "Cuiabá",
@@ -152,9 +152,45 @@
     {
       "mes": "2025-11",
       "n": 2
+    },
+    {
+      "mes": "2026-05",
+      "n": 2
+    },
+    {
+      "mes": "2026-07",
+      "n": 2
     }
   ],
   "voos_lista": [
+    {
+      "data": "17/07/2026",
+      "origem": "Brasília",
+      "destino": "Buenos Aires (Argentina)",
+      "custo": 116167,
+      "fds": false
+    },
+    {
+      "data": "17/07/2026",
+      "origem": "Buenos Aires (Argentina)",
+      "destino": "Brasília",
+      "custo": 104833,
+      "fds": false
+    },
+    {
+      "data": "14/05/2026",
+      "origem": "Brasília",
+      "destino": "Salvador",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "14/05/2026",
+      "origem": "Salvador",
+      "destino": "Brasília",
+      "custo": 62333,
+      "fds": false
+    },
     {
       "data": "20/11/2025",
       "origem": "Belém",

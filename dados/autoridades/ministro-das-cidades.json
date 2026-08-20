@@ -1,23 +1,23 @@
 {
   "autoridade": "Ministro das Cidades",
   "slug": "ministro-das-cidades",
-  "voos": 119,
-  "custo_estimado": 7537935,
-  "fds": 4,
-  "fds_pct": 3,
-  "noturnos": 5,
+  "voos": 122,
+  "custo_estimado": 7707935,
+  "fds": 6,
+  "fds_pct": 5,
+  "noturnos": 6,
   "internacionais": 2,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 119,
+  "lula": 122,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 57
+      "n": 59
     },
     {
       "destino": "São Paulo",
-      "n": 11
+      "n": 12
     },
     {
       "destino": "Belém",
@@ -176,9 +176,34 @@
     {
       "mes": "2026-04",
       "n": 3
+    },
+    {
+      "mes": "2026-05",
+      "n": 3
     }
   ],
   "voos_lista": [
+    {
+      "data": "12/05/2026",
+      "origem": "Aracaju",
+      "destino": "Brasília",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "09/05/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": true
+    },
+    {
+      "data": "09/05/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": true
+    },
     {
       "data": "30/04/2026",
       "origem": "Brasília",

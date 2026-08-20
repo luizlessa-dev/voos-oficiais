@@ -1,15 +1,15 @@
 {
   "autoridade": "Ministra da Ciência, Tecnologia e Inovação",
   "slug": "ministra-da-ciencia-tecnologia-e-inovacao",
-  "voos": 91,
-  "custo_estimado": 5360668,
+  "voos": 93,
+  "custo_estimado": 5476835,
   "fds": 5,
   "fds_pct": 5,
   "noturnos": 9,
   "internacionais": 2,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 91,
+  "lula": 93,
   "top_destinos": [
     {
       "destino": "Brasília",
@@ -28,15 +28,15 @@
       "n": 4
     },
     {
+      "destino": "Recife",
+      "n": 4
+    },
+    {
       "destino": "Belém",
       "n": 4
     },
     {
       "destino": "Manaus",
-      "n": 3
-    },
-    {
-      "destino": "Recife",
       "n": 3
     },
     {
@@ -152,9 +152,27 @@
     {
       "mes": "2026-03",
       "n": 1
+    },
+    {
+      "mes": "2026-07",
+      "n": 2
     }
   ],
   "voos_lista": [
+    {
+      "data": "01/07/2026",
+      "origem": "Rio de Janeiro (Galeão)",
+      "destino": "São José dos Campos",
+      "custo": 22667,
+      "fds": false
+    },
+    {
+      "data": "01/07/2026",
+      "origem": "São José dos Campos",
+      "destino": "Recife",
+      "custo": 93500,
+      "fds": false
+    },
     {
       "data": "25/03/2026",
       "origem": "Brasília",

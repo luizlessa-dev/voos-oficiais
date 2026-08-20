@@ -1,19 +1,19 @@
 {
   "autoridade": "Ministra da Gestão e Inovação em Serviços Públicos",
   "slug": "ministra-da-gestao-e-inovacao-em-servicos-publicos",
-  "voos": 40,
-  "custo_estimado": 2552831,
+  "voos": 43,
+  "custo_estimado": 2796498,
   "fds": 0,
   "fds_pct": 0,
-  "noturnos": 4,
+  "noturnos": 5,
   "internacionais": 0,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 40,
+  "lula": 43,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 20
+      "n": 22
     },
     {
       "destino": "Rio de Janeiro",
@@ -25,7 +25,7 @@
     },
     {
       "destino": "Recife",
-      "n": 2
+      "n": 3
     },
     {
       "destino": "Fortaleza",
@@ -128,9 +128,38 @@
     {
       "mes": "2026-04",
       "n": 2
+    },
+    {
+      "mes": "2026-06",
+      "n": 1
+    },
+    {
+      "mes": "2026-07",
+      "n": 2
     }
   ],
   "voos_lista": [
+    {
+      "data": "01/07/2026",
+      "origem": "Brasília",
+      "destino": "Recife",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "01/07/2026",
+      "origem": "Recife",
+      "destino": "Brasília",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "26/06/2026",
+      "origem": "Macapá",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
     {
       "data": "08/04/2026",
       "origem": "Brasília",

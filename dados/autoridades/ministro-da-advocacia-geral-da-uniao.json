@@ -1,23 +1,23 @@
 {
   "autoridade": "Ministro da Advocacia Geral da União",
   "slug": "ministro-da-advocacia-geral-da-uniao",
-  "voos": 120,
-  "custo_estimado": 6661166,
+  "voos": 122,
+  "custo_estimado": 6754666,
   "fds": 7,
   "fds_pct": 6,
   "noturnos": 4,
   "internacionais": 2,
   "a_disposicao": 0,
   "bolsonaro": 30,
-  "lula": 90,
+  "lula": 92,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 54
+      "n": 55
     },
     {
       "destino": "São Paulo",
-      "n": 19
+      "n": 20
     },
     {
       "destino": "Rio de Janeiro",
@@ -204,9 +204,27 @@
     {
       "mes": "2026-04",
       "n": 2
+    },
+    {
+      "mes": "2026-06",
+      "n": 2
     }
   ],
   "voos_lista": [
+    {
+      "data": "04/06/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "03/06/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 45333,
+      "fds": false
+    },
     {
       "data": "07/04/2026",
       "origem": "São Paulo (Congonhas)",

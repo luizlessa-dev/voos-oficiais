@@ -1,27 +1,27 @@
 {
   "autoridade": "Ministro das Relações Exteriores",
   "slug": "ministro-das-relacoes-exteriores",
-  "voos": 358,
-  "custo_estimado": 36561336,
-  "fds": 69,
-  "fds_pct": 19,
-  "noturnos": 40,
-  "internacionais": 195,
+  "voos": 375,
+  "custo_estimado": 38003503,
+  "fds": 74,
+  "fds_pct": 20,
+  "noturnos": 43,
+  "internacionais": 201,
   "a_disposicao": 0,
   "bolsonaro": 139,
-  "lula": 219,
+  "lula": 236,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 111
+      "n": 119
     },
     {
       "destino": "São Paulo",
-      "n": 25
+      "n": 30
     },
     {
       "destino": "Rio de Janeiro",
-      "n": 20
+      "n": 21
     },
     {
       "destino": "Praia",
@@ -29,7 +29,7 @@
     },
     {
       "destino": "Assunção",
-      "n": 12
+      "n": 13
     },
     {
       "destino": "Recife",
@@ -300,9 +300,140 @@
     {
       "mes": "2026-04",
       "n": 1
+    },
+    {
+      "mes": "2026-05",
+      "n": 5
+    },
+    {
+      "mes": "2026-06",
+      "n": 6
+    },
+    {
+      "mes": "2026-07",
+      "n": 6
     }
   ],
   "voos_lista": [
+    {
+      "data": "28/07/2026",
+      "origem": "Lima (Peru)",
+      "destino": "Brasília",
+      "custo": 204000,
+      "fds": false
+    },
+    {
+      "data": "27/07/2026",
+      "origem": "Brasília",
+      "destino": "Lima (Peru)",
+      "custo": 93500,
+      "fds": false
+    },
+    {
+      "data": "26/07/2026",
+      "origem": "São Paulo (Guarulhos)",
+      "destino": "Brasília",
+      "custo": 45333,
+      "fds": true
+    },
+    {
+      "data": "19/07/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 48167,
+      "fds": true
+    },
+    {
+      "data": "14/07/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "13/07/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "30/06/2026",
+      "origem": "Assunção (Paraguai)",
+      "destino": "Brasília",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "29/06/2026",
+      "origem": "Brasília",
+      "destino": "Assunção (Paraguai)",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "23/06/2026",
+      "origem": "Cidade do Panamá (Panamá)",
+      "destino": "Brasília",
+      "custo": 255000,
+      "fds": false
+    },
+    {
+      "data": "21/06/2026",
+      "origem": "Brasília",
+      "destino": "Cidade do Panamá (Panamá)",
+      "custo": 153000,
+      "fds": true
+    },
+    {
+      "data": "11/06/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "07/06/2026",
+      "origem": "Recife",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": true
+    },
+    {
+      "data": "29/05/2026",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Galeão)",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "27/05/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "26/05/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 65167,
+      "fds": false
+    },
+    {
+      "data": "20/05/2026",
+      "origem": "São Paulo (Guarulhos)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "09/05/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 48167,
+      "fds": true
+    },
     {
       "data": "22/04/2026",
       "origem": "São Paulo (Guarulhos)",

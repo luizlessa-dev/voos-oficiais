@@ -1,47 +1,47 @@
 {
   "autoridade": "Ministro Integração do Desenvolvimento Regional",
   "slug": "ministro-integracao-do-desenvolvimento-regional",
-  "voos": 155,
-  "custo_estimado": 9276330,
+  "voos": 166,
+  "custo_estimado": 10001661,
   "fds": 22,
-  "fds_pct": 14,
-  "noturnos": 5,
+  "fds_pct": 13,
+  "noturnos": 6,
   "internacionais": 1,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 155,
+  "lula": 166,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 62
+      "n": 65
     },
     {
       "destino": "Macapá",
-      "n": 9
+      "n": 11
     },
     {
       "destino": "Belém",
       "n": 8
     },
     {
+      "destino": "Juazeiro Do Norte",
+      "n": 5
+    },
+    {
+      "destino": "Recife",
+      "n": 5
+    },
+    {
       "destino": "Palmas",
       "n": 4
     },
     {
-      "destino": "Juazeiro Do Norte",
-      "n": 4
-    },
-    {
-      "destino": "Recife",
+      "destino": "Rio Branco",
       "n": 4
     },
     {
       "destino": "Canoas",
       "n": 4
-    },
-    {
-      "destino": "Rio Branco",
-      "n": 3
     },
     {
       "destino": "Guanambi",
@@ -172,9 +172,98 @@
     {
       "mes": "2026-04",
       "n": 5
+    },
+    {
+      "mes": "2026-05",
+      "n": 6
+    },
+    {
+      "mes": "2026-06",
+      "n": 4
+    },
+    {
+      "mes": "2026-07",
+      "n": 1
     }
   ],
   "voos_lista": [
+    {
+      "data": "22/07/2026",
+      "origem": "Teresina",
+      "destino": "Brasília",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "08/06/2026",
+      "origem": "Brasília",
+      "destino": "Oiapoque",
+      "custo": 104833,
+      "fds": false
+    },
+    {
+      "data": "08/06/2026",
+      "origem": "Oiapoque",
+      "destino": "Macapá",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "05/06/2026",
+      "origem": "Brasília",
+      "destino": "Rio Branco",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "05/06/2026",
+      "origem": "Rio Branco",
+      "destino": "Macapá",
+      "custo": 170000,
+      "fds": false
+    },
+    {
+      "data": "20/05/2026",
+      "origem": "Brasília",
+      "destino": "Juazeiro Do Norte",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "13/05/2026",
+      "origem": "Brasília",
+      "destino": "Araxá",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "13/05/2026",
+      "origem": "Araxá",
+      "destino": "Brasília",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "04/05/2026",
+      "origem": "Macapá",
+      "destino": "João Pessoa",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "04/05/2026",
+      "origem": "João Pessoa",
+      "destino": "Recife",
+      "custo": 11333,
+      "fds": false
+    },
+    {
+      "data": "04/05/2026",
+      "origem": "Recife",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
     {
       "data": "15/04/2026",
       "origem": "Macapá",

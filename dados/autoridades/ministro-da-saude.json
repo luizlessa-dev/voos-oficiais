@@ -1,31 +1,35 @@
 {
   "autoridade": "Ministro da Saúde",
   "slug": "ministro-da-saude",
-  "voos": 465,
-  "custo_estimado": 28007861,
-  "fds": 104,
+  "voos": 489,
+  "custo_estimado": 29189360,
+  "fds": 107,
   "fds_pct": 22,
-  "noturnos": 19,
+  "noturnos": 20,
   "internacionais": 14,
   "a_disposicao": 0,
   "bolsonaro": 347,
-  "lula": 118,
+  "lula": 142,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 180
+      "n": 192
     },
     {
       "destino": "Rio de Janeiro",
-      "n": 54
+      "n": 56
     },
     {
       "destino": "São Paulo",
-      "n": 41
+      "n": 43
     },
     {
       "destino": "João Pessoa",
       "n": 12
+    },
+    {
+      "destino": "Porto Alegre",
+      "n": 11
     },
     {
       "destino": "Recife",
@@ -40,16 +44,12 @@
       "n": 9
     },
     {
-      "destino": "Porto Alegre",
-      "n": 9
-    },
-    {
       "destino": "Belo Horizonte",
       "n": 8
     },
     {
-      "destino": "Boa Vista",
-      "n": 6
+      "destino": "Salvador",
+      "n": 7
     }
   ],
   "timeline": [
@@ -256,9 +256,189 @@
     {
       "mes": "2026-04",
       "n": 17
+    },
+    {
+      "mes": "2026-05",
+      "n": 13
+    },
+    {
+      "mes": "2026-06",
+      "n": 6
+    },
+    {
+      "mes": "2026-07",
+      "n": 5
     }
   ],
   "voos_lista": [
+    {
+      "data": "27/07/2026",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Galeão)",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "10/07/2026",
+      "origem": "Brasília",
+      "destino": "Porto Alegre",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "10/07/2026",
+      "origem": "Porto Alegre",
+      "destino": "Brasília",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "03/07/2026",
+      "origem": "Sorocaba",
+      "destino": "Brasília",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "01/07/2026",
+      "origem": "Salvador",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "16/06/2026",
+      "origem": "Brasília",
+      "destino": "Belém",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "16/06/2026",
+      "origem": "Belém",
+      "destino": "Brasília",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "12/06/2026",
+      "origem": "Belo Horizonte (Pampulha)",
+      "destino": "Brasília",
+      "custo": 39667,
+      "fds": false
+    },
+    {
+      "data": "10/06/2026",
+      "origem": "Brasília",
+      "destino": "Ribeirão Preto",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "10/06/2026",
+      "origem": "Ribeirão Preto",
+      "destino": "Franca",
+      "custo": 8500,
+      "fds": false
+    },
+    {
+      "data": "10/06/2026",
+      "origem": "Franca",
+      "destino": "Brasília",
+      "custo": 39667,
+      "fds": false
+    },
+    {
+      "data": "30/05/2026",
+      "origem": "Brasília",
+      "destino": "Goiânia",
+      "custo": 19833,
+      "fds": true
+    },
+    {
+      "data": "30/05/2026",
+      "origem": "Goiânia",
+      "destino": "Brasília",
+      "custo": 17000,
+      "fds": true
+    },
+    {
+      "data": "29/05/2026",
+      "origem": "Rio de Janeiro (Galeão)",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "28/05/2026",
+      "origem": "Brasília",
+      "destino": "Uberlândia",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "28/05/2026",
+      "origem": "Uberlândia",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 36833,
+      "fds": false
+    },
+    {
+      "data": "28/05/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "22/05/2026",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "09/05/2026",
+      "origem": "Campinas",
+      "destino": "Brasília",
+      "custo": 45333,
+      "fds": true
+    },
+    {
+      "data": "08/05/2026",
+      "origem": "Brasília",
+      "destino": "Porto Alegre",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "08/05/2026",
+      "origem": "Porto Alegre",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "07/05/2026",
+      "origem": "Salvador",
+      "destino": "Brasília",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "06/05/2026",
+      "origem": "Brasília",
+      "destino": "Salvador",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "01/05/2026",
+      "origem": "Governador Valadares",
+      "destino": "Brasília",
+      "custo": 42500,
+      "fds": false
+    },
     {
       "data": "30/04/2026",
       "origem": "Brasília",

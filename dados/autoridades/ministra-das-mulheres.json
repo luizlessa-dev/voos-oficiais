@@ -1,15 +1,15 @@
 {
   "autoridade": "Ministra das Mulheres",
   "slug": "ministra-das-mulheres",
-  "voos": 53,
-  "custo_estimado": 3394334,
+  "voos": 55,
+  "custo_estimado": 3510501,
   "fds": 5,
   "fds_pct": 9,
   "noturnos": 8,
   "internacionais": 2,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 53,
+  "lula": 55,
   "top_destinos": [
     {
       "destino": "Brasília",
@@ -22,6 +22,14 @@
     {
       "destino": "Belém",
       "n": 3
+    },
+    {
+      "destino": "Salvador",
+      "n": 3
+    },
+    {
+      "destino": "Teresina",
+      "n": 2
     },
     {
       "destino": "São Paulo",
@@ -41,14 +49,6 @@
     },
     {
       "destino": "Foz do Iguaçu",
-      "n": 2
-    },
-    {
-      "destino": "Salvador",
-      "n": 2
-    },
-    {
-      "destino": "Maceió",
       "n": 2
     }
   ],
@@ -132,9 +132,27 @@
     {
       "mes": "2026-03",
       "n": 2
+    },
+    {
+      "mes": "2026-07",
+      "n": 2
     }
   ],
   "voos_lista": [
+    {
+      "data": "30/07/2026",
+      "origem": "Brasília",
+      "destino": "Teresina",
+      "custo": 65167,
+      "fds": false
+    },
+    {
+      "data": "30/07/2026",
+      "origem": "Teresina",
+      "destino": "Salvador",
+      "custo": 51000,
+      "fds": false
+    },
     {
       "data": "08/03/2026",
       "origem": "Brasília",

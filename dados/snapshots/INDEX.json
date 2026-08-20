@@ -89,7 +89,34 @@
       "sha256": "7116849821ba87503beb387c739a7cbec7957ee8abcdd86e02312d6097a6de94",
       "tamanho": 11767,
       "tipo": "mensal"
+    },
+    "voos_2026_05.csv": {
+      "ano": 2026,
+      "blob_sha": "3cf4c21d4bd9f8fd31cbc8212815b6c713eeb983",
+      "fonte": "https://github.com/FABdadosabertos/GABAER/blob/master/Voos%20de%20Autoridades/VOOS%20DE%20AUTORIDADES%20-%20DECRETO%20N%C2%BA%2010.267%20-%20MAIO%20DE%202026.csv",
+      "mes": 5,
+      "sha256": "cad3c9b19ea6166fa069aa8fe3127d4a12cca7bce7d58714869bb70f14785876",
+      "tamanho": 12572,
+      "tipo": "mensal"
+    },
+    "voos_2026_06.csv": {
+      "ano": 2026,
+      "blob_sha": "98c0f5acbe49cd7820eeefbb1e789147d6111669",
+      "fonte": "https://github.com/FABdadosabertos/GABAER/blob/master/Voos%20de%20Autoridades/VOOS%20DE%20AUTORIDADES%20-%20DECRETO%20N%C2%BA%2010.267%20-%20JUNHO%20DE%202026.csv",
+      "mes": 6,
+      "sha256": "2c8c91e6e48ecff3b50b5e65adf415aa7d2cb76a0380ad626716ade516030e5f",
+      "tamanho": 11424,
+      "tipo": "mensal"
+    },
+    "voos_2026_07.csv": {
+      "ano": 2026,
+      "blob_sha": "b4881b5f3b7ac06b92587f0abecb5408299fd833",
+      "fonte": "https://github.com/FABdadosabertos/GABAER/blob/master/Voos%20de%20Autoridades/VOOS%20DE%20AUTORIDADES%20-%20DECRETO%20N%C2%BA%2010.267%20-%20JULHO%20DE%202026.csv",
+      "mes": 7,
+      "sha256": "94b0b27ee6d3d07f8b0cdeb04f2209efae9e031d5eeec48d53de76392ba5339d",
+      "tamanho": 13011,
+      "tipo": "mensal"
     }
   },
-  "ultima_checagem": "2026-06-11T03:02:27.427844+00:00"
+  "ultima_checagem": "2026-08-20T15:57:12.379651+00:00"
 }

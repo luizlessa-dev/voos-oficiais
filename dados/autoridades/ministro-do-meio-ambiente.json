@@ -1,15 +1,15 @@
 {
   "autoridade": "Ministro do Meio Ambiente",
   "slug": "ministro-do-meio-ambiente",
-  "voos": 131,
-  "custo_estimado": 7100035,
+  "voos": 133,
+  "custo_estimado": 7295535,
   "fds": 6,
   "fds_pct": 5,
   "noturnos": 5,
   "internacionais": 2,
   "a_disposicao": 0,
   "bolsonaro": 127,
-  "lula": 4,
+  "lula": 6,
   "top_destinos": [
     {
       "destino": "Brasília",
@@ -17,7 +17,7 @@
     },
     {
       "destino": "São Paulo",
-      "n": 17
+      "n": 18
     },
     {
       "destino": "Belo Horizonte",
@@ -188,9 +188,27 @@
     {
       "mes": "2023-06",
       "n": 1
+    },
+    {
+      "mes": "2026-05",
+      "n": 2
     }
   ],
   "voos_lista": [
+    {
+      "data": "29/05/2026",
+      "origem": "Brasília",
+      "destino": "Fortaleza",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "29/05/2026",
+      "origem": "Fortaleza",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 116167,
+      "fds": false
+    },
     {
       "data": "15/06/2023",
       "origem": "São Paulo (Congonhas)",

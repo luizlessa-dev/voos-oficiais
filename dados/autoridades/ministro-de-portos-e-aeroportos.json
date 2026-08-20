@@ -1,27 +1,27 @@
 {
   "autoridade": "Ministro de Portos e Aeroportos",
   "slug": "ministro-de-portos-e-aeroportos",
-  "voos": 210,
-  "custo_estimado": 12081339,
+  "voos": 228,
+  "custo_estimado": 13444172,
   "fds": 4,
   "fds_pct": 2,
   "noturnos": 8,
-  "internacionais": 3,
+  "internacionais": 7,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 210,
+  "lula": 228,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 72
+      "n": 78
     },
     {
       "destino": "São Paulo",
-      "n": 31
+      "n": 32
     },
     {
       "destino": "Recife",
-      "n": 17
+      "n": 19
     },
     {
       "destino": "Rio de Janeiro",
@@ -44,11 +44,11 @@
       "n": 4
     },
     {
-      "destino": "Vitória",
-      "n": 3
+      "destino": "Porto Alegre",
+      "n": 4
     },
     {
-      "destino": "Natal",
+      "destino": "Vitória",
       "n": 3
     }
   ],
@@ -208,9 +208,147 @@
     {
       "mes": "2026-04",
       "n": 8
+    },
+    {
+      "mes": "2026-05",
+      "n": 4
+    },
+    {
+      "mes": "2026-06",
+      "n": 8
+    },
+    {
+      "mes": "2026-07",
+      "n": 6
     }
   ],
   "voos_lista": [
+    {
+      "data": "14/07/2026",
+      "origem": "Brasília",
+      "destino": "Assunção (Paraguai)",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "14/07/2026",
+      "origem": "Assunção (Paraguai)",
+      "destino": "Brasília",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "02/07/2026",
+      "origem": "Brasília",
+      "destino": "Palmas",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "02/07/2026",
+      "origem": "Palmas",
+      "destino": "Uberlândia",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "02/07/2026",
+      "origem": "Uberlândia",
+      "destino": "Recife",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "02/07/2026",
+      "origem": "Recife",
+      "destino": "Brasília",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "23/06/2026",
+      "origem": "Brasília",
+      "destino": "Caxias Do Sul",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "23/06/2026",
+      "origem": "Caxias Do Sul",
+      "destino": "Porto Alegre",
+      "custo": 11333,
+      "fds": false
+    },
+    {
+      "data": "23/06/2026",
+      "origem": "Porto Alegre",
+      "destino": "Brasília",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "18/06/2026",
+      "origem": "Buenos Aires (Argentina)",
+      "destino": "Brasília",
+      "custo": 107667,
+      "fds": false
+    },
+    {
+      "data": "17/06/2026",
+      "origem": "Brasília",
+      "destino": "Buenos Aires (Argentina)",
+      "custo": 136000,
+      "fds": false
+    },
+    {
+      "data": "16/06/2026",
+      "origem": "Brasília",
+      "destino": "Ji-Paraná",
+      "custo": 42500,
+      "fds": false
+    },
+    {
+      "data": "16/06/2026",
+      "origem": "Ji-Paraná",
+      "destino": "Brasília",
+      "custo": 113333,
+      "fds": false
+    },
+    {
+      "data": "12/06/2026",
+      "origem": "Brasília",
+      "destino": "Recife",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "28/05/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "26/05/2026",
+      "origem": "Brasília",
+      "destino": "Manaus (Ponta Pelada)",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "15/05/2026",
+      "origem": "Brasília",
+      "destino": "Fernando De Noronha",
+      "custo": 133167,
+      "fds": false
+    },
+    {
+      "data": "15/05/2026",
+      "origem": "Fernando De Noronha",
+      "destino": "Brasília",
+      "custo": 68000,
+      "fds": false
+    },
     {
       "data": "18/04/2026",
       "origem": "Recife",

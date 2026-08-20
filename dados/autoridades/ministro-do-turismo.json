@@ -1,19 +1,19 @@
 {
   "autoridade": "Ministro do Turismo",
   "slug": "ministro-do-turismo",
-  "voos": 296,
-  "custo_estimado": 18801708,
+  "voos": 299,
+  "custo_estimado": 19022707,
   "fds": 40,
-  "fds_pct": 14,
+  "fds_pct": 13,
   "noturnos": 8,
   "internacionais": 8,
   "a_disposicao": 0,
   "bolsonaro": 209,
-  "lula": 87,
+  "lula": 90,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 116
+      "n": 117
     },
     {
       "destino": "São Paulo",
@@ -248,9 +248,34 @@
     {
       "mes": "2026-02",
       "n": 2
+    },
+    {
+      "mes": "2026-06",
+      "n": 3
     }
   ],
   "voos_lista": [
+    {
+      "data": "08/06/2026",
+      "origem": "Brasília",
+      "destino": "Oiapoque",
+      "custo": 104833,
+      "fds": false
+    },
+    {
+      "data": "08/06/2026",
+      "origem": "Oiapoque",
+      "destino": "Macapá",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "08/06/2026",
+      "origem": "Macapá",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": false
+    },
     {
       "data": "26/02/2026",
       "origem": "Brasília",

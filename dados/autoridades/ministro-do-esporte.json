@@ -1,19 +1,19 @@
 {
   "autoridade": "Ministro do Esporte",
   "slug": "ministro-do-esporte",
-  "voos": 33,
-  "custo_estimado": 1898332,
+  "voos": 35,
+  "custo_estimado": 2065498,
   "fds": 6,
-  "fds_pct": 18,
-  "noturnos": 5,
+  "fds_pct": 17,
+  "noturnos": 6,
   "internacionais": 0,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 33,
+  "lula": 35,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 13
+      "n": 14
     },
     {
       "destino": "São Paulo",
@@ -25,6 +25,10 @@
     },
     {
       "destino": "Salvador",
+      "n": 2
+    },
+    {
+      "destino": "Fortaleza",
       "n": 2
     },
     {
@@ -45,10 +49,6 @@
     },
     {
       "destino": "Pelotas",
-      "n": 1
-    },
-    {
-      "destino": "Uberlândia",
       "n": 1
     }
   ],
@@ -112,9 +112,27 @@
     {
       "mes": "2025-11",
       "n": 1
+    },
+    {
+      "mes": "2026-06",
+      "n": 2
     }
   ],
   "voos_lista": [
+    {
+      "data": "10/06/2026",
+      "origem": "Fortaleza",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "09/06/2026",
+      "origem": "Brasília",
+      "destino": "Fortaleza",
+      "custo": 79333,
+      "fds": false
+    },
     {
       "data": "10/11/2025",
       "origem": "São Paulo (Congonhas)",

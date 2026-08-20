@@ -1,31 +1,31 @@
 {
   "autoridade": "Presidente do Congresso Nacional",
   "slug": "presidente-do-congresso-nacional",
-  "voos": 462,
-  "custo_estimado": 21097670,
-  "fds": 137,
+  "voos": 482,
+  "custo_estimado": 22673004,
+  "fds": 145,
   "fds_pct": 30,
-  "noturnos": 25,
+  "noturnos": 26,
   "internacionais": 21,
   "a_disposicao": 0,
   "bolsonaro": 243,
-  "lula": 219,
+  "lula": 239,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 208
+      "n": 217
     },
     {
       "destino": "Belo Horizonte",
       "n": 93
     },
     {
-      "destino": "São Paulo",
-      "n": 47
+      "destino": "Macapá",
+      "n": 51
     },
     {
-      "destino": "Macapá",
-      "n": 44
+      "destino": "São Paulo",
+      "n": 49
     },
     {
       "destino": "Rio de Janeiro",
@@ -48,7 +48,7 @@
       "n": 2
     },
     {
-      "destino": "Varginha",
+      "destino": "Manaus",
       "n": 2
     }
   ],
@@ -344,9 +344,161 @@
     {
       "mes": "2026-04",
       "n": 5
+    },
+    {
+      "mes": "2026-05",
+      "n": 6
+    },
+    {
+      "mes": "2026-06",
+      "n": 5
+    },
+    {
+      "mes": "2026-07",
+      "n": 9
     }
   ],
   "voos_lista": [
+    {
+      "data": "22/07/2026",
+      "origem": "Macapá",
+      "destino": "Brasília",
+      "custo": 90667,
+      "fds": false
+    },
+    {
+      "data": "22/07/2026",
+      "origem": "Brasília",
+      "destino": "Macapá",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "17/07/2026",
+      "origem": "Brasília",
+      "destino": "Macapá",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "16/07/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "16/07/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "12/07/2026",
+      "origem": "Macapá",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": true
+    },
+    {
+      "data": "11/07/2026",
+      "origem": "Brasília",
+      "destino": "Macapá",
+      "custo": 87833,
+      "fds": true
+    },
+    {
+      "data": "05/07/2026",
+      "origem": "Macapá",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": true
+    },
+    {
+      "data": "03/07/2026",
+      "origem": "Brasília",
+      "destino": "Macapá",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "29/06/2026",
+      "origem": "Parintins",
+      "destino": "Brasília",
+      "custo": 116167,
+      "fds": false
+    },
+    {
+      "data": "26/06/2026",
+      "origem": "Brasília",
+      "destino": "Manaus (Eduardo Gomes)",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "26/06/2026",
+      "origem": "Manaus (Eduardo Gomes)",
+      "destino": "Parintins",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "14/06/2026",
+      "origem": "Macapá",
+      "destino": "Brasília",
+      "custo": 82167,
+      "fds": true
+    },
+    {
+      "data": "11/06/2026",
+      "origem": "Brasília",
+      "destino": "Macapá",
+      "custo": 99167,
+      "fds": false
+    },
+    {
+      "data": "28/05/2026",
+      "origem": "Brasília",
+      "destino": "Macapá",
+      "custo": 90667,
+      "fds": false
+    },
+    {
+      "data": "24/05/2026",
+      "origem": "Macapá",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": true
+    },
+    {
+      "data": "21/05/2026",
+      "origem": "Brasília",
+      "destino": "Macapá",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "10/05/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 62333,
+      "fds": true
+    },
+    {
+      "data": "10/05/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": true
+    },
+    {
+      "data": "03/05/2026",
+      "origem": "Macapá",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": true
+    },
     {
       "data": "30/04/2026",
       "origem": "Brasília",

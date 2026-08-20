@@ -1,23 +1,23 @@
 {
   "autoridade": "Ministro dos Transportes",
   "slug": "ministro-dos-transportes",
-  "voos": 207,
-  "custo_estimado": 11659162,
-  "fds": 3,
-  "fds_pct": 1,
+  "voos": 227,
+  "custo_estimado": 13061662,
+  "fds": 4,
+  "fds_pct": 2,
   "noturnos": 4,
   "internacionais": 2,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 207,
+  "lula": 227,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 75
+      "n": 81
     },
     {
       "destino": "São Paulo",
-      "n": 26
+      "n": 29
     },
     {
       "destino": "Maceió",
@@ -29,7 +29,7 @@
     },
     {
       "destino": "Aracaju",
-      "n": 5
+      "n": 6
     },
     {
       "destino": "Teresina",
@@ -44,12 +44,12 @@
       "n": 4
     },
     {
-      "destino": "Belo Horizonte",
+      "destino": "Fortaleza",
       "n": 4
     },
     {
-      "destino": "Feira De Santana",
-      "n": 3
+      "destino": "Belo Horizonte",
+      "n": 4
     }
   ],
   "timeline": [
@@ -208,9 +208,161 @@
     {
       "mes": "2026-04",
       "n": 8
+    },
+    {
+      "mes": "2026-05",
+      "n": 10
+    },
+    {
+      "mes": "2026-06",
+      "n": 6
+    },
+    {
+      "mes": "2026-07",
+      "n": 4
     }
   ],
   "voos_lista": [
+    {
+      "data": "30/07/2026",
+      "origem": "Brasília",
+      "destino": "Campo Grande",
+      "custo": 19833,
+      "fds": false
+    },
+    {
+      "data": "22/07/2026",
+      "origem": "Teresina",
+      "destino": "Brasília",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "03/07/2026",
+      "origem": "Brasília",
+      "destino": "Montes Claros",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "03/07/2026",
+      "origem": "Montes Claros",
+      "destino": "Aracaju",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "25/06/2026",
+      "origem": "Santa Maria",
+      "destino": "Brasília",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "24/06/2026",
+      "origem": "Brasília",
+      "destino": "Maringá",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "24/06/2026",
+      "origem": "Maringá",
+      "destino": "Santa Maria",
+      "custo": 39667,
+      "fds": false
+    },
+    {
+      "data": "15/06/2026",
+      "origem": "Rio Branco",
+      "destino": "Brasília",
+      "custo": 170000,
+      "fds": false
+    },
+    {
+      "data": "02/06/2026",
+      "origem": "Brasília",
+      "destino": "Petrolina",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "02/06/2026",
+      "origem": "Petrolina",
+      "destino": "Brasília",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "21/05/2026",
+      "origem": "Cuiabá",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 99167,
+      "fds": false
+    },
+    {
+      "data": "20/05/2026",
+      "origem": "Fortaleza",
+      "destino": "Cuiabá",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "19/05/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "18/05/2026",
+      "origem": "Brasília",
+      "destino": "Mossoró",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "18/05/2026",
+      "origem": "Mossoró",
+      "destino": "Natal (Parnamirim)",
+      "custo": 19833,
+      "fds": false
+    },
+    {
+      "data": "18/05/2026",
+      "origem": "Natal (Parnamirim)",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "15/05/2026",
+      "origem": "Brasília",
+      "destino": "Fortaleza",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "15/05/2026",
+      "origem": "Fortaleza",
+      "destino": "Brasília",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "04/05/2026",
+      "origem": "Porto Velho",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 150167,
+      "fds": false
+    },
+    {
+      "data": "03/05/2026",
+      "origem": "Brasília",
+      "destino": "Porto Velho",
+      "custo": 59500,
+      "fds": true
+    },
     {
       "data": "23/04/2026",
       "origem": "Brasília",

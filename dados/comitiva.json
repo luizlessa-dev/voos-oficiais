@@ -1,10 +1,10 @@
 {
   "_meta": {
     "fonte": "Portal da Transparência (SCDP) × GABAER",
-    "cobertura": "2020-01 a 2026-04 (ministérios do Executivo)",
+    "cobertura": "2020-01 a 2026-07 (ministérios do Executivo)",
     "nota": "Servidores do mesmo órgão que viajaram ao destino do voo FAB nas mesmas datas. NÃO prova que estavam na aeronave — ponto de partida de apuração.",
-    "total_voos": 436,
-    "total_servidores": 1638
+    "total_voos": 461,
+    "total_servidores": 1718
   },
   "comitivas": {
     "ministro-do-turismo": [
@@ -1336,6 +1336,71 @@
             "diaria": "R$ 1737",
             "passagem": "R$ 4496",
             "motivo": "Representar o Ministério do Turismo na Caravana Fe"
+          }
+        ]
+      },
+      {
+        "data": "08/06",
+        "mes": "2026-06",
+        "destino": "Macapá",
+        "pax": 3,
+        "servidores": [
+          {
+            "nome": "CAIO DUARTE PEREIRA",
+            "cargo": "",
+            "diaria": "R$ 937",
+            "passagem": "R$ 5786",
+            "motivo": "Acompanhar e assessorar o Senhor Ministro de Estad"
+          },
+          {
+            "nome": "JOAO PITA DE FREITAS",
+            "cargo": "AGENTE ADMINISTRATIVO",
+            "diaria": "R$ 1317",
+            "passagem": "R$ 5826",
+            "motivo": "Em atendimento à demanda do Gabinete do Ministro,"
+          },
+          {
+            "nome": "ANGELA CASCAO",
+            "cargo": "AGENTE ADMINISTRATIVO",
+            "diaria": "R$ 937",
+            "passagem": "R$ 6805",
+            "motivo": "Participarei da Missão Interministerial no municíp"
+          },
+          {
+            "nome": "ANNA DE OLIVEIRA MODESTO",
+            "cargo": "",
+            "diaria": "R$ 2130",
+            "passagem": "R$ 5636",
+            "motivo": "Participarei da Missão Interministerial no municíp"
+          }
+        ]
+      },
+      {
+        "data": "08/06",
+        "mes": "2026-06",
+        "destino": "Oiapoque",
+        "pax": 3,
+        "servidores": [
+          {
+            "nome": "RUBENS BEZERRA DE ANDRADE",
+            "cargo": "",
+            "diaria": "R$ 136",
+            "passagem": "R$ 0",
+            "motivo": "Acompanhar o Sr. Ministro na Cerimônia de Entregas"
+          },
+          {
+            "nome": "VIVIANE DE FARIA",
+            "cargo": "",
+            "diaria": "R$ 2130",
+            "passagem": "R$ 5116",
+            "motivo": "Participarei, na qualidade de Diretora do Departam"
+          },
+          {
+            "nome": "ANNA DE OLIVEIRA MODESTO",
+            "cargo": "",
+            "diaria": "R$ 2130",
+            "passagem": "R$ 5636",
+            "motivo": "Participarei da Missão Interministerial no municíp"
           }
         ]
       }
@@ -4244,6 +4309,21 @@
             "diaria": "R$ 7899",
             "passagem": "R$ 5921",
             "motivo": "Participar do Escalão Avançado do Cerimonial a Bog"
+          }
+        ]
+      },
+      {
+        "data": "29/06",
+        "mes": "2026-06",
+        "destino": "Assunção (Paraguai)",
+        "pax": 5,
+        "servidores": [
+          {
+            "nome": "GISELA MARIA FIGUEIREDO PADOVA",
+            "cargo": "MINISTRO DE PRIMEIRA C",
+            "diaria": "R$ 0",
+            "passagem": "R$ 6840",
+            "motivo": "Participar da Cúpula do MERCOSUL e eventos prévios"
           }
         ]
       }
@@ -7633,6 +7713,43 @@
             "motivo": "Conforme requisição (SEI nº 6758302): Inauguração"
           }
         ]
+      },
+      {
+        "data": "30/06",
+        "mes": "2026-06",
+        "destino": "Foz do Iguaçu",
+        "pax": 5,
+        "servidores": [
+          {
+            "nome": "PAULA KARINI DIAS FERREIRA AMO",
+            "cargo": "PROFESSOR ENS BASICO T",
+            "diaria": "R$ 1124",
+            "passagem": "R$ 4999",
+            "motivo": "Conforme Requisição SEI 6956151: 1° Fórum de Reito"
+          },
+          {
+            "nome": "CLEBER AVILA BARBOSA",
+            "cargo": "PROFESSOR ENS BASICO T",
+            "diaria": "R$ 669",
+            "passagem": "R$ 4950",
+            "motivo": "Conforme requisição SEI nº 6965071: 1º Fórum de Re"
+          }
+        ]
+      },
+      {
+        "data": "15/07",
+        "mes": "2026-07",
+        "destino": "Teresina",
+        "pax": 11,
+        "servidores": [
+          {
+            "nome": "LEONARDO JOSE CASALINHO DUARTE",
+            "cargo": "",
+            "diaria": "R$ 203",
+            "passagem": "R$ 0",
+            "motivo": "Conforme requisição SEI nº 7026817: Esta viagem te"
+          }
+        ]
       }
     ],
     "ministro-da-defesa": [
@@ -10199,6 +10316,264 @@
             "motivo": "O proposto, Ministro de Estado da Defesa, particip"
           }
         ]
+      },
+      {
+        "data": "25/05",
+        "mes": "2026-05",
+        "destino": "Buenos Aires (Argentina)",
+        "pax": 9,
+        "servidores": [
+          {
+            "nome": "PRISCILA LEITE DE MESQUITA NOV",
+            "cargo": "",
+            "diaria": "R$ 2068",
+            "passagem": "R$ 0",
+            "motivo": "O proposto prestará assessoramento ao Senhor Minis"
+          },
+          {
+            "nome": "HERALDO LUIZ RODRIGUES",
+            "cargo": "",
+            "diaria": "R$ 2245",
+            "passagem": "R$ 0",
+            "motivo": "Compor a comitiva do Senhor Ministro de Estado da"
+          }
+        ]
+      },
+      {
+        "data": "19/06",
+        "mes": "2026-06",
+        "destino": "São José Dos Campos",
+        "pax": 4,
+        "servidores": [
+          {
+            "nome": "LUCAS DE MOURA ARAUJO",
+            "cargo": "",
+            "diaria": "R$ 838",
+            "passagem": "R$ 0",
+            "motivo": "O proposto, Segurança Pessoal do Ministro, acompan"
+          },
+          {
+            "nome": "JOSE MUCIO MONTEIRO FILHO",
+            "cargo": "",
+            "diaria": "R$ 0",
+            "passagem": "R$ 0",
+            "motivo": "O proposto, Ministro de Estado da Defesa, particip"
+          },
+          {
+            "nome": "DANIEL CORREA DA SILVA",
+            "cargo": "",
+            "diaria": "R$ 838",
+            "passagem": "R$ 0",
+            "motivo": "O proposto, Segurança Pessoal do Ministro, acompan"
+          }
+        ]
+      },
+      {
+        "data": "24/06",
+        "mes": "2026-06",
+        "destino": "Santiago (Chile)",
+        "pax": 10,
+        "servidores": [
+          {
+            "nome": "ALCIO ALVES ALMEIDA E COSTA",
+            "cargo": "",
+            "diaria": "R$ 2366",
+            "passagem": "R$ 0",
+            "motivo": "Integrar a comitiva do Ministro de Estado da Defes"
+          },
+          {
+            "nome": "HERALDO LUIZ RODRIGUES",
+            "cargo": "",
+            "diaria": "R$ 1667",
+            "passagem": "R$ 0",
+            "motivo": "Compor a comitiva do Senhor Ministro de Estado da"
+          }
+        ]
+      },
+      {
+        "data": "07/07",
+        "mes": "2026-07",
+        "destino": "Cusco (Peru)",
+        "pax": 8,
+        "servidores": [
+          {
+            "nome": "LEANDRO FARIA MICHEL",
+            "cargo": "",
+            "diaria": "R$ 2685",
+            "passagem": "R$ 0",
+            "motivo": "O proposto, Supervisor do Serviço de Apoio Adminis"
+          },
+          {
+            "nome": "ANDERSON JOSE DUARTE",
+            "cargo": "",
+            "diaria": "R$ 0",
+            "passagem": "R$ 6163",
+            "motivo": "Participar da XVII Conferência de Ministros de Def"
+          },
+          {
+            "nome": "ANTENOR JOSE SANTOS MARGOTTO",
+            "cargo": "",
+            "diaria": "R$ 8970",
+            "passagem": "R$ 6163",
+            "motivo": "Participar da XVII Conferência de Ministros de Def"
+          },
+          {
+            "nome": "MARIO DOS SANTOS SARDINHA JUNI",
+            "cargo": "",
+            "diaria": "R$ 8650",
+            "passagem": "R$ 5521",
+            "motivo": "Participar da XVII Conferência de Ministros de Def"
+          },
+          {
+            "nome": "FLAVIO MAREGA",
+            "cargo": "MINISTRO DE PRIMEIRA C",
+            "diaria": "R$ 2737",
+            "passagem": "R$ 0",
+            "motivo": "O proposto, Assessor de Assuntos Internacionais do"
+          },
+          {
+            "nome": "CARLOS VICTOR TEIXEIRA DE VASC",
+            "cargo": "",
+            "diaria": "R$ 2737",
+            "passagem": "R$ 0",
+            "motivo": "O proposto, Chefe da Assessoria de Cerimonial do G"
+          },
+          {
+            "nome": "RILDO RINALDO DE ANDRADE",
+            "cargo": "",
+            "diaria": "R$ 10129",
+            "passagem": "R$ 4659",
+            "motivo": "O proposto, Assistente Médico da Comitiva Minister"
+          },
+          {
+            "nome": "PRISCILA LEITE DE MESQUITA NOV",
+            "cargo": "",
+            "diaria": "R$ 2844",
+            "passagem": "R$ 0",
+            "motivo": "O proposto, Assessora Especial de Comunicação Soci"
+          },
+          {
+            "nome": "RONALDO PEREIRA DE MELLO",
+            "cargo": "",
+            "diaria": "R$ 8650",
+            "passagem": "R$ 6163",
+            "motivo": "Participar da XVII Conferência de Ministros de Def"
+          },
+          {
+            "nome": "MARCELO MARTINS PIMENTEL",
+            "cargo": "",
+            "diaria": "R$ 2844",
+            "passagem": "R$ 0",
+            "motivo": "O proposto,Chefe de Gabinete do Sr. Ministro, acom"
+          }
+        ]
+      },
+      {
+        "data": "10/07",
+        "mes": "2026-07",
+        "destino": "Pirassununga",
+        "pax": 41,
+        "servidores": [
+          {
+            "nome": "FLAVIO ALEXANDRE DE LUNA",
+            "cargo": "",
+            "diaria": "R$ 770",
+            "passagem": "R$ 2032",
+            "motivo": "O proposto, Agente de Segurança Pessoal do Senhor"
+          },
+          {
+            "nome": "MOISES MACHADO PEREIRA",
+            "cargo": "",
+            "diaria": "R$ 932",
+            "passagem": "R$ 2032",
+            "motivo": "O Proposto Agente de Segurança Pessoal do Senhor M"
+          },
+          {
+            "nome": "ROSELENE PAIVA DA SILVA ARAUJO",
+            "cargo": "",
+            "diaria": "R$ 770",
+            "passagem": "R$ 2032",
+            "motivo": "O proposto Assessora de Cerimonial do Gab Min Def"
+          },
+          {
+            "nome": "ARACIBIO DA PAIXAO JUNIOR",
+            "cargo": "",
+            "diaria": "R$ 113",
+            "passagem": "R$ 0",
+            "motivo": "O Proposto, Chefe da Segurança Pessoal do Senhor M"
+          },
+          {
+            "nome": "JOSE MUCIO MONTEIRO FILHO",
+            "cargo": "",
+            "diaria": "R$ 0",
+            "passagem": "R$ 0",
+            "motivo": "O Proposto Senhor Ministro de Estado da Defesa par"
+          },
+          {
+            "nome": "PAULO COSTA DO NASCIMENTO",
+            "cargo": "",
+            "diaria": "R$ 0",
+            "passagem": "R$ 0",
+            "motivo": "O Proposto, do Serviço de Apoio Administrativo do"
+          },
+          {
+            "nome": "VITOR ALMEIDA FREITAS",
+            "cargo": "",
+            "diaria": "R$ 0",
+            "passagem": "R$ 0",
+            "motivo": "O Proposto, Ajudante de Ordens do Senhor Ministro"
+          },
+          {
+            "nome": "JOSE RICARDO DE MENESES ROCHA",
+            "cargo": "",
+            "diaria": "R$ 0",
+            "passagem": "R$ 0",
+            "motivo": "O Proposto Assessor Especial Militar do Senhor Min"
+          }
+        ]
+      },
+      {
+        "data": "14/07",
+        "mes": "2026-07",
+        "destino": "Assunção (Paraguai)",
+        "pax": 9,
+        "servidores": [
+          {
+            "nome": "PAULO COSTA DO NASCIMENTO",
+            "cargo": "",
+            "diaria": "R$ 1349",
+            "passagem": "R$ 0",
+            "motivo": "O proposto acompanhará o senhor Ministro de Estado"
+          },
+          {
+            "nome": "ARACIBIO DA PAIXAO JUNIOR",
+            "cargo": "",
+            "diaria": "R$ 1312",
+            "passagem": "R$ 0",
+            "motivo": "O Proposto Chefe da Segurança Pessoal do Sr Minist"
+          },
+          {
+            "nome": "PRISCILA LEITE DE MESQUITA NOV",
+            "cargo": "",
+            "diaria": "R$ 1470",
+            "passagem": "R$ 0",
+            "motivo": "O Proposto, Chefe da Assessoria de Comunicações, a"
+          },
+          {
+            "nome": "FLAVIO MAREGA",
+            "cargo": "MINISTRO DE PRIMEIRA C",
+            "diaria": "R$ 1391",
+            "passagem": "R$ 0",
+            "motivo": "O Proposto, Assessor Internacional Especial, acomp"
+          },
+          {
+            "nome": "CARLOS VICTOR TEIXEIRA DE VASC",
+            "cargo": "",
+            "diaria": "R$ 1391",
+            "passagem": "R$ 0",
+            "motivo": "O Proposto, Chefe da Assessoria de Cerimonial, aco"
+          }
+        ]
       }
     ],
     "ministro-da-justica-e-seguranca-publica": [
@@ -12041,6 +12416,64 @@
             "motivo": "Participar da Inauguração do Centro de Imagem do H"
           }
         ]
+      },
+      {
+        "data": "28/05",
+        "mes": "2026-05",
+        "destino": "Uberlândia",
+        "pax": 10,
+        "servidores": [
+          {
+            "nome": "ALEXANDRE ROCHA SANTOS PADILHA",
+            "cargo": "",
+            "diaria": "R$ 375",
+            "passagem": "R$ 0",
+            "motivo": "Participar de agenda Oficial em Uberlandia/MG - En"
+          },
+          {
+            "nome": "MAFLAVIA APARECIDA LUIZ FERREI",
+            "cargo": "",
+            "diaria": "R$ 574",
+            "passagem": "R$ 4599",
+            "motivo": "Participar do Evento de Entrega de 7 vans e 20 mic"
+          },
+          {
+            "nome": "JERZEY TIMOTEO RIBEIRO SANTOS",
+            "cargo": "MEDICO - 24H",
+            "diaria": "R$ 0",
+            "passagem": "R$ 5416",
+            "motivo": "Participar do lançamento do Serviço do SAMU na cid"
+          },
+          {
+            "nome": "VITOR FERREIRA QUARENTA",
+            "cargo": "",
+            "diaria": "R$ 346",
+            "passagem": "R$ 0",
+            "motivo": "Acompanhar e assessorar o Sr. Ministro da Saúde em"
+          },
+          {
+            "nome": "LUIZ MARIO MACHADO RIBEIRO",
+            "cargo": "",
+            "diaria": "R$ 1992",
+            "passagem": "R$ 1895",
+            "motivo": "Acompanhar e assessorar o Sr. Ministro da Saúde em"
+          }
+        ]
+      },
+      {
+        "data": "10/06",
+        "mes": "2026-06",
+        "destino": "Ribeirão Preto",
+        "pax": 12,
+        "servidores": [
+          {
+            "nome": "JADERSON NOGUEIRA BRAGA",
+            "cargo": "",
+            "diaria": "R$ 1471",
+            "passagem": "R$ 3305",
+            "motivo": "Participação no ato de entrega de 51 veículos do S"
+          }
+        ]
       }
     ],
     "ministro-das-comunicacoes": [
@@ -13037,6 +13470,42 @@
             "motivo": "Participação no 27º Congresso Gaúcho de Rádio e Te"
           }
         ]
+      },
+      {
+        "data": "01/06",
+        "mes": "2026-06",
+        "destino": "Macapá",
+        "pax": 7,
+        "servidores": [
+          {
+            "nome": "VINICIUS SANTOS BOMEDIANO NOGU",
+            "cargo": "",
+            "diaria": "R$ 1274",
+            "passagem": "R$ 6090",
+            "motivo": "Viagem de Vinicius Santos Bomediano Nogueira para"
+          },
+          {
+            "nome": "DANIELA GONCALVES GARCIA",
+            "cargo": "",
+            "diaria": "R$ 298",
+            "passagem": "R$ 0",
+            "motivo": "Acompanhar e assessorar o Senhor Ministro de Estad"
+          },
+          {
+            "nome": "FRANCIS JUNIO VELOSO FERREIRA",
+            "cargo": "",
+            "diaria": "R$ 937",
+            "passagem": "R$ 3799",
+            "motivo": "O servidor realizará viagem a serviço ao Estado de"
+          },
+          {
+            "nome": "FREDERICO DE SIQUEIRA FILHO",
+            "cargo": "",
+            "diaria": "R$ 1146",
+            "passagem": "R$ 8946",
+            "motivo": "Participar de agenda institucional para a promoção"
+          }
+        ]
       }
     ],
     "ministro-de-minas-e-energia": [
@@ -13159,6 +13628,28 @@
             "diaria": "R$ 1072",
             "passagem": "R$ 3258",
             "motivo": "O servidor irá partcipar do evento Conexões MME -"
+          }
+        ]
+      },
+      {
+        "data": "08/06",
+        "mes": "2026-06",
+        "destino": "Luis Eduardo Magalhães",
+        "pax": 7,
+        "servidores": [
+          {
+            "nome": "GUSTAVO DE OLIVEIRA PRADO",
+            "cargo": "",
+            "diaria": "R$ 366",
+            "passagem": "R$ 0",
+            "motivo": "Dia 08/06: Realizar deslocamento, em aeronave da F"
+          },
+          {
+            "nome": "CAMILA MARA DA ROCHA",
+            "cargo": "",
+            "diaria": "R$ 271",
+            "passagem": "R$ 0",
+            "motivo": "Finalidade de acompanhar e assessorar o Ministro d"
           }
         ]
       }
@@ -13777,6 +14268,93 @@
             "motivo": "Participar do lançamento da Pedra Fundamental da F"
           }
         ]
+      },
+      {
+        "data": "03/05",
+        "mes": "2026-05",
+        "destino": "Porto Velho",
+        "pax": 9,
+        "servidores": [
+          {
+            "nome": "KARLA DE PAULA DA CUNHA",
+            "cargo": "",
+            "diaria": "R$ 1694",
+            "passagem": "R$ 6555",
+            "motivo": "A coordenadora irá acompanhar e organizar as agend"
+          },
+          {
+            "nome": "CARLOS EDUARDO PEREIRA DUARTE",
+            "cargo": "ESP EM REG DE SERV DE",
+            "diaria": "R$ 2651",
+            "passagem": "R$ 5011",
+            "motivo": "Participação do Assessor representando a DLA em ev"
+          }
+        ]
+      },
+      {
+        "data": "20/05",
+        "mes": "2026-05",
+        "destino": "Cuiabá",
+        "pax": 6,
+        "servidores": [
+          {
+            "nome": "ELAINE CRISTINA DE BRITTO LIRA",
+            "cargo": "TEC EM REG DE SERV DE",
+            "diaria": "R$ 1125",
+            "passagem": "R$ 3544",
+            "motivo": "Participação em viagem no período de 18 a 20/05/20"
+          },
+          {
+            "nome": "ISADORA PRADO ROCHA",
+            "cargo": "",
+            "diaria": "R$ 1125",
+            "passagem": "R$ 4061",
+            "motivo": "Participação em viagem no período de 18 a 20/05/20"
+          },
+          {
+            "nome": "WALESKA DE SOUSA GURGEL",
+            "cargo": "PROCURADOR FEDERAL",
+            "diaria": "R$ 1220",
+            "passagem": "R$ 4159",
+            "motivo": "Participação do 2º FÓRUM JURÍDICO a se realizar em"
+          },
+          {
+            "nome": "MYLENA MOREIRA DE ALENCASTRO C",
+            "cargo": "ESP. EM POL. PUBL. E G",
+            "diaria": "R$ 1220",
+            "passagem": "R$ 1762",
+            "motivo": "19 a 20/05/26 - 10h30/17h30 - Participar como Pain"
+          },
+          {
+            "nome": "ALEX ANTONIO DE AZEVEDO CRUZ",
+            "cargo": "",
+            "diaria": "R$ 1587",
+            "passagem": "R$ 4061",
+            "motivo": "Participação em viagem no período de 18 a 20/05/20"
+          }
+        ]
+      },
+      {
+        "data": "24/06",
+        "mes": "2026-06",
+        "destino": "Santa Maria",
+        "pax": 9,
+        "servidores": [
+          {
+            "nome": "MARIO AUGUSTO DA CUNHA FLORES",
+            "cargo": "TEC EM REG DE SERV DE",
+            "diaria": "R$ 1667",
+            "passagem": "R$ 0",
+            "motivo": "Viagem para Inspeção nº 018/2026/COFER-URSC de via"
+          },
+          {
+            "nome": "EMERSON DE MOURA ALVES",
+            "cargo": "TEC EM REG DE SERV DE",
+            "diaria": "R$ 1667",
+            "passagem": "R$ 1509",
+            "motivo": "Viagem para Inspeção nº 018/2026/COFER-URSC de via"
+          }
+        ]
       }
     ],
     "ministro-integracao-do-desenvolvimento-regional": [
@@ -14269,6 +14847,136 @@
             "diaria": "R$ 1220",
             "passagem": "R$ 4349",
             "motivo": "O Secretário acompanhará a comitiva do Ministro Wa"
+          }
+        ]
+      },
+      {
+        "data": "05/06",
+        "mes": "2026-06",
+        "destino": "Macapá",
+        "pax": 6,
+        "servidores": [
+          {
+            "nome": "JOSE ALBERTO DA SILVA TORRES F",
+            "cargo": "",
+            "diaria": "R$ 3172",
+            "passagem": "R$ 2925",
+            "motivo": "Participar do \"Evento microcrédito Oiapoque e Maca"
+          },
+          {
+            "nome": "KARLA TORRES LIMA",
+            "cargo": "",
+            "diaria": "R$ 2250",
+            "passagem": "R$ 2433",
+            "motivo": "A Assessora Especial acompanhará o Minsitro de Est"
+          },
+          {
+            "nome": "KAMILA MAIA NOGUEIRA",
+            "cargo": "",
+            "diaria": "R$ 1968",
+            "passagem": "R$ 4034",
+            "motivo": "A Assessora participará de reuniões preparatórias"
+          }
+        ]
+      },
+      {
+        "data": "05/06",
+        "mes": "2026-06",
+        "destino": "Rio Branco",
+        "pax": 4,
+        "servidores": [
+          {
+            "nome": "CLEITON MARCELINO PEREIRA",
+            "cargo": "ANALISTA TECNICO EXECU",
+            "diaria": "R$ 2946",
+            "passagem": "R$ 5766",
+            "motivo": "Vistorias para recebimento das máquinas do program"
+          },
+          {
+            "nome": "JEFERSON DE ANDRADE DA SILVA",
+            "cargo": "",
+            "diaria": "R$ 2946",
+            "passagem": "R$ 9972",
+            "motivo": "Vistorias para recebimento das máquinas do program"
+          },
+          {
+            "nome": "EDGAR BATISTA DE AZEVEDO CAETA",
+            "cargo": "ASSISTENTE TECNICO ADM",
+            "diaria": "R$ 759",
+            "passagem": "R$ 3362",
+            "motivo": "Participar, juntamente coom o Senhor Ministro Anto"
+          },
+          {
+            "nome": "DENILSON CAMPELLO DOS SANTOS",
+            "cargo": "",
+            "diaria": "R$ 1532",
+            "passagem": "R$ 4649",
+            "motivo": "Atender ao convite de comparecimento do Sr. Senado"
+          }
+        ]
+      },
+      {
+        "data": "08/06",
+        "mes": "2026-06",
+        "destino": "Macapá",
+        "pax": 2,
+        "servidores": [
+          {
+            "nome": "JOSE ALBERTO DA SILVA TORRES F",
+            "cargo": "",
+            "diaria": "R$ 3172",
+            "passagem": "R$ 2925",
+            "motivo": "Participar do \"Evento microcrédito Oiapoque e Maca"
+          },
+          {
+            "nome": "KARLA TORRES LIMA",
+            "cargo": "",
+            "diaria": "R$ 2250",
+            "passagem": "R$ 2433",
+            "motivo": "A Assessora Especial acompanhará o Minsitro de Est"
+          },
+          {
+            "nome": "KAMILA MAIA NOGUEIRA",
+            "cargo": "",
+            "diaria": "R$ 1968",
+            "passagem": "R$ 4034",
+            "motivo": "A Assessora participará de reuniões preparatórias"
+          },
+          {
+            "nome": "ANTONIO WALDEZ GOES DA SILVA",
+            "cargo": "AGENTE DE ATIV AGROPEC",
+            "diaria": "R$ 321",
+            "passagem": "R$ 2938",
+            "motivo": "O Senhor Ministro de Estado da Integração e do Des"
+          }
+        ]
+      },
+      {
+        "data": "08/06",
+        "mes": "2026-06",
+        "destino": "Oiapoque",
+        "pax": 3,
+        "servidores": [
+          {
+            "nome": "JOSE ALBERTO DA SILVA TORRES F",
+            "cargo": "",
+            "diaria": "R$ 3172",
+            "passagem": "R$ 2925",
+            "motivo": "Participar do \"Evento microcrédito Oiapoque e Maca"
+          },
+          {
+            "nome": "KARLA TORRES LIMA",
+            "cargo": "",
+            "diaria": "R$ 2250",
+            "passagem": "R$ 2433",
+            "motivo": "A Assessora Especial acompanhará o Minsitro de Est"
+          },
+          {
+            "nome": "ANTONIO WALDEZ GOES DA SILVA",
+            "cargo": "AGENTE DE ATIV AGROPEC",
+            "diaria": "R$ 321",
+            "passagem": "R$ 2938",
+            "motivo": "O Senhor Ministro de Estado da Integração e do Des"
           }
         ]
       }
@@ -14970,6 +15678,58 @@
             "diaria": "R$ 1124",
             "passagem": "R$ 6429",
             "motivo": "Convocação para receber o Ministro de Estado do Tr"
+          }
+        ]
+      },
+      {
+        "data": "11/05",
+        "mes": "2026-05",
+        "destino": "Boa Vista",
+        "pax": 12,
+        "servidores": [
+          {
+            "nome": "GIULIANA CAMBAUVA ORLANDI CASS",
+            "cargo": "AUDITOR FISCAL DO TRAB",
+            "diaria": "R$ 1588",
+            "passagem": "R$ 4696",
+            "motivo": "Acompanhar e assessorar o Sr. Secretário de Inspeç"
+          }
+        ]
+      },
+      {
+        "data": "16/07",
+        "mes": "2026-07",
+        "destino": "Maceió",
+        "pax": 11,
+        "servidores": [
+          {
+            "nome": "LUIZ HENRIQUE RAMOS LOPES",
+            "cargo": "AUDITOR FISCAL DO TRAB",
+            "diaria": "R$ 1057",
+            "passagem": "R$ 0",
+            "motivo": "Acompanhar  Ministro  para Assinatura de adesão ao"
+          },
+          {
+            "nome": "CESAR DOS SANTOS FONTOURA MARQ",
+            "cargo": "AUDITOR FISCAL DO TRAB",
+            "diaria": "R$ 113",
+            "passagem": "R$ 0",
+            "motivo": "Realizar fiscalizações trabalhistas para cumprimen"
+          }
+        ]
+      },
+      {
+        "data": "16/07",
+        "mes": "2026-07",
+        "destino": "Petrolina",
+        "pax": 9,
+        "servidores": [
+          {
+            "nome": "LUIZ HENRIQUE RAMOS LOPES",
+            "cargo": "AUDITOR FISCAL DO TRAB",
+            "diaria": "R$ 1057",
+            "passagem": "R$ 0",
+            "motivo": "Acompanhar  Ministro  para Assinatura de adesão ao"
           }
         ]
       }
