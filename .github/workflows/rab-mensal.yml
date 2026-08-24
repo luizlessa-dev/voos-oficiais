@@ -34,14 +34,21 @@ jobs:
       - name: Mapear frotas públicas (baixa RAB + processa)
         run: python ingestao/mapear_frotas_pub.py
 
+      # Full refresh mensal — não depende de CSV novo do GABAER, o PNCP tem
+      # ritmo próprio de publicação de contratos. Falha de API não derruba
+      # o job (o refresh do RAB acima já rodou e é o que importa mais).
+      - name: Atualizar contratos PNCP (FAB + Min. Defesa)
+        run: python ingestao/pncp_contratos_fab.py || echo "::warning::PNCP falhou (API fora/instável?) — seguindo sem atualizar"
+
       - name: Commitar se mudou
         run: |
           git config user.name  "rab-watch[bot]"
           git config user.email "rab-watch@users.noreply.github.com"
-          git add dados/frotas_pub.json dados/analises/frotas_pub.md
+          git add dados/frotas_pub.json dados/analises/frotas_pub.md \
+                  dados/pncp_contratos.json dados/analises/pncp_contratos.md
           if git diff --cached --quiet; then
-            echo "Frota pública idêntica — nada a commitar."
+            echo "Frota pública e contratos PNCP idênticos — nada a commitar."
           else
-            git commit -m "rab: atualização mensal da frota pública $(date -u +%Y-%m-%d)"
+            git commit -m "rab+pncp: atualização mensal da frota pública e contratos $(date -u +%Y-%m-%d)"
             git push
           fi

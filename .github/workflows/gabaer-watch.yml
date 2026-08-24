@@ -101,6 +101,24 @@ jobs:
             esac
           done
 
+      # Gera dados/analises/dou_AAAA-MM.md checando o DOU pra voos suspeitos
+      # (fim de semana, sequência, destino atípico) — cobertura de cargo
+      # limitada ao mapa CARGO_TERMOS do script; cargo sem termo mapeado é
+      # pulado silenciosamente pelo próprio script, não é falha do workflow.
+      - name: Cruzamento Diário Oficial da União (DOU)
+        if: steps.ingestao.outputs.tem_novos == 'true'
+        run: |
+          IFS=',' read -ra ARQS <<< "${{ steps.ingestao.outputs.arquivos_lista }}"
+          for a in "${ARQS[@]}"; do
+            case "$a" in
+              voos_*.csv)
+                echo "Cruzando $a com o DOU..."
+                python analise/cruzar_dou.py "dados/snapshots/$a" \
+                  || echo "::warning::cruzamento DOU de $a falhou (site fora/rate limit?) — seguindo sem ele"
+                ;;
+            esac
+          done
+
       - name: Regenerar dados derivados (histórico, ranking, destinos, comitiva)
         if: steps.ingestao.outputs.tem_novos == 'true'
         run: |
