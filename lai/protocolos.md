@@ -17,6 +17,6 @@
 - [x] ~~Protocolar LAI 5~~ — respondida sem mérito
 - [x] ~~Redigir reenvio de passageiros MEC~~ — pronta em `pedido_lai_passageiros_mec_v2.md`, falta protocolar (prazo de recurso das LAIs 2/3 já vencido — só resta pedido novo)
 - [x] ~~Redigir reenvio de passageiros "À Disposição do Min. Defesa"~~ — pronta em `pedido_lai_passageiros_defesa_v2.md`, falta protocolar
-- [ ] Protocolar LAI 6 (MEC) no Fala.BR — preencher CPF e enviar
-- [ ] Protocolar LAI 7 (Min. Defesa) no Fala.BR — preencher CPF e enviar
+- [ ] Protocolar LAI 6 (MEC) no Informa.BR (informabr.cgu.gov.br, login Gov.br) — preencher CPF e enviar
+- [ ] Protocolar LAI 7 (Min. Defesa) no Informa.BR (informabr.cgu.gov.br, login Gov.br) — preencher CPF e enviar
 - [ ] Solicitar/confirmar recebimento dos 2 TCIs prometidos na LAI 4

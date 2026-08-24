@@ -1,14 +1,14 @@
 # LAI v2 — Manifesto de Passageiros / Ministério da Educação (2021–2022) — pedido direto ao MEC
 
 **Destino:** Ministério da Educação (MEC)
-**Plataforma:** Fala.BR (falabr.cgu.gov.br)
+**Plataforma:** Informa.BR (informabr.cgu.gov.br) — CGU migrou os pedidos LAI do Fala.BR pro Informa.BR em 30/06/2026; requer conta Gov.br
 **Esfera:** Federal
 **Assunto:** Educação (ou "Acesso à Informação" genérico, se "Educação" não cobrir viagens/administrativo)
 **Resumo:** Manifesto de passageiros de voos internacionais em aeronaves da FAB, Ministério da Educação, 2021–2022 — pedido reencaminhado após o COMAER declinar competência
 
 ---
 
-## Texto do pedido (colar no Fala.BR)
+## Texto do pedido (colar no Informa.BR)
 
 Solicito, com base na Lei nº 12.527/2011 (Lei de Acesso à Informação), no Decreto nº 10.267/2020 e no Acórdão do Tribunal de Contas da União TC 008.687/2024-2, o fornecimento dos **manifestos de passageiros** (lista nominal completa de todos os ocupantes) dos voos abaixo, realizados em aeronaves da Força Aérea Brasileira em missões do Ministério da Educação:
 
@@ -94,7 +94,7 @@ CPF: [completar]
 
 ## Instruções de protocolo
 
-1. Acessar falabr.cgu.gov.br → "Fazer uma solicitação" → "Pedido de Acesso à Informação"
+1. Acessar informabr.cgu.gov.br (login Gov.br) → "Fazer uma solicitação" → "Pedido de Acesso à Informação"
 2. Órgão: **Ministério da Educação (MEC)**
 3. Esfera: **Federal**
 4. Assunto: **Educação** (testar; se o formulário não aceitar viagem/administrativo sob esse assunto, usar "Outros")
