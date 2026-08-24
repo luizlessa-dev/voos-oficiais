@@ -36,6 +36,13 @@ THROTTLE = 1.5  # segundos entre chamadas
 # Mapeamento cargo (GABAER) → termos de busca no DOU
 # O DOU cita o nome da pessoa, não o cargo — mas o cargo aparece nos atos
 CARGO_TERMOS: dict[str, list[str]] = {
+    # "Vice-Presidente da República" tem que vir ANTES de "Presidente da
+    # República": termos_para_cargo() casa por substring nos dois sentidos,
+    # e "presidente da república" é substring de "vice-presidente da
+    # república" — sem essa entrada primeiro, Vice-Presidente herdava os
+    # termos de busca do Lula por engano (achado testando a automação em
+    # 2026-08-24, cargo nunca tinha sido cruzado com o DOU antes).
+    "Vice-Presidente da República":          ["Geraldo Alckmin"],
     "Presidente da República":               ["Lula", "Luiz Inácio Lula da Silva"],
     "Presidente da Câmara dos Deputados":    ["Hugo Motta"],
     "Presidente do Congresso Nacional":      ["Davi Alcolumbre"],
@@ -48,12 +55,12 @@ CARGO_TERMOS: dict[str, list[str]] = {
     "Ministro da Educação":                  ["Camilo Santana", "Leonardo Barchini"],
     "Ministro da Justiça e Segurança Pública":["Wellington César", "Lewandowski"],
     "Ministro de Portos e Aeroportos":       ["Silvio Costa Filho", "Tomé Barros"],
-    "Ministro das Comunicações":             ["Juscelino Kubitschek", "Frederico Siqueira"],
+    "Ministro das Comunicações":             ["Frederico Siqueira"],
     "Ministro das Cidades":                  ["Jader Barbalho", "Vladimir Lima"],
     "Ministro do Trabalho e Emprego":        ["Luiz Marinho"],
     "Ministro do Turismo":                   ["Celso Sabino"],
     "Ministro Integração do Desenvolvimento Regional": ["Waldez Góes"],
-    "Ministro das Comunicações":             ["Frederico Siqueira"],
+    "Ministro dos Povos Indígenas":          ["Sônia Guajajara"],
     "Comandante do Exército":                ["Tomás Paiva"],
     "Comandante da Marinha":                 ["Marcos Sampaio Olsen"],
     "Comandante da Aeronáutica":             ["Marcelo Kanitz Damasceno"],
