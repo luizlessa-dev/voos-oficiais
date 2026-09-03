@@ -3,9 +3,9 @@
     "descricao": "Frotas de aeronaves de órgãos públicos não-FAB registradas no RAB/ANAC.",
     "fonte": "Registro Aeronáutico Brasileiro (ANAC)",
     "url": "https://sistemas.anac.gov.br/dadosabertos/Aeronaves/RAB/dados_aeronaves.csv",
-    "data_rab": "2026-08-23",
-    "gerado": "2026-08-23",
-    "total_aeronaves": 324,
+    "data_rab": "2026-09-03",
+    "gerado": "2026-09-03",
+    "total_aeronaves": 325,
     "nota": "Exclui aeronaves da Aeronáutica/FAB (cobertas pelo GABAER). Inclui aeronaves ativas (sem data de cancelamento)."
   },
   "frotas": {
@@ -96,16 +96,6 @@
           "uf": "GO"
         },
         {
-          "marca": "PRGEG",
-          "modelo": "C90GT",
-          "fabricante": "RAYTHEON AIRCRAFT",
-          "tipo": "MLTE",
-          "icao": "BE9L",
-          "pax_max": "7",
-          "ano": "2006",
-          "uf": "GO"
-        },
-        {
           "marca": "PTSTK",
           "modelo": "525",
           "fabricante": "CESSNA AIRCRAFT",
@@ -113,6 +103,16 @@
           "icao": "C525",
           "pax_max": "6",
           "ano": "1999",
+          "uf": "GO"
+        },
+        {
+          "marca": "PRGEG",
+          "modelo": "C90GT",
+          "fabricante": "RAYTHEON AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE9L",
+          "pax_max": "7",
+          "ano": "2006",
           "uf": "GO"
         },
         {
@@ -242,6 +242,28 @@
           "uf": "BA"
         }
       ],
+      "ESTADO DO MARANHAO - SECRETARIA DE ESTADO DA SEGURANCA PUBLICA": [
+        {
+          "marca": "PRMRH",
+          "modelo": "MBB BK 117 C-2",
+          "fabricante": "EUROCOPTER DEUTSCHLAND",
+          "tipo": "HMLT",
+          "icao": "EC45",
+          "pax_max": "9",
+          "ano": "2010",
+          "uf": "MA"
+        },
+        {
+          "marca": "PTKJT",
+          "modelo": "310Q",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "C310",
+          "pax_max": "5",
+          "ano": "1974",
+          "uf": "GO"
+        }
+      ],
       "SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA ¿ SSP/MA": [
         {
           "marca": "PREBH",
@@ -264,38 +286,6 @@
           "pax_max": "5",
           "ano": "2018",
           "uf": "Indisponível"
-        }
-      ],
-      "SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA DE MATO GROSSO": [
-        {
-          "marca": "PSSEG",
-          "modelo": "PA-31T",
-          "fabricante": "PIPER AIRCRAFT",
-          "tipo": "MLTE",
-          "icao": "PAY2",
-          "pax_max": "6",
-          "ano": "1979",
-          "uf": "MT"
-        },
-        {
-          "marca": "PSSMT",
-          "modelo": "AS 350 B3",
-          "fabricante": "HELIBRAS",
-          "tipo": "HMNT",
-          "icao": "AS50",
-          "pax_max": "5",
-          "ano": "2021",
-          "uf": "MT"
-        },
-        {
-          "marca": "PSSSP",
-          "modelo": "B200GT",
-          "fabricante": "HAWKER BEECHCRAFT",
-          "tipo": "MLTE",
-          "icao": "BE20",
-          "pax_max": "09",
-          "ano": "2016",
-          "uf": "MT"
         }
       ],
       "CASA MILITAR DO ESTADO DE RORAIMA": [
@@ -836,6 +826,38 @@
           "uf": "SP"
         }
       ],
+      "SECRETARIA DE ESTADO DE SEGURANÇA PÚBLICA DE MATO GROSSO": [
+        {
+          "marca": "PSSEG",
+          "modelo": "PA-31T",
+          "fabricante": "PIPER AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "PAY2",
+          "pax_max": "6",
+          "ano": "1979",
+          "uf": "MT"
+        },
+        {
+          "marca": "PSSMT",
+          "modelo": "AS 350 B3",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2021",
+          "uf": "MT"
+        },
+        {
+          "marca": "PSSSP",
+          "modelo": "B200GT",
+          "fabricante": "HAWKER BEECHCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE20",
+          "pax_max": "09",
+          "ano": "2016",
+          "uf": "MT"
+        }
+      ],
       "GOVERNO DO ESTADO DO PARANÁ": [
         {
           "marca": "PTTRC",
@@ -1052,28 +1074,6 @@
           "pax_max": "5",
           "ano": "2009",
           "uf": "AC"
-        }
-      ],
-      "ESTADO DO MARANHAO - SECRETARIA DE ESTADO DA SEGURANCA PUBLICA": [
-        {
-          "marca": "PTKJT",
-          "modelo": "310Q",
-          "fabricante": "CESSNA AIRCRAFT",
-          "tipo": "MLTE",
-          "icao": "C310",
-          "pax_max": "5",
-          "ano": "1974",
-          "uf": "GO"
-        },
-        {
-          "marca": "PRMRH",
-          "modelo": "MBB BK 117 C-2",
-          "fabricante": "EUROCOPTER DEUTSCHLAND",
-          "tipo": "HMLT",
-          "icao": "EC45",
-          "pax_max": "9",
-          "ano": "2010",
-          "uf": "MA"
         }
       ],
       "SECRETARIA DE SEGURANÇA, DEFESA E CIDADANIA DE RONDÔNIA": [
@@ -1314,31 +1314,17 @@
           "uf": "SP"
         }
       ],
-      "POLICIA MILITAR DO EST.DE SAO PAULO": [
+      "POLÍCIA MILITAR DO ESTADO DE MINAS GERAIS": [
         {
-          "marca": "PTHYL",
+          "marca": "PPEJN",
           "modelo": "AS 350 B2",
           "fabricante": "HELIBRAS",
           "tipo": "HMNT",
           "icao": "AS50",
           "pax_max": "5",
-          "ano": "1993",
-          "uf": "SP"
-        }
-      ],
-      "POLÍCIA MILITAR DO ESTADO DE RONDÔNIA": [
-        {
-          "marca": "PTVGK",
-          "modelo": "EMB-810D",
-          "fabricante": "NEIVA",
-          "tipo": "MLTE",
-          "icao": "PA34",
-          "pax_max": "5",
-          "ano": "1987",
-          "uf": "MT"
-        }
-      ],
-      "POLÍCIA MILITAR DO ESTADO DE MINAS GERAIS": [
+          "ano": "1998",
+          "uf": "MG"
+        },
         {
           "marca": "PPLCE",
           "modelo": "550 BRAVO",
@@ -1378,6 +1364,30 @@
           "pax_max": "5",
           "ano": "2019",
           "uf": "MG"
+        }
+      ],
+      "POLICIA MILITAR DO EST.DE SAO PAULO": [
+        {
+          "marca": "PTHYL",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "1993",
+          "uf": "SP"
+        }
+      ],
+      "POLÍCIA MILITAR DO ESTADO DE RONDÔNIA": [
+        {
+          "marca": "PTVGK",
+          "modelo": "EMB-810D",
+          "fabricante": "NEIVA",
+          "tipo": "MLTE",
+          "icao": "PA34",
+          "pax_max": "5",
+          "ano": "1987",
+          "uf": "MT"
         }
       ],
       "POLICIA MILITAR DO ESTADO DE SAO PAULO": [
@@ -1962,6 +1972,80 @@
           "uf": "RJ"
         }
       ],
+      "POLICIA CIVIL DO EST.DE MINAS GERAIS": [
+        {
+          "marca": "PPESQ",
+          "modelo": "AS 350 B2",
+          "fabricante": "HELIBRAS",
+          "tipo": "HMNT",
+          "icao": "AS50",
+          "pax_max": "5",
+          "ano": "2001",
+          "uf": "MG"
+        },
+        {
+          "marca": "PPEVB",
+          "modelo": "EMB-721D",
+          "fabricante": "NEIVA",
+          "tipo": "MNTE",
+          "icao": "P32R",
+          "pax_max": "6",
+          "ano": "1980",
+          "uf": "MG"
+        },
+        {
+          "marca": "PPFPS",
+          "modelo": "182N",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C182",
+          "pax_max": "3",
+          "ano": "1970",
+          "uf": "MG"
+        }
+      ],
+      "DEPARTAMENTO DE REPRESSÃO À CORRUPÇÃO E AO CRIME ORGANIZADO DA POLÍCIA CIVIL DE MATO GROSSO DO SUL - DRACCO": [
+        {
+          "marca": "PRVIB",
+          "modelo": "58",
+          "fabricante": "BEECH AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "1977",
+          "uf": "PR"
+        },
+        {
+          "marca": "PTBPE",
+          "modelo": "185",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C185",
+          "pax_max": "5",
+          "ano": "1961",
+          "uf": "MS"
+        },
+        {
+          "marca": "PRVVV",
+          "modelo": "58",
+          "fabricante": "RAYTHEON AIRCRAFT",
+          "tipo": "MLTE",
+          "icao": "BE58",
+          "pax_max": "5",
+          "ano": "1986",
+          "uf": "SP"
+        },
+        {
+          "marca": "PSONE",
+          "modelo": "210N",
+          "fabricante": "CESSNA AIRCRAFT",
+          "tipo": "MNTE",
+          "icao": "C210",
+          "pax_max": "5",
+          "ano": "1980",
+          "uf": "MS"
+        }
+      ],
       "POLÍCIA CIVIL DO RIO GRANDE DO SUL": [
         {
           "marca": "PRIPC",
@@ -2070,48 +2154,6 @@
           "uf": "RJ"
         }
       ],
-      "DEPARTAMENTO DE REPRESSÃO À CORRUPÇÃO E AO CRIME ORGANIZADO DA POLÍCIA CIVIL DE MATO GROSSO DO SUL - DRACCO": [
-        {
-          "marca": "PTBPE",
-          "modelo": "185",
-          "fabricante": "CESSNA AIRCRAFT",
-          "tipo": "MNTE",
-          "icao": "C185",
-          "pax_max": "5",
-          "ano": "1961",
-          "uf": "MS"
-        },
-        {
-          "marca": "PRVIB",
-          "modelo": "58",
-          "fabricante": "BEECH AIRCRAFT",
-          "tipo": "MLTE",
-          "icao": "BE58",
-          "pax_max": "5",
-          "ano": "1977",
-          "uf": "PR"
-        },
-        {
-          "marca": "PRVVV",
-          "modelo": "58",
-          "fabricante": "RAYTHEON AIRCRAFT",
-          "tipo": "MLTE",
-          "icao": "BE58",
-          "pax_max": "5",
-          "ano": "1986",
-          "uf": "SP"
-        },
-        {
-          "marca": "PSONE",
-          "modelo": "210N",
-          "fabricante": "CESSNA AIRCRAFT",
-          "tipo": "MNTE",
-          "icao": "C210",
-          "pax_max": "5",
-          "ano": "1980",
-          "uf": "MS"
-        }
-      ],
       "POLÍCIA CIVIL DO ESTADO DO TOCANTINS": [
         {
           "marca": "PREDC",
@@ -2134,38 +2176,6 @@
           "pax_max": "5",
           "ano": "2025",
           "uf": "GO"
-        }
-      ],
-      "POLICIA CIVIL DO EST.DE MINAS GERAIS": [
-        {
-          "marca": "PPEVB",
-          "modelo": "EMB-721D",
-          "fabricante": "NEIVA",
-          "tipo": "MNTE",
-          "icao": "P32R",
-          "pax_max": "6",
-          "ano": "1980",
-          "uf": "MG"
-        },
-        {
-          "marca": "PPFPS",
-          "modelo": "182N",
-          "fabricante": "CESSNA AIRCRAFT",
-          "tipo": "MNTE",
-          "icao": "C182",
-          "pax_max": "3",
-          "ano": "1970",
-          "uf": "MG"
-        },
-        {
-          "marca": "PPESQ",
-          "modelo": "AS 350 B2",
-          "fabricante": "HELIBRAS",
-          "tipo": "HMNT",
-          "icao": "AS50",
-          "pax_max": "5",
-          "ano": "2001",
-          "uf": "MG"
         }
       ],
       "POLÍCIA CIVIL DO ESTADO DE RONDÔNIA": [
@@ -3224,6 +3234,16 @@
           "uf": "SP"
         },
         {
+          "marca": "PSIBG",
+          "modelo": "AW119MKII",
+          "fabricante": "AGUSTA",
+          "tipo": "HMNT",
+          "icao": "A119",
+          "pax_max": "7",
+          "ano": "2013",
+          "uf": "SP"
+        },
+        {
           "marca": "PSIBC",
           "modelo": "AW119MKII",
           "fabricante": "AGUSTA",
@@ -3252,16 +3272,6 @@
           "pax_max": "7",
           "ano": "2014",
           "uf": "PR"
-        },
-        {
-          "marca": "PSIBG",
-          "modelo": "AW119MKII",
-          "fabricante": "AGUSTA",
-          "tipo": "HMNT",
-          "icao": "A119",
-          "pax_max": "7",
-          "ano": "2013",
-          "uf": "SP"
         },
         {
           "marca": "PSIBD",

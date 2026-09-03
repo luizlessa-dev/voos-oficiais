@@ -1,12 +1,211 @@
 {
   "_meta": {
-    "gerado": "2026-06-08T09:16:19.109523",
+    "gerado": "2026-09-03T14:13:42.165681",
     "anos": [
+      2023,
       2024,
       2025
     ]
   },
   "contratos": [
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-000148/2023",
+      "objeto": "APL: AQUISIÇÃO DE REFLETORES PARA O PÁTIO DE AERONAVES - PAM/S N°: 0019/SSG/2023 - DISPENSA ELETRÔNICA N°: 004/BAFL/2023 - NUP. N°: 67272.001815/2023-81 - CNAE 2740-6/02",
+      "fornecedor": "V G DA SILVA SOLUCOES EM ILUMINACAO",
+      "valor": 5123.6,
+      "vigencia_ini": "2023-04-20",
+      "vigencia_fim": "2023-12-31",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "combustível",
+      "id": "00394429000100-2-000195/2023",
+      "objeto": "PAM 072/DO-3/2023  *  MANUTENÇÃO BOMBA COMBUSTÍVEL  *  APLIC.: DIE-2 GAP-RJ  *  CÓD CNAE 7120-1/00",
+      "fornecedor": "RUMO INSTALACOES, MANUTENCOES, REFORMAS EM GERAL E COM",
+      "valor": 5750.0,
+      "vigencia_ini": "2023-04-18",
+      "vigencia_fim": "2023-12-31",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "combustível",
+      "id": "00394429000100-2-000508/2023",
+      "objeto": "APL: CINDACTA II  (SERVIÇO DE LAVAGEM DE TANQUES DE COMBUSTÍVEL)          \r\nORDEM DE COMPRA: 23E0694 \r\nCONTRATO Nº 012/CINDACTAII/2023\r\nGGR",
+      "fornecedor": "MENOSPOL AMBIENTAL LTDA",
+      "valor": 122800.0,
+      "vigencia_ini": "2023-06-29",
+      "vigencia_fim": "2023-12-31",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "combustível",
+      "id": "00394429000100-2-000540/2023",
+      "objeto": "O OBJETO DO PRESENTE INSTRUMENTO É A CONTRATAÇÃO DE SERVIÇOS DE LAVAGEM DE TANQUES DE COMBUSTÍVEL DE GRUPOS GERADORES SOB RESPONSABILIDADE DO CINDACTA II, NAS CONDIÇÕES ESTABELECIDAS NO TERMO DE REFER",
+      "fornecedor": "MENOSPOL AMBIENTAL LTDA",
+      "valor": 122800.0,
+      "vigencia_ini": "2023-07-10",
+      "vigencia_fim": "2024-07-10",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-000711/2023",
+      "objeto": "SOLICITAÇÃO DE EMPENHO N° 23S1130 - MATERIAL PARA MANUTENÇÃO DE VEICULOS.\r\nAPLICAÇÃO: HÉLICE DE MOTOR DE POPA PARA AS EMBARCAÇÕES DA SEÇÃO DE INSTRUÇÃO MILITAR CCAER (SIM) EM APOIO À FORMAÇÃO DE CADET",
+      "fornecedor": "NORTE COMERCIO, ENGENHARIA E LOCACOES LTDA",
+      "valor": 1361.58,
+      "vigencia_ini": "2023-07-27",
+      "vigencia_fim": "2023-12-31",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001039/2023",
+      "objeto": "CONTRATAÇÃO DE SERVIÇO DE SUPORTE LOGÍSTICO PARA O MISSION SUPPORT CENTER DA AERONAVE P-3AM.",
+      "fornecedor": "FLIGHT SIMULATOR SYSTEM - SISTEMAS DE SIMULADORES PARA AERONAVES LTDA",
+      "valor": 1595440.0,
+      "vigencia_ini": "2023-08-18",
+      "vigencia_fim": "2025-02-17",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001129/2023",
+      "objeto": "O OBJETO DO PRESENTE INSTRUMENTO É A CONTRATAÇÃO DE SERVIÇOS DE TRANSPORTE DE VEÍCULOS AUTOMOTORES EM CAMINHÃO CARRETA TIPO CEGONHA PARA TRANSPORTE DE VEÍCULOS DO GAP-BE PARA OUTRAS UNIDADES DA FAB.",
+      "fornecedor": "H. F. CORREIA TRANSPORTES",
+      "valor": 72758.0,
+      "vigencia_ini": "2023-08-21",
+      "vigencia_fim": "2024-08-21",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001294/2023",
+      "objeto": "S.C. 020097 - CLASSE 2940 (FILTROS DE AR E DE ÓLEO, ELEMENTOS FILTRANTES E PURIFICADO- RES DE MOTORES, EXCETO DE AERONAVES) ATENDER NECESSIDADES DO 1º GDA - CONTATO TEN BILHÃO 3329-7432. PRAZO DE ENTR",
+      "fornecedor": "ADEMAR MARINHO PEREIRA 46523286720",
+      "valor": 503.6,
+      "vigencia_ini": "2023-09-14",
+      "vigencia_fim": "2023-12-31",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001368/2023",
+      "objeto": "SERVIÇO DE LAVAGEM E HIGIENIZAÇÃO DE  ROUPAS DE CAMA, MESA, BANHO E CAPAS DE  ASSENTO DE AERONAVES.",
+      "fornecedor": "G FERREIRA EMPREENDIMENTOS",
+      "valor": 135720.0,
+      "vigencia_ini": "2023-09-27",
+      "vigencia_fim": "2024-09-27",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001369/2023",
+      "objeto": "CONTRATAÇÃO DE SERVIÇO DE MANUTENÇÃO PREVENTIVA E CORRETIVA DE 03(TRÊS) GRUPOS MOTORES GERADORES DE ENERGIA ELÉTRICA, COM FORNECIMENTO DE TODO O MATERIAL NECESSÁRIO (INSUMOS, MATERIAIS, PEÇAS, EQUIPAM",
+      "fornecedor": "POLO ENGENHARIA.COM LTDA",
+      "valor": 57068.0,
+      "vigencia_ini": "2023-10-02",
+      "vigencia_fim": "2024-10-01",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001438/2023",
+      "objeto": "CURSO DE PÓS GRADUAÇÃO  LATU SENSU EM ENGENHARIA DE MANUTENÇÃO AERONÁUTICA, DESIGNADA AO TEN QOENG MEC CAMILO ROCHA ARAÚJO  -   APL:  PAMA-LS",
+      "fornecedor": "SOCIEDADE MINEIRA DE CULTURA",
+      "valor": 2067.0,
+      "vigencia_ini": "2023-08-22",
+      "vigencia_fim": "2023-12-31",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001700/2023",
+      "objeto": "O OBJETO DO PRESENTE INSTRUMENTO É A CONTRATAÇÃO DE SERVIÇOS COMUNS DE EMPRESA ESPECIALIZADA PARA A REVISÃO GERAL DO MOTOR CUMMINS, MODELO QST30, COM INSTALAÇÃO E FORNECIMENTO DE PEÇAS.",
+      "fornecedor": "DISTRIBUIDORA MERIDIONAL DE MOTORES CUMMINS S/A",
+      "valor": 159034.92,
+      "vigencia_ini": "2023-10-24",
+      "vigencia_fim": "2024-10-23",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001766/2023",
+      "objeto": "AQUISIÇÃO DE UPS PARA SIMULADOR DA AERONAVE C-105",
+      "fornecedor": "LEGRAND BRASIL LTDA",
+      "valor": 618700.0,
+      "vigencia_ini": "2023-11-14",
+      "vigencia_fim": "2024-11-14",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "combustível",
+      "id": "00394429000100-2-001867/2023",
+      "objeto": "O OBJETO DO PRESENTE INSTRUMENTO É A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS CONTÍNUOS DE LOCAÇÃO DE VEÍCULOS PARA LOCOMOÇÃO (SEM MOTORISTA E SEM COMBUSTÍVEL), NA FORMA DIÁRIA,",
+      "fornecedor": "T8T SERVICOS AUXILIARES DE TRANSPORTES AEREOS LTDA",
+      "valor": 56000.0,
+      "vigencia_ini": "2023-11-01",
+      "vigencia_fim": "2024-11-01",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001919/2023",
+      "objeto": "SUPORTE LOGÍSTICO PARA A CÉLULA DAS AERONAVES H-XBR DAS FORÇAS ARMADAS (FA)",
+      "fornecedor": "HELICOPTEROS DO BRASIL S/A HELIBRAS",
+      "valor": 851770012.92,
+      "vigencia_ini": "2023-12-01",
+      "vigencia_fim": "2028-12-01",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-002017/2023",
+      "objeto": "CONTRATAÇÃO DE SUPORTE LOGÍSTICO PARA A FROTA DE AERONAVES IU-50",
+      "fornecedor": "EMBRAER S.A.",
+      "valor": 67277870.2,
+      "vigencia_ini": "2023-12-11",
+      "vigencia_fim": "2026-12-11",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-002004/2023",
+      "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO AERONÁUTICO PARA A PRESTAÇÃO DE SUPORTE LOGÍSTICO PARA O MOTOR J85-GE-21C",
+      "fornecedor": "AVIO DO BRASIL FABRICACAO E MANUTENCAO DE MOTORES E PECAS PARA AERONAVES LTDA.",
+      "valor": 79769425.27,
+      "vigencia_ini": "2023-12-08",
+      "vigencia_fim": "2028-12-08",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-002060/2023",
+      "objeto": "O OBJETO DO PRESENTE INSTRUMENTO É A CONTRATAÇÃO DE SERVIÇOS DE MANUTENÇÃO, COM TROCA DE COMPONENTES, ÓLEO E FILTROS INCLUSOS E ATENDIMENTO EMERGENCIAL COM COBERTURA DE PEÇAS E INSUMOS, EM UM GRUPO MO",
+      "fornecedor": "DELTA RJA SOCIEDADE LTDA",
+      "valor": 17268.0,
+      "vigencia_ini": "2023-12-26",
+      "vigencia_fim": "2024-12-25",
+      "modalidade": ""
+    },
     {
       "orgao": "FAB",
       "categoria": "aeronave/manutenção",
@@ -87,6 +286,17 @@
     {
       "orgao": "FAB",
       "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-000510/2024",
+      "objeto": "CONTRATAÇÃO DE SUPORTE LOGÍSTICO PARA A FROTA DE AERONAVES C-99/VC-99/E-99M/R-99",
+      "fornecedor": "ATM MANUTENCAO DE AERONAVES E TURBINAS LTDA",
+      "valor": 278065918.03,
+      "vigencia_ini": "2024-08-22",
+      "vigencia_fim": "2027-08-22",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
       "id": "00394429000100-2-000536/2024",
       "objeto": "CONTRATAÇÃO DE SERVIÇOS COMUNS DE COLETA, TRANSPORTE E TRATAMENTO DE EFLUENTES OU PRODUTO QUÍMICO INDUSTRIAL UTILIZADO NA LAVAGEM, PINTURA OU MANUTENÇÃO DE AERONAVES.",
       "fornecedor": "GREEN SERVICE EFLUENTES LTDA",
@@ -109,12 +319,56 @@
     {
       "orgao": "FAB",
       "categoria": "aeronave/manutenção",
-      "id": "00394429000100-2-000510/2024",
-      "objeto": "CONTRATAÇÃO DE SUPORTE LOGÍSTICO PARA A FROTA DE AERONAVES C-99/VC-99/E-99M/R-99",
-      "fornecedor": "ATM MANUTENCAO DE AERONAVES E TURBINAS LTDA",
-      "valor": 278065918.03,
-      "vigencia_ini": "2024-08-22",
-      "vigencia_fim": "2027-08-22",
+      "id": "00394429000100-2-000656/2024",
+      "objeto": "CONTRATAÇÃO DE TREINAMENTO COMPLETO, SOB DEMANDA, PARA PILOTOS, TEÓRICO E PRÁTICO, PARA A AERONAVE A330",
+      "fornecedor": "AZUL LINHAS AEREAS BRASILEIRAS S.A.",
+      "valor": 9282255.78,
+      "vigencia_ini": "2024-08-29",
+      "vigencia_fim": "2027-08-29",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "combustível",
+      "id": "00394429000100-2-000692/2024",
+      "objeto": "O OBJETO DO PRESENTE INSTRUMENTO É A CESSÃO DE USO A TÍTULO ONEROSO DE ÁREA ÚTIL TOTAL DE 152,80 M² LOCALIZADA NA ESTRADA DO GALEÃO Nº 5.340, ILHA DO GOVERNADOR, RIO DE JANEIRO - RJ, VISANDO A INSTALA",
+      "fornecedor": "POSTO DE GASOLINA CANARIAS LTDA",
+      "valor": 3450000.0,
+      "vigencia_ini": "2024-08-13",
+      "vigencia_fim": "2029-08-13",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-000703/2024",
+      "objeto": "CONTRATAÇÃO DO SERVIÇO DE LAVAGEM E HIGIENIZAÇÃO  DE ROUPAS DE CAMA, MESA E BANHO E  CAPAS DE ASSENTOS DE AERONAVES",
+      "fornecedor": "FERREIRA ATIVIDADES PROFISSIONAIS LTDA",
+      "valor": 197940.0,
+      "vigencia_ini": "2024-10-25",
+      "vigencia_fim": "2025-10-25",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-000714/2024",
+      "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇO DE LAVAGEM E HIGIENIZAÇÃO DE ROUPAS DE CAMA, MESA, BANHO, ROUPA DE CONTRA INCÊNDIO, ROUPAS ESPECÍFICAS (COLETES OU UNIFORMES PARA USO EM ",
+      "fornecedor": "FERREIRA ATIVIDADES PROFISSIONAIS LTDA",
+      "valor": 96000.0,
+      "vigencia_ini": "2025-01-23",
+      "vigencia_fim": "2026-01-23",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-000756/2024",
+      "objeto": "CONTRATAÇÃO DE SERVIÇOS DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE TRANSPORTES, INCLUINDO VEÍCULOS E MOTORISTAS DEVIDAMENTE HABILITADOS PARA TRANSPORTE DE MILITARES E CIVIS EM SERVIÇO NO CIN",
+      "fornecedor": "ZENATTI TRANSPORTE E TURISMO LTDA",
+      "valor": 1856640.0,
+      "vigencia_ini": "2024-12-02",
+      "vigencia_fim": "2025-12-02",
       "modalidade": ""
     },
     {
@@ -153,34 +407,23 @@
     {
       "orgao": "FAB",
       "categoria": "combustível",
-      "id": "00394429000100-2-000692/2024",
-      "objeto": "O OBJETO DO PRESENTE INSTRUMENTO É A CESSÃO DE USO A TÍTULO ONEROSO DE ÁREA ÚTIL TOTAL DE 152,80 M² LOCALIZADA NA ESTRADA DO GALEÃO Nº 5.340, ILHA DO GOVERNADOR, RIO DE JANEIRO - RJ, VISANDO A INSTALA",
-      "fornecedor": "POSTO DE GASOLINA CANARIAS LTDA",
-      "valor": 3450000.0,
-      "vigencia_ini": "2024-08-13",
-      "vigencia_fim": "2029-08-13",
+      "id": "00394429000100-2-000816/2024",
+      "objeto": "AQUISIÇÃO DE COMBUSTÍVEL DE AVIAÇÃO",
+      "fornecedor": "RDC REVENDEDORA DE COMBUSTIVEIS LTDA",
+      "valor": 1213500.0,
+      "vigencia_ini": "2024-11-01",
+      "vigencia_fim": "2029-11-01",
       "modalidade": ""
     },
     {
       "orgao": "FAB",
       "categoria": "aeronave/manutenção",
-      "id": "00394429000100-2-000703/2024",
-      "objeto": "CONTRATAÇÃO DO SERVIÇO DE LAVAGEM E HIGIENIZAÇÃO  DE ROUPAS DE CAMA, MESA E BANHO E  CAPAS DE ASSENTOS DE AERONAVES",
-      "fornecedor": "FERREIRA ATIVIDADES PROFISSIONAIS LTDA",
-      "valor": 197940.0,
+      "id": "00394429000100-2-000820/2024",
+      "objeto": "AQUISIÇÃO CONTINUADA DE MATERIAL DE APOIO LOGÍSTICO, NA MODALIDADE SOB DEMANDA, APLICADO NAS AERONAVES C-95 BANDEIRANTE (EMB-110)",
+      "fornecedor": "AEROMOT S/A",
+      "valor": 110323378.85,
       "vigencia_ini": "2024-10-25",
-      "vigencia_fim": "2025-10-25",
-      "modalidade": ""
-    },
-    {
-      "orgao": "FAB",
-      "categoria": "aeronave/manutenção",
-      "id": "00394429000100-2-000756/2024",
-      "objeto": "CONTRATAÇÃO DE SERVIÇOS DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE TRANSPORTES, INCLUINDO VEÍCULOS E MOTORISTAS DEVIDAMENTE HABILITADOS PARA TRANSPORTE DE MILITARES E CIVIS EM SERVIÇO NO CIN",
-      "fornecedor": "ZENATTI TRANSPORTE E TURISMO LTDA",
-      "valor": 1856640.0,
-      "vigencia_ini": "2024-12-02",
-      "vigencia_fim": "2025-12-02",
+      "vigencia_fim": "2029-10-25",
       "modalidade": ""
     },
     {
@@ -212,28 +455,6 @@
       "objeto": "AQUISIÇÃO DE COMBUSTÍVEL DE AVIAÇÃO",
       "fornecedor": "AIR BP BRASIL LTDA.",
       "valor": 41162889.6,
-      "vigencia_ini": "2024-11-01",
-      "vigencia_fim": "2029-11-01",
-      "modalidade": ""
-    },
-    {
-      "orgao": "FAB",
-      "categoria": "combustível",
-      "id": "00394429000100-2-000830/2024",
-      "objeto": "AQUISIÇÃO DE COMBUSTÍVEL DE AVIAÇÃO",
-      "fornecedor": "REDE SOL FUEL DISTRIBUIDORA S/A",
-      "valor": 16182500.0,
-      "vigencia_ini": "2024-11-01",
-      "vigencia_fim": "2029-11-01",
-      "modalidade": ""
-    },
-    {
-      "orgao": "FAB",
-      "categoria": "combustível",
-      "id": "00394429000100-2-000831/2024",
-      "objeto": "AQUISIÇÃO DE COMBUSTÍVEL DE AVIAÇÃO",
-      "fornecedor": "VIBRA ENERGIA S.A",
-      "valor": 2131076259.4,
       "vigencia_ini": "2024-11-01",
       "vigencia_fim": "2029-11-01",
       "modalidade": ""
@@ -284,11 +505,22 @@
     },
     {
       "orgao": "FAB",
-      "categoria": "aeronave/manutenção",
-      "id": "00394429000100-2-000847/2024",
-      "objeto": "CONTRATAÇÃO DE SUPORTE LOGÍSTICO (CLS) PARA AS AERONAVES EC-135P2+ (MATRÍCULAS FAB8500 E FAB8501)",
-      "fornecedor": "HBR AVIACAO S.A.",
-      "valor": 15993123.79,
+      "categoria": "combustível",
+      "id": "00394429000100-2-000830/2024",
+      "objeto": "AQUISIÇÃO DE COMBUSTÍVEL DE AVIAÇÃO",
+      "fornecedor": "REDE SOL FUEL DISTRIBUIDORA S/A",
+      "valor": 16182500.0,
+      "vigencia_ini": "2024-11-01",
+      "vigencia_fim": "2029-11-01",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "combustível",
+      "id": "00394429000100-2-000831/2024",
+      "objeto": "AQUISIÇÃO DE COMBUSTÍVEL DE AVIAÇÃO",
+      "fornecedor": "VIBRA ENERGIA S.A",
+      "valor": 2131076259.4,
       "vigencia_ini": "2024-11-01",
       "vigencia_fim": "2029-11-01",
       "modalidade": ""
@@ -384,23 +616,12 @@
     {
       "orgao": "FAB",
       "categoria": "aeronave/manutenção",
-      "id": "00394429000100-2-001249/2024",
-      "objeto": "CONTRATAÇÃO DE SERVIÇOS DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇO CONTINUADO DE TRANSPORTE DE BAGAGEM E AUTO, DESACOMPANHADA DE MILITAR, INTERMUNICIPAL E INTERESTADUAL, EM TERRITÓRIO NACIONAL, ",
-      "fornecedor": "RUMON TRANSPORTES DE CARGAS LTDA",
-      "valor": 628050.0,
-      "vigencia_ini": "2025-01-07",
-      "vigencia_fim": "2026-01-07",
-      "modalidade": ""
-    },
-    {
-      "orgao": "FAB",
-      "categoria": "aeronave/manutenção",
-      "id": "00394429000100-2-001252/2024",
-      "objeto": "CONTRATAÇÃO DE LOCAÇÃO DE SIMULADOR DE VOO DAS AERONAVES C-97 (EMB 120) E C-99 (EMB 145) PARA OS PILOTOS DO COMAER",
-      "fornecedor": "ESCOLA PARANAENSE DE AVIACAO S/A",
-      "valor": 2002356.0,
-      "vigencia_ini": "2025-01-18",
-      "vigencia_fim": "2028-01-18",
+      "id": "00394429000100-2-001200/2024",
+      "objeto": "AQUISIÇÃO DE ESTAÇÃO DE CONTROLE NO SOLO (GCS) DA AERONAVE HERMES 900",
+      "fornecedor": "AEL SISTEMAS S.A",
+      "valor": 17439162.0,
+      "vigencia_ini": "2024-12-30",
+      "vigencia_fim": "2026-06-30",
       "modalidade": ""
     },
     {
@@ -461,6 +682,28 @@
     {
       "orgao": "FAB",
       "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001249/2024",
+      "objeto": "CONTRATAÇÃO DE SERVIÇOS DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇO CONTINUADO DE TRANSPORTE DE BAGAGEM E AUTO, DESACOMPANHADA DE MILITAR, INTERMUNICIPAL E INTERESTADUAL, EM TERRITÓRIO NACIONAL, ",
+      "fornecedor": "RUMON TRANSPORTES DE CARGAS LTDA",
+      "valor": 628050.0,
+      "vigencia_ini": "2025-01-07",
+      "vigencia_fim": "2026-01-07",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001252/2024",
+      "objeto": "CONTRATAÇÃO DE LOCAÇÃO DE SIMULADOR DE VOO DAS AERONAVES C-97 (EMB 120) E C-99 (EMB 145) PARA OS PILOTOS DO COMAER",
+      "fornecedor": "ESCOLA PARANAENSE DE AVIACAO S/A",
+      "valor": 2002356.0,
+      "vigencia_ini": "2025-01-18",
+      "vigencia_fim": "2028-01-18",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
       "id": "00394429000100-2-001272/2024",
       "objeto": "CONTRATAÇÃO DE LOCAÇÃO DE SIMULADOR DE VOO DAS AERONAVES C-97 (EMB 120) E C-99 (EMB 145) PARA OS PILOTOS DO COMAER",
       "fornecedor": "ESCOLA PARANAENSE DE AVIACAO S/A",
@@ -483,23 +726,34 @@
     {
       "orgao": "FAB",
       "categoria": "aeronave/manutenção",
-      "id": "00394429000100-2-001200/2024",
-      "objeto": "AQUISIÇÃO DE ESTAÇÃO DE CONTROLE NO SOLO (GCS) DA AERONAVE HERMES 900",
-      "fornecedor": "AEL SISTEMAS S.A",
-      "valor": 17439162.0,
-      "vigencia_ini": "2024-12-30",
-      "vigencia_fim": "2026-06-30",
-      "modalidade": ""
-    },
-    {
-      "orgao": "FAB",
-      "categoria": "aeronave/manutenção",
       "id": "00394429000100-2-001322/2024",
       "objeto": "CONTRATAÇÃO DE SERVIÇOS DE IMPLANTAÇÃO E OPERACIONALIZAÇÃO DE SISTEMA INFORMATIZADO (PLATAFORMA DE GESTÃO DE FROTA E EQUIPAMENTOS MOTORIZADOS COM CONTROLE DE MANUTENÇÃO) PARA PERMITIR QUE OFICINAS, LA",
       "fornecedor": "QFROTAS SISTEMAS LTDA",
       "valor": 1094888.06,
       "vigencia_ini": "2025-01-30",
       "vigencia_fim": "2026-01-30",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-000026/2025",
+      "objeto": "CONTRATAÇÃO DE SERVIÇOS E SUPORTE LOGÍSTICO PARA A FROTA DE AERONAVES C-98 E C-98A, MODELOS CESSNA 208 E 208B",
+      "fornecedor": "VEE ONE-MANUTENCAO E SERVICOS TECNICOS LTDA",
+      "valor": 91651597.37,
+      "vigencia_ini": "2025-02-10",
+      "vigencia_fim": "2030-02-10",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001346/2024",
+      "objeto": "CONTRATAÇÃO DE SERVIÇOS DE SUPORTE LOGÍSTICO DOS MOTORES T56-A-14, INSTALADOS NA FROTA DE AERONAVES P-3AM DA FORÇA AÉREA BRASILEIRA",
+      "fornecedor": "IAS INDUSTRIA DE AVIACAO E SERVICOS LTDA",
+      "valor": 54828162.24,
+      "vigencia_ini": "2025-02-17",
+      "vigencia_fim": "2028-04-17",
       "modalidade": ""
     },
     {
@@ -522,6 +776,17 @@
       "valor": 128250.0,
       "vigencia_ini": "2025-02-05",
       "vigencia_fim": "2026-02-05",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-000052/2025",
+      "objeto": "AQUISIÇÃO DE MATERIAL, PEÇAS DE REPOSIÇÃO, SOBRESSALENTES E COMPONENTES PARA MOTORES PT6A-68C",
+      "fornecedor": "PRATT & WHITNEY CANADA DO BRASIL LTDA",
+      "valor": 42539660.6,
+      "vigencia_ini": "2025-03-06",
+      "vigencia_fim": "2028-03-06",
       "modalidade": ""
     },
     {
@@ -582,6 +847,17 @@
     {
       "orgao": "FAB",
       "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-000100/2025",
+      "objeto": "CONTRATAÇÃO DE SERVIÇOS SOB DEMANDA, DE REPARO; REFORMA; RECUPERAÇÃO; E/OU REVISÃO DE COMPONENTES TRABALHÁVEIS DOS INTERIORES DAS AERONAVES C-105 AMAZONAS E P-3AM",
+      "fornecedor": "DALLAS AERONAUTICAL SERVICES DO BRASIL S.A.",
+      "valor": 5945635.77,
+      "vigencia_ini": "2025-03-19",
+      "vigencia_fim": "2030-03-19",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
       "id": "00394429000100-2-001412/2024",
       "objeto": "CONTRATAÇÃO DE LOCAÇÃO DE SIMULADOR DE VOO DAS AERONAVES C-97 (EMB 120) E C-99 (EMB 145) PARA OS PILOTOS DO COMAER",
       "fornecedor": "ESCOLA PARANAENSE DE AVIACAO S/A",
@@ -604,45 +880,12 @@
     {
       "orgao": "FAB",
       "categoria": "aeronave/manutenção",
-      "id": "00394429000100-2-001346/2024",
-      "objeto": "CONTRATAÇÃO DE SERVIÇOS DE SUPORTE LOGÍSTICO DOS MOTORES T56-A-14, INSTALADOS NA FROTA DE AERONAVES P-3AM DA FORÇA AÉREA BRASILEIRA",
-      "fornecedor": "IAS INDUSTRIA DE AVIACAO E SERVICOS LTDA",
-      "valor": 54828162.24,
-      "vigencia_ini": "2025-02-17",
-      "vigencia_fim": "2028-04-17",
-      "modalidade": ""
-    },
-    {
-      "orgao": "FAB",
-      "categoria": "aeronave/manutenção",
-      "id": "00394429000100-2-000026/2025",
-      "objeto": "CONTRATAÇÃO DE SERVIÇOS E SUPORTE LOGÍSTICO PARA A FROTA DE AERONAVES C-98 E C-98A, MODELOS CESSNA 208 E 208B",
-      "fornecedor": "VEE ONE-MANUTENCAO E SERVICOS TECNICOS LTDA",
-      "valor": 91651597.37,
-      "vigencia_ini": "2025-02-10",
-      "vigencia_fim": "2030-02-10",
-      "modalidade": ""
-    },
-    {
-      "orgao": "FAB",
-      "categoria": "aeronave/manutenção",
-      "id": "00394429000100-2-000052/2025",
-      "objeto": "AQUISIÇÃO DE MATERIAL, PEÇAS DE REPOSIÇÃO, SOBRESSALENTES E COMPONENTES PARA MOTORES PT6A-68C",
-      "fornecedor": "PRATT & WHITNEY CANADA DO BRASIL LTDA",
-      "valor": 42539660.6,
-      "vigencia_ini": "2025-03-06",
-      "vigencia_fim": "2028-03-06",
-      "modalidade": ""
-    },
-    {
-      "orgao": "FAB",
-      "categoria": "aeronave/manutenção",
-      "id": "00394429000100-2-000100/2025",
-      "objeto": "CONTRATAÇÃO DE SERVIÇOS SOB DEMANDA, DE REPARO; REFORMA; RECUPERAÇÃO; E/OU REVISÃO DE COMPONENTES TRABALHÁVEIS DOS INTERIORES DAS AERONAVES C-105 AMAZONAS E P-3AM",
-      "fornecedor": "DALLAS AERONAUTICAL SERVICES DO BRASIL S.A.",
-      "valor": 5945635.77,
-      "vigencia_ini": "2025-03-19",
-      "vigencia_fim": "2030-03-19",
+      "id": "00394429000100-2-001436/2024",
+      "objeto": "CESSÃO DE USO, A TÍTULO ONEROSO, DE IMÓ VEL DA CEDENTE, PARA O FUNCIONAMENTO DE UM POSTO DE ABASTECIMENTO DE AERONAVES (PAA)",
+      "fornecedor": "VIBRA ENERGIA S.A",
+      "valor": 113418.6,
+      "vigencia_ini": "2024-12-31",
+      "vigencia_fim": "2029-12-31",
       "modalidade": ""
     },
     {
@@ -670,12 +913,12 @@
     {
       "orgao": "FAB",
       "categoria": "aeronave/manutenção",
-      "id": "00394429000100-2-001436/2024",
-      "objeto": "CESSÃO DE USO, A TÍTULO ONEROSO, DE IMÓ VEL DA CEDENTE, PARA O FUNCIONAMENTO DE UM POSTO DE ABASTECIMENTO DE AERONAVES (PAA)",
-      "fornecedor": "VIBRA ENERGIA S.A",
-      "valor": 113418.6,
-      "vigencia_ini": "2024-12-31",
-      "vigencia_fim": "2029-12-31",
+      "id": "00394429000100-2-000243/2025",
+      "objeto": "SERVIÇOS COMUNS DE ENGENHARIA A SEREM EMPREGADOS NA REVITALIZAÇÃO E MODERNIZAÇÃO DAS SUBESTAÇÕES PARCIAIS DE ENERGIA DO PAMERJ",
+      "fornecedor": "AF PRODUTOS E SERVICOS LTDA",
+      "valor": 4694866.05,
+      "vigencia_ini": "2025-04-30",
+      "vigencia_fim": "2026-04-30",
       "modalidade": ""
     },
     {
@@ -802,6 +1045,39 @@
     {
       "orgao": "DEFESA",
       "categoria": "aeronave/manutenção",
+      "id": "03277610000125-2-000199/2023",
+      "objeto": "O OBJETO DO PRESENTE INSTRUMENTO É A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE MANUTENÇÃO PREVENTIVA E CORRETIVA DE VEÍCULOS AUTOMOTORES DAS MARCAS MITSUBISHI E RENAULT, A SEREM EXECUTADOS, ",
+      "fornecedor": "MTECH COMERCIO E SERVICOS LTDA",
+      "valor": 79993.0,
+      "vigencia_ini": "2023-10-10",
+      "vigencia_fim": "2024-10-10",
+      "modalidade": ""
+    },
+    {
+      "orgao": "DEFESA",
+      "categoria": "aeronave/manutenção",
+      "id": "03277610000125-2-000200/2023",
+      "objeto": "O OBJETO DO PRESENTE INSTRUMENTO É A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE MANUTENÇÃO PREVENTIVA E CORRETIVA DE VEÍCULOS AUTOMOTORES DAS MARCAS FORD E PEUGEOT, A SEREM EXECUTADOS, DE FOR",
+      "fornecedor": "UNT PECAS E SERVICOS AUTOMOTIVOS LTDA",
+      "valor": 27595.0,
+      "vigencia_ini": "2023-10-10",
+      "vigencia_fim": "2024-10-10",
+      "modalidade": ""
+    },
+    {
+      "orgao": "DEFESA",
+      "categoria": "aeronave/manutenção",
+      "id": "03277610000125-2-000237/2023",
+      "objeto": "DL 116/2023/HFA (6736335), DFD/SEÇ TRNP (6573258), DESPACHO SEÇ AQS/OD HFA (6773452).\r\nCONTRATAÇÃO DE CURSO DE CONDUTOR PARA MUDANÇA DE CATEGORIA B PARA D, PARA 12 (DOZE) MOTORISTAS \r\nAPLICAÇÃO: SEÇ T",
+      "fornecedor": "C&M COMERCIO E SERVICOS LTDA",
+      "valor": 32434.92,
+      "vigencia_ini": "2023-12-21",
+      "vigencia_fim": "2023-12-31",
+      "modalidade": ""
+    },
+    {
+      "orgao": "DEFESA",
+      "categoria": "aeronave/manutenção",
       "id": "03277610000125-2-000063/2024",
       "objeto": "O OBJETO DO PRESENTE INSTRUMENTO É A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE MANUTENÇÃO PREVENTIVA E CORRETIVA DE VEÍCULOS AUTOMOTORES DAS MARCAS CHEVROLET, MERCEDES BENZ E FIAT, A SEREM E",
       "fornecedor": "PARK PNEUS LTDA",
@@ -846,6 +1122,17 @@
     {
       "orgao": "DEFESA",
       "categoria": "aeronave/manutenção",
+      "id": "03277610000125-2-000550/2024",
+      "objeto": "CONTRATAÇÃO DE SERVIÇOS COMUNS DE MANUTENÇÃO PREVENTIVA E CORRETIVA DE VEÍCULOS AUTOMOTORES DA MARCA RENAULT E FORD, A SEREM EXECUTADOS DE FORMA CONTÍNUA SEM DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA, QUE SE",
+      "fornecedor": "NOVA TECH AUTO CENTER LTDA",
+      "valor": 33967.6,
+      "vigencia_ini": "2024-11-08",
+      "vigencia_fim": "2025-11-08",
+      "modalidade": ""
+    },
+    {
+      "orgao": "DEFESA",
+      "categoria": "aeronave/manutenção",
       "id": "03277610000125-2-000524/2024",
       "objeto": "CONTRATAÇÃO DE SERVIÇO CONTINUADO DE LAVAGEM COM APLICAÇÃO DE CERA EM VEÍCULOS AUTOMOTORES OFICIAIS PARA ATENDIMENTO DAS NECESSIDADES DO CENTRO REGIONAL DE PORTO VELHO DO CENTRO GESTOR E OPERACIONAL D",
       "fornecedor": "JAISON GOMES DOS SANTOS 02494481228",
@@ -874,17 +1161,6 @@
       "valor": 17877.1,
       "vigencia_ini": "2024-11-05",
       "vigencia_fim": "2025-11-05",
-      "modalidade": ""
-    },
-    {
-      "orgao": "DEFESA",
-      "categoria": "aeronave/manutenção",
-      "id": "03277610000125-2-000550/2024",
-      "objeto": "CONTRATAÇÃO DE SERVIÇOS COMUNS DE MANUTENÇÃO PREVENTIVA E CORRETIVA DE VEÍCULOS AUTOMOTORES DA MARCA RENAULT E FORD, A SEREM EXECUTADOS DE FORMA CONTÍNUA SEM DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA, QUE SE",
-      "fornecedor": "NOVA TECH AUTO CENTER LTDA",
-      "valor": 33967.6,
-      "vigencia_ini": "2024-11-08",
-      "vigencia_fim": "2025-11-08",
       "modalidade": ""
     },
     {
