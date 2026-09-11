@@ -1,19 +1,19 @@
 {
   "autoridade": "Presidente do Congresso Nacional",
   "slug": "presidente-do-congresso-nacional",
-  "voos": 482,
-  "custo_estimado": 22673004,
-  "fds": 145,
+  "voos": 491,
+  "custo_estimado": 23449337,
+  "fds": 148,
   "fds_pct": 30,
   "noturnos": 26,
   "internacionais": 21,
   "a_disposicao": 0,
   "bolsonaro": 243,
-  "lula": 239,
+  "lula": 248,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 217
+      "n": 222
     },
     {
       "destino": "Belo Horizonte",
@@ -21,7 +21,7 @@
     },
     {
       "destino": "Macapá",
-      "n": 51
+      "n": 55
     },
     {
       "destino": "São Paulo",
@@ -356,9 +356,76 @@
     {
       "mes": "2026-07",
       "n": 9
+    },
+    {
+      "mes": "2026-08",
+      "n": 9
     }
   ],
   "voos_lista": [
+    {
+      "data": "30/08/2026",
+      "origem": "Macapá",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": true
+    },
+    {
+      "data": "27/08/2026",
+      "origem": "Brasília",
+      "destino": "Macapá",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "26/08/2026",
+      "origem": "Macapá",
+      "destino": "Brasília",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "21/08/2026",
+      "origem": "Brasília",
+      "destino": "Macapá",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "19/08/2026",
+      "origem": "Macapá",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "15/08/2026",
+      "origem": "Brasília",
+      "destino": "Macapá",
+      "custo": 90667,
+      "fds": true
+    },
+    {
+      "data": "10/08/2026",
+      "origem": "Macapá",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "07/08/2026",
+      "origem": "Brasília",
+      "destino": "Macapá",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "02/08/2026",
+      "origem": "Macapá",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": true
+    },
     {
       "data": "22/07/2026",
       "origem": "Macapá",

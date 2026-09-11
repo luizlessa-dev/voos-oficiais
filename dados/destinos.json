@@ -1,32 +1,32 @@
 {
   "_meta": {
-    "gerado": "2026-08-20 16:07",
+    "gerado": "2026-09-11 13:13",
     "total_destinos_mapeados": 114,
-    "voos_sem_coordenada": 208,
+    "voos_sem_coordenada": 210,
     "nota": "Voos nacionais agrupados por cidade-destino. Internacionais não entram no mapa do Brasil."
   },
   "destinos": [
     {
       "cidade": "Brasília",
-      "n": 4059,
+      "n": 4105,
       "lat": -15.79,
       "lng": -47.88
     },
     {
       "cidade": "São Paulo",
-      "n": 1292,
+      "n": 1307,
       "lat": -23.55,
       "lng": -46.63
     },
     {
       "cidade": "Rio de Janeiro",
-      "n": 824,
+      "n": 827,
       "lat": -22.91,
       "lng": -43.17
     },
     {
       "cidade": "Belo Horizonte",
-      "n": 221,
+      "n": 222,
       "lat": -19.92,
       "lng": -43.94
     },
@@ -38,7 +38,7 @@
     },
     {
       "cidade": "Recife",
-      "n": 178,
+      "n": 180,
       "lat": -8.05,
       "lng": -34.88
     },
@@ -50,13 +50,13 @@
     },
     {
       "cidade": "Salvador",
-      "n": 147,
+      "n": 148,
       "lat": -12.97,
       "lng": -38.51
     },
     {
       "cidade": "João Pessoa",
-      "n": 129,
+      "n": 132,
       "lat": -7.12,
       "lng": -34.86
     },
@@ -80,7 +80,7 @@
     },
     {
       "cidade": "Macapá",
-      "n": 100,
+      "n": 104,
       "lat": 0.03,
       "lng": -51.07
     },
@@ -92,13 +92,13 @@
     },
     {
       "cidade": "Curitiba",
-      "n": 73,
+      "n": 75,
       "lat": -25.43,
       "lng": -49.27
     },
     {
       "cidade": "Boa Vista",
-      "n": 71,
+      "n": 73,
       "lat": 2.82,
       "lng": -60.67
     },
@@ -122,19 +122,19 @@
     },
     {
       "cidade": "Campinas",
-      "n": 62,
+      "n": 63,
       "lat": -22.91,
       "lng": -47.06
     },
     {
       "cidade": "Campo Grande",
-      "n": 62,
+      "n": 63,
       "lat": -20.47,
       "lng": -54.62
     },
     {
       "cidade": "Teresina",
-      "n": 61,
+      "n": 62,
       "lat": -5.09,
       "lng": -42.8
     },
@@ -146,21 +146,21 @@
     },
     {
       "cidade": "Vitória",
-      "n": 54,
+      "n": 55,
       "lat": -20.32,
       "lng": -40.34
+    },
+    {
+      "cidade": "Aracaju",
+      "n": 54,
+      "lat": -10.95,
+      "lng": -37.07
     },
     {
       "cidade": "Goiânia",
       "n": 54,
       "lat": -16.69,
       "lng": -49.26
-    },
-    {
-      "cidade": "Aracaju",
-      "n": 53,
-      "lat": -10.95,
-      "lng": -37.07
     },
     {
       "cidade": "São José Dos Campos",
@@ -176,7 +176,7 @@
     },
     {
       "cidade": "Petrolina",
-      "n": 45,
+      "n": 46,
       "lat": -9.39,
       "lng": -40.5
     },
@@ -199,22 +199,22 @@
       "lng": -54.71
     },
     {
-      "cidade": "Novo Progresso",
-      "n": 28,
-      "lat": -7.14,
-      "lng": -55.38
-    },
-    {
       "cidade": "Navegantes",
-      "n": 28,
+      "n": 29,
       "lat": -26.9,
       "lng": -48.65
     },
     {
       "cidade": "Santa Maria",
-      "n": 27,
+      "n": 28,
       "lat": -29.68,
       "lng": -53.81
+    },
+    {
+      "cidade": "Novo Progresso",
+      "n": 28,
+      "lat": -7.14,
+      "lng": -55.38
     },
     {
       "cidade": "Uberlândia",
@@ -223,22 +223,28 @@
       "lng": -48.28
     },
     {
+      "cidade": "Ribeirão Preto",
+      "n": 25,
+      "lat": -21.18,
+      "lng": -47.81
+    },
+    {
       "cidade": "Rio Branco",
       "n": 25,
       "lat": -9.97,
       "lng": -67.81
     },
     {
-      "cidade": "Ribeirão Preto",
-      "n": 24,
-      "lat": -21.18,
-      "lng": -47.81
-    },
-    {
       "cidade": "Montes Claros",
       "n": 24,
       "lat": -16.73,
       "lng": -43.86
+    },
+    {
+      "cidade": "Mossoró",
+      "n": 24,
+      "lat": -5.19,
+      "lng": -37.34
     },
     {
       "cidade": "Londrina",
@@ -253,10 +259,10 @@
       "lng": -45.19
     },
     {
-      "cidade": "Mossoró",
-      "n": 23,
-      "lat": -5.19,
-      "lng": -37.34
+      "cidade": "Juazeiro Do Norte",
+      "n": 20,
+      "lat": -7.21,
+      "lng": -39.31
     },
     {
       "cidade": "Caxias Do Sul",
@@ -277,22 +283,16 @@
       "lng": -46.53
     },
     {
-      "cidade": "Juazeiro Do Norte",
+      "cidade": "Patos",
       "n": 19,
-      "lat": -7.21,
-      "lng": -39.31
+      "lat": -7.02,
+      "lng": -37.28
     },
     {
       "cidade": "Pirassununga",
       "n": 18,
       "lat": -21.99,
       "lng": -47.43
-    },
-    {
-      "cidade": "Patos",
-      "n": 18,
-      "lat": -7.02,
-      "lng": -37.28
     },
     {
       "cidade": "Campina Grande",
@@ -302,7 +302,7 @@
     },
     {
       "cidade": "Paulo Afonso",
-      "n": 16,
+      "n": 17,
       "lat": -9.41,
       "lng": -38.22
     },
@@ -427,6 +427,12 @@
       "lng": -42.54
     },
     {
+      "cidade": "Goianá",
+      "n": 9,
+      "lat": -21.54,
+      "lng": -43.18
+    },
+    {
       "cidade": "São José Do Rio Preto",
       "n": 9,
       "lat": -20.82,
@@ -487,12 +493,6 @@
       "lng": -54.64
     },
     {
-      "cidade": "Goianá",
-      "n": 8,
-      "lat": -21.54,
-      "lng": -43.18
-    },
-    {
       "cidade": "Jaguaruna",
       "n": 8,
       "lat": -28.61,
@@ -503,6 +503,12 @@
       "n": 8,
       "lat": -14.22,
       "lng": -42.78
+    },
+    {
+      "cidade": "Presidente Prudente",
+      "n": 8,
+      "lat": -22.13,
+      "lng": -51.39
     },
     {
       "cidade": "Passo Fundo",
@@ -523,6 +529,12 @@
       "lng": -54.26
     },
     {
+      "cidade": "Resende",
+      "n": 7,
+      "lat": -22.47,
+      "lng": -44.45
+    },
+    {
       "cidade": "Marília",
       "n": 7,
       "lat": -22.21,
@@ -539,12 +551,6 @@
       "n": 7,
       "lat": -10.88,
       "lng": -61.95
-    },
-    {
-      "cidade": "Presidente Prudente",
-      "n": 7,
-      "lat": -22.13,
-      "lng": -51.39
     },
     {
       "cidade": "Parintins",
@@ -565,10 +571,10 @@
       "lng": -49.13
     },
     {
-      "cidade": "Resende",
+      "cidade": "Dourados",
       "n": 6,
-      "lat": -22.47,
-      "lng": -44.45
+      "lat": -22.22,
+      "lng": -54.81
     },
     {
       "cidade": "São Roque",
@@ -619,12 +625,6 @@
       "lng": -48.57
     },
     {
-      "cidade": "Dourados",
-      "n": 5,
-      "lat": -22.22,
-      "lng": -54.81
-    },
-    {
       "cidade": "Araçatuba",
       "n": 5,
       "lat": -21.21,
@@ -673,16 +673,16 @@
       "lng": -48.45
     },
     {
+      "cidade": "Lençóis",
+      "n": 2,
+      "lat": -12.56,
+      "lng": -41.39
+    },
+    {
       "cidade": "Carajás",
       "n": 1,
       "lat": -6.07,
       "lng": -50.0
-    },
-    {
-      "cidade": "Lençóis",
-      "n": 1,
-      "lat": -12.56,
-      "lng": -41.39
     },
     {
       "cidade": "Cabo Frio",

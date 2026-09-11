@@ -1,23 +1,23 @@
 {
   "autoridade": "Ministro do Trabalho e Emprego",
   "slug": "ministro-do-trabalho-e-emprego",
-  "voos": 162,
-  "custo_estimado": 8596333,
+  "voos": 165,
+  "custo_estimado": 8786166,
   "fds": 16,
   "fds_pct": 10,
-  "noturnos": 5,
+  "noturnos": 6,
   "internacionais": 0,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 162,
+  "lula": 165,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 74
+      "n": 75
     },
     {
       "destino": "São Paulo",
-      "n": 37
+      "n": 38
     },
     {
       "destino": "Rio de Janeiro",
@@ -220,9 +220,34 @@
     {
       "mes": "2026-07",
       "n": 5
+    },
+    {
+      "mes": "2026-08",
+      "n": 3
     }
   ],
   "voos_lista": [
+    {
+      "data": "20/08/2026",
+      "origem": "Teresina",
+      "destino": "Ribeirão Preto",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "04/08/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "04/08/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
     {
       "data": "17/07/2026",
       "origem": "Petrolina",

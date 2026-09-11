@@ -1,19 +1,19 @@
 {
   "autoridade": "Presidente da Câmara dos Deputados",
   "slug": "presidente-da-camara-dos-deputados",
-  "voos": 855,
-  "custo_estimado": 58393794,
-  "fds": 216,
+  "voos": 865,
+  "custo_estimado": 59206962,
+  "fds": 218,
   "fds_pct": 25,
-  "noturnos": 84,
+  "noturnos": 85,
   "internacionais": 58,
   "a_disposicao": 0,
   "bolsonaro": 403,
-  "lula": 452,
+  "lula": 462,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 354
+      "n": 360
     },
     {
       "destino": "Maceió",
@@ -21,7 +21,7 @@
     },
     {
       "destino": "São Paulo",
-      "n": 134
+      "n": 135
     },
     {
       "destino": "Rio de Janeiro",
@@ -29,7 +29,7 @@
     },
     {
       "destino": "João Pessoa",
-      "n": 41
+      "n": 44
     },
     {
       "destino": "Patos",
@@ -364,9 +364,83 @@
     {
       "mes": "2026-07",
       "n": 9
+    },
+    {
+      "mes": "2026-08",
+      "n": 10
     }
   ],
   "voos_lista": [
+    {
+      "data": "31/08/2026",
+      "origem": "João Pessoa",
+      "destino": "Brasília",
+      "custo": 90667,
+      "fds": false
+    },
+    {
+      "data": "30/08/2026",
+      "origem": "Brasília",
+      "destino": "João Pessoa",
+      "custo": 79333,
+      "fds": true
+    },
+    {
+      "data": "28/08/2026",
+      "origem": "João Pessoa",
+      "destino": "Brasília",
+      "custo": 90667,
+      "fds": false
+    },
+    {
+      "data": "26/08/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "25/08/2026",
+      "origem": "João Pessoa",
+      "destino": "Brasília",
+      "custo": 90667,
+      "fds": false
+    },
+    {
+      "data": "18/08/2026",
+      "origem": "João Pessoa",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "14/08/2026",
+      "origem": "Brasília",
+      "destino": "João Pessoa",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "10/08/2026",
+      "origem": "João Pessoa",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "04/08/2026",
+      "origem": "Brasília",
+      "destino": "João Pessoa",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "02/08/2026",
+      "origem": "Campina Grande",
+      "destino": "Brasília",
+      "custo": 82167,
+      "fds": true
+    },
     {
       "data": "30/07/2026",
       "origem": "São Paulo (Congonhas)",
@@ -3795,76 +3869,6 @@
       "origem": "Maceió",
       "destino": "Brasília",
       "custo": 76500,
-      "fds": false
-    },
-    {
-      "data": "20/09/2022",
-      "origem": "Teterboro (EUA)",
-      "destino": "Fort-de-France (França)",
-      "custo": 150167,
-      "fds": false
-    },
-    {
-      "data": "20/09/2022",
-      "origem": "Fort-de-France (França)",
-      "destino": "Maceió",
-      "custo": 206833,
-      "fds": false
-    },
-    {
-      "data": "20/09/2022",
-      "origem": "Teterboro (EUA)",
-      "destino": "Fort-de-France (França)",
-      "custo": 150167,
-      "fds": false
-    },
-    {
-      "data": "20/09/2022",
-      "origem": "Fort-de-France (França)",
-      "destino": "Maceió",
-      "custo": 206833,
-      "fds": false
-    },
-    {
-      "data": "17/09/2022",
-      "origem": "Maceió",
-      "destino": "Bridgetown (Barbados)",
-      "custo": 127500,
-      "fds": true
-    },
-    {
-      "data": "17/09/2022",
-      "origem": "Bridgetown (Barbados)",
-      "destino": "Teterboro (EUA)",
-      "custo": 175667,
-      "fds": true
-    },
-    {
-      "data": "17/09/2022",
-      "origem": "Maceió",
-      "destino": "Bridgetown (Barbados)",
-      "custo": 127500,
-      "fds": true
-    },
-    {
-      "data": "17/09/2022",
-      "origem": "Bridgetown (Barbados)",
-      "destino": "Teterboro (EUA)",
-      "custo": 175667,
-      "fds": true
-    },
-    {
-      "data": "13/09/2022",
-      "origem": "Brasília",
-      "destino": "São Paulo (Congonhas)",
-      "custo": 51000,
-      "fds": false
-    },
-    {
-      "data": "13/09/2022",
-      "origem": "São Paulo (Congonhas)",
-      "destino": "Maceió",
-      "custo": 87833,
       "fds": false
     }
   ]

@@ -1,10 +1,10 @@
 {
   "_meta": {
     "fonte": "Portal da Transparência (SCDP) × GABAER",
-    "cobertura": "2020-01 a 2026-07 (ministérios do Executivo)",
+    "cobertura": "2020-01 a 2026-08 (ministérios do Executivo)",
     "nota": "Servidores do mesmo órgão que viajaram ao destino do voo FAB nas mesmas datas. NÃO prova que estavam na aeronave — ponto de partida de apuração.",
-    "total_voos": 461,
-    "total_servidores": 1718
+    "total_voos": 467,
+    "total_servidores": 1732
   },
   "comitivas": {
     "ministro-do-turismo": [
@@ -7750,6 +7750,122 @@
             "motivo": "Conforme requisição SEI nº 7026817: Esta viagem te"
           }
         ]
+      },
+      {
+        "data": "18/08",
+        "mes": "2026-08",
+        "destino": "Boa Vista",
+        "pax": 10,
+        "servidores": [
+          {
+            "nome": "FERNANDO AUGUSTO CORREIA CESAR",
+            "cargo": "",
+            "diaria": "R$ 570",
+            "passagem": "R$ 0",
+            "motivo": "Conforme justificativa na requisição (7147707): Pa"
+          },
+          {
+            "nome": "MARCO ROBERTO MARTINS",
+            "cargo": "",
+            "diaria": "R$ 1068",
+            "passagem": "R$ 7147",
+            "motivo": "Conforme requisição 7130586: Ida dia 17 de agosto"
+          },
+          {
+            "nome": "LEONARDO JOSE CASALINHO DUARTE",
+            "cargo": "",
+            "diaria": "R$ 664",
+            "passagem": "R$ 0",
+            "motivo": "Conforme formulário SEI nº 7147670: Esta viagem te"
+          },
+          {
+            "nome": "EDUARDO FERNANDES BUENO",
+            "cargo": "ANALISTA REFORMA DESEN",
+            "diaria": "R$ 1681",
+            "passagem": "R$ 6847",
+            "motivo": "Participar de reunião referente aos Territórios Et"
+          },
+          {
+            "nome": "MARIA DO ROSARIO FIGUEIREDO TR",
+            "cargo": "PROFESSOR DO MAGISTERI",
+            "diaria": "R$ 1220",
+            "passagem": "R$ 5106",
+            "motivo": "Participar de reunião referente aos Territórios Et"
+          }
+        ]
+      },
+      {
+        "data": "25/08",
+        "mes": "2026-08",
+        "destino": "Teresina",
+        "pax": 9,
+        "servidores": [
+          {
+            "nome": "LEONARDO JOSE CASALINHO DUARTE",
+            "cargo": "",
+            "diaria": "R$ 1512",
+            "passagem": "R$ 0",
+            "motivo": "Conforme justificativa na requisição (7162046): Es"
+          }
+        ]
+      },
+      {
+        "data": "26/08",
+        "mes": "2026-08",
+        "destino": "Mossoró",
+        "pax": 9,
+        "servidores": [
+          {
+            "nome": "ALEXANDRE MARTINS VIDOR",
+            "cargo": "PROFESSOR ENS BASICO T",
+            "diaria": "R$ 1202",
+            "passagem": "R$ 3515",
+            "motivo": "Conforme requerimento SEI nº 7168757: Participa as"
+          },
+          {
+            "nome": "YICETH VANESSA DAZA LIZARAZO",
+            "cargo": "",
+            "diaria": "R$ 2565",
+            "passagem": "R$ 6471",
+            "motivo": "Visita Técnica aos programas de residência em área"
+          },
+          {
+            "nome": "LEONARDO JOSE CASALINHO DUARTE",
+            "cargo": "",
+            "diaria": "R$ 1512",
+            "passagem": "R$ 0",
+            "motivo": "Conforme justificativa na requisição (7162046): Es"
+          },
+          {
+            "nome": "LEONARDO CUNHA DE BRITO",
+            "cargo": "PROFESSOR DO MAGISTERI",
+            "diaria": "R$ 1505",
+            "passagem": "R$ 0",
+            "motivo": "Conforme requisição (SEI nº 7155165): Acompanhar o"
+          }
+        ]
+      },
+      {
+        "data": "27/08",
+        "mes": "2026-08",
+        "destino": "Patos",
+        "pax": 7,
+        "servidores": [
+          {
+            "nome": "ALEXANDRE MARTINS VIDOR",
+            "cargo": "PROFESSOR ENS BASICO T",
+            "diaria": "R$ 1202",
+            "passagem": "R$ 3515",
+            "motivo": "Conforme requerimento SEI nº 7168757: Participa as"
+          },
+          {
+            "nome": "LEONARDO JOSE CASALINHO DUARTE",
+            "cargo": "",
+            "diaria": "R$ 1512",
+            "passagem": "R$ 0",
+            "motivo": "Conforme justificativa na requisição (7162046): Es"
+          }
+        ]
       }
     ],
     "ministro-da-defesa": [
@@ -10572,6 +10688,21 @@
             "diaria": "R$ 1391",
             "passagem": "R$ 0",
             "motivo": "O Proposto, Chefe da Assessoria de Cerimonial, aco"
+          }
+        ]
+      },
+      {
+        "data": "22/08",
+        "mes": "2026-08",
+        "destino": "Resende",
+        "pax": 8,
+        "servidores": [
+          {
+            "nome": "ERLON RICARDO TOFFANELL VALENT",
+            "cargo": "",
+            "diaria": "R$ 838",
+            "passagem": "R$ 0",
+            "motivo": "O proposto, Segurança Pessoal do Ministro da Defes"
           }
         ]
       }
@@ -15730,6 +15861,21 @@
             "diaria": "R$ 1057",
             "passagem": "R$ 0",
             "motivo": "Acompanhar  Ministro  para Assinatura de adesão ao"
+          }
+        ]
+      },
+      {
+        "data": "20/08",
+        "mes": "2026-08",
+        "destino": "Ribeirão Preto",
+        "pax": 4,
+        "servidores": [
+          {
+            "nome": "ALEXANDRE ZAMBELLI PIRES",
+            "cargo": "AUDITOR FISCAL DO TRAB",
+            "diaria": "R$ 113",
+            "passagem": "R$ 0",
+            "motivo": "Conforme OS 11926690-3, Projeto Prevenção de Acide"
           }
         ]
       }

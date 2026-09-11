@@ -1,15 +1,15 @@
 {
   "autoridade": "Ministro da Fazenda",
   "slug": "ministro-da-fazenda",
-  "voos": 328,
-  "custo_estimado": 14325340,
+  "voos": 329,
+  "custo_estimado": 14382007,
   "fds": 41,
   "fds_pct": 12,
   "noturnos": 18,
   "internacionais": 48,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 328,
+  "lula": 329,
   "top_destinos": [
     {
       "destino": "Brasília",
@@ -17,7 +17,7 @@
     },
     {
       "destino": "São Paulo",
-      "n": 121
+      "n": 122
     },
     {
       "destino": "Rio de Janeiro",
@@ -224,9 +224,20 @@
     {
       "mes": "2026-07",
       "n": 11
+    },
+    {
+      "mes": "2026-08",
+      "n": 1
     }
   ],
   "voos_lista": [
+    {
+      "data": "17/08/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 56667,
+      "fds": false
+    },
     {
       "data": "31/07/2026",
       "origem": "Campo Grande",

@@ -1,27 +1,27 @@
 {
   "autoridade": "Ministro da Defesa",
   "slug": "ministro-da-defesa",
-  "voos": 415,
-  "custo_estimado": 25215095,
-  "fds": 73,
+  "voos": 425,
+  "custo_estimado": 25810097,
+  "fds": 75,
   "fds_pct": 18,
   "noturnos": 6,
   "internacionais": 19,
   "a_disposicao": 0,
   "bolsonaro": 193,
-  "lula": 222,
+  "lula": 232,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 177
+      "n": 183
     },
     {
       "destino": "Rio de Janeiro",
-      "n": 75
+      "n": 76
     },
     {
       "destino": "São Paulo",
-      "n": 21
+      "n": 23
     },
     {
       "destino": "Recife",
@@ -352,9 +352,83 @@
     {
       "mes": "2026-07",
       "n": 7
+    },
+    {
+      "mes": "2026-08",
+      "n": 10
     }
   ],
   "voos_lista": [
+    {
+      "data": "31/08/2026",
+      "origem": "Pirassununga",
+      "destino": "Brasília",
+      "custo": 39667,
+      "fds": false
+    },
+    {
+      "data": "27/08/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "26/08/2026",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "26/08/2026",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "22/08/2026",
+      "origem": "Brasília",
+      "destino": "Resende",
+      "custo": 68000,
+      "fds": true
+    },
+    {
+      "data": "22/08/2026",
+      "origem": "Resende",
+      "destino": "Brasília",
+      "custo": 73667,
+      "fds": true
+    },
+    {
+      "data": "13/08/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "13/08/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "12/08/2026",
+      "origem": "Recife",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "03/08/2026",
+      "origem": "São Paulo (Guarulhos)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
     {
       "data": "24/07/2026",
       "origem": "São José Dos Campos",

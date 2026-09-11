@@ -1,19 +1,19 @@
 {
   "autoridade": "Ministro da Saúde",
   "slug": "ministro-da-saude",
-  "voos": 489,
-  "custo_estimado": 29189360,
-  "fds": 107,
+  "voos": 491,
+  "custo_estimado": 29302693,
+  "fds": 109,
   "fds_pct": 22,
   "noturnos": 20,
   "internacionais": 14,
   "a_disposicao": 0,
   "bolsonaro": 347,
-  "lula": 142,
+  "lula": 144,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 192
+      "n": 193
     },
     {
       "destino": "Rio de Janeiro",
@@ -268,9 +268,27 @@
     {
       "mes": "2026-07",
       "n": 5
+    },
+    {
+      "mes": "2026-08",
+      "n": 2
     }
   ],
   "voos_lista": [
+    {
+      "data": "08/08/2026",
+      "origem": "Brasília",
+      "destino": "Curitiba",
+      "custo": 62333,
+      "fds": true
+    },
+    {
+      "data": "08/08/2026",
+      "origem": "Curitiba",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": true
+    },
     {
       "data": "27/07/2026",
       "origem": "Brasília",

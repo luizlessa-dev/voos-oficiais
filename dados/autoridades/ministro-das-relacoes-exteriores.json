@@ -1,23 +1,23 @@
 {
   "autoridade": "Ministro das Relações Exteriores",
   "slug": "ministro-das-relacoes-exteriores",
-  "voos": 375,
-  "custo_estimado": 38003503,
+  "voos": 379,
+  "custo_estimado": 38462503,
   "fds": 74,
   "fds_pct": 20,
   "noturnos": 43,
-  "internacionais": 201,
+  "internacionais": 203,
   "a_disposicao": 0,
   "bolsonaro": 139,
-  "lula": 236,
+  "lula": 240,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 119
+      "n": 121
     },
     {
       "destino": "São Paulo",
-      "n": 30
+      "n": 31
     },
     {
       "destino": "Rio de Janeiro",
@@ -312,9 +312,41 @@
     {
       "mes": "2026-07",
       "n": 6
+    },
+    {
+      "mes": "2026-08",
+      "n": 4
     }
   ],
   "voos_lista": [
+    {
+      "data": "24/08/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "07/08/2026",
+      "origem": "Cali (Colômbia)",
+      "destino": "Brasília",
+      "custo": 243667,
+      "fds": false
+    },
+    {
+      "data": "06/08/2026",
+      "origem": "Brasília",
+      "destino": "Cali (Colômbia)",
+      "custo": 116167,
+      "fds": false
+    },
+    {
+      "data": "03/08/2026",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
     {
       "data": "28/07/2026",
       "origem": "Lima (Peru)",
