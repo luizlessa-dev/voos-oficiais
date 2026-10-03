@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "gerado": "2026-09-03T14:13:42.165681",
+    "gerado": "2026-10-03T14:37:52.956312",
     "anos": [
       2023,
       2024,
@@ -159,7 +159,7 @@
       "fornecedor": "T8T SERVICOS AUXILIARES DE TRANSPORTES AEREOS LTDA",
       "valor": 56000.0,
       "vigencia_ini": "2023-11-01",
-      "vigencia_fim": "2024-11-01",
+      "vigencia_fim": "2026-11-01",
       "modalidade": ""
     },
     {
@@ -176,23 +176,23 @@
     {
       "orgao": "FAB",
       "categoria": "aeronave/manutenção",
-      "id": "00394429000100-2-002017/2023",
-      "objeto": "CONTRATAÇÃO DE SUPORTE LOGÍSTICO PARA A FROTA DE AERONAVES IU-50",
-      "fornecedor": "EMBRAER S.A.",
-      "valor": 67277870.2,
-      "vigencia_ini": "2023-12-11",
-      "vigencia_fim": "2026-12-11",
-      "modalidade": ""
-    },
-    {
-      "orgao": "FAB",
-      "categoria": "aeronave/manutenção",
       "id": "00394429000100-2-002004/2023",
       "objeto": "CONTRATAÇÃO DE EMPRESA DO RAMO AERONÁUTICO PARA A PRESTAÇÃO DE SUPORTE LOGÍSTICO PARA O MOTOR J85-GE-21C",
       "fornecedor": "AVIO DO BRASIL FABRICACAO E MANUTENCAO DE MOTORES E PECAS PARA AERONAVES LTDA.",
       "valor": 79769425.27,
       "vigencia_ini": "2023-12-08",
       "vigencia_fim": "2028-12-08",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-002017/2023",
+      "objeto": "CONTRATAÇÃO DE SUPORTE LOGÍSTICO PARA A FROTA DE AERONAVES IU-50",
+      "fornecedor": "EMBRAER S.A.",
+      "valor": 67277870.2,
+      "vigencia_ini": "2023-12-11",
+      "vigencia_fim": "2026-12-11",
       "modalidade": ""
     },
     {
@@ -302,7 +302,7 @@
       "fornecedor": "GREEN SERVICE EFLUENTES LTDA",
       "valor": 58100.0,
       "vigencia_ini": "2024-08-06",
-      "vigencia_fim": "2025-08-06",
+      "vigencia_fim": "2027-08-05",
       "modalidade": ""
     },
     {
@@ -1043,6 +1043,127 @@
       "modalidade": ""
     },
     {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-000725/2025",
+      "objeto": "CONTRATAÇÃO DE SERVIÇOS COMUNS DE MANUTENÇÃO CORRETIVA DE EMBARCAÇÕES E MOTORES COM O FORNECIMENTO DE PEÇAS E ASSESSÓRIOS",
+      "fornecedor": "WORKBOAT INDUSTRIA, COMERCIO, IMPORTACAO E EXPORTACAO LTDA",
+      "valor": 60799.5,
+      "vigencia_ini": "2025-08-21",
+      "vigencia_fim": "2027-08-21",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-000726/2025",
+      "objeto": "O OBJETO DO PRESENTE INSTRUMENTO É ARRENDAMENTO DE BEM IMÓVEL DA UNIÃO SOB JURISDIÇÃO DO COMANDO DA AERONÁUTICA, DE PARTE DA EDIFICAÇÃO DO COLÉGIO BRIGADEIRO NEWTON BRAGA, PARA UMA ÁREA DE LOJA COMERC",
+      "fornecedor": "W B N ARTIGOS DE LIVROS E MATERIAL ESCOLAR LTDA",
+      "valor": 12000.0,
+      "vigencia_ini": "2025-07-03",
+      "vigencia_fim": "2027-07-03",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-000775/2025",
+      "objeto": "CONTRATAÇÃO DE SERVIÇOS DE SUPORTE LOGÍSTICO PARA OS SISTEMAS AVIÔNICOS E ELETRÔNICOS EMBARCADOS DA FROTA DE AERONAVES C-95 E P-95 (BANDEIRANTE)",
+      "fornecedor": "AEL SISTEMAS S.A",
+      "valor": 44331388.22,
+      "vigencia_ini": "2025-08-29",
+      "vigencia_fim": "2029-03-01",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-000869/2025",
+      "objeto": "CONTRATAÇÃO DE SERVIÇO DE CAPACITAÇÃO DE MOTORISTA E ELEVAÇÃO DE CNH",
+      "fornecedor": "A G SOUSA LTDA",
+      "valor": 19600.0,
+      "vigencia_ini": "2025-08-26",
+      "vigencia_fim": "2026-08-26",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-000900/2025",
+      "objeto": "CONTRATAÇÃO DE SERVIÇOS DE SUPORTE LOGÍSTICO DAS AERONAVES RQ-900",
+      "fornecedor": "AEL SISTEMAS S.A",
+      "valor": 90119839.4,
+      "vigencia_ini": "2025-09-18",
+      "vigencia_fim": "2030-09-18",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001278/2025",
+      "objeto": "DO PRESENTE INSTRUMENTO É A CONTRATAÇÃO DE SERVIÇOS CONTÍNUOS DE LIMPEZA E CONSERVAÇÃO DE ÁREAS INTERNAS, EXTERNAS, ESQUADRIAS E MÉDICO - HOSPITALARES, A SEREM EXECUTADOS COM REGIME DE DEDICAÇÃO EXCLU",
+      "fornecedor": "CARDEAL GESTAO EMPRESARIAL E SERVICOS LTDA",
+      "valor": 806580.0,
+      "vigencia_ini": "2025-11-01",
+      "vigencia_fim": "2027-11-01",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001543/2025",
+      "objeto": "AUTORIZAÇÃO DE USO ONEROSA DE ÁREA DE 6.466,66 M², INSERIDA NO CAMPUS DO DEPARTAMENTO DE CIÊNCIA E TECNOLOGIA\nAEROESPACIAL (DCTA), NO TOMBO SP.033-002, O OBJETIVO DE ESTACIONAR TEMPORARIAMENTE AERONAV",
+      "fornecedor": "EMBRAER S.A.",
+      "valor": 45878.29,
+      "vigencia_ini": "2025-11-28",
+      "vigencia_fim": "2025-12-31",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001579/2025",
+      "objeto": "O OBJETO DO PRESENTE INSTRUMENTO É A CONTRATAÇÃO DE SERVIÇOS CONTÍNUOS PARA ATENDER A DEMANDA DOS SERVIÇOS DE MANUTENÇÃO (PREVENTIVA E CORRETIVA) E ASSISTÊNCIA TÉCNICA DE VIATURAS E MOTORES ESTACIONÁR",
+      "fornecedor": "917 SERVICOS AUTOMOTORES LTDA",
+      "valor": 88224.84,
+      "vigencia_ini": "2025-12-15",
+      "vigencia_fim": "2026-12-15",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001580/2025",
+      "objeto": "O OBJETO DO PRESENTE INSTRUMENTO É A CONTRATAÇÃO DE SERVIÇOS CONTÍNUOS PARA ATENDER A DEMANDA DOS SERVIÇOS DE MANUTENÇÃO (PREVENTIVA E CORRETIVA) E ASSISTÊNCIA TÉCNICA DE VIATURAS E MOTORES ESTACIONÁR",
+      "fornecedor": "OFICINA SANTA INEZ LTDA",
+      "valor": 296083.08,
+      "vigencia_ini": "2025-12-15",
+      "vigencia_fim": "2026-12-15",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001587/2025",
+      "objeto": "CONTRATAÇÃO DE SERV. MANUT. CORRETIVA/PREVENTIVA NA COBERTURA E-14 (OFICINA DE MOTORES)",
+      "fornecedor": "ROSTOCK  SOLUCOES E SERVICOS LTDA",
+      "valor": 1481974.15,
+      "vigencia_ini": "2025-12-17",
+      "vigencia_fim": "2025-12-31",
+      "modalidade": ""
+    },
+    {
+      "orgao": "FAB",
+      "categoria": "aeronave/manutenção",
+      "id": "00394429000100-2-001649/2025",
+      "objeto": "O OBJETO DO PRESENTE INSTRUMENTO É A CONTRATAÇÃO DE SERVIÇOS COMUNS DE ENGENHARIA DE\nSERVIÇO DE SUBSTITUIÇÃO DA ILUMINAÇÃO DO HANGAR DE AERONAVES H-004 (TANV) DO PAMA-LS",
+      "fornecedor": "QUARK ENGENHARIA LTDA",
+      "valor": 105059.0,
+      "vigencia_ini": "2025-12-22",
+      "vigencia_fim": "2026-03-22",
+      "modalidade": ""
+    },
+    {
       "orgao": "DEFESA",
       "categoria": "aeronave/manutenção",
       "id": "03277610000125-2-000199/2023",
@@ -1122,17 +1243,6 @@
     {
       "orgao": "DEFESA",
       "categoria": "aeronave/manutenção",
-      "id": "03277610000125-2-000550/2024",
-      "objeto": "CONTRATAÇÃO DE SERVIÇOS COMUNS DE MANUTENÇÃO PREVENTIVA E CORRETIVA DE VEÍCULOS AUTOMOTORES DA MARCA RENAULT E FORD, A SEREM EXECUTADOS DE FORMA CONTÍNUA SEM DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA, QUE SE",
-      "fornecedor": "NOVA TECH AUTO CENTER LTDA",
-      "valor": 33967.6,
-      "vigencia_ini": "2024-11-08",
-      "vigencia_fim": "2025-11-08",
-      "modalidade": ""
-    },
-    {
-      "orgao": "DEFESA",
-      "categoria": "aeronave/manutenção",
       "id": "03277610000125-2-000524/2024",
       "objeto": "CONTRATAÇÃO DE SERVIÇO CONTINUADO DE LAVAGEM COM APLICAÇÃO DE CERA EM VEÍCULOS AUTOMOTORES OFICIAIS PARA ATENDIMENTO DAS NECESSIDADES DO CENTRO REGIONAL DE PORTO VELHO DO CENTRO GESTOR E OPERACIONAL D",
       "fornecedor": "JAISON GOMES DOS SANTOS 02494481228",
@@ -1161,6 +1271,17 @@
       "valor": 17877.1,
       "vigencia_ini": "2024-11-05",
       "vigencia_fim": "2025-11-05",
+      "modalidade": ""
+    },
+    {
+      "orgao": "DEFESA",
+      "categoria": "aeronave/manutenção",
+      "id": "03277610000125-2-000550/2024",
+      "objeto": "CONTRATAÇÃO DE SERVIÇOS COMUNS DE MANUTENÇÃO PREVENTIVA E CORRETIVA DE VEÍCULOS AUTOMOTORES DA MARCA RENAULT E FORD, A SEREM EXECUTADOS DE FORMA CONTÍNUA SEM DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA, QUE SE",
+      "fornecedor": "NOVA TECH AUTO CENTER LTDA",
+      "valor": 33967.6,
+      "vigencia_ini": "2024-11-08",
+      "vigencia_fim": "2025-11-08",
       "modalidade": ""
     },
     {
