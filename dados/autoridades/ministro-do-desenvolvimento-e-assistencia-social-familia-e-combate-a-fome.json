@@ -1,19 +1,19 @@
 {
   "autoridade": "Ministro do Desenvolvimento e Assistência Social, Família e Combate à Fome",
   "slug": "ministro-do-desenvolvimento-e-assistencia-social-familia-e-combate-a-fome",
-  "voos": 117,
-  "custo_estimado": 7496997,
+  "voos": 118,
+  "custo_estimado": 7576330,
   "fds": 2,
   "fds_pct": 2,
   "noturnos": 4,
   "internacionais": 0,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 117,
+  "lula": 118,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 51
+      "n": 52
     },
     {
       "destino": "São Paulo",
@@ -184,9 +184,20 @@
     {
       "mes": "2026-07",
       "n": 2
+    },
+    {
+      "mes": "2026-09",
+      "n": 1
     }
   ],
   "voos_lista": [
+    {
+      "data": "01/09/2026",
+      "origem": "Campo Grande",
+      "destino": "Brasília",
+      "custo": 79333,
+      "fds": false
+    },
     {
       "data": "30/07/2026",
       "origem": "Brasília",

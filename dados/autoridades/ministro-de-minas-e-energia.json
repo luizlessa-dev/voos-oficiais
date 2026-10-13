@@ -1,19 +1,19 @@
 {
   "autoridade": "Ministro de Minas e Energia",
   "slug": "ministro-de-minas-e-energia",
-  "voos": 49,
-  "custo_estimado": 3516165,
+  "voos": 51,
+  "custo_estimado": 3745665,
   "fds": 3,
   "fds_pct": 6,
   "noturnos": 6,
   "internacionais": 11,
   "a_disposicao": 0,
   "bolsonaro": 4,
-  "lula": 45,
+  "lula": 47,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 17
+      "n": 18
     },
     {
       "destino": "Rio de Janeiro",
@@ -28,11 +28,11 @@
       "n": 3
     },
     {
-      "destino": "Assunção",
-      "n": 2
+      "destino": "Boa Vista",
+      "n": 3
     },
     {
-      "destino": "Boa Vista",
+      "destino": "Assunção",
       "n": 2
     },
     {
@@ -120,9 +120,27 @@
     {
       "mes": "2026-08",
       "n": 1
+    },
+    {
+      "mes": "2026-09",
+      "n": 2
     }
   ],
   "voos_lista": [
+    {
+      "data": "22/09/2026",
+      "origem": "Boa Vista",
+      "destino": "Brasília",
+      "custo": 147333,
+      "fds": false
+    },
+    {
+      "data": "21/09/2026",
+      "origem": "Brasília",
+      "destino": "Boa Vista",
+      "custo": 82167,
+      "fds": false
+    },
     {
       "data": "31/08/2026",
       "origem": "Belo Horizonte (Pampulha)",

@@ -1,19 +1,19 @@
 {
   "autoridade": "Ministro da Saúde",
   "slug": "ministro-da-saude",
-  "voos": 491,
-  "custo_estimado": 29302693,
-  "fds": 109,
+  "voos": 499,
+  "custo_estimado": 29603027,
+  "fds": 112,
   "fds_pct": 22,
-  "noturnos": 20,
+  "noturnos": 21,
   "internacionais": 14,
   "a_disposicao": 0,
   "bolsonaro": 347,
-  "lula": 144,
+  "lula": 152,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 193
+      "n": 196
     },
     {
       "destino": "Rio de Janeiro",
@@ -28,6 +28,10 @@
       "n": 12
     },
     {
+      "destino": "Campinas",
+      "n": 11
+    },
+    {
       "destino": "Porto Alegre",
       "n": 11
     },
@@ -36,16 +40,12 @@
       "n": 11
     },
     {
-      "destino": "Campinas",
-      "n": 10
-    },
-    {
       "destino": "Manaus",
       "n": 9
     },
     {
       "destino": "Belo Horizonte",
-      "n": 8
+      "n": 9
     },
     {
       "destino": "Salvador",
@@ -272,9 +272,69 @@
     {
       "mes": "2026-08",
       "n": 2
+    },
+    {
+      "mes": "2026-09",
+      "n": 8
     }
   ],
   "voos_lista": [
+    {
+      "data": "29/09/2026",
+      "origem": "Fortaleza",
+      "destino": "Brasília",
+      "custo": 90667,
+      "fds": false
+    },
+    {
+      "data": "26/09/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Belo Horizonte (Pampulha)",
+      "custo": 28333,
+      "fds": true
+    },
+    {
+      "data": "26/09/2026",
+      "origem": "Belo Horizonte (Pampulha)",
+      "destino": "Divinópolis",
+      "custo": 14167,
+      "fds": true
+    },
+    {
+      "data": "26/09/2026",
+      "origem": "Divinópolis",
+      "destino": "Brasília",
+      "custo": 39667,
+      "fds": true
+    },
+    {
+      "data": "25/09/2026",
+      "origem": "Brasília",
+      "destino": "São José Dos Campos",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "25/09/2026",
+      "origem": "São José Dos Campos",
+      "destino": "Campinas",
+      "custo": 17000,
+      "fds": false
+    },
+    {
+      "data": "11/09/2026",
+      "origem": "Brasília",
+      "destino": "Montes Claros",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "11/09/2026",
+      "origem": "Montes Claros",
+      "destino": "Brasília",
+      "custo": 31167,
+      "fds": false
+    },
     {
       "data": "08/08/2026",
       "origem": "Brasília",

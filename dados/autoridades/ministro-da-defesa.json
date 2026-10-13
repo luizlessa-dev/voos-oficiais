@@ -1,27 +1,27 @@
 {
   "autoridade": "Ministro da Defesa",
   "slug": "ministro-da-defesa",
-  "voos": 425,
-  "custo_estimado": 25810097,
+  "voos": 429,
+  "custo_estimado": 26033931,
   "fds": 75,
-  "fds_pct": 18,
+  "fds_pct": 17,
   "noturnos": 6,
   "internacionais": 19,
   "a_disposicao": 0,
   "bolsonaro": 193,
-  "lula": 232,
+  "lula": 236,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 183
+      "n": 185
     },
     {
       "destino": "Rio de Janeiro",
-      "n": 76
+      "n": 77
     },
     {
       "destino": "São Paulo",
-      "n": 23
+      "n": 24
     },
     {
       "destino": "Recife",
@@ -356,9 +356,41 @@
     {
       "mes": "2026-08",
       "n": 10
+    },
+    {
+      "mes": "2026-09",
+      "n": 4
     }
   ],
   "voos_lista": [
+    {
+      "data": "10/09/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "10/09/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "03/09/2026",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "03/09/2026",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
     {
       "data": "31/08/2026",
       "origem": "Pirassununga",

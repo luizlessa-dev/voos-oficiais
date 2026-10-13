@@ -1,32 +1,32 @@
 {
   "_meta": {
-    "gerado": "2026-09-11 13:13",
+    "gerado": "2026-10-13 16:43",
     "total_destinos_mapeados": 114,
-    "voos_sem_coordenada": 210,
+    "voos_sem_coordenada": 212,
     "nota": "Voos nacionais agrupados por cidade-destino. Internacionais não entram no mapa do Brasil."
   },
   "destinos": [
     {
       "cidade": "Brasília",
-      "n": 4105,
+      "n": 4151,
       "lat": -15.79,
       "lng": -47.88
     },
     {
       "cidade": "São Paulo",
-      "n": 1307,
+      "n": 1324,
       "lat": -23.55,
       "lng": -46.63
     },
     {
       "cidade": "Rio de Janeiro",
-      "n": 827,
+      "n": 832,
       "lat": -22.91,
       "lng": -43.17
     },
     {
       "cidade": "Belo Horizonte",
-      "n": 222,
+      "n": 224,
       "lat": -19.92,
       "lng": -43.94
     },
@@ -50,13 +50,13 @@
     },
     {
       "cidade": "Salvador",
-      "n": 148,
+      "n": 149,
       "lat": -12.97,
       "lng": -38.51
     },
     {
       "cidade": "João Pessoa",
-      "n": 132,
+      "n": 134,
       "lat": -7.12,
       "lng": -34.86
     },
@@ -80,13 +80,13 @@
     },
     {
       "cidade": "Macapá",
-      "n": 104,
+      "n": 106,
       "lat": 0.03,
       "lng": -51.07
     },
     {
       "cidade": "São Luís",
-      "n": 92,
+      "n": 93,
       "lat": -2.53,
       "lng": -44.3
     },
@@ -98,7 +98,7 @@
     },
     {
       "cidade": "Boa Vista",
-      "n": 73,
+      "n": 75,
       "lat": 2.82,
       "lng": -60.67
     },
@@ -116,19 +116,19 @@
     },
     {
       "cidade": "Foz do Iguaçu",
-      "n": 65,
+      "n": 66,
       "lat": -25.52,
       "lng": -54.58
     },
     {
       "cidade": "Campinas",
-      "n": 63,
+      "n": 64,
       "lat": -22.91,
       "lng": -47.06
     },
     {
       "cidade": "Campo Grande",
-      "n": 63,
+      "n": 64,
       "lat": -20.47,
       "lng": -54.62
     },
@@ -146,7 +146,7 @@
     },
     {
       "cidade": "Vitória",
-      "n": 55,
+      "n": 56,
       "lat": -20.32,
       "lng": -40.34
     },
@@ -164,37 +164,37 @@
     },
     {
       "cidade": "São José Dos Campos",
-      "n": 50,
+      "n": 53,
       "lat": -23.22,
       "lng": -45.89
     },
     {
       "cidade": "Cuiabá",
-      "n": 48,
+      "n": 49,
       "lat": -15.6,
       "lng": -56.1
     },
     {
       "cidade": "Petrolina",
-      "n": 46,
+      "n": 47,
       "lat": -9.39,
       "lng": -40.5
     },
     {
       "cidade": "Porto Velho",
-      "n": 41,
+      "n": 42,
       "lat": -8.76,
       "lng": -63.9
     },
     {
       "cidade": "Palmas",
-      "n": 38,
+      "n": 39,
       "lat": -10.18,
       "lng": -48.33
     },
     {
       "cidade": "Santarém",
-      "n": 29,
+      "n": 30,
       "lat": -2.44,
       "lng": -54.71
     },
@@ -217,16 +217,22 @@
       "lng": -55.38
     },
     {
+      "cidade": "Ribeirão Preto",
+      "n": 26,
+      "lat": -21.18,
+      "lng": -47.81
+    },
+    {
       "cidade": "Uberlândia",
       "n": 26,
       "lat": -18.92,
       "lng": -48.28
     },
     {
-      "cidade": "Ribeirão Preto",
-      "n": 25,
-      "lat": -21.18,
-      "lng": -47.81
+      "cidade": "Montes Claros",
+      "n": 26,
+      "lat": -16.73,
+      "lng": -43.86
     },
     {
       "cidade": "Rio Branco",
@@ -235,14 +241,8 @@
       "lng": -67.81
     },
     {
-      "cidade": "Montes Claros",
-      "n": 24,
-      "lat": -16.73,
-      "lng": -43.86
-    },
-    {
       "cidade": "Mossoró",
-      "n": 24,
+      "n": 25,
       "lat": -5.19,
       "lng": -37.34
     },
@@ -319,6 +319,12 @@
       "lng": -57.65
     },
     {
+      "cidade": "Porto Seguro",
+      "n": 15,
+      "lat": -16.45,
+      "lng": -39.06
+    },
+    {
       "cidade": "Cascavel",
       "n": 15,
       "lat": -24.96,
@@ -337,10 +343,10 @@
       "lng": -47.93
     },
     {
-      "cidade": "Porto Seguro",
+      "cidade": "Feira De Santana",
       "n": 14,
-      "lat": -16.45,
-      "lng": -39.06
+      "lat": -12.27,
+      "lng": -38.97
     },
     {
       "cidade": "Araraquara",
@@ -353,12 +359,6 @@
       "n": 13,
       "lat": -23.5,
       "lng": -47.46
-    },
-    {
-      "cidade": "Feira De Santana",
-      "n": 13,
-      "lat": -12.27,
-      "lng": -38.97
     },
     {
       "cidade": "Varginha",
@@ -439,6 +439,12 @@
       "lng": -49.38
     },
     {
+      "cidade": "Guanambi",
+      "n": 9,
+      "lat": -14.22,
+      "lng": -42.78
+    },
+    {
       "cidade": "Barra Do Garças",
       "n": 9,
       "lat": -15.89,
@@ -499,12 +505,6 @@
       "lng": -49.02
     },
     {
-      "cidade": "Guanambi",
-      "n": 8,
-      "lat": -14.22,
-      "lng": -42.78
-    },
-    {
       "cidade": "Presidente Prudente",
       "n": 8,
       "lat": -22.13,
@@ -545,6 +545,12 @@
       "n": 7,
       "lat": -7.19,
       "lng": -48.21
+    },
+    {
+      "cidade": "Campos dos Goytacazes",
+      "n": 7,
+      "lat": -21.75,
+      "lng": -41.33
     },
     {
       "cidade": "Ji-Paraná",
@@ -589,12 +595,6 @@
       "lng": -50.92
     },
     {
-      "cidade": "Campos dos Goytacazes",
-      "n": 6,
-      "lat": -21.75,
-      "lng": -41.33
-    },
-    {
       "cidade": "Sorriso",
       "n": 6,
       "lat": -12.54,
@@ -637,6 +637,12 @@
       "lng": -72.67
     },
     {
+      "cidade": "Tefé",
+      "n": 4,
+      "lat": -3.35,
+      "lng": -64.71
+    },
+    {
       "cidade": "Juiz De Fora",
       "n": 3,
       "lat": -21.76,
@@ -653,12 +659,6 @@
       "n": 3,
       "lat": -31.33,
       "lng": -54.1
-    },
-    {
-      "cidade": "Tefé",
-      "n": 3,
-      "lat": -3.35,
-      "lng": -64.71
     },
     {
       "cidade": "Lins",

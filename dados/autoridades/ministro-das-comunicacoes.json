@@ -1,23 +1,23 @@
 {
   "autoridade": "Ministro das Comunicações",
   "slug": "ministro-das-comunicacoes",
-  "voos": 236,
-  "custo_estimado": 18147501,
-  "fds": 17,
+  "voos": 241,
+  "custo_estimado": 18501667,
+  "fds": 18,
   "fds_pct": 7,
-  "noturnos": 18,
+  "noturnos": 20,
   "internacionais": 39,
   "a_disposicao": 0,
   "bolsonaro": 127,
-  "lula": 109,
+  "lula": 114,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 80
+      "n": 83
     },
     {
       "destino": "São Paulo",
-      "n": 41
+      "n": 42
     },
     {
       "destino": "Natal",
@@ -276,9 +276,48 @@
     {
       "mes": "2026-08",
       "n": 1
+    },
+    {
+      "mes": "2026-09",
+      "n": 5
     }
   ],
   "voos_lista": [
+    {
+      "data": "28/09/2026",
+      "origem": "Macapá",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "27/09/2026",
+      "origem": "Brasília",
+      "destino": "Macapá",
+      "custo": 85000,
+      "fds": true
+    },
+    {
+      "data": "25/09/2026",
+      "origem": "Porto Alegre",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "25/09/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "16/09/2026",
+      "origem": "Belém",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": false
+    },
     {
       "data": "11/08/2026",
       "origem": "São Paulo (Congonhas)",

@@ -1,23 +1,27 @@
 {
   "autoridade": "Ministra das Mulheres",
   "slug": "ministra-das-mulheres",
-  "voos": 55,
-  "custo_estimado": 3510501,
+  "voos": 58,
+  "custo_estimado": 3663500,
   "fds": 5,
   "fds_pct": 9,
   "noturnos": 8,
   "internacionais": 2,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 55,
+  "lula": 58,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 24
+      "n": 25
     },
     {
       "destino": "Natal",
       "n": 4
+    },
+    {
+      "destino": "Campo Grande",
+      "n": 3
     },
     {
       "destino": "Belém",
@@ -33,10 +37,6 @@
     },
     {
       "destino": "São Paulo",
-      "n": 2
-    },
-    {
-      "destino": "Campo Grande",
       "n": 2
     },
     {
@@ -136,9 +136,34 @@
     {
       "mes": "2026-07",
       "n": 2
+    },
+    {
+      "mes": "2026-09",
+      "n": 3
     }
   ],
   "voos_lista": [
+    {
+      "data": "01/09/2026",
+      "origem": "Campo Grande",
+      "destino": "Brasília",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "01/09/2026",
+      "origem": "Brasília",
+      "destino": "São José Dos Campos",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "01/09/2026",
+      "origem": "São José Dos Campos",
+      "destino": "Campo Grande",
+      "custo": 28333,
+      "fds": false
+    },
     {
       "data": "30/07/2026",
       "origem": "Brasília",

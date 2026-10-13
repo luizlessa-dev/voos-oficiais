@@ -1,19 +1,19 @@
 {
   "autoridade": "Ministro de Portos e Aeroportos",
   "slug": "ministro-de-portos-e-aeroportos",
-  "voos": 239,
-  "custo_estimado": 13954172,
+  "voos": 247,
+  "custo_estimado": 14362171,
   "fds": 4,
   "fds_pct": 2,
   "noturnos": 8,
   "internacionais": 7,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 239,
+  "lula": 247,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 81
+      "n": 84
     },
     {
       "destino": "São Paulo",
@@ -32,11 +32,11 @@
       "n": 5
     },
     {
-      "destino": "Vitória",
-      "n": 4
+      "destino": "São Luís",
+      "n": 5
     },
     {
-      "destino": "São Luís",
+      "destino": "Vitória",
       "n": 4
     },
     {
@@ -224,9 +224,69 @@
     {
       "mes": "2026-08",
       "n": 11
+    },
+    {
+      "mes": "2026-09",
+      "n": 8
     }
   ],
   "voos_lista": [
+    {
+      "data": "29/09/2026",
+      "origem": "Brasília",
+      "destino": "Montes Claros",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "29/09/2026",
+      "origem": "Montes Claros",
+      "destino": "Brasília",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "22/09/2026",
+      "origem": "Brasília",
+      "destino": "São Luís",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "22/09/2026",
+      "origem": "São Luís",
+      "destino": "Barreirinhas",
+      "custo": 14167,
+      "fds": false
+    },
+    {
+      "data": "22/09/2026",
+      "origem": "São Luís",
+      "destino": "Brasília",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "17/09/2026",
+      "origem": "Brasília",
+      "destino": "Foz do Iguaçu",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "17/09/2026",
+      "origem": "Foz do Iguaçu",
+      "destino": "Campos dos Goytacazes",
+      "custo": 62333,
+      "fds": false
+    },
+    {
+      "data": "17/09/2026",
+      "origem": "Campos dos Goytacazes",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
     {
       "data": "17/08/2026",
       "origem": "Brasília",

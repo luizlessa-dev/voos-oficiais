@@ -1,27 +1,27 @@
 {
   "autoridade": "Ministro da Fazenda",
   "slug": "ministro-da-fazenda",
-  "voos": 329,
-  "custo_estimado": 14382007,
-  "fds": 41,
+  "voos": 336,
+  "custo_estimado": 14787174,
+  "fds": 42,
   "fds_pct": 12,
   "noturnos": 18,
   "internacionais": 48,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 329,
+  "lula": 336,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 145
+      "n": 148
     },
     {
       "destino": "São Paulo",
-      "n": 122
+      "n": 124
     },
     {
       "destino": "Rio de Janeiro",
-      "n": 12
+      "n": 13
     },
     {
       "destino": "Recife",
@@ -228,9 +228,62 @@
     {
       "mes": "2026-08",
       "n": 1
+    },
+    {
+      "mes": "2026-09",
+      "n": 7
     }
   ],
   "voos_lista": [
+    {
+      "data": "19/09/2026",
+      "origem": "Salvador",
+      "destino": "Brasília",
+      "custo": 65167,
+      "fds": true
+    },
+    {
+      "data": "18/09/2026",
+      "origem": "Brasília",
+      "destino": "Salvador",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "15/09/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "14/09/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "09/09/2026",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "09/09/2026",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "01/09/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 79333,
+      "fds": false
+    },
     {
       "data": "17/08/2026",
       "origem": "Brasília",

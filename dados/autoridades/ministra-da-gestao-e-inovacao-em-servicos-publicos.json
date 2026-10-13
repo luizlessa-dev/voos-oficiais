@@ -1,23 +1,23 @@
 {
   "autoridade": "Ministra da Gestão e Inovação em Serviços Públicos",
   "slug": "ministra-da-gestao-e-inovacao-em-servicos-publicos",
-  "voos": 43,
-  "custo_estimado": 2796498,
+  "voos": 45,
+  "custo_estimado": 2901331,
   "fds": 0,
   "fds_pct": 0,
   "noturnos": 5,
   "internacionais": 0,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 43,
+  "lula": 45,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 22
+      "n": 23
     },
     {
       "destino": "Rio de Janeiro",
-      "n": 5
+      "n": 6
     },
     {
       "destino": "Foz do Iguaçu",
@@ -136,9 +136,27 @@
     {
       "mes": "2026-07",
       "n": 2
+    },
+    {
+      "mes": "2026-09",
+      "n": 2
     }
   ],
   "voos_lista": [
+    {
+      "data": "10/09/2026",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "10/09/2026",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
     {
       "data": "01/07/2026",
       "origem": "Brasília",

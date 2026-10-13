@@ -1,23 +1,23 @@
 {
   "autoridade": "Ministro dos Transportes",
   "slug": "ministro-dos-transportes",
-  "voos": 228,
-  "custo_estimado": 13112662,
-  "fds": 4,
+  "voos": 242,
+  "custo_estimado": 13897496,
+  "fds": 5,
   "fds_pct": 2,
-  "noturnos": 4,
+  "noturnos": 5,
   "internacionais": 2,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 228,
+  "lula": 242,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 81
+      "n": 87
     },
     {
       "destino": "São Paulo",
-      "n": 29
+      "n": 30
     },
     {
       "destino": "Maceió",
@@ -36,6 +36,10 @@
       "n": 5
     },
     {
+      "destino": "Feira De Santana",
+      "n": 4
+    },
+    {
       "destino": "Recife",
       "n": 4
     },
@@ -44,11 +48,7 @@
       "n": 4
     },
     {
-      "destino": "Fortaleza",
-      "n": 4
-    },
-    {
-      "destino": "Belo Horizonte",
+      "destino": "Porto Velho",
       "n": 4
     }
   ],
@@ -224,9 +224,111 @@
     {
       "mes": "2026-08",
       "n": 1
+    },
+    {
+      "mes": "2026-09",
+      "n": 14
     }
   ],
   "voos_lista": [
+    {
+      "data": "30/09/2026",
+      "origem": "Brasília",
+      "destino": "Mossoró",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "30/09/2026",
+      "origem": "Mossoró",
+      "destino": "Guanambi",
+      "custo": 65167,
+      "fds": false
+    },
+    {
+      "data": "30/09/2026",
+      "origem": "Guanambi",
+      "destino": "Brasília",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "22/09/2026",
+      "origem": "Petrolina",
+      "destino": "Porto Seguro",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "22/09/2026",
+      "origem": "Porto Seguro",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "21/09/2026",
+      "origem": "Maceió",
+      "destino": "Feira De Santana",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "21/09/2026",
+      "origem": "Feira De Santana",
+      "destino": "Petrolina",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "18/09/2026",
+      "origem": "Porto Velho",
+      "destino": "Brasília",
+      "custo": 124667,
+      "fds": false
+    },
+    {
+      "data": "17/09/2026",
+      "origem": "Brasília",
+      "destino": "Porto Velho",
+      "custo": 65167,
+      "fds": false
+    },
+    {
+      "data": "15/09/2026",
+      "origem": "Maceió",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 99167,
+      "fds": false
+    },
+    {
+      "data": "15/09/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "05/09/2026",
+      "origem": "Lavras",
+      "destino": "Brasília",
+      "custo": 45333,
+      "fds": true
+    },
+    {
+      "data": "02/09/2026",
+      "origem": "Brasília",
+      "destino": "Palmas",
+      "custo": 34000,
+      "fds": false
+    },
+    {
+      "data": "02/09/2026",
+      "origem": "Palmas",
+      "destino": "Brasília",
+      "custo": 34000,
+      "fds": false
+    },
     {
       "data": "13/08/2026",
       "origem": "Brasília",

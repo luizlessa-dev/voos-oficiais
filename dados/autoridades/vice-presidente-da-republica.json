@@ -1,0 +1,213 @@
+{
+  "autoridade": "Vice-Presidente da República",
+  "slug": "vice-presidente-da-republica",
+  "voos": 22,
+  "custo_estimado": 1236041,
+  "fds": 3,
+  "fds_pct": 14,
+  "noturnos": 0,
+  "internacionais": 0,
+  "a_disposicao": 0,
+  "bolsonaro": 0,
+  "lula": 22,
+  "top_destinos": [
+    {
+      "destino": "Brasília",
+      "n": 9
+    },
+    {
+      "destino": "São Paulo",
+      "n": 8
+    },
+    {
+      "destino": "Rio de Janeiro",
+      "n": 1
+    },
+    {
+      "destino": "São José Dos Campos",
+      "n": 1
+    },
+    {
+      "destino": "Ribeirão Preto",
+      "n": 1
+    },
+    {
+      "destino": "Belo Horizonte",
+      "n": 1
+    },
+    {
+      "destino": "Campinas",
+      "n": 1
+    }
+  ],
+  "timeline": [
+    {
+      "mes": "2026-07",
+      "n": 9
+    },
+    {
+      "mes": "2026-08",
+      "n": 10
+    },
+    {
+      "mes": "2026-09",
+      "n": 3
+    }
+  ],
+  "voos_lista": [
+    {
+      "data": "28/09/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 63750,
+      "fds": false
+    },
+    {
+      "data": "14/09/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 63750,
+      "fds": false
+    },
+    {
+      "data": "01/09/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 70833,
+      "fds": false
+    },
+    {
+      "data": "28/08/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 67292,
+      "fds": false
+    },
+    {
+      "data": "25/08/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 60208,
+      "fds": false
+    },
+    {
+      "data": "24/08/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 63750,
+      "fds": false
+    },
+    {
+      "data": "20/08/2026",
+      "origem": "Brasília",
+      "destino": "Campinas",
+      "custo": 53125,
+      "fds": false
+    },
+    {
+      "data": "17/08/2026",
+      "origem": "São José Dos Campos",
+      "destino": "Brasília",
+      "custo": 60208,
+      "fds": false
+    },
+    {
+      "data": "14/08/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "10/08/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 60208,
+      "fds": false
+    },
+    {
+      "data": "06/08/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 63750,
+      "fds": false
+    },
+    {
+      "data": "03/08/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Belo Horizonte (Pampulha)",
+      "custo": 42500,
+      "fds": false
+    },
+    {
+      "data": "03/08/2026",
+      "origem": "Belo Horizonte (Pampulha)",
+      "destino": "Brasília",
+      "custo": 46042,
+      "fds": false
+    },
+    {
+      "data": "26/07/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": true
+    },
+    {
+      "data": "25/07/2026",
+      "origem": "Campinas",
+      "destino": "Ribeirão Preto",
+      "custo": 28333,
+      "fds": true
+    },
+    {
+      "data": "25/07/2026",
+      "origem": "Ribeirão Preto",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 28333,
+      "fds": true
+    },
+    {
+      "data": "23/07/2026",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 60208,
+      "fds": false
+    },
+    {
+      "data": "23/07/2026",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "São José Dos Campos",
+      "custo": 31875,
+      "fds": false
+    },
+    {
+      "data": "22/07/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 63750,
+      "fds": false
+    },
+    {
+      "data": "22/07/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 63750,
+      "fds": false
+    },
+    {
+      "data": "13/07/2026",
+      "origem": "São José Dos Campos",
+      "destino": "Brasília",
+      "custo": 67292,
+      "fds": false
+    },
+    {
+      "data": "10/07/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 63750,
+      "fds": false
+    }
+  ]
+}

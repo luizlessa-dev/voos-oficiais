@@ -1,43 +1,47 @@
 {
   "autoridade": "Ministro da Educação",
   "slug": "ministro-da-educacao",
-  "voos": 533,
-  "custo_estimado": 34082830,
+  "voos": 542,
+  "custo_estimado": 34706163,
   "fds": 65,
   "fds_pct": 12,
   "noturnos": 36,
   "internacionais": 40,
   "a_disposicao": 0,
   "bolsonaro": 254,
-  "lula": 279,
+  "lula": 288,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 178
+      "n": 180
     },
     {
       "destino": "São Paulo",
-      "n": 40
+      "n": 41
     },
     {
       "destino": "Rio de Janeiro",
-      "n": 25
+      "n": 26
     },
     {
       "destino": "Fortaleza",
       "n": 25
     },
     {
+      "destino": "Belo Horizonte",
+      "n": 10
+    },
+    {
       "destino": "Recife",
       "n": 10
     },
     {
-      "destino": "Belo Horizonte",
+      "destino": "Aracaju",
       "n": 9
     },
     {
-      "destino": "Aracaju",
-      "n": 9
+      "destino": "Vitória",
+      "n": 8
     },
     {
       "destino": "Belém",
@@ -45,10 +49,6 @@
     },
     {
       "destino": "Curitiba",
-      "n": 7
-    },
-    {
-      "destino": "Vitória",
       "n": 7
     }
   ],
@@ -312,9 +312,76 @@
     {
       "mes": "2026-08",
       "n": 8
+    },
+    {
+      "mes": "2026-09",
+      "n": 9
     }
   ],
   "voos_lista": [
+    {
+      "data": "30/09/2026",
+      "origem": "Rio de Janeiro (Santos Dumont)",
+      "destino": "Belo Horizonte (Pampulha)",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "29/09/2026",
+      "origem": "Brasília",
+      "destino": "São José Dos Campos",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "29/09/2026",
+      "origem": "São José Dos Campos",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "23/09/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "17/09/2026",
+      "origem": "Vitória",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "16/09/2026",
+      "origem": "Brasília",
+      "destino": "Santarém",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "16/09/2026",
+      "origem": "Santarém",
+      "destino": "Vitória",
+      "custo": 119000,
+      "fds": false
+    },
+    {
+      "data": "15/09/2026",
+      "origem": "Brasília",
+      "destino": "Tefé",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "15/09/2026",
+      "origem": "Tefé",
+      "destino": "Brasília",
+      "custo": 141667,
+      "fds": false
+    },
     {
       "data": "27/08/2026",
       "origem": "Mossoró",
@@ -3750,69 +3817,6 @@
       "origem": "Maringá",
       "destino": "Brasília",
       "custo": 51000,
-      "fds": false
-    },
-    {
-      "data": "19/05/2021",
-      "origem": "Brasília",
-      "destino": "Araguaína",
-      "custo": 51000,
-      "fds": false
-    },
-    {
-      "data": "19/05/2021",
-      "origem": "Araguaína",
-      "destino": "Brasília",
-      "custo": 48167,
-      "fds": false
-    },
-    {
-      "data": "16/05/2021",
-      "origem": "São Luís",
-      "destino": "Brasília",
-      "custo": 79333,
-      "fds": true
-    },
-    {
-      "data": "14/05/2021",
-      "origem": "Navegantes",
-      "destino": "Chapecó",
-      "custo": 31167,
-      "fds": false
-    },
-    {
-      "data": "14/05/2021",
-      "origem": "Chapecó",
-      "destino": "Brasília",
-      "custo": 65167,
-      "fds": false
-    },
-    {
-      "data": "14/05/2021",
-      "origem": "Brasília",
-      "destino": "São Luís",
-      "custo": 76500,
-      "fds": false
-    },
-    {
-      "data": "13/05/2021",
-      "origem": "Porto Alegre",
-      "destino": "Curitiba",
-      "custo": 31167,
-      "fds": false
-    },
-    {
-      "data": "13/05/2021",
-      "origem": "Curitiba",
-      "destino": "Navegantes",
-      "custo": 14167,
-      "fds": false
-    },
-    {
-      "data": "12/05/2021",
-      "origem": "Brasília",
-      "destino": "Santa Maria",
-      "custo": 87833,
       "fds": false
     }
   ]

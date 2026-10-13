@@ -1,23 +1,23 @@
 {
   "autoridade": "Ministro das Relações Exteriores",
   "slug": "ministro-das-relacoes-exteriores",
-  "voos": 379,
-  "custo_estimado": 38462503,
+  "voos": 384,
+  "custo_estimado": 38836503,
   "fds": 74,
-  "fds_pct": 20,
+  "fds_pct": 19,
   "noturnos": 43,
-  "internacionais": 203,
+  "internacionais": 205,
   "a_disposicao": 0,
   "bolsonaro": 139,
-  "lula": 240,
+  "lula": 245,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 121
+      "n": 123
     },
     {
       "destino": "São Paulo",
-      "n": 31
+      "n": 33
     },
     {
       "destino": "Rio de Janeiro",
@@ -41,7 +41,7 @@
     },
     {
       "destino": "Montevideo",
-      "n": 8
+      "n": 9
     },
     {
       "destino": "Foz do Iguaçu",
@@ -316,9 +316,48 @@
     {
       "mes": "2026-08",
       "n": 4
+    },
+    {
+      "mes": "2026-09",
+      "n": 5
     }
   ],
   "voos_lista": [
+    {
+      "data": "18/09/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "14/09/2026",
+      "origem": "São Paulo (Guarulhos)",
+      "destino": "Brasília",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "04/09/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "02/09/2026",
+      "origem": "Montevideo (Uruguai)",
+      "destino": "Brasília",
+      "custo": 93500,
+      "fds": false
+    },
+    {
+      "data": "01/09/2026",
+      "origem": "Brasília",
+      "destino": "Montevideo (Uruguai)",
+      "custo": 127500,
+      "fds": false
+    },
     {
       "data": "24/08/2026",
       "origem": "Brasília",
