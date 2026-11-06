@@ -1,19 +1,19 @@
 {
   "autoridade": "Ministro da Justiça e Segurança Pública",
   "slug": "ministro-da-justica-e-seguranca-publica",
-  "voos": 384,
-  "custo_estimado": 22148171,
-  "fds": 34,
-  "fds_pct": 9,
+  "voos": 388,
+  "custo_estimado": 22377671,
+  "fds": 37,
+  "fds_pct": 10,
   "noturnos": 5,
   "internacionais": 20,
   "a_disposicao": 0,
   "bolsonaro": 102,
-  "lula": 282,
+  "lula": 286,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 155
+      "n": 158
     },
     {
       "destino": "São Paulo",
@@ -29,7 +29,7 @@
     },
     {
       "destino": "Salvador",
-      "n": 10
+      "n": 11
     },
     {
       "destino": "Natal",
@@ -320,9 +320,41 @@
     {
       "mes": "2026-09",
       "n": 2
+    },
+    {
+      "mes": "2026-10",
+      "n": 4
     }
   ],
   "voos_lista": [
+    {
+      "data": "31/10/2026",
+      "origem": "Dourados",
+      "destino": "Brasília",
+      "custo": 62333,
+      "fds": true
+    },
+    {
+      "data": "31/10/2026",
+      "origem": "Brasília",
+      "destino": "Salvador",
+      "custo": 53833,
+      "fds": true
+    },
+    {
+      "data": "30/10/2026",
+      "origem": "Salvador",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": false
+    },
+    {
+      "data": "18/10/2026",
+      "origem": "Salvador",
+      "destino": "Brasília",
+      "custo": 56667,
+      "fds": true
+    },
     {
       "data": "04/09/2026",
       "origem": "Rio de Janeiro (Santos Dumont)",

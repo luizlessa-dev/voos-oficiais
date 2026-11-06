@@ -1,27 +1,27 @@
 {
   "autoridade": "Ministro da Educação",
   "slug": "ministro-da-educacao",
-  "voos": 542,
-  "custo_estimado": 34706163,
+  "voos": 556,
+  "custo_estimado": 35269997,
   "fds": 65,
   "fds_pct": 12,
   "noturnos": 36,
   "internacionais": 40,
   "a_disposicao": 0,
   "bolsonaro": 254,
-  "lula": 288,
+  "lula": 302,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 180
+      "n": 183
     },
     {
       "destino": "São Paulo",
-      "n": 41
+      "n": 43
     },
     {
       "destino": "Rio de Janeiro",
-      "n": 26
+      "n": 27
     },
     {
       "destino": "Fortaleza",
@@ -29,11 +29,11 @@
     },
     {
       "destino": "Belo Horizonte",
-      "n": 10
+      "n": 11
     },
     {
       "destino": "Recife",
-      "n": 10
+      "n": 11
     },
     {
       "destino": "Aracaju",
@@ -316,9 +316,111 @@
     {
       "mes": "2026-09",
       "n": 9
+    },
+    {
+      "mes": "2026-10",
+      "n": 14
     }
   ],
   "voos_lista": [
+    {
+      "data": "23/10/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "21/10/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Belo Horizonte (Confins)",
+      "custo": 31167,
+      "fds": false
+    },
+    {
+      "data": "21/10/2026",
+      "origem": "Belo Horizonte (Confins)",
+      "destino": "Uberaba",
+      "custo": 28333,
+      "fds": false
+    },
+    {
+      "data": "21/10/2026",
+      "origem": "Uberaba",
+      "destino": "Uberlândia",
+      "custo": 14167,
+      "fds": false
+    },
+    {
+      "data": "21/10/2026",
+      "origem": "Uberlândia",
+      "destino": "Brasília",
+      "custo": 19833,
+      "fds": false
+    },
+    {
+      "data": "20/10/2026",
+      "origem": "Brasília",
+      "destino": "Campinas",
+      "custo": 42500,
+      "fds": false
+    },
+    {
+      "data": "16/10/2026",
+      "origem": "Rio de Janeiro (Galeão)",
+      "destino": "Goianá",
+      "custo": 17000,
+      "fds": false
+    },
+    {
+      "data": "14/10/2026",
+      "origem": "Brasília",
+      "destino": "Rio de Janeiro (Santos Dumont)",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "09/10/2026",
+      "origem": "Brasília",
+      "destino": "Ribeirão Preto",
+      "custo": 31167,
+      "fds": false
+    },
+    {
+      "data": "09/10/2026",
+      "origem": "Ribeirão Preto",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "08/10/2026",
+      "origem": "Brasília",
+      "destino": "Recife",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "08/10/2026",
+      "origem": "Recife",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
+    {
+      "data": "02/10/2026",
+      "origem": "Brasília",
+      "destino": "Campinas",
+      "custo": 42500,
+      "fds": false
+    },
+    {
+      "data": "01/10/2026",
+      "origem": "Belo Horizonte (Pampulha)",
+      "destino": "Brasília",
+      "custo": 39667,
+      "fds": false
+    },
     {
       "data": "30/09/2026",
       "origem": "Rio de Janeiro (Santos Dumont)",
@@ -3719,104 +3821,6 @@
       "origem": "Gran Canaria Island (Espanha)",
       "destino": "Praia (Cabo Verde)",
       "custo": 14167,
-      "fds": false
-    },
-    {
-      "data": "24/06/2021",
-      "origem": "Praia (Cabo Verde)",
-      "destino": "Fortaleza",
-      "custo": 62333,
-      "fds": false
-    },
-    {
-      "data": "24/06/2021",
-      "origem": "Fortaleza",
-      "destino": "Brasília",
-      "custo": 85000,
-      "fds": false
-    },
-    {
-      "data": "23/06/2021",
-      "origem": "Catania (Itália)",
-      "destino": "Gran Canaria Island (Espanha)",
-      "custo": 138833,
-      "fds": false
-    },
-    {
-      "data": "21/06/2021",
-      "origem": "Gran Canaria Island (Espanha)",
-      "destino": "Catania (Itália)",
-      "custo": 175667,
-      "fds": false
-    },
-    {
-      "data": "20/06/2021",
-      "origem": "Brasília",
-      "destino": "Fortaleza",
-      "custo": 82167,
-      "fds": true
-    },
-    {
-      "data": "20/06/2021",
-      "origem": "Fortaleza",
-      "destino": "Gran Canaria Island (Espanha)",
-      "custo": 337167,
-      "fds": true
-    },
-    {
-      "data": "14/06/2021",
-      "origem": "Marília",
-      "destino": "Brasília",
-      "custo": 42500,
-      "fds": false
-    },
-    {
-      "data": "09/06/2021",
-      "origem": "Brasília",
-      "destino": "Anápolis",
-      "custo": 11333,
-      "fds": false
-    },
-    {
-      "data": "07/06/2021",
-      "origem": "Brasília",
-      "destino": "Vitória",
-      "custo": 53833,
-      "fds": false
-    },
-    {
-      "data": "07/06/2021",
-      "origem": "Vitória",
-      "destino": "Brasília",
-      "custo": 56667,
-      "fds": false
-    },
-    {
-      "data": "26/05/2021",
-      "origem": "Brasília",
-      "destino": "Alcântara",
-      "custo": 79333,
-      "fds": false
-    },
-    {
-      "data": "26/05/2021",
-      "origem": "Alcântara",
-      "destino": "Brasília",
-      "custo": 82167,
-      "fds": false
-    },
-    {
-      "data": "21/05/2021",
-      "origem": "Brasília",
-      "destino": "Maringá",
-      "custo": 51000,
-      "fds": false
-    },
-    {
-      "data": "21/05/2021",
-      "origem": "Maringá",
-      "destino": "Brasília",
-      "custo": 51000,
       "fds": false
     }
   ]

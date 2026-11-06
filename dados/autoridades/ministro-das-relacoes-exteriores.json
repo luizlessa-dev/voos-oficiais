@@ -1,15 +1,15 @@
 {
   "autoridade": "Ministro das Relações Exteriores",
   "slug": "ministro-das-relacoes-exteriores",
-  "voos": 384,
-  "custo_estimado": 38836503,
+  "voos": 385,
+  "custo_estimado": 38890336,
   "fds": 74,
   "fds_pct": 19,
   "noturnos": 43,
   "internacionais": 205,
   "a_disposicao": 0,
   "bolsonaro": 139,
-  "lula": 245,
+  "lula": 246,
   "top_destinos": [
     {
       "destino": "Brasília",
@@ -17,7 +17,7 @@
     },
     {
       "destino": "São Paulo",
-      "n": 33
+      "n": 34
     },
     {
       "destino": "Rio de Janeiro",
@@ -320,9 +320,20 @@
     {
       "mes": "2026-09",
       "n": 5
+    },
+    {
+      "mes": "2026-10",
+      "n": 1
     }
   ],
   "voos_lista": [
+    {
+      "data": "29/10/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Guarulhos)",
+      "custo": 53833,
+      "fds": false
+    },
     {
       "data": "18/09/2026",
       "origem": "Brasília",

@@ -1,19 +1,19 @@
 {
   "autoridade": "Ministro da Defesa",
   "slug": "ministro-da-defesa",
-  "voos": 429,
-  "custo_estimado": 26033931,
-  "fds": 75,
-  "fds_pct": 17,
+  "voos": 433,
+  "custo_estimado": 26385264,
+  "fds": 78,
+  "fds_pct": 18,
   "noturnos": 6,
   "internacionais": 19,
   "a_disposicao": 0,
   "bolsonaro": 193,
-  "lula": 236,
+  "lula": 240,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 185
+      "n": 187
     },
     {
       "destino": "Rio de Janeiro",
@@ -25,7 +25,7 @@
     },
     {
       "destino": "Recife",
-      "n": 10
+      "n": 11
     },
     {
       "destino": "Boa Vista",
@@ -37,7 +37,7 @@
     },
     {
       "destino": "Manaus",
-      "n": 7
+      "n": 8
     },
     {
       "destino": "São José Dos Campos",
@@ -360,9 +360,41 @@
     {
       "mes": "2026-09",
       "n": 4
+    },
+    {
+      "mes": "2026-10",
+      "n": 4
     }
   ],
   "voos_lista": [
+    {
+      "data": "25/10/2026",
+      "origem": "Recife",
+      "destino": "Brasília",
+      "custo": 79333,
+      "fds": true
+    },
+    {
+      "data": "23/10/2026",
+      "origem": "Brasília",
+      "destino": "Recife",
+      "custo": 76500,
+      "fds": false
+    },
+    {
+      "data": "18/10/2026",
+      "origem": "Brasília",
+      "destino": "Manaus (Ponta Pelada)",
+      "custo": 65167,
+      "fds": true
+    },
+    {
+      "data": "18/10/2026",
+      "origem": "Manaus (Ponta Pelada)",
+      "destino": "Brasília",
+      "custo": 130333,
+      "fds": true
+    },
     {
       "data": "10/09/2026",
       "origem": "Brasília",

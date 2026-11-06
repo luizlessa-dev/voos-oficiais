@@ -134,7 +134,16 @@
       "sha256": "dbd84631b2050cefd720fb17943b3c3c03788940a0a98c0b5935c079e7efcddb",
       "tamanho": 11287,
       "tipo": "mensal"
+    },
+    "voos_2026_10.csv": {
+      "ano": 2026,
+      "blob_sha": "7fb30c66af2c442a421e7895dcfd898d04c45ad5",
+      "fonte": "https://github.com/FABdadosabertos/GABAER/blob/master/Voos%20de%20Autoridades/VOOS%20DE%20AUTORIDADES%20-%20DECRETO%20N%C2%BA%2010.267%20-%20OUTUBRO%20DE%202026.csv",
+      "mes": 10,
+      "sha256": "692826c966d06cb633331c08aed3a4899198b47862c6e40168b8bb0546f1aac3",
+      "tamanho": 9831,
+      "tipo": "mensal"
     }
   },
-  "ultima_checagem": "2026-10-13T16:40:06.009976+00:00"
+  "ultima_checagem": "2026-11-06T16:32:19.063193+00:00"
 }

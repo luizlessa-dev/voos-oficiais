@@ -1,19 +1,19 @@
 {
   "autoridade": "Presidente da Câmara dos Deputados",
   "slug": "presidente-da-camara-dos-deputados",
-  "voos": 869,
-  "custo_estimado": 59518629,
-  "fds": 219,
+  "voos": 882,
+  "custo_estimado": 60317628,
+  "fds": 222,
   "fds_pct": 25,
-  "noturnos": 85,
-  "internacionais": 58,
+  "noturnos": 86,
+  "internacionais": 59,
   "a_disposicao": 0,
   "bolsonaro": 403,
-  "lula": 466,
+  "lula": 479,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 361
+      "n": 367
     },
     {
       "destino": "Maceió",
@@ -21,7 +21,7 @@
     },
     {
       "destino": "São Paulo",
-      "n": 136
+      "n": 139
     },
     {
       "destino": "Rio de Janeiro",
@@ -29,11 +29,11 @@
     },
     {
       "destino": "João Pessoa",
-      "n": 46
+      "n": 49
     },
     {
       "destino": "Patos",
-      "n": 13
+      "n": 14
     },
     {
       "destino": "Recife",
@@ -372,9 +372,104 @@
     {
       "mes": "2026-09",
       "n": 4
+    },
+    {
+      "mes": "2026-10",
+      "n": 13
     }
   ],
   "voos_lista": [
+    {
+      "data": "30/10/2026",
+      "origem": "Brasília",
+      "destino": "João Pessoa",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "25/10/2026",
+      "origem": "João Pessoa",
+      "destino": "Patos",
+      "custo": 19833,
+      "fds": true
+    },
+    {
+      "data": "25/10/2026",
+      "origem": "Patos",
+      "destino": "Brasília",
+      "custo": 73667,
+      "fds": true
+    },
+    {
+      "data": "23/10/2026",
+      "origem": "Brasília",
+      "destino": "João Pessoa",
+      "custo": 79333,
+      "fds": false
+    },
+    {
+      "data": "19/10/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "16/10/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "13/10/2026",
+      "origem": "São Paulo (São Roque)",
+      "destino": "Brasília",
+      "custo": 42500,
+      "fds": false
+    },
+    {
+      "data": "12/10/2026",
+      "origem": "João Pessoa",
+      "destino": "Brasília",
+      "custo": 82167,
+      "fds": false
+    },
+    {
+      "data": "12/10/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "11/10/2026",
+      "origem": "Brasília",
+      "destino": "João Pessoa",
+      "custo": 76500,
+      "fds": true
+    },
+    {
+      "data": "09/10/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "09/10/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "05/10/2026",
+      "origem": "João Pessoa",
+      "destino": "Brasília",
+      "custo": 85000,
+      "fds": false
+    },
     {
       "data": "09/09/2026",
       "origem": "Brasília",
@@ -3782,97 +3877,6 @@
       "origem": "Brasília",
       "destino": "Maceió",
       "custo": 73667,
-      "fds": false
-    },
-    {
-      "data": "06/11/2022",
-      "origem": "Maceió",
-      "destino": "Brasília",
-      "custo": 79333,
-      "fds": true
-    },
-    {
-      "data": "04/11/2022",
-      "origem": "Brasília",
-      "destino": "Maceió",
-      "custo": 68000,
-      "fds": false
-    },
-    {
-      "data": "03/11/2022",
-      "origem": "Brasília",
-      "destino": "São Paulo (Congonhas)",
-      "custo": 48167,
-      "fds": false
-    },
-    {
-      "data": "03/11/2022",
-      "origem": "São Paulo (Guarulhos)",
-      "destino": "Brasília",
-      "custo": 45333,
-      "fds": false
-    },
-    {
-      "data": "30/10/2022",
-      "origem": "Maceió",
-      "destino": "Brasília",
-      "custo": 73667,
-      "fds": true
-    },
-    {
-      "data": "19/10/2022",
-      "origem": "Brasília",
-      "destino": "Maceió",
-      "custo": 70833,
-      "fds": false
-    },
-    {
-      "data": "17/10/2022",
-      "origem": "Maceió",
-      "destino": "Recife",
-      "custo": 17000,
-      "fds": false
-    },
-    {
-      "data": "17/10/2022",
-      "origem": "Recife",
-      "destino": "Brasília",
-      "custo": 85000,
-      "fds": false
-    },
-    {
-      "data": "13/10/2022",
-      "origem": "Salvador",
-      "destino": "Maceió",
-      "custo": 28333,
-      "fds": false
-    },
-    {
-      "data": "11/10/2022",
-      "origem": "Brasília",
-      "destino": "Rio de Janeiro (Santos Dumont)",
-      "custo": 48167,
-      "fds": false
-    },
-    {
-      "data": "11/10/2022",
-      "origem": "Rio de Janeiro (Santos Dumont)",
-      "destino": "Brasília",
-      "custo": 53833,
-      "fds": false
-    },
-    {
-      "data": "11/10/2022",
-      "origem": "Brasília",
-      "destino": "Salvador",
-      "custo": 53833,
-      "fds": false
-    },
-    {
-      "data": "10/10/2022",
-      "origem": "Maceió",
-      "destino": "Brasília",
-      "custo": 76500,
       "fds": false
     }
   ]

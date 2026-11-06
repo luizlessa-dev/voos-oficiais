@@ -1,6 +1,6 @@
 # Análise Histórica — Voos de Autoridades (GABAER)
 
-_Gerado em 2026-10-13 16:43 · Fonte: [FABdadosabertos/GABAER](https://github.com/FABdadosabertos/GABAER) · **10545 voos** de 2020 a 2026_
+_Gerado em 2026-11-06 16:34 · Fonte: [FABdadosabertos/GABAER](https://github.com/FABdadosabertos/GABAER) · **10632 voos** de 2020 a 2026_
 
 ## Total de voos por ano
 
@@ -12,14 +12,14 @@ _Gerado em 2026-10-13 16:43 · Fonte: [FABdadosabertos/GABAER](https://github.co
 | 2023 | Lula 3 | 2131 | 321 | 15.1% | 103 |
 | 2024 | Lula 3 | 1699 | 197 | 11.6% | 89 |
 | 2025 | Lula 3 | 1286 | 190 | 14.8% | 60 |
-| 2026 | Lula 3 | 950 | 112 | 11.8% | 49 |
+| 2026 | Lula 3 | 1037 | 131 | 12.6% | 50 |
 
 ## Comparativo por governo
 
 | Governo | Anos | Total voos | FDS | Noturnos | Top 3 autoridades |
 |---|---|---:|---:|---:|---|
 | Bolsonaro | 2020–2022 | 4479 | 604 | 175 | Deputados (403); Saúde (347); Regional (277) |
-| Lula 3 | 2023–2026 | 6066 | 820 | 301 | Deputados (466); Fazenda (336); Federal (317) |
+| Lula 3 | 2023–2026 | 6153 | 839 | 302 | Deputados (479); Fazenda (337); Federal (321) |
 
 ## Campeão de voos por ano
 
@@ -31,34 +31,34 @@ _Gerado em 2026-10-13 16:43 · Fonte: [FABdadosabertos/GABAER](https://github.co
 | 2023 | Presidente da Câmara dos Deputados | 137 | Lula 3 |
 | 2024 | Presidente do Supremo Tribunal Federal | 142 | Lula 3 |
 | 2025 | Presidente da Câmara dos Deputados | 115 | Lula 3 |
-| 2026 | Ministro da Educação | 102 | Lula 3 |
+| 2026 | Ministro da Educação | 116 | Lula 3 |
 
 ## Top 20 autoridades (histórico completo)
 
 | # | Autoridade | Total | Bolsonaro | Lula 3 |
 |---|---|---:|---:|---:|
-| 1 | Presidente da Câmara dos Deputados | 869 | 403 | 466 |
-| 2 | Ministro da Educação | 542 | 254 | 288 |
-| 3 | Presidente do Supremo Tribunal Federal | 514 | 197 | 317 |
-| 4 | Ministro da Saúde | 499 | 347 | 152 |
-| 5 | Presidente do Congresso Nacional | 496 | 243 | 253 |
-| 6 | Ministro da Defesa | 429 | 193 | 236 |
-| 7 | Ministro das Relações Exteriores | 384 | 139 | 245 |
-| 8 | Ministro da Justiça e Segurança Pública | 384 | 102 | 282 |
-| 9 | Ministro da Fazenda | 336 | 0 | 336 |
+| 1 | Presidente da Câmara dos Deputados | 882 | 403 | 479 |
+| 2 | Ministro da Educação | 556 | 254 | 302 |
+| 3 | Presidente do Supremo Tribunal Federal | 518 | 197 | 321 |
+| 4 | Presidente do Congresso Nacional | 503 | 243 | 260 |
+| 5 | Ministro da Saúde | 499 | 347 | 152 |
+| 6 | Ministro da Defesa | 433 | 193 | 240 |
+| 7 | Ministro da Justiça e Segurança Pública | 388 | 102 | 286 |
+| 8 | Ministro das Relações Exteriores | 385 | 139 | 246 |
+| 9 | Ministro da Fazenda | 337 | 0 | 337 |
 | 10 | Ministro do Turismo | 299 | 209 | 90 |
 | 11 | Ministro do Desenvolvimento Regional | 277 | 277 | 0 |
-| 12 | Ministro da Infraestrutura | 253 | 253 | 0 |
-| 13 | Comandante do Exército | 252 | 163 | 89 |
-| 14 | Ministro de Portos e Aeroportos | 247 | 0 | 247 |
-| 15 | Ministro dos Transportes | 242 | 0 | 242 |
-| 16 | Ministro das Comunicações | 241 | 127 | 114 |
+| 12 | Ministro de Portos e Aeroportos | 256 | 0 | 256 |
+| 13 | Ministro da Infraestrutura | 253 | 253 | 0 |
+| 14 | Comandante do Exército | 252 | 163 | 89 |
+| 15 | Ministro das Comunicações | 242 | 127 | 115 |
+| 16 | Ministro dos Transportes | 242 | 0 | 242 |
 | 17 | Comandante da Marinha | 210 | 179 | 31 |
 | 18 | Ministro da Cidadania | 210 | 210 | 0 |
 | 19 | Ministro das Minas e Energia | 188 | 94 | 94 |
 | 20 | À Disposição do Ministério da Defesa | 175 | 6 | 169 |
 
-## Voos internacionais (histórico — 647 total)
+## Voos internacionais (histórico — 648 total)
 
 _Origem ou destino fora do território brasileiro._
 
@@ -72,7 +72,7 @@ _Origem ou destino fora do território brasileiro._
 | 2023 | 113 | Lula 3 |
 | 2024 | 109 | Lula 3 |
 | 2025 | 103 | Lula 3 |
-| 2026 | 64 | Lula 3 |
+| 2026 | 65 | Lula 3 |
 
 ### Top 15 países visitados
 
@@ -99,7 +99,7 @@ _Origem ou destino fora do território brasileiro._
 | Autoridade | Voos |
 |---|---:|
 | Ministro das Relações Exteriores | 205 |
-| Presidente da Câmara dos Deputados | 58 |
+| Presidente da Câmara dos Deputados | 59 |
 | Ministro da Fazenda | 48 |
 | Ministro da Educação | 40 |
 | Ministro das Comunicações | 39 |
@@ -128,23 +128,23 @@ _Origem ou destino fora do território brasileiro._
 
 | Destino | Total |
 |---|---:|
-| Brasília | 4151 |
-| São Paulo (Congonhas) | 1156 |
-| Rio de Janeiro (Santos Dumont) | 639 |
+| Brasília | 4188 |
+| São Paulo (Congonhas) | 1167 |
+| Rio de Janeiro (Santos Dumont) | 641 |
 | Maceió | 214 |
 | Belo Horizonte (Pampulha) | 209 |
-| Recife | 180 |
+| Recife | 182 |
+| São Paulo (Guarulhos) | 167 |
 | Belém | 165 |
-| São Paulo (Guarulhos) | 165 |
-| Salvador | 149 |
+| Salvador | 150 |
 | Rio de Janeiro (Galeão) | 146 |
-| João Pessoa | 134 |
+| João Pessoa | 138 |
 | Fortaleza | 128 |
+| Macapá | 111 |
 | Canoas | 107 |
-| Macapá | 106 |
 | São Luís | 93 |
-| Curitiba | 75 |
+| Curitiba | 78 |
 | Boa Vista | 75 |
-| Porto Alegre | 70 |
-| Foz do Iguaçu | 66 |
-| Manaus (Ponta Pelada) | 65 |
+| Porto Alegre | 71 |
+| Manaus (Ponta Pelada) | 68 |
+| Campinas | 66 |

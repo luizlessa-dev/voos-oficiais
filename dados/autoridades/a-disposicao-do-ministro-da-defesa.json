@@ -1,23 +1,23 @@
 {
   "autoridade": "À Disposição do Ministro da Defesa",
   "slug": "a-disposicao-do-ministro-da-defesa",
-  "voos": 148,
-  "custo_estimado": 8511337,
+  "voos": 157,
+  "custo_estimado": 8959003,
   "fds": 7,
-  "fds_pct": 5,
+  "fds_pct": 4,
   "noturnos": 3,
   "internacionais": 4,
-  "a_disposicao": 148,
+  "a_disposicao": 157,
   "bolsonaro": 15,
-  "lula": 133,
+  "lula": 142,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 72
+      "n": 75
     },
     {
       "destino": "São Paulo",
-      "n": 46
+      "n": 51
     },
     {
       "destino": "Rio de Janeiro",
@@ -152,9 +152,76 @@
     {
       "mes": "2026-09",
       "n": 10
+    },
+    {
+      "mes": "2026-10",
+      "n": 9
     }
   ],
   "voos_lista": [
+    {
+      "data": "29/10/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "27/10/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "22/10/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "15/10/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 48167,
+      "fds": false
+    },
+    {
+      "data": "13/10/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
+    {
+      "data": "08/10/2026",
+      "origem": "Brasília",
+      "destino": "Curitiba",
+      "custo": 59500,
+      "fds": false
+    },
+    {
+      "data": "08/10/2026",
+      "origem": "Curitiba",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 25500,
+      "fds": false
+    },
+    {
+      "data": "05/10/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "01/10/2026",
+      "origem": "Brasília",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 51000,
+      "fds": false
+    },
     {
       "data": "28/09/2026",
       "origem": "São Paulo (Congonhas)",

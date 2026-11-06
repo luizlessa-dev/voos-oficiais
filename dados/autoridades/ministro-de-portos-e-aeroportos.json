@@ -1,19 +1,19 @@
 {
   "autoridade": "Ministro de Portos e Aeroportos",
   "slug": "ministro-de-portos-e-aeroportos",
-  "voos": 247,
-  "custo_estimado": 14362171,
+  "voos": 256,
+  "custo_estimado": 14962837,
   "fds": 4,
   "fds_pct": 2,
   "noturnos": 8,
   "internacionais": 7,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 247,
+  "lula": 256,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 84
+      "n": 87
     },
     {
       "destino": "São Paulo",
@@ -36,19 +36,19 @@
       "n": 5
     },
     {
+      "destino": "João Pessoa",
+      "n": 5
+    },
+    {
+      "destino": "Porto Alegre",
+      "n": 5
+    },
+    {
       "destino": "Vitória",
       "n": 4
     },
     {
-      "destino": "João Pessoa",
-      "n": 4
-    },
-    {
       "destino": "Belém",
-      "n": 4
-    },
-    {
-      "destino": "Porto Alegre",
       "n": 4
     }
   ],
@@ -228,9 +228,76 @@
     {
       "mes": "2026-09",
       "n": 8
+    },
+    {
+      "mes": "2026-10",
+      "n": 9
     }
   ],
   "voos_lista": [
+    {
+      "data": "23/10/2026",
+      "origem": "Macapá",
+      "destino": "João Pessoa",
+      "custo": 99167,
+      "fds": false
+    },
+    {
+      "data": "23/10/2026",
+      "origem": "João Pessoa",
+      "destino": "Brasília",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "22/10/2026",
+      "origem": "Brasília",
+      "destino": "Manaus (Eduardo Gomes)",
+      "custo": 53833,
+      "fds": false
+    },
+    {
+      "data": "22/10/2026",
+      "origem": "Manaus (Eduardo Gomes)",
+      "destino": "Macapá",
+      "custo": 87833,
+      "fds": false
+    },
+    {
+      "data": "21/10/2026",
+      "origem": "Brasília",
+      "destino": "Porto Alegre",
+      "custo": 90667,
+      "fds": false
+    },
+    {
+      "data": "21/10/2026",
+      "origem": "Porto Alegre",
+      "destino": "Caxias Do Sul",
+      "custo": 17000,
+      "fds": false
+    },
+    {
+      "data": "21/10/2026",
+      "origem": "Caxias Do Sul",
+      "destino": "Brasília",
+      "custo": 68000,
+      "fds": false
+    },
+    {
+      "data": "07/10/2026",
+      "origem": "Brasília",
+      "destino": "São José Dos Campos",
+      "custo": 45333,
+      "fds": false
+    },
+    {
+      "data": "07/10/2026",
+      "origem": "São José Dos Campos",
+      "destino": "Brasília",
+      "custo": 51000,
+      "fds": false
+    },
     {
       "data": "29/09/2026",
       "origem": "Brasília",

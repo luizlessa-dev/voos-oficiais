@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "gerado": "2026-10-13 16:43",
+    "gerado": "2026-11-06 16:34",
     "total_destinos_mapeados": 114,
     "voos_sem_coordenada": 212,
     "nota": "Voos nacionais agrupados por cidade-destino. Internacionais não entram no mapa do Brasil."
@@ -8,25 +8,25 @@
   "destinos": [
     {
       "cidade": "Brasília",
-      "n": 4151,
+      "n": 4188,
       "lat": -15.79,
       "lng": -47.88
     },
     {
       "cidade": "São Paulo",
-      "n": 1324,
+      "n": 1337,
       "lat": -23.55,
       "lng": -46.63
     },
     {
       "cidade": "Rio de Janeiro",
-      "n": 832,
+      "n": 834,
       "lat": -22.91,
       "lng": -43.17
     },
     {
       "cidade": "Belo Horizonte",
-      "n": 224,
+      "n": 225,
       "lat": -19.92,
       "lng": -43.94
     },
@@ -38,7 +38,7 @@
     },
     {
       "cidade": "Recife",
-      "n": 180,
+      "n": 182,
       "lat": -8.05,
       "lng": -34.88
     },
@@ -50,13 +50,13 @@
     },
     {
       "cidade": "Salvador",
-      "n": 149,
+      "n": 150,
       "lat": -12.97,
       "lng": -38.51
     },
     {
       "cidade": "João Pessoa",
-      "n": 134,
+      "n": 138,
       "lat": -7.12,
       "lng": -34.86
     },
@@ -68,21 +68,21 @@
     },
     {
       "cidade": "Manaus",
-      "n": 110,
+      "n": 114,
       "lat": -3.12,
       "lng": -60.02
+    },
+    {
+      "cidade": "Macapá",
+      "n": 111,
+      "lat": 0.03,
+      "lng": -51.07
     },
     {
       "cidade": "Canoas",
       "n": 107,
       "lat": -29.92,
       "lng": -51.18
-    },
-    {
-      "cidade": "Macapá",
-      "n": 106,
-      "lat": 0.03,
-      "lng": -51.07
     },
     {
       "cidade": "São Luís",
@@ -92,7 +92,7 @@
     },
     {
       "cidade": "Curitiba",
-      "n": 75,
+      "n": 78,
       "lat": -25.43,
       "lng": -49.27
     },
@@ -110,21 +110,21 @@
     },
     {
       "cidade": "Porto Alegre",
-      "n": 70,
+      "n": 71,
       "lat": -30.03,
       "lng": -51.23
+    },
+    {
+      "cidade": "Campinas",
+      "n": 66,
+      "lat": -22.91,
+      "lng": -47.06
     },
     {
       "cidade": "Foz do Iguaçu",
       "n": 66,
       "lat": -25.52,
       "lng": -54.58
-    },
-    {
-      "cidade": "Campinas",
-      "n": 64,
-      "lat": -22.91,
-      "lng": -47.06
     },
     {
       "cidade": "Campo Grande",
@@ -157,16 +157,16 @@
       "lng": -37.07
     },
     {
+      "cidade": "São José Dos Campos",
+      "n": 54,
+      "lat": -23.22,
+      "lng": -45.89
+    },
+    {
       "cidade": "Goiânia",
       "n": 54,
       "lat": -16.69,
       "lng": -49.26
-    },
-    {
-      "cidade": "São José Dos Campos",
-      "n": 53,
-      "lat": -23.22,
-      "lng": -45.89
     },
     {
       "cidade": "Cuiabá",
@@ -218,13 +218,13 @@
     },
     {
       "cidade": "Ribeirão Preto",
-      "n": 26,
+      "n": 27,
       "lat": -21.18,
       "lng": -47.81
     },
     {
       "cidade": "Uberlândia",
-      "n": 26,
+      "n": 27,
       "lat": -18.92,
       "lng": -48.28
     },
@@ -260,15 +260,21 @@
     },
     {
       "cidade": "Juazeiro Do Norte",
-      "n": 20,
+      "n": 21,
       "lat": -7.21,
       "lng": -39.31
     },
     {
       "cidade": "Caxias Do Sul",
-      "n": 20,
+      "n": 21,
       "lat": -29.17,
       "lng": -51.18
+    },
+    {
+      "cidade": "Patos",
+      "n": 20,
+      "lat": -7.02,
+      "lng": -37.28
     },
     {
       "cidade": "Foz Do Iguaçu",
@@ -281,12 +287,6 @@
       "n": 19,
       "lat": -23.45,
       "lng": -46.53
-    },
-    {
-      "cidade": "Patos",
-      "n": 19,
-      "lat": -7.02,
-      "lng": -37.28
     },
     {
       "cidade": "Pirassununga",
@@ -319,6 +319,12 @@
       "lng": -57.65
     },
     {
+      "cidade": "Uberaba",
+      "n": 15,
+      "lat": -19.75,
+      "lng": -47.93
+    },
+    {
       "cidade": "Porto Seguro",
       "n": 15,
       "lat": -16.45,
@@ -335,12 +341,6 @@
       "n": 15,
       "lat": -14.79,
       "lng": -39.05
-    },
-    {
-      "cidade": "Uberaba",
-      "n": 14,
-      "lat": -19.75,
-      "lng": -47.93
     },
     {
       "cidade": "Feira De Santana",
@@ -361,16 +361,16 @@
       "lng": -47.46
     },
     {
+      "cidade": "Governador Valadares",
+      "n": 13,
+      "lat": -18.85,
+      "lng": -41.95
+    },
+    {
       "cidade": "Varginha",
       "n": 13,
       "lat": -21.55,
       "lng": -45.43
-    },
-    {
-      "cidade": "Governador Valadares",
-      "n": 12,
-      "lat": -18.85,
-      "lng": -41.95
     },
     {
       "cidade": "Anápolis",
@@ -391,10 +391,22 @@
       "lng": -52.62
     },
     {
+      "cidade": "Ipatinga",
+      "n": 11,
+      "lat": -19.47,
+      "lng": -42.54
+    },
+    {
       "cidade": "Parnaíba",
       "n": 10,
       "lat": -2.9,
       "lng": -41.78
+    },
+    {
+      "cidade": "Goianá",
+      "n": 10,
+      "lat": -21.54,
+      "lng": -43.18
     },
     {
       "cidade": "Maringá",
@@ -419,18 +431,6 @@
       "n": 10,
       "lat": -31.77,
       "lng": -52.34
-    },
-    {
-      "cidade": "Ipatinga",
-      "n": 10,
-      "lat": -19.47,
-      "lng": -42.54
-    },
-    {
-      "cidade": "Goianá",
-      "n": 9,
-      "lat": -21.54,
-      "lng": -43.18
     },
     {
       "cidade": "São José Do Rio Preto",
@@ -505,6 +505,12 @@
       "lng": -49.02
     },
     {
+      "cidade": "Dourados",
+      "n": 8,
+      "lat": -22.22,
+      "lng": -54.81
+    },
+    {
       "cidade": "Presidente Prudente",
       "n": 8,
       "lat": -22.13,
@@ -575,12 +581,6 @@
       "n": 6,
       "lat": -5.37,
       "lng": -49.13
-    },
-    {
-      "cidade": "Dourados",
-      "n": 6,
-      "lat": -22.22,
-      "lng": -54.81
     },
     {
       "cidade": "São Roque",

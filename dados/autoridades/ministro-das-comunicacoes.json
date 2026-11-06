@@ -1,19 +1,19 @@
 {
   "autoridade": "Ministro das Comunicações",
   "slug": "ministro-das-comunicacoes",
-  "voos": 241,
-  "custo_estimado": 18501667,
+  "voos": 242,
+  "custo_estimado": 18555500,
   "fds": 18,
   "fds_pct": 7,
   "noturnos": 20,
   "internacionais": 39,
   "a_disposicao": 0,
   "bolsonaro": 127,
-  "lula": 114,
+  "lula": 115,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 83
+      "n": 84
     },
     {
       "destino": "São Paulo",
@@ -280,9 +280,20 @@
     {
       "mes": "2026-09",
       "n": 5
+    },
+    {
+      "mes": "2026-10",
+      "n": 1
     }
   ],
   "voos_lista": [
+    {
+      "data": "06/10/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Brasília",
+      "custo": 53833,
+      "fds": false
+    },
     {
       "data": "28/09/2026",
       "origem": "Macapá",

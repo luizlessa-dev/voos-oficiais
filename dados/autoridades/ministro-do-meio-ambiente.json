@@ -1,15 +1,15 @@
 {
   "autoridade": "Ministro do Meio Ambiente",
   "slug": "ministro-do-meio-ambiente",
-  "voos": 133,
-  "custo_estimado": 7295535,
-  "fds": 6,
-  "fds_pct": 5,
+  "voos": 135,
+  "custo_estimado": 7544868,
+  "fds": 8,
+  "fds_pct": 6,
   "noturnos": 5,
   "internacionais": 2,
   "a_disposicao": 0,
   "bolsonaro": 127,
-  "lula": 6,
+  "lula": 8,
   "top_destinos": [
     {
       "destino": "Brasília",
@@ -17,7 +17,7 @@
     },
     {
       "destino": "São Paulo",
-      "n": 18
+      "n": 19
     },
     {
       "destino": "Belo Horizonte",
@@ -29,7 +29,7 @@
     },
     {
       "destino": "Manaus",
-      "n": 3
+      "n": 4
     },
     {
       "destino": "Novo Progresso",
@@ -192,9 +192,27 @@
     {
       "mes": "2026-05",
       "n": 2
+    },
+    {
+      "mes": "2026-10",
+      "n": 2
     }
   ],
   "voos_lista": [
+    {
+      "data": "11/10/2026",
+      "origem": "Manaus (Ponta Pelada)",
+      "destino": "São Paulo (Congonhas)",
+      "custo": 155833,
+      "fds": true
+    },
+    {
+      "data": "10/10/2026",
+      "origem": "São Paulo (Congonhas)",
+      "destino": "Manaus (Ponta Pelada)",
+      "custo": 93500,
+      "fds": true
+    },
     {
       "data": "29/05/2026",
       "origem": "Brasília",

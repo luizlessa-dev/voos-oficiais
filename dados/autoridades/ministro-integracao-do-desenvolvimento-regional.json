@@ -1,23 +1,23 @@
 {
   "autoridade": "Ministro Integração do Desenvolvimento Regional",
   "slug": "ministro-integracao-do-desenvolvimento-regional",
-  "voos": 166,
-  "custo_estimado": 10001661,
-  "fds": 22,
-  "fds_pct": 13,
+  "voos": 170,
+  "custo_estimado": 10248161,
+  "fds": 25,
+  "fds_pct": 15,
   "noturnos": 6,
   "internacionais": 1,
   "a_disposicao": 0,
   "bolsonaro": 0,
-  "lula": 166,
+  "lula": 170,
   "top_destinos": [
     {
       "destino": "Brasília",
-      "n": 65
+      "n": 66
     },
     {
       "destino": "Macapá",
-      "n": 11
+      "n": 12
     },
     {
       "destino": "Belém",
@@ -25,7 +25,7 @@
     },
     {
       "destino": "Juazeiro Do Norte",
-      "n": 5
+      "n": 6
     },
     {
       "destino": "Recife",
@@ -44,11 +44,11 @@
       "n": 4
     },
     {
-      "destino": "Guanambi",
+      "destino": "Manaus",
       "n": 3
     },
     {
-      "destino": "Salvador",
+      "destino": "Guanambi",
       "n": 3
     }
   ],
@@ -184,9 +184,41 @@
     {
       "mes": "2026-07",
       "n": 1
+    },
+    {
+      "mes": "2026-10",
+      "n": 4
     }
   ],
   "voos_lista": [
+    {
+      "data": "17/10/2026",
+      "origem": "Juazeiro Do Norte",
+      "destino": "Brasília",
+      "custo": 70833,
+      "fds": true
+    },
+    {
+      "data": "14/10/2026",
+      "origem": "Brasília",
+      "destino": "Juazeiro Do Norte",
+      "custo": 65167,
+      "fds": false
+    },
+    {
+      "data": "11/10/2026",
+      "origem": "Manaus (Ponta Pelada)",
+      "destino": "Macapá",
+      "custo": 85000,
+      "fds": true
+    },
+    {
+      "data": "10/10/2026",
+      "origem": "Macapá",
+      "destino": "Manaus (Ponta Pelada)",
+      "custo": 25500,
+      "fds": true
+    },
     {
       "data": "22/07/2026",
       "origem": "Teresina",
